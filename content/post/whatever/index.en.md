@@ -7,36 +7,36 @@ description = '[wɔtˈevə] pron.无论什么'
 keywords = ['ai words', 'whatever']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈwɛərɛvɛə(r)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [Whatever](/en/post/whatever/) ([pronoun](/en/post/pronoun/)): An [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [choice](/en/post/choice/) [or](/en/post/or/) indifference, [often](/en/post/often/) followed [by](/en/post/by/) [a](/en/post/a/) [question](/en/post/question/) [or](/en/post/or/) clause. [For](/en/post/for/) [example](/en/post/example/): "I'll [wear](/en/post/wear/) [whatever](/en/post/whatever/) [you](/en/post/you/) [pick](/en/post/pick/) [out](/en/post/out/) [for](/en/post/for/) [me](/en/post/me/)."
-2. [Whatever](/en/post/whatever/) ([adjective](/en/post/adjective/)): Indicating [anything](/en/post/anything/), [no](/en/post/no/) [matter](/en/post/matter/) [what](/en/post/what/); unspecified. [For](/en/post/for/) [example](/en/post/example/): "She'll [do](/en/post/do/) [whatever](/en/post/whatever/) [it](/en/post/it/) takes [to](/en/post/to/) [succeed](/en/post/succeed/)."
+### [Noun](/post/noun/)
+1. [Whatever](/post/whatever/) ([pronoun](/post/pronoun/)): An [expression](/post/expression/) [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [choice](/post/choice/) [or](/post/or/) indifference, [often](/post/often/) followed [by](/post/by/) [a](/post/a/) [question](/post/question/) [or](/post/or/) clause. [For](/post/for/) [example](/post/example/): "I'll [wear](/post/wear/) [whatever](/post/whatever/) [you](/post/you/) [pick](/post/pick/) [out](/post/out/) [for](/post/for/) [me](/post/me/)."
+2. [Whatever](/post/whatever/) ([adjective](/post/adjective/)): Indicating [anything](/post/anything/), [no](/post/no/) [matter](/post/matter/) [what](/post/what/); unspecified. [For](/post/for/) [example](/post/example/): "She'll [do](/post/do/) [whatever](/post/whatever/) [it](/post/it/) takes [to](/post/to/) [succeed](/post/succeed/)."
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [use](/en/post/use/) "[whatever](/en/post/whatever/)" [as](/en/post/as/) [a](/en/post/a/) [pronoun](/en/post/pronoun/), [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [without](/en/post/without/) specifying. [For](/en/post/for/) [example](/en/post/example/): "He'll [take](/en/post/take/) [whatever](/en/post/whatever/) [job](/en/post/job/) comes [his](/en/post/his/) [way](/en/post/way/)."
-2. [To](/en/post/to/) [imply](/en/post/imply/) [acceptance](/en/post/acceptance/) [or](/en/post/or/) allowance [of](/en/post/of/) [any](/en/post/any/) [condition](/en/post/condition/) [or](/en/post/or/) [choice](/en/post/choice/). [For](/en/post/for/) [example](/en/post/example/): "I'll [go](/en/post/go/) [with](/en/post/with/) [whatever](/en/post/whatever/) [plan](/en/post/plan/) [you](/en/post/you/) [prefer](/en/post/prefer/)."
+### [Verb](/post/verb/)
+1. [To](/post/to/) [use](/post/use/) "[whatever](/post/whatever/)" [as](/post/as/) [a](/post/a/) [pronoun](/post/pronoun/), [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [without](/post/without/) specifying. [For](/post/for/) [example](/post/example/): "He'll [take](/post/take/) [whatever](/post/whatever/) [job](/post/job/) comes [his](/post/his/) [way](/post/way/)."
+2. [To](/post/to/) [imply](/post/imply/) [acceptance](/post/acceptance/) [or](/post/or/) allowance [of](/post/of/) [any](/post/any/) [condition](/post/condition/) [or](/post/or/) [choice](/post/choice/). [For](/post/for/) [example](/post/example/): "I'll [go](/post/go/) [with](/post/with/) [whatever](/post/whatever/) [plan](/post/plan/) [you](/post/you/) [prefer](/post/prefer/)."
 
-### [Adverb](/en/post/adverb/)
-1. Expressing [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [concern](/en/post/concern/) [or](/en/post/or/) [interest](/en/post/interest/) [in](/en/post/in/) [the](/en/post/the/) specifics. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) doesn't [care](/en/post/care/) [what](/en/post/what/) [time](/en/post/time/) [we](/en/post/we/) [meet](/en/post/meet/) – [whatever](/en/post/whatever/) works [for](/en/post/for/) [you](/en/post/you/)."
+### [Adverb](/post/adverb/)
+1. Expressing [a](/post/a/) [lack](/post/lack/) [of](/post/of/) [concern](/post/concern/) [or](/post/or/) [interest](/post/interest/) [in](/post/in/) [the](/post/the/) specifics. [For](/post/for/) [example](/post/example/): "[She](/post/she/) doesn't [care](/post/care/) [what](/post/what/) [time](/post/time/) [we](/post/we/) [meet](/post/meet/) – [whatever](/post/whatever/) works [for](/post/for/) [you](/post/you/)."
 
 ## Phrases
-- "[Whatever](/en/post/whatever/) floats [your](/en/post/your/) [boat](/en/post/boat/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [meaning](/en/post/meaning/) [something](/en/post/something/) [that](/en/post/that/) suits [a](/en/post/a/) person's preferences.
-- "I don't [care](/en/post/care/), [whatever](/en/post/whatever/)" is [used](/en/post/used/) [to](/en/post/to/) [show](/en/post/show/) indifference [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [interest](/en/post/interest/).
-- "[Do](/en/post/do/) [whatever](/en/post/whatever/) [you](/en/post/you/) [want](/en/post/want/)" expresses [permission](/en/post/permission/) [or](/en/post/or/) allowance [for](/en/post/for/) [someone](/en/post/someone/) [to](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) [they](/en/post/they/) [please](/en/post/please/).
+- "[Whatever](/post/whatever/) floats [your](/post/your/) [boat](/post/boat/)" is [a](/post/a/) colloquial [expression](/post/expression/) [meaning](/post/meaning/) [something](/post/something/) [that](/post/that/) suits [a](/post/a/) person's preferences.
+- "I don't [care](/post/care/), [whatever](/post/whatever/)" is [used](/post/used/) [to](/post/to/) [show](/post/show/) indifference [or](/post/or/) [lack](/post/lack/) [of](/post/of/) [interest](/post/interest/).
+- "[Do](/post/do/) [whatever](/post/whatever/) [you](/post/you/) [want](/post/want/)" expresses [permission](/post/permission/) [or](/post/or/) allowance [for](/post/for/) [someone](/post/someone/) [to](/post/to/) [act](/post/act/) [as](/post/as/) [they](/post/they/) [please](/post/please/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "I don't [mind](/en/post/mind/) [what](/en/post/what/) [you](/en/post/you/) [wear](/en/post/wear/); it's [all](/en/post/all/) [good](/en/post/good/)."
-- **[Verb](/en/post/verb/)**: "Let's [eat](/en/post/eat/) [wherever](/en/post/wherever/) there's [a](/en/post/a/) [good](/en/post/good/) [restaurant](/en/post/restaurant/) [nearby](/en/post/nearby/)."
-- **[Adverb](/en/post/adverb/)**: "He's [not](/en/post/not/) picky [about](/en/post/about/) [food](/en/post/food/); he'll [eat](/en/post/eat/) [whatever](/en/post/whatever/) is [available](/en/post/available/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "I don't [mind](/post/mind/) [what](/post/what/) [you](/post/you/) [wear](/post/wear/); it's [all](/post/all/) [good](/post/good/)."
+- **[Verb](/post/verb/)**: "Let's [eat](/post/eat/) [wherever](/post/wherever/) there's [a](/post/a/) [good](/post/good/) [restaurant](/post/restaurant/) [nearby](/post/nearby/)."
+- **[Adverb](/post/adverb/)**: "He's [not](/post/not/) picky [about](/post/about/) [food](/post/food/); he'll [eat](/post/eat/) [whatever](/post/whatever/) is [available](/post/available/)."
 
 ## Synonyms
-- [Any](/en/post/any/)
-- [Anything](/en/post/anything/)
-- [All](/en/post/all/)
-- [Anything](/en/post/anything/) [that](/en/post/that/)
-- [No](/en/post/no/) [matter](/en/post/matter/) [what](/en/post/what/)
-- [Indifferent](/en/post/indifferent/)
+- [Any](/post/any/)
+- [Anything](/post/anything/)
+- [All](/post/all/)
+- [Anything](/post/anything/) [that](/post/that/)
+- [No](/post/no/) [matter](/post/matter/) [what](/post/what/)
+- [Indifferent](/post/indifferent/)
 - Permissive

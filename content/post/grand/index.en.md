@@ -7,34 +7,34 @@ description = '[grænd] a.宏伟的；重大的'
 keywords = ['ai words', 'grand']
 +++
 
-## [Word](/en/post/word/): [Grand](/en/post/grand/)
+## [Word](/post/word/): [Grand](/post/grand/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡrænd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Impressive](/en/post/impressive/), [magnificent](/en/post/magnificent/), [or](/en/post/or/) imposing [in](/en/post/in/) [size](/en/post/size/), [appearance](/en/post/appearance/), [or](/en/post/or/) [style](/en/post/style/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [grand](/en/post/grand/) [entrance](/en/post/entrance/) [of](/en/post/of/) [the](/en/post/the/) [palace](/en/post/palace/) was adorned [with](/en/post/with/) [marble](/en/post/marble/) columns."
-  - [Also](/en/post/also/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) [that](/en/post/that/) is [great](/en/post/great/) [in](/en/post/in/) [scale](/en/post/scale/) [or](/en/post/or/) [degree](/en/post/degree/); e.g., "[She](/en/post/she/) had [grand](/en/post/grand/) plans [for](/en/post/for/) [her](/en/post/her/) [future](/en/post/future/)."
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [one](/en/post/one/) [thousand](/en/post/thousand/) dollars ([in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [money](/en/post/money/)); e.g., "[He](/en/post/he/) won [a](/en/post/a/) [grand](/en/post/grand/) [in](/en/post/in/) [the](/en/post/the/) lottery."
-- **[Adjective](/en/post/adjective/) (informal)**: Referring [to](/en/post/to/) [a](/en/post/a/) person's grandparents [on](/en/post/on/) [either](/en/post/either/) [side](/en/post/side/); e.g., "[She](/en/post/she/) spent summers [with](/en/post/with/) [her](/en/post/her/) grands [when](/en/post/when/) [she](/en/post/she/) was [young](/en/post/young/)."
+- **[Adjective](/post/adjective/)**: [Impressive](/post/impressive/), [magnificent](/post/magnificent/), [or](/post/or/) imposing [in](/post/in/) [size](/post/size/), [appearance](/post/appearance/), [or](/post/or/) [style](/post/style/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [grand](/post/grand/) [entrance](/post/entrance/) [of](/post/of/) [the](/post/the/) [palace](/post/palace/) was adorned [with](/post/with/) [marble](/post/marble/) columns."
+  - [Also](/post/also/) [used](/post/used/) [to](/post/to/) [describe](/post/describe/) [something](/post/something/) [that](/post/that/) is [great](/post/great/) [in](/post/in/) [scale](/post/scale/) [or](/post/or/) [degree](/post/degree/); e.g., "[She](/post/she/) had [grand](/post/grand/) plans [for](/post/for/) [her](/post/her/) [future](/post/future/)."
+- **[Noun](/post/noun/)**: [The](/post/the/) [amount](/post/amount/) [of](/post/of/) [one](/post/one/) [thousand](/post/thousand/) dollars ([in](/post/in/) [reference](/post/reference/) [to](/post/to/) [money](/post/money/)); e.g., "[He](/post/he/) won [a](/post/a/) [grand](/post/grand/) [in](/post/in/) [the](/post/the/) lottery."
+- **[Adjective](/post/adjective/) (informal)**: Referring [to](/post/to/) [a](/post/a/) person's grandparents [on](/post/on/) [either](/post/either/) [side](/post/side/); e.g., "[She](/post/she/) spent summers [with](/post/with/) [her](/post/her/) grands [when](/post/when/) [she](/post/she/) was [young](/post/young/)."
 
 ## Phrases
-- **Grandeur**: [The](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [grand](/en/post/grand/) [or](/en/post/or/) [magnificent](/en/post/magnificent/); [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [literature](/en/post/literature/) [or](/en/post/or/) [architecture](/en/post/architecture/).
-- **[Grand](/en/post/grand/) [total](/en/post/total/)**: [The](/en/post/the/) [final](/en/post/final/) [sum](/en/post/sum/) [after](/en/post/after/) [all](/en/post/all/) calculations [have](/en/post/have/) been made.
-- **[Grand](/en/post/grand/) [scheme](/en/post/scheme/) [of](/en/post/of/) things**: [The](/en/post/the/) larger [perspective](/en/post/perspective/) [or](/en/post/or/) [overall](/en/post/overall/) [picture](/en/post/picture/) [of](/en/post/of/) [a](/en/post/a/) [situation](/en/post/situation/).
-- **[Grand](/en/post/grand/) [slam](/en/post/slam/)**: [In](/en/post/in/) sports [like](/en/post/like/) [tennis](/en/post/tennis/), [it](/en/post/it/) refers [to](/en/post/to/) winning [all](/en/post/all/) [four](/en/post/four/) [major](/en/post/major/) tournaments [in](/en/post/in/) [a](/en/post/a/) [single](/en/post/single/) [season](/en/post/season/); metaphorically, [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) achieving [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [impressive](/en/post/impressive/) successes.
+- **Grandeur**: [The](/post/the/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [grand](/post/grand/) [or](/post/or/) [magnificent](/post/magnificent/); [often](/post/often/) [used](/post/used/) [in](/post/in/) [literature](/post/literature/) [or](/post/or/) [architecture](/post/architecture/).
+- **[Grand](/post/grand/) [total](/post/total/)**: [The](/post/the/) [final](/post/final/) [sum](/post/sum/) [after](/post/after/) [all](/post/all/) calculations [have](/post/have/) been made.
+- **[Grand](/post/grand/) [scheme](/post/scheme/) [of](/post/of/) things**: [The](/post/the/) larger [perspective](/post/perspective/) [or](/post/or/) [overall](/post/overall/) [picture](/post/picture/) [of](/post/of/) [a](/post/a/) [situation](/post/situation/).
+- **[Grand](/post/grand/) [slam](/post/slam/)**: [In](/post/in/) sports [like](/post/like/) [tennis](/post/tennis/), [it](/post/it/) refers [to](/post/to/) winning [all](/post/all/) [four](/post/four/) [major](/post/major/) tournaments [in](/post/in/) [a](/post/a/) [single](/post/single/) [season](/post/season/); metaphorically, [it](/post/it/) [can](/post/can/) [mean](/post/mean/) achieving [a](/post/a/) [series](/post/series/) [of](/post/of/) [impressive](/post/impressive/) successes.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [grand](/en/post/grand/) ballroom was filled [with](/en/post/with/) elegantly dressed guests."
-- **[Noun](/en/post/noun/)**: "[They](/en/post/they/) donated [a](/en/post/a/) [grand](/en/post/grand/) [to](/en/post/to/) [the](/en/post/the/) [charity](/en/post/charity/) fundraiser."
-- **Informal [Noun](/en/post/noun/)**: "[Her](/en/post/her/) grands taught [her](/en/post/her/) [how](/en/post/how/) [to](/en/post/to/) [bake](/en/post/bake/) [their](/en/post/their/) [secret](/en/post/secret/) [family](/en/post/family/) recipe."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [grand](/post/grand/) ballroom was filled [with](/post/with/) elegantly dressed guests."
+- **[Noun](/post/noun/)**: "[They](/post/they/) donated [a](/post/a/) [grand](/post/grand/) [to](/post/to/) [the](/post/the/) [charity](/post/charity/) fundraiser."
+- **Informal [Noun](/post/noun/)**: "[Her](/post/her/) grands taught [her](/post/her/) [how](/post/how/) [to](/post/to/) [bake](/post/bake/) [their](/post/their/) [secret](/post/secret/) [family](/post/family/) recipe."
 
 ## Synonyms
 - Majestic
-- [Magnificent](/en/post/magnificent/)
-- [Splendid](/en/post/splendid/)
+- [Magnificent](/post/magnificent/)
+- [Splendid](/post/splendid/)
 - Sublime
-- [Impressive](/en/post/impressive/)
-- [Enormous](/en/post/enormous/) ([when](/en/post/when/) referring [to](/en/post/to/) [size](/en/post/size/))
-- [Thousand](/en/post/thousand/) ([when](/en/post/when/) referring [to](/en/post/to/) [money](/en/post/money/)) 
-- Grandparent (informal [use](/en/post/use/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/))
+- [Impressive](/post/impressive/)
+- [Enormous](/post/enormous/) ([when](/post/when/) referring [to](/post/to/) [size](/post/size/))
+- [Thousand](/post/thousand/) ([when](/post/when/) referring [to](/post/to/) [money](/post/money/)) 
+- Grandparent (informal [use](/post/use/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/))

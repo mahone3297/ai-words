@@ -7,35 +7,35 @@ description = '[geit] n.大门；篱笆门'
 keywords = ['ai words', 'gate']
 +++
 
-## [Word](/en/post/word/): [Gate](/en/post/gate/)
+## [Word](/post/word/): [Gate](/post/gate/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡeɪt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) hinged [barrier](/en/post/barrier/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) opened [and](/en/post/and/) closed [to](/en/post/to/) [allow](/en/post/allow/) [or](/en/post/or/) [prevent](/en/post/prevent/) [entrance](/en/post/entrance/) [or](/en/post/or/) [exit](/en/post/exit/), typically installed [at](/en/post/at/) [the](/en/post/the/) [entrance](/en/post/entrance/) [to](/en/post/to/) [a](/en/post/a/) [field](/en/post/field/), [garden](/en/post/garden/), [or](/en/post/or/) [building](/en/post/building/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) gatekeeper unlocked [the](/en/post/the/) [large](/en/post/large/) [iron](/en/post/iron/) [gate](/en/post/gate/) [to](/en/post/to/) [let](/en/post/let/) [us](/en/post/us/) [in](/en/post/in/)."
-  - (Metaphorical) [The](/en/post/the/) [entrance](/en/post/entrance/) [or](/en/post/or/) [point](/en/post/point/) [of](/en/post/of/) [access](/en/post/access/) [to](/en/post/to/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [gate](/en/post/gate/) [to](/en/post/to/) [success](/en/post/success/) is [hard](/en/post/hard/) [work](/en/post/work/)."
-  - ([Aviation](/en/post/aviation/)) [A](/en/post/a/) movable [barrier](/en/post/barrier/) [on](/en/post/on/) an [aircraft](/en/post/aircraft/) [carrier](/en/post/carrier/) [that](/en/post/that/) controls [the](/en/post/the/) [movement](/en/post/movement/) [of](/en/post/of/) [aircraft](/en/post/aircraft/) [onto](/en/post/onto/) [and](/en/post/and/) [off](/en/post/off/) [the](/en/post/the/) [deck](/en/post/deck/).
-  - ([Electronics](/en/post/electronics/)) [A](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) acts [as](/en/post/as/) [a](/en/post/a/) [control](/en/post/control/) valve [in](/en/post/in/) an [electronic](/en/post/electronic/) [circuit](/en/post/circuit/), allowing [or](/en/post/or/) preventing [the](/en/post/the/) [flow](/en/post/flow/) [of](/en/post/of/) [current](/en/post/current/).
+- **[Noun](/post/noun/)**: [A](/post/a/) hinged [barrier](/post/barrier/) [that](/post/that/) [can](/post/can/) [be](/post/be/) opened [and](/post/and/) closed [to](/post/to/) [allow](/post/allow/) [or](/post/or/) [prevent](/post/prevent/) [entrance](/post/entrance/) [or](/post/or/) [exit](/post/exit/), typically installed [at](/post/at/) [the](/post/the/) [entrance](/post/entrance/) [to](/post/to/) [a](/post/a/) [field](/post/field/), [garden](/post/garden/), [or](/post/or/) [building](/post/building/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) gatekeeper unlocked [the](/post/the/) [large](/post/large/) [iron](/post/iron/) [gate](/post/gate/) [to](/post/to/) [let](/post/let/) [us](/post/us/) [in](/post/in/)."
+  - (Metaphorical) [The](/post/the/) [entrance](/post/entrance/) [or](/post/or/) [point](/post/point/) [of](/post/of/) [access](/post/access/) [to](/post/to/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [gate](/post/gate/) [to](/post/to/) [success](/post/success/) is [hard](/post/hard/) [work](/post/work/)."
+  - ([Aviation](/post/aviation/)) [A](/post/a/) movable [barrier](/post/barrier/) [on](/post/on/) an [aircraft](/post/aircraft/) [carrier](/post/carrier/) [that](/post/that/) controls [the](/post/the/) [movement](/post/movement/) [of](/post/of/) [aircraft](/post/aircraft/) [onto](/post/onto/) [and](/post/and/) [off](/post/off/) [the](/post/the/) [deck](/post/deck/).
+  - ([Electronics](/post/electronics/)) [A](/post/a/) [device](/post/device/) [that](/post/that/) acts [as](/post/as/) [a](/post/a/) [control](/post/control/) valve [in](/post/in/) an [electronic](/post/electronic/) [circuit](/post/circuit/), allowing [or](/post/or/) preventing [the](/post/the/) [flow](/post/flow/) [of](/post/of/) [current](/post/current/).
   
-- **[Verb](/en/post/verb/)**: (Transitive) [To](/en/post/to/) [confine](/en/post/confine/) [or](/en/post/or/) [restrict](/en/post/restrict/) [by](/en/post/by/) [means](/en/post/means/) [of](/en/post/of/) [a](/en/post/a/) [gate](/en/post/gate/). [Example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) gated [the](/en/post/the/) [cattle](/en/post/cattle/) [to](/en/post/to/) [prevent](/en/post/prevent/) [them](/en/post/them/) [from](/en/post/from/) wandering."
-  - (Informal) [To](/en/post/to/) eject [or](/en/post/or/) [deny](/en/post/deny/) [entry](/en/post/entry/) [to](/en/post/to/) [someone](/en/post/someone/), [especially](/en/post/especially/) [from](/en/post/from/) [a](/en/post/a/) sports [stadium](/en/post/stadium/) [or](/en/post/or/) [event](/en/post/event/). [Example](/en/post/example/): "[The](/en/post/the/) unruly [fan](/en/post/fan/) was promptly gated [by](/en/post/by/) [security](/en/post/security/)."
+- **[Verb](/post/verb/)**: (Transitive) [To](/post/to/) [confine](/post/confine/) [or](/post/or/) [restrict](/post/restrict/) [by](/post/by/) [means](/post/means/) [of](/post/of/) [a](/post/a/) [gate](/post/gate/). [Example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) gated [the](/post/the/) [cattle](/post/cattle/) [to](/post/to/) [prevent](/post/prevent/) [them](/post/them/) [from](/post/from/) wandering."
+  - (Informal) [To](/post/to/) eject [or](/post/or/) [deny](/post/deny/) [entry](/post/entry/) [to](/post/to/) [someone](/post/someone/), [especially](/post/especially/) [from](/post/from/) [a](/post/a/) sports [stadium](/post/stadium/) [or](/post/or/) [event](/post/event/). [Example](/post/example/): "[The](/post/the/) unruly [fan](/post/fan/) was promptly gated [by](/post/by/) [security](/post/security/)."
 
 ## Phrases
-- "[Open](/en/post/open/) [the](/en/post/the/) gates" [means](/en/post/means/) [to](/en/post/to/) unlock [or](/en/post/or/) unbar an [entrance](/en/post/entrance/), [often](/en/post/often/) implying [permission](/en/post/permission/) [or](/en/post/or/) welcoming.
-- "[Beyond](/en/post/beyond/) [the](/en/post/the/) gates" suggests going [outside](/en/post/outside/) [the](/en/post/the/) boundaries [or](/en/post/or/) limits [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) referring [to](/en/post/to/) entering [a](/en/post/a/) [new](/en/post/new/) [or](/en/post/or/) [unknown](/en/post/unknown/) [territory](/en/post/territory/).
-- "Gate-crash" refers [to](/en/post/to/) attending an [event](/en/post/event/) [without](/en/post/without/) [permission](/en/post/permission/) [or](/en/post/or/) an [invitation](/en/post/invitation/).
+- "[Open](/post/open/) [the](/post/the/) gates" [means](/post/means/) [to](/post/to/) unlock [or](/post/or/) unbar an [entrance](/post/entrance/), [often](/post/often/) implying [permission](/post/permission/) [or](/post/or/) welcoming.
+- "[Beyond](/post/beyond/) [the](/post/the/) gates" suggests going [outside](/post/outside/) [the](/post/the/) boundaries [or](/post/or/) limits [of](/post/of/) [something](/post/something/), [often](/post/often/) referring [to](/post/to/) entering [a](/post/a/) [new](/post/new/) [or](/post/or/) [unknown](/post/unknown/) [territory](/post/territory/).
+- "Gate-crash" refers [to](/post/to/) attending an [event](/post/event/) [without](/post/without/) [permission](/post/permission/) [or](/post/or/) an [invitation](/post/invitation/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) unlatched [the](/en/post/the/) [garden](/en/post/garden/) [gate](/en/post/gate/) [and](/en/post/and/) stepped [out](/en/post/out/) [into](/en/post/into/) [the](/en/post/the/) [sunshine](/en/post/sunshine/)."
-- **[Verb](/en/post/verb/)**: "[Security](/en/post/security/) decided [to](/en/post/to/) [gate](/en/post/gate/) [the](/en/post/the/) [entire](/en/post/entire/) [section](/en/post/section/) [after](/en/post/after/) [several](/en/post/several/) incidents [during](/en/post/during/) [the](/en/post/the/) [match](/en/post/match/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) unlatched [the](/post/the/) [garden](/post/garden/) [gate](/post/gate/) [and](/post/and/) stepped [out](/post/out/) [into](/post/into/) [the](/post/the/) [sunshine](/post/sunshine/)."
+- **[Verb](/post/verb/)**: "[Security](/post/security/) decided [to](/post/to/) [gate](/post/gate/) [the](/post/the/) [entire](/post/entire/) [section](/post/section/) [after](/post/after/) [several](/post/several/) incidents [during](/post/during/) [the](/post/the/) [match](/post/match/)."
 
 ## Synonyms
-- [Barrier](/en/post/barrier/)
-- [Door](/en/post/door/)
-- [Entrance](/en/post/entrance/)
-- [Exit](/en/post/exit/)
+- [Barrier](/post/barrier/)
+- [Door](/post/door/)
+- [Entrance](/post/entrance/)
+- [Exit](/post/exit/)
 - Portal
 - Checkpoint
-- Turnstile ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) controlling pedestrian [access](/en/post/access/))
-- Bouncer (informally, [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) denying [entry](/en/post/entry/) [to](/en/post/to/) [a](/en/post/a/) venue)
+- Turnstile ([in](/post/in/) [the](/post/the/) context [of](/post/of/) controlling pedestrian [access](/post/access/))
+- Bouncer (informally, [in](/post/in/) [the](/post/the/) context [of](/post/of/) denying [entry](/post/entry/) [to](/post/to/) [a](/post/a/) venue)

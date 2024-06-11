@@ -7,29 +7,29 @@ description = '[ˈnauədeiz] ad.现今，现在'
 keywords = ['ai words', 'nowadays']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /naʊˈdeɪz/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [At](/en/post/at/) [the](/en/post/the/) [present](/en/post/present/) [time](/en/post/time/); [in](/en/post/in/) [these](/en/post/these/) times. [It](/en/post/it/) is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) has changed [or](/en/post/or/) [become](/en/post/become/) [more](/en/post/more/) [common](/en/post/common/) [recently](/en/post/recently/). 
+- **[Adverb](/post/adverb/)**: [At](/post/at/) [the](/post/the/) [present](/post/present/) [time](/post/time/); [in](/post/in/) [these](/post/these/) times. [It](/post/it/) is [often](/post/often/) [used](/post/used/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [something](/post/something/) [that](/post/that/) has changed [or](/post/or/) [become](/post/become/) [more](/post/more/) [common](/post/common/) [recently](/post/recently/). 
 
-  > Adverbial [Usage](/en/post/usage/): "[Nowadays](/en/post/nowadays/), [people](/en/post/people/) [rely](/en/post/rely/) [heavily](/en/post/heavily/) [on](/en/post/on/) [technology](/en/post/technology/) [for](/en/post/for/) [communication](/en/post/communication/)."
+  > Adverbial [Usage](/post/usage/): "[Nowadays](/post/nowadays/), [people](/post/people/) [rely](/post/rely/) [heavily](/post/heavily/) [on](/post/on/) [technology](/post/technology/) [for](/post/for/) [communication](/post/communication/)."
   
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[Nowadays](/en/post/nowadays/), it's [much](/en/post/much/) easier [to](/en/post/to/) [travel](/en/post/travel/) [long](/en/post/long/) distances [than](/en/post/than/) [it](/en/post/it/) was [in](/en/post/in/) [the](/en/post/the/) [past](/en/post/past/)."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[Nowadays](/post/nowadays/), it's [much](/post/much/) easier [to](/post/to/) [travel](/post/travel/) [long](/post/long/) distances [than](/post/than/) [it](/post/it/) was [in](/post/in/) [the](/post/the/) [past](/post/past/)."
   
 ## Phrases
-- "[In](/en/post/in/) [modern](/en/post/modern/) times" [or](/en/post/or/) "[These](/en/post/these/) days" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) interchangeably [with](/en/post/with/) "[nowadays](/en/post/nowadays/)" [to](/en/post/to/) [convey](/en/post/convey/) [the](/en/post/the/) [same](/en/post/same/) [meaning](/en/post/meaning/).
+- "[In](/post/in/) [modern](/post/modern/) times" [or](/post/or/) "[These](/post/these/) days" [can](/post/can/) [be](/post/be/) [used](/post/used/) interchangeably [with](/post/with/) "[nowadays](/post/nowadays/)" [to](/post/to/) [convey](/post/convey/) [the](/post/the/) [same](/post/same/) [meaning](/post/meaning/).
   
-  > [Phrase](/en/post/phrase/) [Example](/en/post/example/): "[Nowadays](/en/post/nowadays/), [we](/en/post/we/) [have](/en/post/have/) [access](/en/post/access/) [to](/en/post/to/) [information](/en/post/information/) [at](/en/post/at/) [our](/en/post/our/) fingertips, whereas [in](/en/post/in/) [the](/en/post/the/) [past](/en/post/past/), [research](/en/post/research/) required hours [in](/en/post/in/) [the](/en/post/the/) [library](/en/post/library/)."
+  > [Phrase](/post/phrase/) [Example](/post/example/): "[Nowadays](/post/nowadays/), [we](/post/we/) [have](/post/have/) [access](/post/access/) [to](/post/to/) [information](/post/information/) [at](/post/at/) [our](/post/our/) fingertips, whereas [in](/post/in/) [the](/post/the/) [past](/post/past/), [research](/post/research/) required hours [in](/post/in/) [the](/post/the/) [library](/post/library/)."
 
 ## Synonyms
 - Currently
-- [Nowadays](/en/post/nowadays/)
-- [Presently](/en/post/presently/)
-- [These](/en/post/these/) days
-- [In](/en/post/in/) [modern](/en/post/modern/) times
-- [At](/en/post/at/) [present](/en/post/present/)
-- [In](/en/post/in/) [contemporary](/en/post/contemporary/) times
+- [Nowadays](/post/nowadays/)
+- [Presently](/post/presently/)
+- [These](/post/these/) days
+- [In](/post/in/) [modern](/post/modern/) times
+- [At](/post/at/) [present](/post/present/)
+- [In](/post/in/) [contemporary](/post/contemporary/) times
 
-[Note](/en/post/note/): [Unlike](/en/post/unlike/) [your](/en/post/your/) [prompt](/en/post/prompt/) [example](/en/post/example/), "[nowadays](/en/post/nowadays/)" is [not](/en/post/not/) classified [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [verb](/en/post/verb/), [adjective](/en/post/adjective/), etc., [but](/en/post/but/) [rather](/en/post/rather/) [solely](/en/post/solely/) [as](/en/post/as/) an [adverb](/en/post/adverb/), expressing [when](/en/post/when/) [something](/en/post/something/) happens [or](/en/post/or/) is [the](/en/post/the/) [case](/en/post/case/).
+[Note](/post/note/): [Unlike](/post/unlike/) [your](/post/your/) [prompt](/post/prompt/) [example](/post/example/), "[nowadays](/post/nowadays/)" is [not](/post/not/) classified [as](/post/as/) [a](/post/a/) [noun](/post/noun/), [verb](/post/verb/), [adjective](/post/adjective/), etc., [but](/post/but/) [rather](/post/rather/) [solely](/post/solely/) [as](/post/as/) an [adverb](/post/adverb/), expressing [when](/post/when/) [something](/post/something/) happens [or](/post/or/) is [the](/post/the/) [case](/post/case/).

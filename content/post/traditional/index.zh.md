@@ -11,20 +11,20 @@ keywords = ['ai words', 'traditional']
 /trəˈdɪʃənl/
 
 ## 释义
-- **形容词**: 传统的，遵循习俗的，沿袭的。例如: "[The](/post/the/) Chinese [New](/post/new/) [Year](/post/year/) is [a](/post/a/) [traditional](/post/traditional/) [festival](/post/festival/) celebrated [by](/post/by/) millions."
-- **名词**: 传统，惯例，习俗。例如: "[They](/post/they/) [follow](/post/follow/) [the](/post/the/) [traditional](/post/traditional/) customs [of](/post/of/) [their](/post/their/) ancestors."
+- **形容词**: 传统的，遵循习俗的，沿袭的。例如: "[The](/zh/post/the/) Chinese [New](/zh/post/new/) [Year](/zh/post/year/) is [a](/zh/post/a/) [traditional](/zh/post/traditional/) [festival](/zh/post/festival/) celebrated [by](/zh/post/by/) millions."
+- **名词**: 传统，惯例，习俗。例如: "[They](/zh/post/they/) [follow](/zh/post/follow/) [the](/zh/post/the/) [traditional](/zh/post/traditional/) customs [of](/zh/post/of/) [their](/zh/post/their/) ancestors."
 
 ## 短语
-- "[traditional](/post/traditional/) [music](/post/music/)" 指的是具有地方或历史特色的音乐。
-- "[traditional](/post/traditional/) values" 意指一个社会或文化长期持有的价值观。
+- "[traditional](/zh/post/traditional/) [music](/zh/post/music/)" 指的是具有地方或历史特色的音乐。
+- "[traditional](/zh/post/traditional/) values" 意指一个社会或文化长期持有的价值观。
 
 ## 例句
-- 形容词: "[Her](/post/her/) [wedding](/post/wedding/) [dress](/post/dress/) was designed [in](/post/in/) [a](/post/a/) [traditional](/post/traditional/) [style](/post/style/)."
-- 名词: "[The](/post/the/) [community](/post/community/) preserves [its](/post/its/) [traditional](/post/traditional/) dances [for](/post/for/) generations [to](/post/to/) [come](/post/come/)."
+- 形容词: "[Her](/zh/post/her/) [wedding](/zh/post/wedding/) [dress](/zh/post/dress/) was designed [in](/zh/post/in/) [a](/zh/post/a/) [traditional](/zh/post/traditional/) [style](/zh/post/style/)."
+- 名词: "[The](/zh/post/the/) [community](/zh/post/community/) preserves [its](/zh/post/its/) [traditional](/zh/post/traditional/) dances [for](/zh/post/for/) generations [to](/zh/post/to/) [come](/zh/post/come/)."
 
 ## 同义词
-- [Conventional](/post/conventional/)
-- [Usual](/post/usual/)
+- [Conventional](/zh/post/conventional/)
+- [Usual](/zh/post/usual/)
 - Time-honored
 - Customary
-- [Folk](/post/folk/)
+- [Folk](/zh/post/folk/)

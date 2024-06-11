@@ -7,26 +7,26 @@ description = '[ˈəbaut] prep.关于；在…周围'
 keywords = ['ai words', 'about']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈbaʊt/
 
 ## Definitions
-- **[Preposition](/en/post/preposition/)**: Indicating [the](/en/post/the/) [subject](/en/post/subject/) [matter](/en/post/matter/) [or](/en/post/or/) [topic](/en/post/topic/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) is [about](/en/post/about/) [history](/en/post/history/)."
-- **[Adverb](/en/post/adverb/)**: [Approximately](/en/post/approximately/); [nearly](/en/post/nearly/). [For](/en/post/for/) [example](/en/post/example/): "[There](/en/post/there/) were [about](/en/post/about/) [fifty](/en/post/fifty/) [people](/en/post/people/) [at](/en/post/at/) [the](/en/post/the/) [event](/en/post/event/)."
-- **[Adjective](/en/post/adjective/)**: (Informal) [On](/en/post/on/) [the](/en/post/the/) verge [of](/en/post/of/) (doing [something](/en/post/something/)). [For](/en/post/for/) [example](/en/post/example/): "I'm [about](/en/post/about/) [ready](/en/post/ready/) [to](/en/post/to/) [leave](/en/post/leave/)."
+- **[Preposition](/post/preposition/)**: Indicating [the](/post/the/) [subject](/post/subject/) [matter](/post/matter/) [or](/post/or/) [topic](/post/topic/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [book](/post/book/) is [about](/post/about/) [history](/post/history/)."
+- **[Adverb](/post/adverb/)**: [Approximately](/post/approximately/); [nearly](/post/nearly/). [For](/post/for/) [example](/post/example/): "[There](/post/there/) were [about](/post/about/) [fifty](/post/fifty/) [people](/post/people/) [at](/post/at/) [the](/post/the/) [event](/post/event/)."
+- **[Adjective](/post/adjective/)**: (Informal) [On](/post/on/) [the](/post/the/) verge [of](/post/of/) (doing [something](/post/something/)). [For](/post/for/) [example](/post/example/): "I'm [about](/post/about/) [ready](/post/ready/) [to](/post/to/) [leave](/post/leave/)."
 
 ## Phrases
-- "[About](/en/post/about/) [time](/en/post/time/)": [Used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [that](/en/post/that/) [something](/en/post/something/) is overdue [or](/en/post/or/) has taken longer [than](/en/post/than/) expected. [For](/en/post/for/) [example](/en/post/example/): "It's [about](/en/post/about/) [time](/en/post/time/) [you](/en/post/you/) showed [up](/en/post/up/)!"
-- "[All](/en/post/all/) [about](/en/post/about/)": [Concerning](/en/post/concerning/) [every](/en/post/every/) [aspect](/en/post/aspect/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) seminar is [all](/en/post/all/) [about](/en/post/about/) [digital](/en/post/digital/) marketing strategies."
-- "[Know](/en/post/know/) [all](/en/post/all/) [about](/en/post/about/)": [To](/en/post/to/) [be](/en/post/be/) fully informed [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) knows [all](/en/post/all/) [about](/en/post/about/) computers."
+- "[About](/post/about/) [time](/post/time/)": [Used](/post/used/) [to](/post/to/) [express](/post/express/) [that](/post/that/) [something](/post/something/) is overdue [or](/post/or/) has taken longer [than](/post/than/) expected. [For](/post/for/) [example](/post/example/): "It's [about](/post/about/) [time](/post/time/) [you](/post/you/) showed [up](/post/up/)!"
+- "[All](/post/all/) [about](/post/about/)": [Concerning](/post/concerning/) [every](/post/every/) [aspect](/post/aspect/) [of](/post/of/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) seminar is [all](/post/all/) [about](/post/about/) [digital](/post/digital/) marketing strategies."
+- "[Know](/post/know/) [all](/post/all/) [about](/post/about/)": [To](/post/to/) [be](/post/be/) fully informed [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [subject](/post/subject/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) knows [all](/post/all/) [about](/post/about/) computers."
 
-## [Example](/en/post/example/) Sentences
-- **[Preposition](/en/post/preposition/)**: "[We](/en/post/we/) had [a](/en/post/a/) [long](/en/post/long/) [discussion](/en/post/discussion/) [about](/en/post/about/) [the](/en/post/the/) [future](/en/post/future/) [of](/en/post/of/) [our](/en/post/our/) [company](/en/post/company/)."
-- **[Adverb](/en/post/adverb/)**: "[There](/en/post/there/) were [about](/en/post/about/) [a](/en/post/a/) [hundred](/en/post/hundred/) guests [at](/en/post/at/) [the](/en/post/the/) [wedding](/en/post/wedding/)."
-- **[Adjective](/en/post/adjective/)**: "I'm [about](/en/post/about/) [to](/en/post/to/) [start](/en/post/start/) [my](/en/post/my/) presentation."
+## [Example](/post/example/) Sentences
+- **[Preposition](/post/preposition/)**: "[We](/post/we/) had [a](/post/a/) [long](/post/long/) [discussion](/post/discussion/) [about](/post/about/) [the](/post/the/) [future](/post/future/) [of](/post/of/) [our](/post/our/) [company](/post/company/)."
+- **[Adverb](/post/adverb/)**: "[There](/post/there/) were [about](/post/about/) [a](/post/a/) [hundred](/post/hundred/) guests [at](/post/at/) [the](/post/the/) [wedding](/post/wedding/)."
+- **[Adjective](/post/adjective/)**: "I'm [about](/post/about/) [to](/post/to/) [start](/post/start/) [my](/post/my/) presentation."
 
 ## Synonyms
-- [Concerning](/en/post/concerning/) ([as](/en/post/as/) [a](/en/post/a/) [preposition](/en/post/preposition/))
-- [Around](/en/post/around/) ([as](/en/post/as/) an [adverb](/en/post/adverb/) [for](/en/post/for/) approximation)
-- [Nearly](/en/post/nearly/) ([as](/en/post/as/) an [adverb](/en/post/adverb/))
-- [On](/en/post/on/) [the](/en/post/the/) brink [of](/en/post/of/) (informal, [as](/en/post/as/) an [adjective](/en/post/adjective/))
+- [Concerning](/post/concerning/) ([as](/post/as/) [a](/post/a/) [preposition](/post/preposition/))
+- [Around](/post/around/) ([as](/post/as/) an [adverb](/post/adverb/) [for](/post/for/) approximation)
+- [Nearly](/post/nearly/) ([as](/post/as/) an [adverb](/post/adverb/))
+- [On](/post/on/) [the](/post/the/) brink [of](/post/of/) (informal, [as](/post/as/) an [adjective](/post/adjective/))

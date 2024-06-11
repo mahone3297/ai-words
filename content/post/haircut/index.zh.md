@@ -11,20 +11,20 @@ keywords = ['ai words', 'haircut']
 /hɑːrˈkʌt/
 
 ## 释义
-- **名词**: 修剪头发的服务或结果；理发。例如: "I [need](/post/need/) [to](/post/to/) [get](/post/get/) [a](/post/a/) [haircut](/post/haircut/) [this](/post/this/) [weekend](/post/weekend/)."
-- **动词**: 给（某人）理发。例如: "[She](/post/she/) [regularly](/post/regularly/) cuts [her](/post/her/) son's [hair](/post/hair/) [herself](/post/herself/), [but](/post/but/) [he](/post/he/) wants [a](/post/a/) [professional](/post/professional/) [haircut](/post/haircut/) [for](/post/for/) [his](/post/his/) [school](/post/school/) photos."
+- **名词**: 修剪头发的服务或结果；理发。例如: "I [need](/zh/post/need/) [to](/zh/post/to/) [get](/zh/post/get/) [a](/zh/post/a/) [haircut](/zh/post/haircut/) [this](/zh/post/this/) [weekend](/zh/post/weekend/)."
+- **动词**: 给（某人）理发。例如: "[She](/zh/post/she/) [regularly](/zh/post/regularly/) cuts [her](/zh/post/her/) son's [hair](/zh/post/hair/) [herself](/zh/post/herself/), [but](/zh/post/but/) [he](/zh/post/he/) wants [a](/zh/post/a/) [professional](/zh/post/professional/) [haircut](/zh/post/haircut/) [for](/zh/post/for/) [his](/zh/post/his/) [school](/zh/post/school/) photos."
 
 ## 短语
-- "[get](/post/get/) [a](/post/a/) [haircut](/post/haircut/)" 意味着去理头发。
-- "[give](/post/give/) [someone](/post/someone/) [a](/post/a/) [haircut](/post/haircut/)" 是给某人剪头发的意思。
+- "[get](/zh/post/get/) [a](/zh/post/a/) [haircut](/zh/post/haircut/)" 意味着去理头发。
+- "[give](/zh/post/give/) [someone](/zh/post/someone/) [a](/zh/post/a/) [haircut](/zh/post/haircut/)" 是给某人剪头发的意思。
 
 ## 例句
-- 名词: "[After](/post/after/) weeks [of](/post/of/) [growth](/post/growth/), [it](/post/it/) was [time](/post/time/) [for](/post/for/) [him](/post/him/) [to](/post/to/) [get](/post/get/) [a](/post/a/) much-needed [haircut](/post/haircut/)."
-- 动词: "[The](/post/the/) stylist [will](/post/will/) [be](/post/be/) [with](/post/with/) [you](/post/you/) [shortly](/post/shortly/) [to](/post/to/) [give](/post/give/) [you](/post/you/) [a](/post/a/) [haircut](/post/haircut/)."
+- 名词: "[After](/zh/post/after/) weeks [of](/zh/post/of/) [growth](/zh/post/growth/), [it](/zh/post/it/) was [time](/zh/post/time/) [for](/zh/post/for/) [him](/zh/post/him/) [to](/zh/post/to/) [get](/zh/post/get/) [a](/zh/post/a/) much-needed [haircut](/zh/post/haircut/)."
+- 动词: "[The](/zh/post/the/) stylist [will](/zh/post/will/) [be](/zh/post/be/) [with](/zh/post/with/) [you](/zh/post/you/) [shortly](/zh/post/shortly/) [to](/zh/post/to/) [give](/zh/post/give/) [you](/zh/post/you/) [a](/zh/post/a/) [haircut](/zh/post/haircut/)."
 
 ## 同义词
-- [Trim](/post/trim/)
-- [Style](/post/style/)
-- [Tidy](/post/tidy/) [up](/post/up/)
-- [Chop](/post/chop/)
-- [Shear](/post/shear/)
+- [Trim](/zh/post/trim/)
+- [Style](/zh/post/style/)
+- [Tidy](/zh/post/tidy/) [up](/zh/post/up/)
+- [Chop](/zh/post/chop/)
+- [Shear](/zh/post/shear/)

@@ -7,28 +7,28 @@ description = '[sjuːpəˈfi∫əl] a.表面的；肤浅的'
 keywords = ['ai words', 'superficial']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈfɜːrʃəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: 1. Lacking [depth](/en/post/depth/) [or](/en/post/or/) seriousness; [shallow](/en/post/shallow/). [Example](/en/post/example/): "[Her](/en/post/her/) [understanding](/en/post/understanding/) [of](/en/post/of/) [the](/en/post/the/) [topic](/en/post/topic/) was [quite](/en/post/quite/) [superficial](/en/post/superficial/)."
-- **[Adjective](/en/post/adjective/)**: 2. Surface-level; [not](/en/post/not/) going [below](/en/post/below/) [the](/en/post/the/) [surface](/en/post/surface/) [or](/en/post/or/) delving [into](/en/post/into/) details. [Example](/en/post/example/): "[The](/en/post/the/) [conversation](/en/post/conversation/) was [superficial](/en/post/superficial/), barely touching [on](/en/post/on/) [the](/en/post/the/) [real](/en/post/real/) issues."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [superficial](/en/post/superficial/) [manner](/en/post/manner/); [without](/en/post/without/) exploring [or](/en/post/or/) [understanding](/en/post/understanding/) fully. [Example](/en/post/example/): "[He](/en/post/he/) gave [a](/en/post/a/) [superficial](/en/post/superficial/) [response](/en/post/response/) [to](/en/post/to/) [the](/en/post/the/) [question](/en/post/question/)."
+- **[Adjective](/post/adjective/)**: 1. Lacking [depth](/post/depth/) [or](/post/or/) seriousness; [shallow](/post/shallow/). [Example](/post/example/): "[Her](/post/her/) [understanding](/post/understanding/) [of](/post/of/) [the](/post/the/) [topic](/post/topic/) was [quite](/post/quite/) [superficial](/post/superficial/)."
+- **[Adjective](/post/adjective/)**: 2. Surface-level; [not](/post/not/) going [below](/post/below/) [the](/post/the/) [surface](/post/surface/) [or](/post/or/) delving [into](/post/into/) details. [Example](/post/example/): "[The](/post/the/) [conversation](/post/conversation/) was [superficial](/post/superficial/), barely touching [on](/post/on/) [the](/post/the/) [real](/post/real/) issues."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [superficial](/post/superficial/) [manner](/post/manner/); [without](/post/without/) exploring [or](/post/or/) [understanding](/post/understanding/) fully. [Example](/post/example/): "[He](/post/he/) gave [a](/post/a/) [superficial](/post/superficial/) [response](/post/response/) [to](/post/to/) [the](/post/the/) [question](/post/question/)."
 
 ## Phrases
-- "Superficially [polite](/en/post/polite/)" implies [being](/en/post/being/) [polite](/en/post/polite/) [on](/en/post/on/) [the](/en/post/the/) [surface](/en/post/surface/) [but](/en/post/but/) [not](/en/post/not/) [genuine](/en/post/genuine/).
-- "[A](/en/post/a/) [superficial](/en/post/superficial/) [injury](/en/post/injury/)" refers [to](/en/post/to/) [a](/en/post/a/) [minor](/en/post/minor/), skin-deep [wound](/en/post/wound/).
-- "[Superficial](/en/post/superficial/) [knowledge](/en/post/knowledge/)" is [limited](/en/post/limited/) [understanding](/en/post/understanding/) [without](/en/post/without/) [depth](/en/post/depth/).
+- "Superficially [polite](/post/polite/)" implies [being](/post/being/) [polite](/post/polite/) [on](/post/on/) [the](/post/the/) [surface](/post/surface/) [but](/post/but/) [not](/post/not/) [genuine](/post/genuine/).
+- "[A](/post/a/) [superficial](/post/superficial/) [injury](/post/injury/)" refers [to](/post/to/) [a](/post/a/) [minor](/post/minor/), skin-deep [wound](/post/wound/).
+- "[Superficial](/post/superficial/) [knowledge](/post/knowledge/)" is [limited](/post/limited/) [understanding](/post/understanding/) [without](/post/without/) [depth](/post/depth/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/) ([Noun](/en/post/noun/))**: "[Her](/en/post/her/) [interest](/en/post/interest/) [in](/en/post/in/) [art](/en/post/art/) was [superficial](/en/post/superficial/), [she](/en/post/she/) [never](/en/post/never/) [truly](/en/post/truly/) appreciated [the](/en/post/the/) complexity [of](/en/post/of/) [the](/en/post/the/) works."
-- **[Adjective](/en/post/adjective/) ([Adjective](/en/post/adjective/))**: "[His](/en/post/his/) [concern](/en/post/concern/) [for](/en/post/for/) others seemed [superficial](/en/post/superficial/), [as](/en/post/as/) [he](/en/post/he/) [rarely](/en/post/rarely/) followed [through](/en/post/through/) [with](/en/post/with/) [his](/en/post/his/) promises."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) analyzed [the](/en/post/the/) [problem](/en/post/problem/) superficially, [missing](/en/post/missing/) [the](/en/post/the/) underlying complexities."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/) ([Noun](/post/noun/))**: "[Her](/post/her/) [interest](/post/interest/) [in](/post/in/) [art](/post/art/) was [superficial](/post/superficial/), [she](/post/she/) [never](/post/never/) [truly](/post/truly/) appreciated [the](/post/the/) complexity [of](/post/of/) [the](/post/the/) works."
+- **[Adjective](/post/adjective/) ([Adjective](/post/adjective/))**: "[His](/post/his/) [concern](/post/concern/) [for](/post/for/) others seemed [superficial](/post/superficial/), [as](/post/as/) [he](/post/he/) [rarely](/post/rarely/) followed [through](/post/through/) [with](/post/with/) [his](/post/his/) promises."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) analyzed [the](/post/the/) [problem](/post/problem/) superficially, [missing](/post/missing/) [the](/post/the/) underlying complexities."
 
 ## Synonyms
-- [Shallow](/en/post/shallow/)
+- [Shallow](/post/shallow/)
 - Surface-level
-- [Insufficient](/en/post/insufficient/)
+- [Insufficient](/post/insufficient/)
 - cursory
 -肤浅的
 - Superficiality
@@ -36,8 +36,8 @@ keywords = ['ai words', 'superficial']
 - Outermost
 
 ## Antonyms
-- [Deep](/en/post/deep/)
+- [Deep](/post/deep/)
 - Profound
-- [Intimate](/en/post/intimate/)
-- [Thorough](/en/post/thorough/)
-- [Comprehensive](/en/post/comprehensive/)
+- [Intimate](/post/intimate/)
+- [Thorough](/post/thorough/)
+- [Comprehensive](/post/comprehensive/)

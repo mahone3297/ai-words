@@ -7,29 +7,29 @@ description = '[ˈfɑːmə] n.农民，农夫；农场主'
 keywords = ['ai words', 'farmer']
 +++
 
-## [Word](/en/post/word/): [Farmer](/en/post/farmer/)
+## [Word](/post/word/): [Farmer](/post/farmer/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈfɑːrmər/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) owns [or](/en/post/or/) manages [a](/en/post/a/) [farm](/en/post/farm/), cultivating [land](/en/post/land/) [and](/en/post/and/) raising livestock [or](/en/post/or/) crops [for](/en/post/for/) [a](/en/post/a/) [living](/en/post/living/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) worked [from](/en/post/from/) [dawn](/en/post/dawn/) [till](/en/post/till/) [dusk](/en/post/dusk/) [to](/en/post/to/) [tend](/en/post/tend/) [his](/en/post/his/) fields [and](/en/post/and/) [care](/en/post/care/) [for](/en/post/for/) [his](/en/post/his/) animals."
+- **[Noun](/post/noun/)**: [A](/post/a/) [person](/post/person/) [who](/post/who/) owns [or](/post/or/) manages [a](/post/a/) [farm](/post/farm/), cultivating [land](/post/land/) [and](/post/and/) raising livestock [or](/post/or/) crops [for](/post/for/) [a](/post/a/) [living](/post/living/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) worked [from](/post/from/) [dawn](/post/dawn/) [till](/post/till/) [dusk](/post/dusk/) [to](/post/to/) [tend](/post/tend/) [his](/post/his/) fields [and](/post/and/) [care](/post/care/) [for](/post/for/) [his](/post/his/) animals."
 
 ### Phrases
-- "[Family](/en/post/family/) [farmer](/en/post/farmer/)": Refers [to](/en/post/to/) [a](/en/post/a/) [farmer](/en/post/farmer/) [who](/en/post/who/) owns [and](/en/post/and/) operates [a](/en/post/a/) [farm](/en/post/farm/) [with](/en/post/with/) [their](/en/post/their/) [family](/en/post/family/), [often](/en/post/often/) passing [it](/en/post/it/) [down](/en/post/down/) [through](/en/post/through/) generations.
-- "Smallholder [farmer](/en/post/farmer/)": Describes [a](/en/post/a/) [farmer](/en/post/farmer/) [who](/en/post/who/) cultivates [a](/en/post/a/) [relatively](/en/post/relatively/) [small](/en/post/small/) [area](/en/post/area/) [of](/en/post/of/) [land](/en/post/land/), typically [for](/en/post/for/) subsistence [or](/en/post/or/) [local](/en/post/local/) [sale](/en/post/sale/).
-- "Farm-to-table": [A](/en/post/a/) [movement](/en/post/movement/) promoting locally grown [food](/en/post/food/), [directly](/en/post/directly/) connecting farmers [to](/en/post/to/) consumers [by](/en/post/by/) serving [produce](/en/post/produce/) grown [on](/en/post/on/) [the](/en/post/the/) farmer's [land](/en/post/land/).
+- "[Family](/post/family/) [farmer](/post/farmer/)": Refers [to](/post/to/) [a](/post/a/) [farmer](/post/farmer/) [who](/post/who/) owns [and](/post/and/) operates [a](/post/a/) [farm](/post/farm/) [with](/post/with/) [their](/post/their/) [family](/post/family/), [often](/post/often/) passing [it](/post/it/) [down](/post/down/) [through](/post/through/) generations.
+- "Smallholder [farmer](/post/farmer/)": Describes [a](/post/a/) [farmer](/post/farmer/) [who](/post/who/) cultivates [a](/post/a/) [relatively](/post/relatively/) [small](/post/small/) [area](/post/area/) [of](/post/of/) [land](/post/land/), typically [for](/post/for/) subsistence [or](/post/or/) [local](/post/local/) [sale](/post/sale/).
+- "Farm-to-table": [A](/post/a/) [movement](/post/movement/) promoting locally grown [food](/post/food/), [directly](/post/directly/) connecting farmers [to](/post/to/) consumers [by](/post/by/) serving [produce](/post/produce/) grown [on](/post/on/) [the](/post/the/) farmer's [land](/post/land/).
 
-### [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) plowed [his](/en/post/his/) [field](/en/post/field/) [before](/en/post/before/) planting [the](/en/post/the/) [new](/en/post/new/) season's [crop](/en/post/crop/)."
-- "[She](/en/post/she/) decided [to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) full-time [farmer](/en/post/farmer/) [after](/en/post/after/) inheriting [her](/en/post/her/) grandparents' [farm](/en/post/farm/)."
-- "[Many](/en/post/many/) farmers [sell](/en/post/sell/) [their](/en/post/their/) [fresh](/en/post/fresh/) [produce](/en/post/produce/) [at](/en/post/at/) [the](/en/post/the/) [local](/en/post/local/) farmer's [market](/en/post/market/)."
+### [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) plowed [his](/post/his/) [field](/post/field/) [before](/post/before/) planting [the](/post/the/) [new](/post/new/) season's [crop](/post/crop/)."
+- "[She](/post/she/) decided [to](/post/to/) [become](/post/become/) [a](/post/a/) full-time [farmer](/post/farmer/) [after](/post/after/) inheriting [her](/post/her/) grandparents' [farm](/post/farm/)."
+- "[Many](/post/many/) farmers [sell](/post/sell/) [their](/post/their/) [fresh](/post/fresh/) [produce](/post/produce/) [at](/post/at/) [the](/post/the/) [local](/post/local/) farmer's [market](/post/market/)."
 
 ## Synonyms
 - Agriculturist
 - Grower
 - Cultivator
-- Rancher (esp. [when](/en/post/when/) referring [to](/en/post/to/) livestock farming)
+- Rancher (esp. [when](/post/when/) referring [to](/post/to/) livestock farming)
 - Husbandman (archaic) 
-- Agronomist ([often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) [specialist](/en/post/specialist/) [in](/en/post/in/) agricultural [science](/en/post/science/) [rather](/en/post/rather/) [than](/en/post/than/) [a](/en/post/a/) [practical](/en/post/practical/) [farmer](/en/post/farmer/))
-- Crofter (esp. [in](/en/post/in/) Scotland, referring [to](/en/post/to/) [a](/en/post/a/) small-scale [farmer](/en/post/farmer/))
+- Agronomist ([often](/post/often/) referring [to](/post/to/) [a](/post/a/) [specialist](/post/specialist/) [in](/post/in/) agricultural [science](/post/science/) [rather](/post/rather/) [than](/post/than/) [a](/post/a/) [practical](/post/practical/) [farmer](/post/farmer/))
+- Crofter (esp. [in](/post/in/) Scotland, referring [to](/post/to/) [a](/post/a/) small-scale [farmer](/post/farmer/))

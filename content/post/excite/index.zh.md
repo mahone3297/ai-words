@@ -11,20 +11,20 @@ keywords = ['ai words', 'excite']
 /ɪkˈsaɪt/
 
 ## 释义
-- **动词**: 使兴奋；激发。例如: "[The](/post/the/) [news](/post/news/) [of](/post/of/) [the](/post/the/) [surprise](/post/surprise/) [party](/post/party/) [really](/post/really/) excited [her](/post/her/)."
-- **形容词**: 兴奋的；激动的。例如: "[He](/post/he/) was [so](/post/so/) excited [about](/post/about/) [the](/post/the/) [trip](/post/trip/) [that](/post/that/) [he](/post/he/) [could](/post/could/) [hardly](/post/hardly/) [sleep](/post/sleep/)."
+- **动词**: 使兴奋；激发。例如: "[The](/zh/post/the/) [news](/zh/post/news/) [of](/zh/post/of/) [the](/zh/post/the/) [surprise](/zh/post/surprise/) [party](/zh/post/party/) [really](/zh/post/really/) excited [her](/zh/post/her/)."
+- **形容词**: 兴奋的；激动的。例如: "[He](/zh/post/he/) was [so](/zh/post/so/) excited [about](/zh/post/about/) [the](/zh/post/the/) [trip](/zh/post/trip/) [that](/zh/post/that/) [he](/zh/post/he/) [could](/zh/post/could/) [hardly](/zh/post/hardly/) [sleep](/zh/post/sleep/)."
 
 ## 短语
-- "excited [by](/post/by/)/[about](/post/about/) [something](/post/something/)" 意为对某事感到兴奋。例如: "[She](/post/she/) was excited [by](/post/by/) [the](/post/the/) [idea](/post/idea/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [job](/post/job/)."
-- "[to](/post/to/) [excite](/post/excite/) one's [curiosity](/post/curiosity/)" 引起某人的好奇心。例如: "[The](/post/the/) [mysterious](/post/mysterious/) [package](/post/package/) [in](/post/in/) [the](/post/the/) mailbox excited [his](/post/his/) [curiosity](/post/curiosity/)."
+- "excited [by](/zh/post/by/)/[about](/zh/post/about/) [something](/zh/post/something/)" 意为对某事感到兴奋。例如: "[She](/zh/post/she/) was excited [by](/zh/post/by/) [the](/zh/post/the/) [idea](/zh/post/idea/) [of](/zh/post/of/) [a](/zh/post/a/) [new](/zh/post/new/) [job](/zh/post/job/)."
+- "[to](/zh/post/to/) [excite](/zh/post/excite/) one's [curiosity](/zh/post/curiosity/)" 引起某人的好奇心。例如: "[The](/zh/post/the/) [mysterious](/zh/post/mysterious/) [package](/zh/post/package/) [in](/zh/post/in/) [the](/zh/post/the/) mailbox excited [his](/zh/post/his/) [curiosity](/zh/post/curiosity/)."
 
 ## 例句
-- 动词: "[The](/post/the/) [prospect](/post/prospect/) [of](/post/of/) seeing [their](/post/their/) favorite [band](/post/band/) [live](/post/live/) excited [all](/post/all/) [the](/post/the/) fans."
-- 形容词: "[The](/post/the/) children were excited [about](/post/about/) [the](/post/the/) upcoming [holiday](/post/holiday/)."
+- 动词: "[The](/zh/post/the/) [prospect](/zh/post/prospect/) [of](/zh/post/of/) seeing [their](/zh/post/their/) favorite [band](/zh/post/band/) [live](/zh/post/live/) excited [all](/zh/post/all/) [the](/zh/post/the/) fans."
+- 形容词: "[The](/zh/post/the/) children were excited [about](/zh/post/about/) [the](/zh/post/the/) upcoming [holiday](/zh/post/holiday/)."
 
 ## 同义词
-- [Stimulate](/post/stimulate/)
-- [Thrill](/post/thrill/)
+- [Stimulate](/zh/post/stimulate/)
+- [Thrill](/zh/post/thrill/)
 - Enthrall
 - Ignite
 - Evoke

@@ -7,38 +7,38 @@ description = '[dres] n.女服，童装；服装'
 keywords = ['ai words', 'dress']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dres/
 
 ## Definitions
-### [Noun](/en/post/noun/) (n)
-- [A](/en/post/a/) garment designed [to](/en/post/to/) [be](/en/post/be/) worn [by](/en/post/by/) women [or](/en/post/or/) girls [that](/en/post/that/) covers [the](/en/post/the/) [body](/en/post/body/) [and](/en/post/and/) extends [from](/en/post/from/) [the](/en/post/the/) shoulders [to](/en/post/to/) [usually](/en/post/usually/) [the](/en/post/the/) knees [or](/en/post/or/) ankles. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) wore [a](/en/post/a/) [beautiful](/en/post/beautiful/) [red](/en/post/red/) [dress](/en/post/dress/) [to](/en/post/to/) [the](/en/post/the/) [wedding](/en/post/wedding/)."
-- [A](/en/post/a/) [formal](/en/post/formal/) attire [for](/en/post/for/) men, typically consisting [of](/en/post/of/) [a](/en/post/a/) [suit](/en/post/suit/) [and](/en/post/and/) [tie](/en/post/tie/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) donned [his](/en/post/his/) [best](/en/post/best/) [dress](/en/post/dress/) [suit](/en/post/suit/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/) [interview](/en/post/interview/)."
-- [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) getting dressed; attire [or](/en/post/or/) [clothing](/en/post/clothing/) [generally](/en/post/generally/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) took [her](/en/post/her/) [time](/en/post/time/) [with](/en/post/with/) [the](/en/post/the/) [dress](/en/post/dress/) [before](/en/post/before/) going [out](/en/post/out/)."
+### [Noun](/post/noun/) (n)
+- [A](/post/a/) garment designed [to](/post/to/) [be](/post/be/) worn [by](/post/by/) women [or](/post/or/) girls [that](/post/that/) covers [the](/post/the/) [body](/post/body/) [and](/post/and/) extends [from](/post/from/) [the](/post/the/) shoulders [to](/post/to/) [usually](/post/usually/) [the](/post/the/) knees [or](/post/or/) ankles. [For](/post/for/) [example](/post/example/): "[She](/post/she/) wore [a](/post/a/) [beautiful](/post/beautiful/) [red](/post/red/) [dress](/post/dress/) [to](/post/to/) [the](/post/the/) [wedding](/post/wedding/)."
+- [A](/post/a/) [formal](/post/formal/) attire [for](/post/for/) men, typically consisting [of](/post/of/) [a](/post/a/) [suit](/post/suit/) [and](/post/and/) [tie](/post/tie/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) donned [his](/post/his/) [best](/post/best/) [dress](/post/dress/) [suit](/post/suit/) [for](/post/for/) [the](/post/the/) [job](/post/job/) [interview](/post/interview/)."
+- [The](/post/the/) [act](/post/act/) [or](/post/or/) [process](/post/process/) [of](/post/of/) getting dressed; attire [or](/post/or/) [clothing](/post/clothing/) [generally](/post/generally/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) took [her](/post/her/) [time](/post/time/) [with](/post/with/) [the](/post/the/) [dress](/post/dress/) [before](/post/before/) going [out](/post/out/)."
 
-### [Verb](/en/post/verb/) (v)
-- [To](/en/post/to/) [put](/en/post/put/) [on](/en/post/on/) [clothes](/en/post/clothes/), [especially](/en/post/especially/) [formal](/en/post/formal/) [or](/en/post/or/) [fancy](/en/post/fancy/) ones. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) dresses elegantly [for](/en/post/for/) [every](/en/post/every/) [occasion](/en/post/occasion/)."
-- [To](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) adorn [something](/en/post/something/), [often](/en/post/often/) referring [to](/en/post/to/) decorating [or](/en/post/or/) preparing [food](/en/post/food/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) dressed [the](/en/post/the/) [salad](/en/post/salad/) [with](/en/post/with/) olive [oil](/en/post/oil/) [and](/en/post/and/) [vinegar](/en/post/vinegar/)."
-- [To](/en/post/to/) [cover](/en/post/cover/) [or](/en/post/or/) [treat](/en/post/treat/) [with](/en/post/with/) [a](/en/post/a/) [substance](/en/post/substance/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) dressed [the](/en/post/the/) [wound](/en/post/wound/) [with](/en/post/with/) antiseptic [cream](/en/post/cream/)."
+### [Verb](/post/verb/) (v)
+- [To](/post/to/) [put](/post/put/) [on](/post/on/) [clothes](/post/clothes/), [especially](/post/especially/) [formal](/post/formal/) [or](/post/or/) [fancy](/post/fancy/) ones. [For](/post/for/) [example](/post/example/): "[She](/post/she/) dresses elegantly [for](/post/for/) [every](/post/every/) [occasion](/post/occasion/)."
+- [To](/post/to/) [arrange](/post/arrange/) [or](/post/or/) adorn [something](/post/something/), [often](/post/often/) referring [to](/post/to/) decorating [or](/post/or/) preparing [food](/post/food/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) dressed [the](/post/the/) [salad](/post/salad/) [with](/post/with/) olive [oil](/post/oil/) [and](/post/and/) [vinegar](/post/vinegar/)."
+- [To](/post/to/) [cover](/post/cover/) [or](/post/or/) [treat](/post/treat/) [with](/post/with/) [a](/post/a/) [substance](/post/substance/). [For](/post/for/) [example](/post/example/): "[They](/post/they/) dressed [the](/post/the/) [wound](/post/wound/) [with](/post/with/) antiseptic [cream](/post/cream/)."
 
-### [Adjective](/en/post/adjective/) (adj)
-- [Suitable](/en/post/suitable/) [or](/en/post/or/) [appropriate](/en/post/appropriate/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [occasion](/en/post/occasion/) [or](/en/post/or/) [purpose](/en/post/purpose/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [dress](/en/post/dress/) [code](/en/post/code/) requires [smart](/en/post/smart/), [dress](/en/post/dress/) shoes [for](/en/post/for/) [work](/en/post/work/)."
+### [Adjective](/post/adjective/) (adj)
+- [Suitable](/post/suitable/) [or](/post/or/) [appropriate](/post/appropriate/) [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [occasion](/post/occasion/) [or](/post/or/) [purpose](/post/purpose/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [dress](/post/dress/) [code](/post/code/) requires [smart](/post/smart/), [dress](/post/dress/) shoes [for](/post/for/) [work](/post/work/)."
 
 ## Phrases
-- "[Dress](/en/post/dress/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) [wear](/en/post/wear/) [formal](/en/post/formal/) [or](/en/post/or/) [fancy](/en/post/fancy/) [clothes](/en/post/clothes/). [Example](/en/post/example/): "We're dressing [up](/en/post/up/) [for](/en/post/for/) [the](/en/post/the/) gala [tonight](/en/post/tonight/)."
-- "[Get](/en/post/get/) dressed" [means](/en/post/means/) [to](/en/post/to/) [put](/en/post/put/) [on](/en/post/on/) one's [clothes](/en/post/clothes/). [Example](/en/post/example/): "It's [time](/en/post/time/) [to](/en/post/to/) [get](/en/post/get/) dressed [for](/en/post/for/) [school](/en/post/school/)."
-- "[Dress](/en/post/dress/) [down](/en/post/down/)" refers [to](/en/post/to/) wearing informal [or](/en/post/or/) [casual](/en/post/casual/) [clothes](/en/post/clothes/), [often](/en/post/often/) [when](/en/post/when/) [a](/en/post/a/) [more](/en/post/more/) [formal](/en/post/formal/) [dress](/en/post/dress/) [code](/en/post/code/) is expected. [Example](/en/post/example/): "[On](/en/post/on/) Fridays, [we](/en/post/we/) [can](/en/post/can/) [dress](/en/post/dress/) [down](/en/post/down/) [at](/en/post/at/) [the](/en/post/the/) [office](/en/post/office/)."
+- "[Dress](/post/dress/) [up](/post/up/)" [means](/post/means/) [to](/post/to/) [wear](/post/wear/) [formal](/post/formal/) [or](/post/or/) [fancy](/post/fancy/) [clothes](/post/clothes/). [Example](/post/example/): "We're dressing [up](/post/up/) [for](/post/for/) [the](/post/the/) gala [tonight](/post/tonight/)."
+- "[Get](/post/get/) dressed" [means](/post/means/) [to](/post/to/) [put](/post/put/) [on](/post/on/) one's [clothes](/post/clothes/). [Example](/post/example/): "It's [time](/post/time/) [to](/post/to/) [get](/post/get/) dressed [for](/post/for/) [school](/post/school/)."
+- "[Dress](/post/dress/) [down](/post/down/)" refers [to](/post/to/) wearing informal [or](/post/or/) [casual](/post/casual/) [clothes](/post/clothes/), [often](/post/often/) [when](/post/when/) [a](/post/a/) [more](/post/more/) [formal](/post/formal/) [dress](/post/dress/) [code](/post/code/) is expected. [Example](/post/example/): "[On](/post/on/) Fridays, [we](/post/we/) [can](/post/can/) [dress](/post/dress/) [down](/post/down/) [at](/post/at/) [the](/post/the/) [office](/post/office/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [little](/en/post/little/) [girl](/en/post/girl/) loved twirling [in](/en/post/in/) [her](/en/post/her/) [new](/en/post/new/) [princess](/en/post/princess/) [dress](/en/post/dress/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) dresses [sharply](/en/post/sharply/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [good](/en/post/good/) [impression](/en/post/impression/)."
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) outfit is [perfect](/en/post/perfect/); it's [both](/en/post/both/) [comfortable](/en/post/comfortable/) [and](/en/post/and/) [dress](/en/post/dress/) [enough](/en/post/enough/) [for](/en/post/for/) [the](/en/post/the/) [dinner](/en/post/dinner/) [party](/en/post/party/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [little](/post/little/) [girl](/post/girl/) loved twirling [in](/post/in/) [her](/post/her/) [new](/post/new/) [princess](/post/princess/) [dress](/post/dress/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) dresses [sharply](/post/sharply/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [good](/post/good/) [impression](/post/impression/)."
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) outfit is [perfect](/post/perfect/); it's [both](/post/both/) [comfortable](/post/comfortable/) [and](/post/and/) [dress](/post/dress/) [enough](/post/enough/) [for](/post/for/) [the](/post/the/) [dinner](/post/dinner/) [party](/post/party/)."
 
 ## Synonyms
 - Garment
 - Attire
 - Outfit
-- [Clothing](/en/post/clothing/)
-- [Robe](/en/post/robe/) ([for](/en/post/for/) women's [dress](/en/post/dress/))
-- [Suit](/en/post/suit/) ([for](/en/post/for/) men's [dress](/en/post/dress/))
-- [Clothe](/en/post/clothe/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))
+- [Clothing](/post/clothing/)
+- [Robe](/post/robe/) ([for](/post/for/) women's [dress](/post/dress/))
+- [Suit](/post/suit/) ([for](/post/for/) men's [dress](/post/dress/))
+- [Clothe](/post/clothe/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))

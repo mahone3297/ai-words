@@ -7,38 +7,38 @@ description = '[kæn] n.罐头，听头；容器'
 keywords = ['ai words', 'can']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kæn/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [have](/en/post/have/) [the](/en/post/the/) [ability](/en/post/ability/) [or](/en/post/or/) [possibility](/en/post/possibility/); [to](/en/post/to/) [be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [can](/en/post/can/) [swim](/en/post/swim/) [very](/en/post/very/) [well](/en/post/well/)."
-- **Modal [auxiliary](/en/post/auxiliary/) [verb](/en/post/verb/)**: Expresses [ability](/en/post/ability/), [permission](/en/post/permission/), [possibility](/en/post/possibility/), [or](/en/post/or/) [necessity](/en/post/necessity/). [For](/en/post/for/) [example](/en/post/example/): "I [can](/en/post/can/) [do](/en/post/do/) [it](/en/post/it/) [if](/en/post/if/) [you](/en/post/you/) [help](/en/post/help/) [me](/en/post/me/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) indicating [ability](/en/post/ability/) [or](/en/post/or/) capability. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [can](/en/post/can/) [run](/en/post/run/) [fast](/en/post/fast/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [have](/post/have/) [the](/post/the/) [ability](/post/ability/) [or](/post/or/) [possibility](/post/possibility/); [to](/post/to/) [be](/post/be/) [able](/post/able/) [to](/post/to/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) [can](/post/can/) [swim](/post/swim/) [very](/post/very/) [well](/post/well/)."
+- **Modal [auxiliary](/post/auxiliary/) [verb](/post/verb/)**: Expresses [ability](/post/ability/), [permission](/post/permission/), [possibility](/post/possibility/), [or](/post/or/) [necessity](/post/necessity/). [For](/post/for/) [example](/post/example/): "I [can](/post/can/) [do](/post/do/) [it](/post/it/) [if](/post/if/) [you](/post/you/) [help](/post/help/) [me](/post/me/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) indicating [ability](/post/ability/) [or](/post/or/) capability. [For](/post/for/) [example](/post/example/): "[He](/post/he/) [can](/post/can/) [run](/post/run/) [fast](/post/fast/)."
 
 ## Phrases
-- "[Be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/)" expresses capability.
-- "[Can](/en/post/can/) [you](/en/post/you/) [please](/en/post/please/)...?" is [a](/en/post/a/) [request](/en/post/request/) [for](/en/post/for/) assistance.
-- "[She](/en/post/she/) can't [believe](/en/post/believe/) [her](/en/post/her/) [luck](/en/post/luck/)" [means](/en/post/means/) [she](/en/post/she/) finds [something](/en/post/something/) [hard](/en/post/hard/) [to](/en/post/to/) comprehend.
+- "[Be](/post/be/) [able](/post/able/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" expresses capability.
+- "[Can](/post/can/) [you](/post/you/) [please](/post/please/)...?" is [a](/post/a/) [request](/post/request/) [for](/post/for/) assistance.
+- "[She](/post/she/) can't [believe](/post/believe/) [her](/post/her/) [luck](/post/luck/)" [means](/post/means/) [she](/post/she/) finds [something](/post/something/) [hard](/post/hard/) [to](/post/to/) comprehend.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [can](/en/post/can/) [fix](/en/post/fix/) [the](/en/post/the/) [broken](/en/post/broken/) [bike](/en/post/bike/)."
-- **Modal [auxiliary](/en/post/auxiliary/) [verb](/en/post/verb/)**: "[If](/en/post/if/) [it](/en/post/it/) rains, [we](/en/post/we/) [can](/en/post/can/) reschedule [the](/en/post/the/) [picnic](/en/post/picnic/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) [can](/en/post/can/) [dance](/en/post/dance/) gracefully."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[He](/post/he/) [can](/post/can/) [fix](/post/fix/) [the](/post/the/) [broken](/post/broken/) [bike](/post/bike/)."
+- **Modal [auxiliary](/post/auxiliary/) [verb](/post/verb/)**: "[If](/post/if/) [it](/post/it/) rains, [we](/post/we/) [can](/post/can/) reschedule [the](/post/the/) [picnic](/post/picnic/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) [can](/post/can/) [dance](/post/dance/) gracefully."
 
 ## Synonyms
-- [Can](/en/post/can/) [do](/en/post/do/)
-- Is [capable](/en/post/capable/) [of](/en/post/of/)
-- Has [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/)
-- [May](/en/post/may/)
-- [Might](/en/post/might/)
-- [Be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/) (informal)
+- [Can](/post/can/) [do](/post/do/)
+- Is [capable](/post/capable/) [of](/post/of/)
+- Has [the](/post/the/) [ability](/post/ability/) [to](/post/to/)
+- [May](/post/may/)
+- [Might](/post/might/)
+- [Be](/post/be/) [able](/post/able/) [to](/post/to/) (informal)
 
 ## Antonyms
 - Cannot
-- Cannot [do](/en/post/do/)
-- Is [unable](/en/post/unable/) [to](/en/post/to/)
+- Cannot [do](/post/do/)
+- Is [unable](/post/unable/) [to](/post/to/)
 
-## [Usage](/en/post/usage/) Notes
-- "[Can](/en/post/can/)" is [often](/en/post/often/) followed [by](/en/post/by/) [the](/en/post/the/) infinitive [form](/en/post/form/) [of](/en/post/of/) [a](/en/post/a/) [verb](/en/post/verb/) (e.g., "[can](/en/post/can/) [swim](/en/post/swim/)").
-- It's [commonly](/en/post/commonly/) [used](/en/post/used/) [in](/en/post/in/) questions, [but](/en/post/but/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [statement](/en/post/statement/) (e.g., "I [can](/en/post/can/) [finish](/en/post/finish/) [this](/en/post/this/) [project](/en/post/project/) [on](/en/post/on/) [time](/en/post/time/)").
-- [The](/en/post/the/) contracted [form](/en/post/form/) "can't" [means](/en/post/means/) "cannot."
+## [Usage](/post/usage/) Notes
+- "[Can](/post/can/)" is [often](/post/often/) followed [by](/post/by/) [the](/post/the/) infinitive [form](/post/form/) [of](/post/of/) [a](/post/a/) [verb](/post/verb/) (e.g., "[can](/post/can/) [swim](/post/swim/)").
+- It's [commonly](/post/commonly/) [used](/post/used/) [in](/post/in/) questions, [but](/post/but/) [can](/post/can/) [also](/post/also/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [statement](/post/statement/) (e.g., "I [can](/post/can/) [finish](/post/finish/) [this](/post/this/) [project](/post/project/) [on](/post/on/) [time](/post/time/)").
+- [The](/post/the/) contracted [form](/post/form/) "can't" [means](/post/means/) "cannot."

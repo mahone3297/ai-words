@@ -7,37 +7,37 @@ description = '[aut] ad.出，在外；现出来'
 keywords = ['ai words', 'out']
 +++
 
-## [Word](/en/post/word/): [Out](/en/post/out/)
+## [Word](/post/word/): [Out](/post/out/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /outu/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Away](/en/post/away/) [from](/en/post/from/) [inside](/en/post/inside/); [not](/en/post/not/) [indoors](/en/post/indoors/) [or](/en/post/or/) [within](/en/post/within/) buildings. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) stepped [out](/en/post/out/) [onto](/en/post/onto/) [the](/en/post/the/) [porch](/en/post/porch/)."
-- **[Preposition](/en/post/preposition/)**: [Beyond](/en/post/beyond/) [the](/en/post/the/) boundaries [or](/en/post/or/) confines [of](/en/post/of/) [something](/en/post/something/); [outside](/en/post/outside/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [cat](/en/post/cat/) is [out](/en/post/out/) [on](/en/post/on/) [the](/en/post/the/) [roof](/en/post/roof/)."
-- **[Adjective](/en/post/adjective/)**: [No](/en/post/no/) longer [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/); [no](/en/post/no/) longer [being](/en/post/being/) [used](/en/post/used/) [or](/en/post/or/) functioning. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [fire](/en/post/fire/) went [out](/en/post/out/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [from](/en/post/from/) an indoor [location](/en/post/location/) [to](/en/post/to/) an [outdoor](/en/post/outdoor/) [one](/en/post/one/). [For](/en/post/for/) [example](/en/post/example/): "We're going [out](/en/post/out/) [for](/en/post/for/) [a](/en/post/a/) [walk](/en/post/walk/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [period](/en/post/period/) spent [outdoors](/en/post/outdoors/) [or](/en/post/or/) [away](/en/post/away/) [from](/en/post/from/) [home](/en/post/home/), [especially](/en/post/especially/) [for](/en/post/for/) [leisure](/en/post/leisure/) [or](/en/post/or/) [social](/en/post/social/) activities. [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) had [a](/en/post/a/) [great](/en/post/great/) [night](/en/post/night/) [out](/en/post/out/)."
+- **[Adverb](/post/adverb/)**: [Away](/post/away/) [from](/post/from/) [inside](/post/inside/); [not](/post/not/) [indoors](/post/indoors/) [or](/post/or/) [within](/post/within/) buildings. [For](/post/for/) [example](/post/example/): "[She](/post/she/) stepped [out](/post/out/) [onto](/post/onto/) [the](/post/the/) [porch](/post/porch/)."
+- **[Preposition](/post/preposition/)**: [Beyond](/post/beyond/) [the](/post/the/) boundaries [or](/post/or/) confines [of](/post/of/) [something](/post/something/); [outside](/post/outside/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [cat](/post/cat/) is [out](/post/out/) [on](/post/on/) [the](/post/the/) [roof](/post/roof/)."
+- **[Adjective](/post/adjective/)**: [No](/post/no/) longer [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [state](/post/state/) [or](/post/or/) [condition](/post/condition/); [no](/post/no/) longer [being](/post/being/) [used](/post/used/) [or](/post/or/) functioning. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [fire](/post/fire/) went [out](/post/out/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [move](/post/move/) [from](/post/from/) an indoor [location](/post/location/) [to](/post/to/) an [outdoor](/post/outdoor/) [one](/post/one/). [For](/post/for/) [example](/post/example/): "We're going [out](/post/out/) [for](/post/for/) [a](/post/a/) [walk](/post/walk/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [period](/post/period/) spent [outdoors](/post/outdoors/) [or](/post/or/) [away](/post/away/) [from](/post/from/) [home](/post/home/), [especially](/post/especially/) [for](/post/for/) [leisure](/post/leisure/) [or](/post/or/) [social](/post/social/) activities. [For](/post/for/) [example](/post/example/): "[They](/post/they/) had [a](/post/a/) [great](/post/great/) [night](/post/night/) [out](/post/out/)."
   
 ## Phrases
-- "[Out](/en/post/out/) [of](/en/post/of/)": Indicating [movement](/en/post/movement/) [from](/en/post/from/) [within](/en/post/within/) [to](/en/post/to/) [outside](/en/post/outside/), [or](/en/post/or/) indicating [removal](/en/post/removal/) [from](/en/post/from/) [a](/en/post/a/) [container](/en/post/container/) [or](/en/post/or/) [set](/en/post/set/). [Example](/en/post/example/): "[Take](/en/post/take/) [the](/en/post/the/) books [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [bag](/en/post/bag/)."
-- "[Find](/en/post/find/) [out](/en/post/out/)": [Discover](/en/post/discover/) [or](/en/post/or/) [learn](/en/post/learn/) ([previously](/en/post/previously/) [unknown](/en/post/unknown/) [information](/en/post/information/)). [Example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [find](/en/post/find/) [out](/en/post/out/) [when](/en/post/when/) [the](/en/post/the/) [train](/en/post/train/) leaves."
-- "[Out](/en/post/out/) [and](/en/post/and/) [about](/en/post/about/)": [Active](/en/post/active/), moving [around](/en/post/around/) socially [or](/en/post/or/) [in](/en/post/in/) [public](/en/post/public/) places. [Example](/en/post/example/): "[Now](/en/post/now/) [that](/en/post/that/) she's recovered, she's [out](/en/post/out/) [and](/en/post/and/) [about](/en/post/about/) [again](/en/post/again/)."
-- "[Let](/en/post/let/) [out](/en/post/out/)": [Release](/en/post/release/) [or](/en/post/or/) [disclose](/en/post/disclose/) ([information](/en/post/information/) [or](/en/post/or/) emotions). [Example](/en/post/example/): "[She](/en/post/she/) [let](/en/post/let/) [out](/en/post/out/) [a](/en/post/a/) [scream](/en/post/scream/) [of](/en/post/of/) [terror](/en/post/terror/)."
-- "[Give](/en/post/give/) [out](/en/post/out/)": [Distribute](/en/post/distribute/) [or](/en/post/or/) [exhaust](/en/post/exhaust/) [all](/en/post/all/) [available](/en/post/available/) resources. [Example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) gave [out](/en/post/out/) [the](/en/post/the/) [exam](/en/post/exam/) papers."
+- "[Out](/post/out/) [of](/post/of/)": Indicating [movement](/post/movement/) [from](/post/from/) [within](/post/within/) [to](/post/to/) [outside](/post/outside/), [or](/post/or/) indicating [removal](/post/removal/) [from](/post/from/) [a](/post/a/) [container](/post/container/) [or](/post/or/) [set](/post/set/). [Example](/post/example/): "[Take](/post/take/) [the](/post/the/) books [out](/post/out/) [of](/post/of/) [the](/post/the/) [bag](/post/bag/)."
+- "[Find](/post/find/) [out](/post/out/)": [Discover](/post/discover/) [or](/post/or/) [learn](/post/learn/) ([previously](/post/previously/) [unknown](/post/unknown/) [information](/post/information/)). [Example](/post/example/): "I [need](/post/need/) [to](/post/to/) [find](/post/find/) [out](/post/out/) [when](/post/when/) [the](/post/the/) [train](/post/train/) leaves."
+- "[Out](/post/out/) [and](/post/and/) [about](/post/about/)": [Active](/post/active/), moving [around](/post/around/) socially [or](/post/or/) [in](/post/in/) [public](/post/public/) places. [Example](/post/example/): "[Now](/post/now/) [that](/post/that/) she's recovered, she's [out](/post/out/) [and](/post/and/) [about](/post/about/) [again](/post/again/)."
+- "[Let](/post/let/) [out](/post/out/)": [Release](/post/release/) [or](/post/or/) [disclose](/post/disclose/) ([information](/post/information/) [or](/post/or/) emotions). [Example](/post/example/): "[She](/post/she/) [let](/post/let/) [out](/post/out/) [a](/post/a/) [scream](/post/scream/) [of](/post/of/) [terror](/post/terror/)."
+- "[Give](/post/give/) [out](/post/out/)": [Distribute](/post/distribute/) [or](/post/or/) [exhaust](/post/exhaust/) [all](/post/all/) [available](/post/available/) resources. [Example](/post/example/): "[The](/post/the/) [teacher](/post/teacher/) gave [out](/post/out/) [the](/post/the/) [exam](/post/exam/) papers."
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) children played [out](/en/post/out/) [in](/en/post/in/) [the](/en/post/the/) [garden](/en/post/garden/)."
-- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) [thief](/en/post/thief/) escaped [out](/en/post/out/) [the](/en/post/the/) [back](/en/post/back/) [door](/en/post/door/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) lights went [out](/en/post/out/) [during](/en/post/during/) [the](/en/post/the/) [storm](/en/post/storm/)."
-- **[Verb](/en/post/verb/)**: "I'm [just](/en/post/just/) stepping [out](/en/post/out/) [to](/en/post/to/) [get](/en/post/get/) [some](/en/post/some/) [fresh](/en/post/fresh/) [air](/en/post/air/)."
-- **[Noun](/en/post/noun/)**: "[A](/en/post/a/) [night](/en/post/night/) [out](/en/post/out/) [with](/en/post/with/) friends [can](/en/post/can/) [be](/en/post/be/) refreshing."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) children played [out](/post/out/) [in](/post/in/) [the](/post/the/) [garden](/post/garden/)."
+- **[Preposition](/post/preposition/)**: "[The](/post/the/) [thief](/post/thief/) escaped [out](/post/out/) [the](/post/the/) [back](/post/back/) [door](/post/door/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) lights went [out](/post/out/) [during](/post/during/) [the](/post/the/) [storm](/post/storm/)."
+- **[Verb](/post/verb/)**: "I'm [just](/post/just/) stepping [out](/post/out/) [to](/post/to/) [get](/post/get/) [some](/post/some/) [fresh](/post/fresh/) [air](/post/air/)."
+- **[Noun](/post/noun/)**: "[A](/post/a/) [night](/post/night/) [out](/post/out/) [with](/post/with/) friends [can](/post/can/) [be](/post/be/) refreshing."
 
 ## Synonyms
-- [Outside](/en/post/outside/) (adv.)
-- [Exterior](/en/post/exterior/) (adj.)
-- [Exit](/en/post/exit/) ([verb](/en/post/verb/))
+- [Outside](/post/outside/) (adv.)
+- [Exterior](/post/exterior/) (adj.)
+- [Exit](/post/exit/) ([verb](/post/verb/))
 - Unoccupied (adj.)
-- Going [out](/en/post/out/) ([noun](/en/post/noun/)) 
+- Going [out](/post/out/) ([noun](/post/noun/)) 
 
-[Note](/en/post/note/): [The](/en/post/the/) [usage](/en/post/usage/) [and](/en/post/and/) [meaning](/en/post/meaning/) [of](/en/post/of/) "[out](/en/post/out/)" [can](/en/post/can/) [vary](/en/post/vary/) significantly depending [on](/en/post/on/) context. It's [a](/en/post/a/) [highly](/en/post/highly/) versatile [word](/en/post/word/) [that](/en/post/that/) [can](/en/post/can/) [function](/en/post/function/) [across](/en/post/across/) [several](/en/post/several/) parts [of](/en/post/of/) [speech](/en/post/speech/).
+[Note](/post/note/): [The](/post/the/) [usage](/post/usage/) [and](/post/and/) [meaning](/post/meaning/) [of](/post/of/) "[out](/post/out/)" [can](/post/can/) [vary](/post/vary/) significantly depending [on](/post/on/) context. It's [a](/post/a/) [highly](/post/highly/) versatile [word](/post/word/) [that](/post/that/) [can](/post/can/) [function](/post/function/) [across](/post/across/) [several](/post/several/) parts [of](/post/of/) [speech](/post/speech/).

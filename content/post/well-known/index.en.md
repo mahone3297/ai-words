@@ -7,32 +7,32 @@ description = 'a.众所周知的，出名的'
 keywords = ['ai words', 'well-known']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /welˈknaʊn/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Widely](/en/post/widely/) known [or](/en/post/or/) recognized [by](/en/post/by/) [many](/en/post/many/) [people](/en/post/people/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) is [well-known](/en/post/well-known/) [for](/en/post/for/) [its](/en/post/its/) [beautiful](/en/post/beautiful/) [architecture](/en/post/architecture/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [well-known](/en/post/well-known/) [manner](/en/post/manner/); famously. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) sang [the](/en/post/the/) [song](/en/post/song/) [well-known](/en/post/well-known/) [to](/en/post/to/) [everyone](/en/post/everyone/)."
+- **[Adjective](/post/adjective/)**: [Widely](/post/widely/) known [or](/post/or/) recognized [by](/post/by/) [many](/post/many/) [people](/post/people/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [city](/post/city/) is [well-known](/post/well-known/) [for](/post/for/) [its](/post/its/) [beautiful](/post/beautiful/) [architecture](/post/architecture/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [well-known](/post/well-known/) [manner](/post/manner/); famously. [For](/post/for/) [example](/post/example/): "[He](/post/he/) sang [the](/post/the/) [song](/post/song/) [well-known](/post/well-known/) [to](/post/to/) [everyone](/post/everyone/)."
 
 ## Phrases
-- "[A](/en/post/a/) [well-known](/en/post/well-known/) [fact](/en/post/fact/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [generally](/en/post/generally/) accepted [as](/en/post/as/) [true](/en/post/true/).
-- "[Well-known](/en/post/well-known/) [for](/en/post/for/)" indicates [a](/en/post/a/) [particular](/en/post/particular/) [reason](/en/post/reason/) [or](/en/post/or/) [attribute](/en/post/attribute/) [that](/en/post/that/) [a](/en/post/a/) [person](/en/post/person/), [place](/en/post/place/), [or](/en/post/or/) [thing](/en/post/thing/) is [famous](/en/post/famous/) [for](/en/post/for/).
-- "[She](/en/post/she/) became [well-known](/en/post/well-known/) [after](/en/post/after/) [her](/en/post/her/) [first](/en/post/first/) book's [success](/en/post/success/)."
+- "[A](/post/a/) [well-known](/post/well-known/) [fact](/post/fact/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) is [generally](/post/generally/) accepted [as](/post/as/) [true](/post/true/).
+- "[Well-known](/post/well-known/) [for](/post/for/)" indicates [a](/post/a/) [particular](/post/particular/) [reason](/post/reason/) [or](/post/or/) [attribute](/post/attribute/) [that](/post/that/) [a](/post/a/) [person](/post/person/), [place](/post/place/), [or](/post/or/) [thing](/post/thing/) is [famous](/post/famous/) [for](/post/for/).
+- "[She](/post/she/) became [well-known](/post/well-known/) [after](/post/after/) [her](/post/her/) [first](/post/first/) book's [success](/post/success/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [well-known](/en/post/well-known/) artist's [painting](/en/post/painting/) was displayed [at](/en/post/at/) [the](/en/post/the/) [gallery](/en/post/gallery/)."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [well-known](/en/post/well-known/) chef prepares [delicious](/en/post/delicious/) meals [every](/en/post/every/) [night](/en/post/night/)."
-- "He's [well-known](/en/post/well-known/) [in](/en/post/in/) [the](/en/post/the/) [scientific](/en/post/scientific/) [community](/en/post/community/) [for](/en/post/for/) [his](/en/post/his/) groundbreaking [research](/en/post/research/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [well-known](/post/well-known/) artist's [painting](/post/painting/) was displayed [at](/post/at/) [the](/post/the/) [gallery](/post/gallery/)."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [well-known](/post/well-known/) chef prepares [delicious](/post/delicious/) meals [every](/post/every/) [night](/post/night/)."
+- "He's [well-known](/post/well-known/) [in](/post/in/) [the](/post/the/) [scientific](/post/scientific/) [community](/post/community/) [for](/post/for/) [his](/post/his/) groundbreaking [research](/post/research/)."
 
 ## Synonyms
 - Renowned
-- [Famous](/en/post/famous/)
+- [Famous](/post/famous/)
 - Celebrated
 - Notable
 - Publicly recognized
 
 ## Antonyms
-- [Unknown](/en/post/unknown/)
+- [Unknown](/post/unknown/)
 - Anonymous
 - Obscure
 - Unfamous

@@ -11,23 +11,23 @@ keywords = ['ai words', 'situation']
 /ˈsɪtʃu.eɪ.ʃən/
 
 ## 释义
-- **名词**: 一种状况、环境或位置。例如: "[The](/post/the/) [company](/post/company/) is [in](/post/in/) [a](/post/a/) [difficult](/post/difficult/) [financial](/post/financial/) [situation](/post/situation/)."
-- **名词**: 特定的情境或事件。例如: "[The](/post/the/) [situation](/post/situation/) comedy is [a](/post/a/) [popular](/post/popular/) TV genre."
-- **名词**: 地理或地形的位置。例如: "[The](/post/the/) [house](/post/house/) has [a](/post/a/) [beautiful](/post/beautiful/) [situation](/post/situation/) overlooking [the](/post/the/) [lake](/post/lake/)."
+- **名词**: 一种状况、环境或位置。例如: "[The](/zh/post/the/) [company](/zh/post/company/) is [in](/zh/post/in/) [a](/zh/post/a/) [difficult](/zh/post/difficult/) [financial](/zh/post/financial/) [situation](/zh/post/situation/)."
+- **名词**: 特定的情境或事件。例如: "[The](/zh/post/the/) [situation](/zh/post/situation/) comedy is [a](/zh/post/a/) [popular](/zh/post/popular/) TV genre."
+- **名词**: 地理或地形的位置。例如: "[The](/zh/post/the/) [house](/zh/post/house/) has [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [situation](/zh/post/situation/) overlooking [the](/zh/post/the/) [lake](/zh/post/lake/)."
 
 ## 短语
-- "[In](/post/in/) [a](/post/a/) [situation](/post/situation/)" 指处于某种状态或情况中。
-- "[Out](/post/out/) [of](/post/of/) [situation](/post/situation/)" 意为失业或失去职位。
-- "[Critical](/post/critical/) [situation](/post/situation/)" 表示紧急或严重的情况。
+- "[In](/zh/post/in/) [a](/zh/post/a/) [situation](/zh/post/situation/)" 指处于某种状态或情况中。
+- "[Out](/zh/post/out/) [of](/zh/post/of/) [situation](/zh/post/situation/)" 意为失业或失去职位。
+- "[Critical](/zh/post/critical/) [situation](/zh/post/situation/)" 表示紧急或严重的情况。
 
 ## 例句
-- 名词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [find](/post/find/) [a](/post/a/) [solution](/post/solution/) [to](/post/to/) [this](/post/this/) [situation](/post/situation/) [before](/post/before/) [it](/post/it/) escalates."
-- 名词: "[The](/post/the/) [situation](/post/situation/) [with](/post/with/) [the](/post/the/) pandemic requires [everyone](/post/everyone/) [to](/post/to/) [wear](/post/wear/) masks."
-- 名词: "[The](/post/the/) [situation](/post/situation/) [on](/post/on/) [the](/post/the/) battlefield was [tense](/post/tense/) [and](/post/and/) unpredictable."
+- 名词: "[We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [find](/zh/post/find/) [a](/zh/post/a/) [solution](/zh/post/solution/) [to](/zh/post/to/) [this](/zh/post/this/) [situation](/zh/post/situation/) [before](/zh/post/before/) [it](/zh/post/it/) escalates."
+- 名词: "[The](/zh/post/the/) [situation](/zh/post/situation/) [with](/zh/post/with/) [the](/zh/post/the/) pandemic requires [everyone](/zh/post/everyone/) [to](/zh/post/to/) [wear](/zh/post/wear/) masks."
+- 名词: "[The](/zh/post/the/) [situation](/zh/post/situation/) [on](/zh/post/on/) [the](/zh/post/the/) battlefield was [tense](/zh/post/tense/) [and](/zh/post/and/) unpredictable."
 
 ## 同义词
-- [Condition](/post/condition/)
-- [Circumstance](/post/circumstance/)
+- [Condition](/zh/post/condition/)
+- [Circumstance](/zh/post/circumstance/)
 - Scenario
 - Context
-- [State](/post/state/)
+- [State](/zh/post/state/)

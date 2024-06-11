@@ -12,21 +12,21 @@ keywords = ['ai words', 'stability']
 
 ## 释义
 - **名词**:
-    - 稳定；稳固：指事物保持平衡、不变或可预测的状态。例如: "[The](/post/the/) [government](/post/government/) is working [on](/post/on/) improving [economic](/post/economic/) [stability](/post/stability/)."
-    - 安定；平稳：指情感、心理或社会状态的稳定。例如: "[She](/post/she/) values [the](/post/the/) [stability](/post/stability/) [of](/post/of/) [her](/post/her/) [home](/post/home/) [life](/post/life/)."
+    - 稳定；稳固：指事物保持平衡、不变或可预测的状态。例如: "[The](/zh/post/the/) [government](/zh/post/government/) is working [on](/zh/post/on/) improving [economic](/zh/post/economic/) [stability](/zh/post/stability/)."
+    - 安定；平稳：指情感、心理或社会状态的稳定。例如: "[She](/zh/post/she/) values [the](/zh/post/the/) [stability](/zh/post/stability/) [of](/zh/post/of/) [her](/zh/post/her/) [home](/zh/post/home/) [life](/zh/post/life/)."
 
 ## 短语
-- "[Maintain](/post/maintain/) [stability](/post/stability/)" 意为保持稳定。
-- "[Stability](/post/stability/) [of](/post/of/) [the](/post/the/) [system](/post/system/)" 指系统的稳定性。
-- "[Financial](/post/financial/) [stability](/post/stability/)" 指金融稳定。
+- "[Maintain](/zh/post/maintain/) [stability](/zh/post/stability/)" 意为保持稳定。
+- "[Stability](/zh/post/stability/) [of](/zh/post/of/) [the](/zh/post/the/) [system](/zh/post/system/)" 指系统的稳定性。
+- "[Financial](/zh/post/financial/) [stability](/zh/post/stability/)" 指金融稳定。
 
 ## 例句
-- "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) aims [to](/post/to/) [ensure](/post/ensure/) long-term [stability](/post/stability/) [in](/post/in/) [the](/post/the/) [region](/post/region/)."
-- "[Her](/post/her/) [job](/post/job/) provides [her](/post/her/) [with](/post/with/) [the](/post/the/) [stability](/post/stability/) [she](/post/she/) needs [for](/post/for/) [her](/post/her/) [family](/post/family/)."
-- "[The](/post/the/) [stock](/post/stock/) market's [stability](/post/stability/) is crucial [for](/post/for/) investors' [confidence](/post/confidence/)."
+- "[The](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/) aims [to](/zh/post/to/) [ensure](/zh/post/ensure/) long-term [stability](/zh/post/stability/) [in](/zh/post/in/) [the](/zh/post/the/) [region](/zh/post/region/)."
+- "[Her](/zh/post/her/) [job](/zh/post/job/) provides [her](/zh/post/her/) [with](/zh/post/with/) [the](/zh/post/the/) [stability](/zh/post/stability/) [she](/zh/post/she/) needs [for](/zh/post/for/) [her](/zh/post/her/) [family](/zh/post/family/)."
+- "[The](/zh/post/the/) [stock](/zh/post/stock/) market's [stability](/zh/post/stability/) is crucial [for](/zh/post/for/) investors' [confidence](/zh/post/confidence/)."
 
 ## 同义词
-- [Balance](/post/balance/)
+- [Balance](/zh/post/balance/)
 - Steadiness
 - Constancy
 - Equilibrium

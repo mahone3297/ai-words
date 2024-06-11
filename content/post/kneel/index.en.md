@@ -7,32 +7,32 @@ description = '[niːl] vi.跪，跪下，跪着'
 keywords = ['ai words', 'kneel']
 +++
 
-## [Word](/en/post/word/): [Kneel](/en/post/kneel/)
+## [Word](/post/word/): [Kneel](/post/kneel/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /niːl/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [lower](/en/post/lower/) one's [body](/en/post/body/) [onto](/en/post/onto/) [one](/en/post/one/) [or](/en/post/or/) [both](/en/post/both/) knees, typically [as](/en/post/as/) an [act](/en/post/act/) [of](/en/post/of/) [respect](/en/post/respect/), [worship](/en/post/worship/), [or](/en/post/or/) submission.
+- **[Verb](/post/verb/)**: [To](/post/to/) [lower](/post/lower/) one's [body](/post/body/) [onto](/post/onto/) [one](/post/one/) [or](/post/or/) [both](/post/both/) knees, typically [as](/post/as/) an [act](/post/act/) [of](/post/of/) [respect](/post/respect/), [worship](/post/worship/), [or](/post/or/) submission.
 
-[Example](/en/post/example/) sentences:
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) knight knelt [before](/en/post/before/) [the](/en/post/the/) [queen](/en/post/queen/) [to](/en/post/to/) [receive](/en/post/receive/) [his](/en/post/his/) accolade."
-- "[The](/en/post/the/) congregation knelt [in](/en/post/in/) [prayer](/en/post/prayer/) [during](/en/post/during/) [the](/en/post/the/) [service](/en/post/service/)."
-- "[As](/en/post/as/) [a](/en/post/a/) [sign](/en/post/sign/) [of](/en/post/of/) [protest](/en/post/protest/), [the](/en/post/the/) players took [a](/en/post/a/) [knee](/en/post/knee/) [before](/en/post/before/) [the](/en/post/the/) [game](/en/post/game/) began."
+[Example](/post/example/) sentences:
+- **[Verb](/post/verb/)**: "[The](/post/the/) knight knelt [before](/post/before/) [the](/post/the/) [queen](/post/queen/) [to](/post/to/) [receive](/post/receive/) [his](/post/his/) accolade."
+- "[The](/post/the/) congregation knelt [in](/post/in/) [prayer](/post/prayer/) [during](/post/during/) [the](/post/the/) [service](/post/service/)."
+- "[As](/post/as/) [a](/post/a/) [sign](/post/sign/) [of](/post/of/) [protest](/post/protest/), [the](/post/the/) players took [a](/post/a/) [knee](/post/knee/) [before](/post/before/) [the](/post/the/) [game](/post/game/) began."
 
 ## Phrases
-- "[Kneel](/en/post/kneel/) [down](/en/post/down/)": [To](/en/post/to/) [assume](/en/post/assume/) [a](/en/post/a/) kneeling [position](/en/post/position/) [from](/en/post/from/) [a](/en/post/a/) standing [one](/en/post/one/).
-- "[To](/en/post/to/) [make](/en/post/make/) [someone](/en/post/someone/) [kneel](/en/post/kneel/)": [To](/en/post/to/) [force](/en/post/force/) [or](/en/post/or/) [compel](/en/post/compel/) [someone](/en/post/someone/) [to](/en/post/to/) [kneel](/en/post/kneel/), [often](/en/post/often/) [as](/en/post/as/) [a](/en/post/a/) [show](/en/post/show/) [of](/en/post/of/) [authority](/en/post/authority/) [or](/en/post/or/) [power](/en/post/power/).
-- "[Take](/en/post/take/) [a](/en/post/a/) [knee](/en/post/knee/)": [This](/en/post/this/) idiomatic [expression](/en/post/expression/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [either](/en/post/either/) taking [a](/en/post/a/) [break](/en/post/break/) [or](/en/post/or/), [more](/en/post/more/) [recently](/en/post/recently/), [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [silent](/en/post/silent/) [protest](/en/post/protest/) [against](/en/post/against/) [social](/en/post/social/) injustice [by](/en/post/by/) athletes [who](/en/post/who/) [kneel](/en/post/kneel/) [during](/en/post/during/) [the](/en/post/the/) [national](/en/post/national/) anthem.
+- "[Kneel](/post/kneel/) [down](/post/down/)": [To](/post/to/) [assume](/post/assume/) [a](/post/a/) kneeling [position](/post/position/) [from](/post/from/) [a](/post/a/) standing [one](/post/one/).
+- "[To](/post/to/) [make](/post/make/) [someone](/post/someone/) [kneel](/post/kneel/)": [To](/post/to/) [force](/post/force/) [or](/post/or/) [compel](/post/compel/) [someone](/post/someone/) [to](/post/to/) [kneel](/post/kneel/), [often](/post/often/) [as](/post/as/) [a](/post/a/) [show](/post/show/) [of](/post/of/) [authority](/post/authority/) [or](/post/or/) [power](/post/power/).
+- "[Take](/post/take/) [a](/post/a/) [knee](/post/knee/)": [This](/post/this/) idiomatic [expression](/post/expression/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) [either](/post/either/) taking [a](/post/a/) [break](/post/break/) [or](/post/or/), [more](/post/more/) [recently](/post/recently/), [a](/post/a/) [form](/post/form/) [of](/post/of/) [silent](/post/silent/) [protest](/post/protest/) [against](/post/against/) [social](/post/social/) injustice [by](/post/by/) athletes [who](/post/who/) [kneel](/post/kneel/) [during](/post/during/) [the](/post/the/) [national](/post/national/) anthem.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) knelt [by](/en/post/by/) [the](/en/post/the/) riverbank [to](/en/post/to/) [fill](/en/post/fill/) [her](/en/post/her/) [water](/en/post/water/) jug."
-- "[He](/en/post/he/) asked [his](/en/post/his/) girlfriend [to](/en/post/to/) [kneel](/en/post/kneel/) [down](/en/post/down/) [so](/en/post/so/) [he](/en/post/he/) [could](/en/post/could/) [propose](/en/post/propose/)."
-- "[They](/en/post/they/) [all](/en/post/all/) knelt [in](/en/post/in/) [silence](/en/post/silence/) [to](/en/post/to/) honor [the](/en/post/the/) fallen soldiers."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/)**: "[She](/post/she/) knelt [by](/post/by/) [the](/post/the/) riverbank [to](/post/to/) [fill](/post/fill/) [her](/post/her/) [water](/post/water/) jug."
+- "[He](/post/he/) asked [his](/post/his/) girlfriend [to](/post/to/) [kneel](/post/kneel/) [down](/post/down/) [so](/post/so/) [he](/post/he/) [could](/post/could/) [propose](/post/propose/)."
+- "[They](/post/they/) [all](/post/all/) knelt [in](/post/in/) [silence](/post/silence/) [to](/post/to/) honor [the](/post/the/) fallen soldiers."
 
 ## Synonyms
-- [Bow](/en/post/bow/) ([in](/en/post/in/) [certain](/en/post/certain/) contexts)
-- Prostrate [oneself](/en/post/oneself/)
-- [Bend](/en/post/bend/) [the](/en/post/the/) [knee](/en/post/knee/)
-- [Go](/en/post/go/) [down](/en/post/down/) [on](/en/post/on/) one's knees
-- [Assume](/en/post/assume/) [a](/en/post/a/) kneeling posture
+- [Bow](/post/bow/) ([in](/post/in/) [certain](/post/certain/) contexts)
+- Prostrate [oneself](/post/oneself/)
+- [Bend](/post/bend/) [the](/post/the/) [knee](/post/knee/)
+- [Go](/post/go/) [down](/post/down/) [on](/post/on/) one's knees
+- [Assume](/post/assume/) [a](/post/a/) kneeling posture

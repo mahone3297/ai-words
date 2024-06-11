@@ -7,31 +7,31 @@ description = '[ˈdautlis] ad.无疑地；很可能'
 keywords = ['ai words', 'doubtless']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɑʊtli/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: [Absolutely](/en/post/absolutely/); [certainly](/en/post/certainly/); [without](/en/post/without/) [a](/en/post/a/) [doubt](/en/post/doubt/). [It](/en/post/it/) modifies verbs, adjectives, [or](/en/post/or/) [other](/en/post/other/) adverbs [to](/en/post/to/) [express](/en/post/express/) [certainty](/en/post/certainty/) [or](/en/post/or/) [strong](/en/post/strong/) [belief](/en/post/belief/).
+- **[Adverb](/post/adverb/)**: [Absolutely](/post/absolutely/); [certainly](/post/certainly/); [without](/post/without/) [a](/post/a/) [doubt](/post/doubt/). [It](/post/it/) modifies verbs, adjectives, [or](/post/or/) [other](/post/other/) adverbs [to](/post/to/) [express](/post/express/) [certainty](/post/certainty/) [or](/post/or/) [strong](/post/strong/) [belief](/post/belief/).
 
 ## Phrases
-- "[Without](/en/post/without/) [a](/en/post/a/) [doubt](/en/post/doubt/)"
-- "[Doubtless](/en/post/doubtless/), [he](/en/post/he/) [will](/en/post/will/) [come](/en/post/come/)."
-- "[Her](/en/post/her/) skills are [doubtless](/en/post/doubtless/) exceptional."
+- "[Without](/post/without/) [a](/post/a/) [doubt](/post/doubt/)"
+- "[Doubtless](/post/doubtless/), [he](/post/he/) [will](/post/will/) [come](/post/come/)."
+- "[Her](/post/her/) skills are [doubtless](/post/doubtless/) exceptional."
 
-## [Example](/en/post/example/) Sentences
-- "There's [no](/en/post/no/) [doubt](/en/post/doubt/) [that](/en/post/that/) [he](/en/post/he/) finished [first](/en/post/first/) [in](/en/post/in/) [the](/en/post/the/) [race](/en/post/race/)."
-- "[The](/en/post/the/) [answer](/en/post/answer/) is [doubtless](/en/post/doubtless/) [correct](/en/post/correct/)."
-- "[She](/en/post/she/) is [doubtless](/en/post/doubtless/) [the](/en/post/the/) [best](/en/post/best/) [candidate](/en/post/candidate/) [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/)."
+## [Example](/post/example/) Sentences
+- "There's [no](/post/no/) [doubt](/post/doubt/) [that](/post/that/) [he](/post/he/) finished [first](/post/first/) [in](/post/in/) [the](/post/the/) [race](/post/race/)."
+- "[The](/post/the/) [answer](/post/answer/) is [doubtless](/post/doubtless/) [correct](/post/correct/)."
+- "[She](/post/she/) is [doubtless](/post/doubtless/) [the](/post/the/) [best](/post/best/) [candidate](/post/candidate/) [for](/post/for/) [the](/post/the/) [job](/post/job/)."
 
 ## Synonyms
-- [Undoubtedly](/en/post/undoubtedly/)
-- [Clearly](/en/post/clearly/)
+- [Undoubtedly](/post/undoubtedly/)
+- [Clearly](/post/clearly/)
 - Positively
-- [Definitely](/en/post/definitely/)
-- [Absolutely](/en/post/absolutely/)
+- [Definitely](/post/definitely/)
+- [Absolutely](/post/absolutely/)
 
 ## Antonyms
-- [Maybe](/en/post/maybe/)
-- [Perhaps](/en/post/perhaps/)
+- [Maybe](/post/maybe/)
+- [Perhaps](/post/perhaps/)
 - Uncertainly
 - Doubtfully

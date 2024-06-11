@@ -7,26 +7,26 @@ description = '[ˈʌniksˈpektid] a.想不到的，意外的'
 keywords = ['ai words', 'unexpected']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /unɪkˈspektɪd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) anticipated [or](/en/post/or/) expected; occurring [without](/en/post/without/) [prior](/en/post/prior/) [notice](/en/post/notice/) [or](/en/post/or/) prediction. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [unexpected](/en/post/unexpected/) [delay](/en/post/delay/) caused chaos."
-- **[Noun](/en/post/noun/)**: An unforeseen [event](/en/post/event/) [or](/en/post/or/) [occurrence](/en/post/occurrence/); [a](/en/post/a/) [surprise](/en/post/surprise/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [unexpected](/en/post/unexpected/) [gift](/en/post/gift/) was [a](/en/post/a/) delightful [surprise](/en/post/surprise/)."
+- **[Adjective](/post/adjective/)**: [Not](/post/not/) anticipated [or](/post/or/) expected; occurring [without](/post/without/) [prior](/post/prior/) [notice](/post/notice/) [or](/post/or/) prediction. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [unexpected](/post/unexpected/) [delay](/post/delay/) caused chaos."
+- **[Noun](/post/noun/)**: An unforeseen [event](/post/event/) [or](/post/or/) [occurrence](/post/occurrence/); [a](/post/a/) [surprise](/post/surprise/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [unexpected](/post/unexpected/) [gift](/post/gift/) was [a](/post/a/) delightful [surprise](/post/surprise/)."
 
 ## Phrases
-- "[Out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [blue](/en/post/blue/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) happens unexpectedly.
-- "Caught [off](/en/post/off/) [guard](/en/post/guard/)" [means](/en/post/means/) [someone](/en/post/someone/) was surprised [by](/en/post/by/) an [unexpected](/en/post/unexpected/) [event](/en/post/event/).
-- "[Unexpected](/en/post/unexpected/) [turn](/en/post/turn/) [of](/en/post/of/) events" describes [a](/en/post/a/) [sudden](/en/post/sudden/) [change](/en/post/change/) [that](/en/post/that/) was [not](/en/post/not/) planned.
+- "[Out](/post/out/) [of](/post/of/) [the](/post/the/) [blue](/post/blue/)" refers [to](/post/to/) [something](/post/something/) [that](/post/that/) happens unexpectedly.
+- "Caught [off](/post/off/) [guard](/post/guard/)" [means](/post/means/) [someone](/post/someone/) was surprised [by](/post/by/) an [unexpected](/post/unexpected/) [event](/post/event/).
+- "[Unexpected](/post/unexpected/) [turn](/post/turn/) [of](/post/of/) events" describes [a](/post/a/) [sudden](/post/sudden/) [change](/post/change/) [that](/post/that/) was [not](/post/not/) planned.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [reaction](/en/post/reaction/) [to](/en/post/to/) [the](/en/post/the/) [news](/en/post/news/) was [one](/en/post/one/) [of](/en/post/of/) [utter](/en/post/utter/) [shock](/en/post/shock/), [as](/en/post/as/) [it](/en/post/it/) was [unexpected](/en/post/unexpected/)."
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [unexpected](/en/post/unexpected/) [guest](/en/post/guest/) arrived unannounced, causing [quite](/en/post/quite/) [a](/en/post/a/) [stir](/en/post/stir/)."
-- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) acted [with](/en/post/with/) [surprising](/en/post/surprising/) calmness, given [the](/en/post/the/) [unexpected](/en/post/unexpected/) [situation](/en/post/situation/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [reaction](/post/reaction/) [to](/post/to/) [the](/post/the/) [news](/post/news/) was [one](/post/one/) [of](/post/of/) [utter](/post/utter/) [shock](/post/shock/), [as](/post/as/) [it](/post/it/) was [unexpected](/post/unexpected/)."
+- **[Noun](/post/noun/)**: "[The](/post/the/) [unexpected](/post/unexpected/) [guest](/post/guest/) arrived unannounced, causing [quite](/post/quite/) [a](/post/a/) [stir](/post/stir/)."
+- **[Adverb](/post/adverb/)**: "[He](/post/he/) acted [with](/post/with/) [surprising](/post/surprising/) calmness, given [the](/post/the/) [unexpected](/post/unexpected/) [situation](/post/situation/)."
 
 ## Synonyms
 - Unforeseen
-- [Surprising](/en/post/surprising/)
+- [Surprising](/post/surprising/)
 - Impromptu
 - Unexpectedly
 - Abrupt
@@ -37,5 +37,5 @@ keywords = ['ai words', 'unexpected']
 - Expected
 - Foreseen
 - Predictable
-- [Routine](/en/post/routine/)
+- [Routine](/post/routine/)
 - Planned

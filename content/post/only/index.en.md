@@ -7,34 +7,34 @@ description = '[ˈəunli] ad.只，仅仅 a.唯一的'
 keywords = ['ai words', 'only']
 +++
 
-## [Word](/en/post/word/): [Only](/en/post/only/)
+## [Word](/post/word/): [Only](/post/only/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈəʊnli/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Being](/en/post/being/) [the](/en/post/the/) [single](/en/post/single/) [one](/en/post/one/); [not](/en/post/not/) [any](/en/post/any/) [other](/en/post/other/) [than](/en/post/than/) [the](/en/post/the/) [one](/en/post/one/) specified. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is [the](/en/post/the/) [only](/en/post/only/) [child](/en/post/child/) [in](/en/post/in/) [the](/en/post/the/) [family](/en/post/family/)."
-- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [the](/en/post/the/) exclusion [of](/en/post/of/) [all](/en/post/all/) others; [alone](/en/post/alone/); [exclusively](/en/post/exclusively/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [imply](/en/post/imply/) [restriction](/en/post/restriction/), [limitation](/en/post/limitation/), [or](/en/post/or/) [exception](/en/post/exception/). [For](/en/post/for/) [example](/en/post/example/): "I [only](/en/post/only/) [want](/en/post/want/) [to](/en/post/to/) [eat](/en/post/eat/) [ice](/en/post/ice/) [cream](/en/post/cream/) [today](/en/post/today/)." [or](/en/post/or/) "[He](/en/post/he/) works [only](/en/post/only/) [on](/en/post/on/) Mondays."
+- **[Adjective](/post/adjective/)**: [Being](/post/being/) [the](/post/the/) [single](/post/single/) [one](/post/one/); [not](/post/not/) [any](/post/any/) [other](/post/other/) [than](/post/than/) [the](/post/the/) [one](/post/one/) specified. [For](/post/for/) [example](/post/example/): "[She](/post/she/) is [the](/post/the/) [only](/post/only/) [child](/post/child/) [in](/post/in/) [the](/post/the/) [family](/post/family/)."
+- **[Adverb](/post/adverb/)**: [To](/post/to/) [the](/post/the/) exclusion [of](/post/of/) [all](/post/all/) others; [alone](/post/alone/); [exclusively](/post/exclusively/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [imply](/post/imply/) [restriction](/post/restriction/), [limitation](/post/limitation/), [or](/post/or/) [exception](/post/exception/). [For](/post/for/) [example](/post/example/): "I [only](/post/only/) [want](/post/want/) [to](/post/to/) [eat](/post/eat/) [ice](/post/ice/) [cream](/post/cream/) [today](/post/today/)." [or](/post/or/) "[He](/post/he/) works [only](/post/only/) [on](/post/on/) Mondays."
   
-  **[Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: [The](/en/post/the/) [single](/en/post/single/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/); [the](/en/post/the/) [unique](/en/post/unique/) [one](/en/post/one/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [this](/en/post/this/) [race](/en/post/race/), [he](/en/post/he/) is [the](/en/post/the/) [only](/en/post/only/)."
+  **[Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))**: [The](/post/the/) [single](/post/single/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/); [the](/post/the/) [unique](/post/unique/) [one](/post/one/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) [this](/post/this/) [race](/post/race/), [he](/post/he/) is [the](/post/the/) [only](/post/only/)."
 
 ## Phrases
-- "[Only](/en/post/only/) [if](/en/post/if/)" introduces [a](/en/post/a/) [condition](/en/post/condition/) [that](/en/post/that/) [must](/en/post/must/) [be](/en/post/be/) met [for](/en/post/for/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/). [Example](/en/post/example/): "I'll [go](/en/post/go/) [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/) [only](/en/post/only/) [if](/en/post/if/) you're going [too](/en/post/too/)."
-- "[Only](/en/post/only/) [when](/en/post/when/)" suggests [a](/en/post/a/) [specific](/en/post/specific/) [moment](/en/post/moment/) [or](/en/post/or/) [circumstance](/en/post/circumstance/) [under](/en/post/under/) [which](/en/post/which/) [something](/en/post/something/) happens. [Example](/en/post/example/): "[He](/en/post/he/) realizes [his](/en/post/his/) [mistake](/en/post/mistake/) [only](/en/post/only/) [when](/en/post/when/) it's [too](/en/post/too/) [late](/en/post/late/)."
-- "[The](/en/post/the/) [only](/en/post/only/) [one](/en/post/one/)" implies uniqueness [or](/en/post/or/) [being](/en/post/being/) [singular](/en/post/singular/) [in](/en/post/in/) [number](/en/post/number/) [or](/en/post/or/) [kind](/en/post/kind/). [Example](/en/post/example/): "She's [the](/en/post/the/) [only](/en/post/only/) [one](/en/post/one/) [who](/en/post/who/) knows [the](/en/post/the/) [secret](/en/post/secret/) recipe."
+- "[Only](/post/only/) [if](/post/if/)" introduces [a](/post/a/) [condition](/post/condition/) [that](/post/that/) [must](/post/must/) [be](/post/be/) met [for](/post/for/) [something](/post/something/) [to](/post/to/) [happen](/post/happen/). [Example](/post/example/): "I'll [go](/post/go/) [to](/post/to/) [the](/post/the/) [party](/post/party/) [only](/post/only/) [if](/post/if/) you're going [too](/post/too/)."
+- "[Only](/post/only/) [when](/post/when/)" suggests [a](/post/a/) [specific](/post/specific/) [moment](/post/moment/) [or](/post/or/) [circumstance](/post/circumstance/) [under](/post/under/) [which](/post/which/) [something](/post/something/) happens. [Example](/post/example/): "[He](/post/he/) realizes [his](/post/his/) [mistake](/post/mistake/) [only](/post/only/) [when](/post/when/) it's [too](/post/too/) [late](/post/late/)."
+- "[The](/post/the/) [only](/post/only/) [one](/post/one/)" implies uniqueness [or](/post/or/) [being](/post/being/) [singular](/post/singular/) [in](/post/in/) [number](/post/number/) [or](/post/or/) [kind](/post/kind/). [Example](/post/example/): "She's [the](/post/the/) [only](/post/only/) [one](/post/one/) [who](/post/who/) knows [the](/post/the/) [secret](/post/secret/) recipe."
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [book](/en/post/book/) is [the](/en/post/the/) [only](/en/post/only/) [copy](/en/post/copy/) [left](/en/post/left/) [in](/en/post/in/) [the](/en/post/the/) [library](/en/post/library/)."
-- **[Adverb](/en/post/adverb/)**: "I [only](/en/post/only/) [need](/en/post/need/) [five](/en/post/five/) minutes [to](/en/post/to/) [finish](/en/post/finish/) [my](/en/post/my/) homework."
-- **[Noun](/en/post/noun/) ([rarely](/en/post/rarely/) [used](/en/post/used/))**: "[He](/en/post/he/) was [the](/en/post/the/) [only](/en/post/only/) [among](/en/post/among/) [the](/en/post/the/) [group](/en/post/group/) [who](/en/post/who/) had [actually](/en/post/actually/) visited Paris."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[This](/post/this/) [book](/post/book/) is [the](/post/the/) [only](/post/only/) [copy](/post/copy/) [left](/post/left/) [in](/post/in/) [the](/post/the/) [library](/post/library/)."
+- **[Adverb](/post/adverb/)**: "I [only](/post/only/) [need](/post/need/) [five](/post/five/) minutes [to](/post/to/) [finish](/post/finish/) [my](/post/my/) homework."
+- **[Noun](/post/noun/) ([rarely](/post/rarely/) [used](/post/used/))**: "[He](/post/he/) was [the](/post/the/) [only](/post/only/) [among](/post/among/) [the](/post/the/) [group](/post/group/) [who](/post/who/) had [actually](/post/actually/) visited Paris."
 
 ## Synonyms
-- [Sole](/en/post/sole/)
+- [Sole](/post/sole/)
 - Exclusive
-- [Alone](/en/post/alone/)
-- [Unique](/en/post/unique/)
-- Unmatched ([adjective](/en/post/adjective/))
-- [Merely](/en/post/merely/)
-- [Simply](/en/post/simply/) ([adverb](/en/post/adverb/)) 
+- [Alone](/post/alone/)
+- [Unique](/post/unique/)
+- Unmatched ([adjective](/post/adjective/))
+- [Merely](/post/merely/)
+- [Simply](/post/simply/) ([adverb](/post/adverb/)) 
 
-[Note](/en/post/note/): [As](/en/post/as/) an [adverb](/en/post/adverb/), '[only](/en/post/only/)' [can](/en/post/can/) [sometimes](/en/post/sometimes/) [change](/en/post/change/) [the](/en/post/the/) [meaning](/en/post/meaning/) [of](/en/post/of/) [a](/en/post/a/) [sentence](/en/post/sentence/) significantly depending [on](/en/post/on/) [its](/en/post/its/) placement [within](/en/post/within/) [the](/en/post/the/) [sentence](/en/post/sentence/) [structure](/en/post/structure/). [This](/en/post/this/) is known [as](/en/post/as/) '[sentence](/en/post/sentence/) adverbial [use](/en/post/use/)'. [For](/en/post/for/) [instance](/en/post/instance/), [in](/en/post/in/) "I [only](/en/post/only/) ate [one](/en/post/one/) cookie", moving '[only](/en/post/only/)' [to](/en/post/to/) [different](/en/post/different/) positions [would](/en/post/would/) [alter](/en/post/alter/) [the](/en/post/the/) [emphasis](/en/post/emphasis/): "I ate [only](/en/post/only/) [one](/en/post/one/) cookie" vs "I ate [one](/en/post/one/) cookie [only](/en/post/only/)".
+[Note](/post/note/): [As](/post/as/) an [adverb](/post/adverb/), '[only](/post/only/)' [can](/post/can/) [sometimes](/post/sometimes/) [change](/post/change/) [the](/post/the/) [meaning](/post/meaning/) [of](/post/of/) [a](/post/a/) [sentence](/post/sentence/) significantly depending [on](/post/on/) [its](/post/its/) placement [within](/post/within/) [the](/post/the/) [sentence](/post/sentence/) [structure](/post/structure/). [This](/post/this/) is known [as](/post/as/) '[sentence](/post/sentence/) adverbial [use](/post/use/)'. [For](/post/for/) [instance](/post/instance/), [in](/post/in/) "I [only](/post/only/) ate [one](/post/one/) cookie", moving '[only](/post/only/)' [to](/post/to/) [different](/post/different/) positions [would](/post/would/) [alter](/post/alter/) [the](/post/the/) [emphasis](/post/emphasis/): "I ate [only](/post/only/) [one](/post/one/) cookie" vs "I ate [one](/post/one/) cookie [only](/post/only/)".

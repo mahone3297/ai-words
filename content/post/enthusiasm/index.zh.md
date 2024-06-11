@@ -11,20 +11,20 @@ keywords = ['ai words', 'enthusiasm']
 /enθjuːziˈæsm/
 
 ## 释义
-- **名词**: 热情；热心；热衷；对某事物的强烈兴趣或爱好。例如: "[She](/post/she/) has [great](/post/great/) [enthusiasm](/post/enthusiasm/) [for](/post/for/) [classical](/post/classical/) [music](/post/music/)."
-- **形容词**: 充满热情的；热心的；热衷的。例如: "[The](/post/the/) [team](/post/team/) played [with](/post/with/) [enthusiasm](/post/enthusiasm/) [and](/post/and/) won [the](/post/the/) [match](/post/match/)."
+- **名词**: 热情；热心；热衷；对某事物的强烈兴趣或爱好。例如: "[She](/zh/post/she/) has [great](/zh/post/great/) [enthusiasm](/zh/post/enthusiasm/) [for](/zh/post/for/) [classical](/zh/post/classical/) [music](/zh/post/music/)."
+- **形容词**: 充满热情的；热心的；热衷的。例如: "[The](/zh/post/the/) [team](/zh/post/team/) played [with](/zh/post/with/) [enthusiasm](/zh/post/enthusiasm/) [and](/zh/post/and/) won [the](/zh/post/the/) [match](/zh/post/match/)."
 
 ## 短语
-- "[show](/post/show/) [enthusiasm](/post/enthusiasm/) [for](/post/for/) [something](/post/something/)" 表现出对某事的热情。
-- "[enthusiastic](/post/enthusiastic/) [about](/post/about/)" 对...非常感兴趣或热衷。
+- "[show](/zh/post/show/) [enthusiasm](/zh/post/enthusiasm/) [for](/zh/post/for/) [something](/zh/post/something/)" 表现出对某事的热情。
+- "[enthusiastic](/zh/post/enthusiastic/) [about](/zh/post/about/)" 对...非常感兴趣或热衷。
 
 ## 例句
-- 名词: "[His](/post/his/) [enthusiasm](/post/enthusiasm/) [for](/post/for/) cooking is contagious, making [everyone](/post/everyone/) [want](/post/want/) [to](/post/to/) [join](/post/join/) [in](/post/in/)."
-- 形容词: "[The](/post/the/) [audience](/post/audience/) was [enthusiastic](/post/enthusiastic/) [about](/post/about/) [the](/post/the/) speaker's presentation."
+- 名词: "[His](/zh/post/his/) [enthusiasm](/zh/post/enthusiasm/) [for](/zh/post/for/) cooking is contagious, making [everyone](/zh/post/everyone/) [want](/zh/post/want/) [to](/zh/post/to/) [join](/zh/post/join/) [in](/zh/post/in/)."
+- 形容词: "[The](/zh/post/the/) [audience](/zh/post/audience/) was [enthusiastic](/zh/post/enthusiastic/) [about](/zh/post/about/) [the](/zh/post/the/) speaker's presentation."
 
 ## 同义词
-- [passion](/post/passion/)
+- [passion](/zh/post/passion/)
 - eagerness
-- [zeal](/post/zeal/)
+- [zeal](/zh/post/zeal/)
 - keenness
 - excitement

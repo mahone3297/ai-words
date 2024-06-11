@@ -12,27 +12,27 @@ keywords = ['ai words', 'thrust']
 
 ## 释义
 - **名词**: 
-   - 力量的猛然推动；推力。例如: "[The](/post/the/) [engine](/post/engine/) produced [a](/post/a/) mighty [thrust](/post/thrust/) [that](/post/that/) sent [the](/post/the/) [rocket](/post/rocket/) [into](/post/into/) [space](/post/space/)."
-   - 信任；信赖。例如: "[She](/post/she/) placed [her](/post/her/) [complete](/post/complete/) [trust](/post/trust/) [in](/post/in/) [his](/post/his/) judgment."
-   - 刺击动作；猛刺。例如: "[The](/post/the/) knight delivered [a](/post/a/) [powerful](/post/powerful/) [thrust](/post/thrust/) [with](/post/with/) [his](/post/his/) [sword](/post/sword/)."
+   - 力量的猛然推动；推力。例如: "[The](/zh/post/the/) [engine](/zh/post/engine/) produced [a](/zh/post/a/) mighty [thrust](/zh/post/thrust/) [that](/zh/post/that/) sent [the](/zh/post/the/) [rocket](/zh/post/rocket/) [into](/zh/post/into/) [space](/zh/post/space/)."
+   - 信任；信赖。例如: "[She](/zh/post/she/) placed [her](/zh/post/her/) [complete](/zh/post/complete/) [trust](/zh/post/trust/) [in](/zh/post/in/) [his](/zh/post/his/) judgment."
+   - 刺击动作；猛刺。例如: "[The](/zh/post/the/) knight delivered [a](/zh/post/a/) [powerful](/zh/post/powerful/) [thrust](/zh/post/thrust/) [with](/zh/post/with/) [his](/zh/post/his/) [sword](/zh/post/sword/)."
 
 - **动词**:
-   - 推；用力插入。例如: "[He](/post/he/) [thrust](/post/thrust/) [the](/post/the/) [key](/post/key/) [into](/post/into/) [the](/post/the/) [lock](/post/lock/)."
-   - 强加；强迫。例如: "[The](/post/the/) [idea](/post/idea/) was [thrust](/post/thrust/) [upon](/post/upon/) [us](/post/us/) [without](/post/without/) [any](/post/any/) [discussion](/post/discussion/)."
-   - 突然提出或引入。例如: "[The](/post/the/) [topic](/post/topic/) was [thrust](/post/thrust/) [into](/post/into/) [the](/post/the/) [conversation](/post/conversation/) unexpectedly."
+   - 推；用力插入。例如: "[He](/zh/post/he/) [thrust](/zh/post/thrust/) [the](/zh/post/the/) [key](/zh/post/key/) [into](/zh/post/into/) [the](/zh/post/the/) [lock](/zh/post/lock/)."
+   - 强加；强迫。例如: "[The](/zh/post/the/) [idea](/zh/post/idea/) was [thrust](/zh/post/thrust/) [upon](/zh/post/upon/) [us](/zh/post/us/) [without](/zh/post/without/) [any](/zh/post/any/) [discussion](/zh/post/discussion/)."
+   - 突然提出或引入。例如: "[The](/zh/post/the/) [topic](/zh/post/topic/) was [thrust](/zh/post/thrust/) [into](/zh/post/into/) [the](/zh/post/the/) [conversation](/zh/post/conversation/) unexpectedly."
 
 ## 短语
-- "[Thrust](/post/thrust/) [forward](/post/forward/)" 意为向前推或推进。
-- "[Thrust](/post/thrust/) [into](/post/into/)" 意为突然使处于（某种情况）或强加于。例如: "[She](/post/she/) was [thrust](/post/thrust/) [into](/post/into/) [the](/post/the/) [public](/post/public/) [eye](/post/eye/) [when](/post/when/) [she](/post/she/) won [the](/post/the/) [competition](/post/competition/)."
+- "[Thrust](/zh/post/thrust/) [forward](/zh/post/forward/)" 意为向前推或推进。
+- "[Thrust](/zh/post/thrust/) [into](/zh/post/into/)" 意为突然使处于（某种情况）或强加于。例如: "[She](/zh/post/she/) was [thrust](/zh/post/thrust/) [into](/zh/post/into/) [the](/zh/post/the/) [public](/zh/post/public/) [eye](/zh/post/eye/) [when](/zh/post/when/) [she](/zh/post/she/) won [the](/zh/post/the/) [competition](/zh/post/competition/)."
 
 ## 例句
-- 名词: "[The](/post/the/) plane's engines generated an incredible [amount](/post/amount/) [of](/post/of/) [thrust](/post/thrust/) [for](/post/for/) takeoff."
-- 动词: "[He](/post/he/) [thrust](/post/thrust/) [his](/post/his/) [way](/post/way/) [through](/post/through/) [the](/post/the/) crowded hallway."
-- 感叹词: (不常见作为感叹词使用，但在某些情境下可表达突然或强烈的意思) "[Thrust](/post/thrust/)! [We](/post/we/) [need](/post/need/) [to](/post/to/) [move](/post/move/) [quickly](/post/quickly/)!"
+- 名词: "[The](/zh/post/the/) plane's engines generated an incredible [amount](/zh/post/amount/) [of](/zh/post/of/) [thrust](/zh/post/thrust/) [for](/zh/post/for/) takeoff."
+- 动词: "[He](/zh/post/he/) [thrust](/zh/post/thrust/) [his](/zh/post/his/) [way](/zh/post/way/) [through](/zh/post/through/) [the](/zh/post/the/) crowded hallway."
+- 感叹词: (不常见作为感叹词使用，但在某些情境下可表达突然或强烈的意思) "[Thrust](/zh/post/thrust/)! [We](/zh/post/we/) [need](/zh/post/need/) [to](/zh/post/to/) [move](/zh/post/move/) [quickly](/zh/post/quickly/)!"
 
 ## 同义词
-- [Push](/post/push/)
+- [Push](/zh/post/push/)
 - Impel
-- [Force](/post/force/)
-- [Jam](/post/jam/)
+- [Force](/zh/post/force/)
+- [Jam](/zh/post/jam/)
 - Poke

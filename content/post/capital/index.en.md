@@ -7,44 +7,44 @@ description = '[ˈkæpitəl] n.资本，资金；首都'
 keywords = ['ai words', 'capital']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kæpɪˈtəl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [principal](/en/post/principal/) [city](/en/post/city/) [or](/en/post/or/) [town](/en/post/town/) [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/), [region](/en/post/region/), [or](/en/post/or/) [province](/en/post/province/), [often](/en/post/often/) [with](/en/post/with/) [special](/en/post/special/) administrative, [political](/en/post/political/), [or](/en/post/or/) [economic](/en/post/economic/) [importance](/en/post/importance/): *[The](/en/post/the/) [capital](/en/post/capital/) [of](/en/post/of/) France is Paris.*
-2. ([in](/en/post/in/) lowercase) [The](/en/post/the/) [initial](/en/post/initial/) [letter](/en/post/letter/) [or](/en/post/or/) letters [of](/en/post/of/) [a](/en/post/a/) [word](/en/post/word/), [especially](/en/post/especially/) [when](/en/post/when/) [set](/en/post/set/) [apart](/en/post/apart/) [or](/en/post/or/) printed [in](/en/post/in/) [a](/en/post/a/) larger [size](/en/post/size/) [or](/en/post/or/) [type](/en/post/type/): *[The](/en/post/the/) [title](/en/post/title/) [page](/en/post/page/) begins [with](/en/post/with/) [the](/en/post/the/) [capital](/en/post/capital/) 'I' [of](/en/post/of/) "[Institute](/en/post/institute/)."*
-3. [Capital](/en/post/capital/) letters [or](/en/post/or/) uppercase letters: *[Use](/en/post/use/) [proper](/en/post/proper/) capitalization [in](/en/post/in/) [your](/en/post/your/) [writing](/en/post/writing/).*
-4. [The](/en/post/the/) [sum](/en/post/sum/) [or](/en/post/or/) [total](/en/post/total/) [of](/en/post/of/) [something](/en/post/something/): *[The](/en/post/the/) [capital](/en/post/capital/) invested [in](/en/post/in/) [this](/en/post/this/) [project](/en/post/project/) is [substantial](/en/post/substantial/).*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [principal](/post/principal/) [city](/post/city/) [or](/post/or/) [town](/post/town/) [of](/post/of/) [a](/post/a/) [country](/post/country/), [region](/post/region/), [or](/post/or/) [province](/post/province/), [often](/post/often/) [with](/post/with/) [special](/post/special/) administrative, [political](/post/political/), [or](/post/or/) [economic](/post/economic/) [importance](/post/importance/): *[The](/post/the/) [capital](/post/capital/) [of](/post/of/) France is Paris.*
+2. ([in](/post/in/) lowercase) [The](/post/the/) [initial](/post/initial/) [letter](/post/letter/) [or](/post/or/) letters [of](/post/of/) [a](/post/a/) [word](/post/word/), [especially](/post/especially/) [when](/post/when/) [set](/post/set/) [apart](/post/apart/) [or](/post/or/) printed [in](/post/in/) [a](/post/a/) larger [size](/post/size/) [or](/post/or/) [type](/post/type/): *[The](/post/the/) [title](/post/title/) [page](/post/page/) begins [with](/post/with/) [the](/post/the/) [capital](/post/capital/) 'I' [of](/post/of/) "[Institute](/post/institute/)."*
+3. [Capital](/post/capital/) letters [or](/post/or/) uppercase letters: *[Use](/post/use/) [proper](/post/proper/) capitalization [in](/post/in/) [your](/post/your/) [writing](/post/writing/).*
+4. [The](/post/the/) [sum](/post/sum/) [or](/post/or/) [total](/post/total/) [of](/post/of/) [something](/post/something/): *[The](/post/the/) [capital](/post/capital/) invested [in](/post/in/) [this](/post/this/) [project](/post/project/) is [substantial](/post/substantial/).*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) designate [or](/en/post/or/) [treat](/en/post/treat/) [as](/en/post/as/) [the](/en/post/the/) [capital](/en/post/capital/) [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/), [region](/en/post/region/), [or](/en/post/or/) [organization](/en/post/organization/): *[The](/en/post/the/) [city](/en/post/city/) was designated [as](/en/post/as/) [the](/en/post/the/) [capital](/en/post/capital/) [in](/en/post/in/) 1950.*
-2. [To](/en/post/to/) [write](/en/post/write/) [or](/en/post/or/) [print](/en/post/print/) [in](/en/post/in/) [capital](/en/post/capital/) letters: *[She](/en/post/she/) capitalized [the](/en/post/the/) [first](/en/post/first/) [letter](/en/post/letter/) [of](/en/post/of/) [each](/en/post/each/) [sentence](/en/post/sentence/).*
-3. (informal) [To](/en/post/to/) [invest](/en/post/invest/) [or](/en/post/or/) allocate funds [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/): *[They](/en/post/they/) are capitalizing [on](/en/post/on/) [new](/en/post/new/) opportunities.*
+### [Verb](/post/verb/)
+1. [To](/post/to/) designate [or](/post/or/) [treat](/post/treat/) [as](/post/as/) [the](/post/the/) [capital](/post/capital/) [of](/post/of/) [a](/post/a/) [country](/post/country/), [region](/post/region/), [or](/post/or/) [organization](/post/organization/): *[The](/post/the/) [city](/post/city/) was designated [as](/post/as/) [the](/post/the/) [capital](/post/capital/) [in](/post/in/) 1950.*
+2. [To](/post/to/) [write](/post/write/) [or](/post/or/) [print](/post/print/) [in](/post/in/) [capital](/post/capital/) letters: *[She](/post/she/) capitalized [the](/post/the/) [first](/post/first/) [letter](/post/letter/) [of](/post/of/) [each](/post/each/) [sentence](/post/sentence/).*
+3. (informal) [To](/post/to/) [invest](/post/invest/) [or](/post/or/) allocate funds [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [purpose](/post/purpose/): *[They](/post/they/) are capitalizing [on](/post/on/) [new](/post/new/) opportunities.*
 
-### [Adjective](/en/post/adjective/)
-1. Designating [or](/en/post/or/) referring [to](/en/post/to/) [the](/en/post/the/) [main](/en/post/main/) [or](/en/post/or/) [most](/en/post/most/) [important](/en/post/important/) [part](/en/post/part/) [or](/en/post/or/) [aspect](/en/post/aspect/): *[The](/en/post/the/) [capital](/en/post/capital/) [city](/en/post/city/) is [the](/en/post/the/) cultural [capital](/en/post/capital/) [of](/en/post/of/) [the](/en/post/the/) [country](/en/post/country/).*
-2. Having [or](/en/post/or/) involving [a](/en/post/a/) [significant](/en/post/significant/) [amount](/en/post/amount/) [or](/en/post/or/) [degree](/en/post/degree/): *[A](/en/post/a/) [capital](/en/post/capital/) [expense](/en/post/expense/) is [a](/en/post/a/) [large](/en/post/large/) [investment](/en/post/investment/).*
-3. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [capital](/en/post/capital/) [city](/en/post/city/) [or](/en/post/or/) [its](/en/post/its/) residents: *[The](/en/post/the/) capital's [architecture](/en/post/architecture/) is [impressive](/en/post/impressive/).*
+### [Adjective](/post/adjective/)
+1. Designating [or](/post/or/) referring [to](/post/to/) [the](/post/the/) [main](/post/main/) [or](/post/or/) [most](/post/most/) [important](/post/important/) [part](/post/part/) [or](/post/or/) [aspect](/post/aspect/): *[The](/post/the/) [capital](/post/capital/) [city](/post/city/) is [the](/post/the/) cultural [capital](/post/capital/) [of](/post/of/) [the](/post/the/) [country](/post/country/).*
+2. Having [or](/post/or/) involving [a](/post/a/) [significant](/post/significant/) [amount](/post/amount/) [or](/post/or/) [degree](/post/degree/): *[A](/post/a/) [capital](/post/capital/) [expense](/post/expense/) is [a](/post/a/) [large](/post/large/) [investment](/post/investment/).*
+3. [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [capital](/post/capital/) [city](/post/city/) [or](/post/or/) [its](/post/its/) residents: *[The](/post/the/) capital's [architecture](/post/architecture/) is [impressive](/post/impressive/).*
 
 ## Phrases
-- "[The](/en/post/the/) [capital](/en/post/capital/) [of](/en/post/of/) [[place](/en/post/place/)]"
-- "[Capital](/en/post/capital/) gains [tax](/en/post/tax/)"
-- "[Capital](/en/post/capital/) appreciation"
-- "[Write](/en/post/write/) [in](/en/post/in/) [capital](/en/post/capital/) letters"
+- "[The](/post/the/) [capital](/post/capital/) [of](/post/of/) [[place](/post/place/)]"
+- "[Capital](/post/capital/) gains [tax](/post/tax/)"
+- "[Capital](/post/capital/) appreciation"
+- "[Write](/post/write/) [in](/post/in/) [capital](/post/capital/) letters"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) nation's [capital](/en/post/capital/), Washington D.C., is [home](/en/post/home/) [to](/en/post/to/) [many](/en/post/many/) historic landmarks."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) architect decided [to](/en/post/to/) capitalize [the](/en/post/the/) building's facade [for](/en/post/for/) added [emphasis](/en/post/emphasis/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [business](/en/post/business/) [plan](/en/post/plan/) was filled [with](/en/post/with/) innovative ideas, [a](/en/post/a/) [capital](/en/post/capital/) [for](/en/post/for/) attracting investors."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) nation's [capital](/post/capital/), Washington D.C., is [home](/post/home/) [to](/post/to/) [many](/post/many/) historic landmarks."
+- **[Verb](/post/verb/)**: "[The](/post/the/) architect decided [to](/post/to/) capitalize [the](/post/the/) building's facade [for](/post/for/) added [emphasis](/post/emphasis/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [business](/post/business/) [plan](/post/plan/) was filled [with](/post/with/) innovative ideas, [a](/post/a/) [capital](/post/capital/) [for](/post/for/) attracting investors."
 
 ## Synonyms
-- [Main](/en/post/main/)
-- [Principal](/en/post/principal/)
-- [Primary](/en/post/primary/)
-- [Central](/en/post/central/)
-- [Key](/en/post/key/)
-- [Major](/en/post/major/)
-- [Fundamental](/en/post/fundamental/)
+- [Main](/post/main/)
+- [Principal](/post/principal/)
+- [Primary](/post/primary/)
+- [Central](/post/central/)
+- [Key](/post/key/)
+- [Major](/post/major/)
+- [Fundamental](/post/fundamental/)
 - Capitalized
 - Uppercase

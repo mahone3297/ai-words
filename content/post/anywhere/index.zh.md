@@ -11,20 +11,20 @@ keywords = ['ai words', 'anywhere']
 /ˈenɪweə(r)/
 
 ## 释义
-- **副词**: 无论何处；在任何地方；到处。例如: "I [can](/post/can/) [do](/post/do/) [this](/post/this/) [work](/post/work/) [anywhere](/post/anywhere/)."
-- **形容词**: 无处；到处都行。例如: "I don't [mind](/post/mind/), [anywhere](/post/anywhere/) is [fine](/post/fine/) [with](/post/with/) [me](/post/me/)."
+- **副词**: 无论何处；在任何地方；到处。例如: "I [can](/zh/post/can/) [do](/zh/post/do/) [this](/zh/post/this/) [work](/zh/post/work/) [anywhere](/zh/post/anywhere/)."
+- **形容词**: 无处；到处都行。例如: "I don't [mind](/zh/post/mind/), [anywhere](/zh/post/anywhere/) is [fine](/zh/post/fine/) [with](/zh/post/with/) [me](/zh/post/me/)."
 
 ## 短语
-- "[Anywhere](/post/anywhere/) [but](/post/but/) [here](/post/here/)" 表示宁愿在别处，不想在这里。
-- "[Anywhere](/post/anywhere/) [else](/post/else/)" 意味着其他任何地方。
+- "[Anywhere](/zh/post/anywhere/) [but](/zh/post/but/) [here](/zh/post/here/)" 表示宁愿在别处，不想在这里。
+- "[Anywhere](/zh/post/anywhere/) [else](/zh/post/else/)" 意味着其他任何地方。
 
 ## 例句
-- 副词: "[You](/post/you/) [can](/post/can/) [find](/post/find/) [me](/post/me/) [anywhere](/post/anywhere/) [when](/post/when/) I'm working [on](/post/on/) [my](/post/my/) [project](/post/project/)."
-- 形容词: "[As](/post/as/) [long](/post/long/) [as](/post/as/) it's [quiet](/post/quiet/), I [can](/post/can/) [study](/post/study/) [anywhere](/post/anywhere/)."
+- 副词: "[You](/zh/post/you/) [can](/zh/post/can/) [find](/zh/post/find/) [me](/zh/post/me/) [anywhere](/zh/post/anywhere/) [when](/zh/post/when/) I'm working [on](/zh/post/on/) [my](/zh/post/my/) [project](/zh/post/project/)."
+- 形容词: "[As](/zh/post/as/) [long](/zh/post/long/) [as](/zh/post/as/) it's [quiet](/zh/post/quiet/), I [can](/zh/post/can/) [study](/zh/post/study/) [anywhere](/zh/post/anywhere/)."
 
 ## 同义词
-- [Everywhere](/post/everywhere/)
-- [In](/post/in/) [any](/post/any/) [place](/post/place/)
-- [Anywhere](/post/anywhere/) [at](/post/at/) [all](/post/all/)
-- [No](/post/no/) [matter](/post/matter/) [where](/post/where/)
-- [Wherever](/post/wherever/)
+- [Everywhere](/zh/post/everywhere/)
+- [In](/zh/post/in/) [any](/zh/post/any/) [place](/zh/post/place/)
+- [Anywhere](/zh/post/anywhere/) [at](/zh/post/at/) [all](/zh/post/all/)
+- [No](/zh/post/no/) [matter](/zh/post/matter/) [where](/zh/post/where/)
+- [Wherever](/zh/post/wherever/)

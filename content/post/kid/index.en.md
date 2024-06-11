@@ -7,29 +7,29 @@ description = '[kid] n.小孩，儿童，少年'
 keywords = ['ai words', 'kid']
 +++
 
-## [Word](/en/post/word/): [Kid](/en/post/kid/)
+## [Word](/post/word/): [Kid](/post/kid/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɪd/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [young](/en/post/young/) [person](/en/post/person/), typically [between](/en/post/between/) infancy [and](/en/post/and/) puberty; [a](/en/post/a/) [child](/en/post/child/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) kids were playing [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
-- **[Noun](/en/post/noun/) (informal)**: [A](/en/post/a/) [young](/en/post/young/) [goat](/en/post/goat/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) raised [several](/en/post/several/) kids [on](/en/post/on/) [his](/en/post/his/) [farm](/en/post/farm/)."
-- **[Verb](/en/post/verb/) (informal)**: [To](/en/post/to/) tease [or](/en/post/or/) [joke](/en/post/joke/) [with](/en/post/with/) [someone](/en/post/someone/), [often](/en/post/often/) affectionately. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) likes [to](/en/post/to/) [kid](/en/post/kid/) [his](/en/post/his/) friends [about](/en/post/about/) [their](/en/post/their/) [fashion](/en/post/fashion/) choices."
+- **[Noun](/post/noun/)**: [A](/post/a/) [young](/post/young/) [person](/post/person/), typically [between](/post/between/) infancy [and](/post/and/) puberty; [a](/post/a/) [child](/post/child/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) kids were playing [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **[Noun](/post/noun/) (informal)**: [A](/post/a/) [young](/post/young/) [goat](/post/goat/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) raised [several](/post/several/) kids [on](/post/on/) [his](/post/his/) [farm](/post/farm/)."
+- **[Verb](/post/verb/) (informal)**: [To](/post/to/) tease [or](/post/or/) [joke](/post/joke/) [with](/post/with/) [someone](/post/someone/), [often](/post/often/) affectionately. [For](/post/for/) [example](/post/example/): "[He](/post/he/) likes [to](/post/to/) [kid](/post/kid/) [his](/post/his/) friends [about](/post/about/) [their](/post/their/) [fashion](/post/fashion/) choices."
 
 ## Phrases
-- "[Just](/en/post/just/) kidding" [or](/en/post/or/) "I'm [just](/en/post/just/) kidding": [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) one's [previous](/en/post/previous/) [statement](/en/post/statement/) was [not](/en/post/not/) [serious](/en/post/serious/) [but](/en/post/but/) intended [as](/en/post/as/) [a](/en/post/a/) [joke](/en/post/joke/).
-- "[To](/en/post/to/) [play](/en/post/play/) [the](/en/post/the/) [kid](/en/post/kid/)": [To](/en/post/to/) [act](/en/post/act/) playfully [or](/en/post/or/) mischievously [like](/en/post/like/) [a](/en/post/a/) [child](/en/post/child/).
-- "[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [kid](/en/post/kid/) [or](/en/post/or/) kids": [To](/en/post/to/) [give](/en/post/give/) [birth](/en/post/birth/) [to](/en/post/to/) [or](/en/post/or/) [parent](/en/post/parent/) [a](/en/post/a/) [child](/en/post/child/)/children.
+- "[Just](/post/just/) kidding" [or](/post/or/) "I'm [just](/post/just/) kidding": [Used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) [that](/post/that/) one's [previous](/post/previous/) [statement](/post/statement/) was [not](/post/not/) [serious](/post/serious/) [but](/post/but/) intended [as](/post/as/) [a](/post/a/) [joke](/post/joke/).
+- "[To](/post/to/) [play](/post/play/) [the](/post/the/) [kid](/post/kid/)": [To](/post/to/) [act](/post/act/) playfully [or](/post/or/) mischievously [like](/post/like/) [a](/post/a/) [child](/post/child/).
+- "[To](/post/to/) [have](/post/have/) [a](/post/a/) [kid](/post/kid/) [or](/post/or/) kids": [To](/post/to/) [give](/post/give/) [birth](/post/birth/) [to](/post/to/) [or](/post/or/) [parent](/post/parent/) [a](/post/a/) [child](/post/child/)/children.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) kids [to](/en/post/to/) [line](/en/post/line/) [up](/en/post/up/) [for](/en/post/for/) recess."
-- **[Noun](/en/post/noun/) (informal)**: "[The](/en/post/the/) nanny bottle-fed [the](/en/post/the/) [baby](/en/post/baby/) goats, [or](/en/post/or/) kids, [every](/en/post/every/) [evening](/en/post/evening/)."
-- **[Verb](/en/post/verb/)**: "Don't [take](/en/post/take/) offense; I'm [only](/en/post/only/) kidding [when](/en/post/when/) I [call](/en/post/call/) [you](/en/post/you/) '[old](/en/post/old/) [man](/en/post/man/)'."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) kids [to](/post/to/) [line](/post/line/) [up](/post/up/) [for](/post/for/) recess."
+- **[Noun](/post/noun/) (informal)**: "[The](/post/the/) nanny bottle-fed [the](/post/the/) [baby](/post/baby/) goats, [or](/post/or/) kids, [every](/post/every/) [evening](/post/evening/)."
+- **[Verb](/post/verb/)**: "Don't [take](/post/take/) offense; I'm [only](/post/only/) kidding [when](/post/when/) I [call](/post/call/) [you](/post/you/) '[old](/post/old/) [man](/post/man/)'."
 
 ## Synonyms
-- [Child](/en/post/child/) ([noun](/en/post/noun/))
-- Offspring ([noun](/en/post/noun/))
-- [Lamb](/en/post/lamb/) ([for](/en/post/for/) [the](/en/post/the/) informal [meaning](/en/post/meaning/) [of](/en/post/of/) [young](/en/post/young/) [goat](/en/post/goat/))
-- Tease ([verb](/en/post/verb/))
-- [Joke](/en/post/joke/) ([verb](/en/post/verb/))
+- [Child](/post/child/) ([noun](/post/noun/))
+- Offspring ([noun](/post/noun/))
+- [Lamb](/post/lamb/) ([for](/post/for/) [the](/post/the/) informal [meaning](/post/meaning/) [of](/post/of/) [young](/post/young/) [goat](/post/goat/))
+- Tease ([verb](/post/verb/))
+- [Joke](/post/joke/) ([verb](/post/verb/))

@@ -7,36 +7,36 @@ description = '[ˈimpækt] n.影响，作用；冲击'
 keywords = ['ai words', 'impact']
 +++
 
-## [Word](/en/post/word/): [Impact](/en/post/impact/)
+## [Word](/post/word/): [Impact](/post/impact/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈɪmpækt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [powerful](/en/post/powerful/) [effect](/en/post/effect/) [or](/en/post/or/) [influence](/en/post/influence/) [that](/en/post/that/) [something](/en/post/something/) has [on](/en/post/on/) [another](/en/post/another/) [thing](/en/post/thing/) [or](/en/post/or/) [person](/en/post/person/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) pandemic had [a](/en/post/a/) [significant](/en/post/significant/) [impact](/en/post/impact/) [on](/en/post/on/) global economies."
-  - [Phrase](/en/post/phrase/): "[make](/en/post/make/) an [impact](/en/post/impact/)" [which](/en/post/which/) [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [effect](/en/post/effect/) [or](/en/post/or/) [influence](/en/post/influence/). [Example](/en/post/example/): "[Her](/en/post/her/) [research](/en/post/research/) made [a](/en/post/a/) profound [impact](/en/post/impact/) [on](/en/post/on/) [the](/en/post/the/) [field](/en/post/field/) [of](/en/post/of/) [medicine](/en/post/medicine/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [powerful](/post/powerful/) [effect](/post/effect/) [or](/post/or/) [influence](/post/influence/) [that](/post/that/) [something](/post/something/) has [on](/post/on/) [another](/post/another/) [thing](/post/thing/) [or](/post/or/) [person](/post/person/). [For](/post/for/) [instance](/post/instance/): "[The](/post/the/) pandemic had [a](/post/a/) [significant](/post/significant/) [impact](/post/impact/) [on](/post/on/) global economies."
+  - [Phrase](/post/phrase/): "[make](/post/make/) an [impact](/post/impact/)" [which](/post/which/) [means](/post/means/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) [effect](/post/effect/) [or](/post/or/) [influence](/post/influence/). [Example](/post/example/): "[Her](/post/her/) [research](/post/research/) made [a](/post/a/) profound [impact](/post/impact/) [on](/post/on/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [medicine](/post/medicine/)."
   
-  > [Example](/en/post/example/) [sentence](/en/post/sentence/) ([noun](/en/post/noun/)): [The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) [will](/en/post/will/) [have](/en/post/have/) [a](/en/post/a/) [major](/en/post/major/) [impact](/en/post/impact/) [on](/en/post/on/) [how](/en/post/how/) [we](/en/post/we/) [conduct](/en/post/conduct/) [our](/en/post/our/) [business](/en/post/business/) operations.
+  > [Example](/post/example/) [sentence](/post/sentence/) ([noun](/post/noun/)): [The](/post/the/) [new](/post/new/) [policy](/post/policy/) [will](/post/will/) [have](/post/have/) [a](/post/a/) [major](/post/major/) [impact](/post/impact/) [on](/post/on/) [how](/post/how/) [we](/post/we/) [conduct](/post/conduct/) [our](/post/our/) [business](/post/business/) operations.
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [effect](/en/post/effect/) [or](/en/post/or/) [influence](/en/post/influence/) [on](/en/post/on/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/); [to](/en/post/to/) collide [with](/en/post/with/) [or](/en/post/or/) [strike](/en/post/strike/) forcefully. [Example](/en/post/example/): "[The](/en/post/the/) falling [tree](/en/post/tree/) impacted [the](/en/post/the/) [roof](/en/post/roof/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) [effect](/post/effect/) [or](/post/or/) [influence](/post/influence/) [on](/post/on/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/); [to](/post/to/) collide [with](/post/with/) [or](/post/or/) [strike](/post/strike/) forcefully. [Example](/post/example/): "[The](/post/the/) falling [tree](/post/tree/) impacted [the](/post/the/) [roof](/post/roof/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
 
-  > [Example](/en/post/example/) [sentence](/en/post/sentence/) ([verb](/en/post/verb/)): [The](/en/post/the/) [new](/en/post/new/) [technology](/en/post/technology/) is expected [to](/en/post/to/) [impact](/en/post/impact/) [the](/en/post/the/) [way](/en/post/way/) [people](/en/post/people/) [communicate](/en/post/communicate/) globally.
+  > [Example](/post/example/) [sentence](/post/sentence/) ([verb](/post/verb/)): [The](/post/the/) [new](/post/new/) [technology](/post/technology/) is expected [to](/post/to/) [impact](/post/impact/) [the](/post/the/) [way](/post/way/) [people](/post/people/) [communicate](/post/communicate/) globally.
 
 ## Phrases
-- "Environmental [impact](/en/post/impact/)": [The](/en/post/the/) [effect](/en/post/effect/) [that](/en/post/that/) [human](/en/post/human/) activities [have](/en/post/have/) [on](/en/post/on/) [the](/en/post/the/) [environment](/en/post/environment/).
-- "[Impact](/en/post/impact/) [on](/en/post/on/)": [To](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [effect](/en/post/effect/) [or](/en/post/or/) [influence](/en/post/influence/) [one](/en/post/one/) [thing](/en/post/thing/) has [upon](/en/post/upon/) [another](/en/post/another/).
-- "Low-impact [exercise](/en/post/exercise/)": [Exercise](/en/post/exercise/) [that](/en/post/that/) puts minimal [stress](/en/post/stress/) [on](/en/post/on/) joints [and](/en/post/and/) muscles.
+- "Environmental [impact](/post/impact/)": [The](/post/the/) [effect](/post/effect/) [that](/post/that/) [human](/post/human/) activities [have](/post/have/) [on](/post/on/) [the](/post/the/) [environment](/post/environment/).
+- "[Impact](/post/impact/) [on](/post/on/)": [To](/post/to/) [refer](/post/refer/) [to](/post/to/) [the](/post/the/) [effect](/post/effect/) [or](/post/or/) [influence](/post/influence/) [one](/post/one/) [thing](/post/thing/) has [upon](/post/upon/) [another](/post/another/).
+- "Low-impact [exercise](/post/exercise/)": [Exercise](/post/exercise/) [that](/post/that/) puts minimal [stress](/post/stress/) [on](/post/on/) joints [and](/post/and/) muscles.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's [expansion](/en/post/expansion/) plans [could](/en/post/could/) [have](/en/post/have/) [a](/en/post/a/) [positive](/en/post/positive/) [impact](/en/post/impact/) [on](/en/post/on/) [job](/en/post/job/) creation [in](/en/post/in/) [the](/en/post/the/) [region](/en/post/region/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) [law](/en/post/law/) [will](/en/post/will/) [impact](/en/post/impact/) [how](/en/post/how/) businesses [handle](/en/post/handle/) [data](/en/post/data/) privacy."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) company's [expansion](/post/expansion/) plans [could](/post/could/) [have](/post/have/) [a](/post/a/) [positive](/post/positive/) [impact](/post/impact/) [on](/post/on/) [job](/post/job/) creation [in](/post/in/) [the](/post/the/) [region](/post/region/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [new](/post/new/) [law](/post/law/) [will](/post/will/) [impact](/post/impact/) [how](/post/how/) businesses [handle](/post/handle/) [data](/post/data/) privacy."
 
 ## Synonyms
-- [Effect](/en/post/effect/)
-- [Influence](/en/post/influence/)
-- [Consequence](/en/post/consequence/)
-- [Result](/en/post/result/)
-- [Collision](/en/post/collision/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) referring [to](/en/post/to/) [physical](/en/post/physical/) [contact](/en/post/contact/))
-- [Strike](/en/post/strike/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) referring [to](/en/post/to/) [physical](/en/post/physical/) [contact](/en/post/contact/)) 
+- [Effect](/post/effect/)
+- [Influence](/post/influence/)
+- [Consequence](/post/consequence/)
+- [Result](/post/result/)
+- [Collision](/post/collision/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) referring [to](/post/to/) [physical](/post/physical/) [contact](/post/contact/))
+- [Strike](/post/strike/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) referring [to](/post/to/) [physical](/post/physical/) [contact](/post/contact/)) 
 
-[Note](/en/post/note/): [While](/en/post/while/) "[impact](/en/post/impact/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) [to](/en/post/to/) [describe](/en/post/describe/) having an [effect](/en/post/effect/), [some](/en/post/some/) traditionalists [argue](/en/post/argue/) [it](/en/post/it/) [should](/en/post/should/) [only](/en/post/only/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [in](/en/post/in/) [this](/en/post/this/) context, preferring verbs [like](/en/post/like/) "[affect](/en/post/affect/)" [or](/en/post/or/) "[influence](/en/post/influence/)." [However](/en/post/however/), [its](/en/post/its/) [usage](/en/post/usage/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) has [become](/en/post/become/) [increasingly](/en/post/increasingly/) accepted [in](/en/post/in/) [modern](/en/post/modern/) English.
+[Note](/post/note/): [While](/post/while/) "[impact](/post/impact/)" [can](/post/can/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) [to](/post/to/) [describe](/post/describe/) having an [effect](/post/effect/), [some](/post/some/) traditionalists [argue](/post/argue/) [it](/post/it/) [should](/post/should/) [only](/post/only/) [be](/post/be/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/) [in](/post/in/) [this](/post/this/) context, preferring verbs [like](/post/like/) "[affect](/post/affect/)" [or](/post/or/) "[influence](/post/influence/)." [However](/post/however/), [its](/post/its/) [usage](/post/usage/) [as](/post/as/) [a](/post/a/) [verb](/post/verb/) has [become](/post/become/) [increasingly](/post/increasingly/) accepted [in](/post/in/) [modern](/post/modern/) English.

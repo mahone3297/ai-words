@@ -7,35 +7,35 @@ description = '[ˈdisiplin] n.纪律；训练 vt.训练'
 keywords = ['ai words', 'discipline']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dɪˈsiplɪn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-**[Discipline](/en/post/discipline/)**: 
-1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [training](/en/post/training/) [or](/en/post/or/) controlling [oneself](/en/post/oneself/) [or](/en/post/or/) others [to](/en/post/to/) [obey](/en/post/obey/) rules [or](/en/post/or/) standards: *[She](/en/post/she/) maintained [a](/en/post/a/) [strict](/en/post/strict/) [discipline](/en/post/discipline/) [in](/en/post/in/) [her](/en/post/her/) [classroom](/en/post/classroom/).*
-2. [A](/en/post/a/) [branch](/en/post/branch/) [of](/en/post/of/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) [study](/en/post/study/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) involves [training](/en/post/training/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [skill](/en/post/skill/) [or](/en/post/or/) [subject](/en/post/subject/): *[Music](/en/post/music/) is [his](/en/post/his/) [primary](/en/post/primary/) [academic](/en/post/academic/) [discipline](/en/post/discipline/).*
-3. [The](/en/post/the/) [practice](/en/post/practice/) [of](/en/post/of/) maintaining self-control, [order](/en/post/order/), [or](/en/post/or/) decorum, [often](/en/post/often/) [within](/en/post/within/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [organization](/en/post/organization/): *[Military](/en/post/military/) [discipline](/en/post/discipline/) is [essential](/en/post/essential/) [for](/en/post/for/) maintaining cohesion.*
+### [Noun](/post/noun/)
+**[Discipline](/post/discipline/)**: 
+1. [The](/post/the/) [act](/post/act/) [of](/post/of/) [training](/post/training/) [or](/post/or/) controlling [oneself](/post/oneself/) [or](/post/or/) others [to](/post/to/) [obey](/post/obey/) rules [or](/post/or/) standards: *[She](/post/she/) maintained [a](/post/a/) [strict](/post/strict/) [discipline](/post/discipline/) [in](/post/in/) [her](/post/her/) [classroom](/post/classroom/).*
+2. [A](/post/a/) [branch](/post/branch/) [of](/post/of/) [knowledge](/post/knowledge/) [or](/post/or/) [study](/post/study/), [especially](/post/especially/) [one](/post/one/) [that](/post/that/) involves [training](/post/training/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [skill](/post/skill/) [or](/post/or/) [subject](/post/subject/): *[Music](/post/music/) is [his](/post/his/) [primary](/post/primary/) [academic](/post/academic/) [discipline](/post/discipline/).*
+3. [The](/post/the/) [practice](/post/practice/) [of](/post/of/) maintaining self-control, [order](/post/order/), [or](/post/or/) decorum, [often](/post/often/) [within](/post/within/) [a](/post/a/) [group](/post/group/) [or](/post/or/) [organization](/post/organization/): *[Military](/post/military/) [discipline](/post/discipline/) is [essential](/post/essential/) [for](/post/for/) maintaining cohesion.*
 
-### [Verb](/en/post/verb/)
-**[To](/en/post/to/) [discipline](/en/post/discipline/)**:
-1. [To](/en/post/to/) [teach](/en/post/teach/), [train](/en/post/train/), [or](/en/post/or/) [correct](/en/post/correct/) someone's [behavior](/en/post/behavior/), [usually](/en/post/usually/) [in](/en/post/in/) [a](/en/post/a/) [formal](/en/post/formal/) [or](/en/post/or/) [strict](/en/post/strict/) [manner](/en/post/manner/): *Parents [discipline](/en/post/discipline/) [their](/en/post/their/) children [when](/en/post/when/) [they](/en/post/they/) misbehave.*
-2. [To](/en/post/to/) [apply](/en/post/apply/) penalties [or](/en/post/or/) consequences [for](/en/post/for/) disobedience [or](/en/post/or/) rule-breaking: *Employees [may](/en/post/may/) [be](/en/post/be/) disciplined [for](/en/post/for/) arriving [late](/en/post/late/) [to](/en/post/to/) [work](/en/post/work/) consistently.*
+### [Verb](/post/verb/)
+**[To](/post/to/) [discipline](/post/discipline/)**:
+1. [To](/post/to/) [teach](/post/teach/), [train](/post/train/), [or](/post/or/) [correct](/post/correct/) someone's [behavior](/post/behavior/), [usually](/post/usually/) [in](/post/in/) [a](/post/a/) [formal](/post/formal/) [or](/post/or/) [strict](/post/strict/) [manner](/post/manner/): *Parents [discipline](/post/discipline/) [their](/post/their/) children [when](/post/when/) [they](/post/they/) misbehave.*
+2. [To](/post/to/) [apply](/post/apply/) penalties [or](/post/or/) consequences [for](/post/for/) disobedience [or](/post/or/) rule-breaking: *Employees [may](/post/may/) [be](/post/be/) disciplined [for](/post/for/) arriving [late](/post/late/) [to](/post/to/) [work](/post/work/) consistently.*
 
 ## Phrases
-- "[Maintain](/en/post/maintain/) [discipline](/en/post/discipline/)" refers [to](/en/post/to/) keeping [order](/en/post/order/) [and](/en/post/and/) adherence [to](/en/post/to/) rules.
-- "Disciplinary [action](/en/post/action/)" is taken [when](/en/post/when/) rules are [broken](/en/post/broken/).
-- "[Child](/en/post/child/) [discipline](/en/post/discipline/)" encompasses methods parents [use](/en/post/use/) [to](/en/post/to/) [guide](/en/post/guide/) [their](/en/post/their/) kids.
+- "[Maintain](/post/maintain/) [discipline](/post/discipline/)" refers [to](/post/to/) keeping [order](/post/order/) [and](/post/and/) adherence [to](/post/to/) rules.
+- "Disciplinary [action](/post/action/)" is taken [when](/post/when/) rules are [broken](/post/broken/).
+- "[Child](/post/child/) [discipline](/post/discipline/)" encompasses methods parents [use](/post/use/) [to](/post/to/) [guide](/post/guide/) [their](/post/their/) kids.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) athlete's [discipline](/en/post/discipline/) paid [off](/en/post/off/) [when](/en/post/when/) [he](/en/post/he/) won [the](/en/post/the/) [gold](/en/post/gold/) [medal](/en/post/medal/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [coach](/en/post/coach/) disciplined [the](/en/post/the/) [team](/en/post/team/) [for](/en/post/for/) losing [focus](/en/post/focus/) [during](/en/post/during/) [practice](/en/post/practice/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [school](/en/post/school/) has [a](/en/post/a/) [strict](/en/post/strict/) disciplinary [policy](/en/post/policy/) [in](/en/post/in/) [place](/en/post/place/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) athlete's [discipline](/post/discipline/) paid [off](/post/off/) [when](/post/when/) [he](/post/he/) won [the](/post/the/) [gold](/post/gold/) [medal](/post/medal/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [coach](/post/coach/) disciplined [the](/post/the/) [team](/post/team/) [for](/post/for/) losing [focus](/post/focus/) [during](/post/during/) [practice](/post/practice/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [school](/post/school/) has [a](/post/a/) [strict](/post/strict/) disciplinary [policy](/post/policy/) [in](/post/in/) [place](/post/place/)."
 
 ## Synonyms
-- [Training](/en/post/training/)
-- [Correction](/en/post/correction/)
-- [Guidance](/en/post/guidance/)
+- [Training](/post/training/)
+- [Correction](/post/correction/)
+- [Guidance](/post/guidance/)
 - Supervision
 - Enforcement
 - Orderliness

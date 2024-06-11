@@ -11,17 +11,17 @@ keywords = ['ai words', 'coffee']
 /kəˈfi/
 
 ## 释义
-- **名词 (n)**: 一种饮料，由烘焙过的咖啡豆研磨后冲泡而成，通常具有苦味和刺激性。例如: "[She](/post/she/) ordered [a](/post/a/) [cup](/post/cup/) [of](/post/of/) [black](/post/black/) [coffee](/post/coffee/) [after](/post/after/) [dinner](/post/dinner/)."
-- **形容词 (adj)**: 与咖啡相关或含有咖啡因的。例如: "[The](/post/the/) coffee-flavored [ice](/post/ice/) [cream](/post/cream/) is [very](/post/very/) [popular](/post/popular/) [among](/post/among/) adults."
+- **名词 (n)**: 一种饮料，由烘焙过的咖啡豆研磨后冲泡而成，通常具有苦味和刺激性。例如: "[She](/zh/post/she/) ordered [a](/zh/post/a/) [cup](/zh/post/cup/) [of](/zh/post/of/) [black](/zh/post/black/) [coffee](/zh/post/coffee/) [after](/zh/post/after/) [dinner](/zh/post/dinner/)."
+- **形容词 (adj)**: 与咖啡相关或含有咖啡因的。例如: "[The](/zh/post/the/) coffee-flavored [ice](/zh/post/ice/) [cream](/zh/post/cream/) is [very](/zh/post/very/) [popular](/zh/post/popular/) [among](/zh/post/among/) adults."
 
 ## 短语
-- "[Coffee](/post/coffee/) [break](/post/break/)" 在工作或活动中短暂休息喝咖啡的时间。
-- "[Coffee](/post/coffee/) [shop](/post/shop/)" 咖啡馆或小餐馆，通常提供咖啡和其他轻食。
-- "[Coffee](/post/coffee/) [table](/post/table/)" 客厅中常见的低矮桌子，常放在沙发前供放置饮品或杂志。
+- "[Coffee](/zh/post/coffee/) [break](/zh/post/break/)" 在工作或活动中短暂休息喝咖啡的时间。
+- "[Coffee](/zh/post/coffee/) [shop](/zh/post/shop/)" 咖啡馆或小餐馆，通常提供咖啡和其他轻食。
+- "[Coffee](/zh/post/coffee/) [table](/zh/post/table/)" 客厅中常见的低矮桌子，常放在沙发前供放置饮品或杂志。
 
 ## 例句
-- 名词: "I [need](/post/need/) [my](/post/my/) [morning](/post/morning/) [coffee](/post/coffee/) [to](/post/to/) [start](/post/start/) [the](/post/the/) [day](/post/day/)."
-- 形容词: "[She](/post/she/) enjoys [a](/post/a/) [good](/post/good/) [coffee](/post/coffee/) [cake](/post/cake/) [for](/post/for/) dessert."
+- 名词: "I [need](/zh/post/need/) [my](/zh/post/my/) [morning](/zh/post/morning/) [coffee](/zh/post/coffee/) [to](/zh/post/to/) [start](/zh/post/start/) [the](/zh/post/the/) [day](/zh/post/day/)."
+- 形容词: "[She](/zh/post/she/) enjoys [a](/zh/post/a/) [good](/zh/post/good/) [coffee](/zh/post/coffee/) [cake](/zh/post/cake/) [for](/zh/post/for/) dessert."
 
 ## 同义词
 - Espresso

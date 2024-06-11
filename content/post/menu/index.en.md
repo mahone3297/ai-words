@@ -7,29 +7,29 @@ description = '[ˈmenjuː] n.菜单；饭菜，菜肴'
 keywords = ['ai words', 'menu']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈmɛnju/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) dishes [and](/en/post/and/) drinks [available](/en/post/available/) [at](/en/post/at/) [a](/en/post/a/) [restaurant](/en/post/restaurant/), [usually](/en/post/usually/) [with](/en/post/with/) [their](/en/post/their/) prices. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [menu](/en/post/menu/) offered [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) appetizers, entrees, [and](/en/post/and/) desserts."
-  - [Also](/en/post/also/) [used](/en/post/used/) [in](/en/post/in/) computing contexts [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) options [from](/en/post/from/) [which](/en/post/which/) [the](/en/post/the/) [user](/en/post/user/) [can](/en/post/can/) [choose](/en/post/choose/). [Example](/en/post/example/): "Click [on](/en/post/on/) '[File](/en/post/file/)' [in](/en/post/in/) [the](/en/post/the/) [top](/en/post/top/) [menu](/en/post/menu/) [to](/en/post/to/) [access](/en/post/access/) [the](/en/post/the/) [save](/en/post/save/) [function](/en/post/function/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [list](/post/list/) [of](/post/of/) dishes [and](/post/and/) drinks [available](/post/available/) [at](/post/at/) [a](/post/a/) [restaurant](/post/restaurant/), [usually](/post/usually/) [with](/post/with/) [their](/post/their/) prices. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [menu](/post/menu/) offered [a](/post/a/) [variety](/post/variety/) [of](/post/of/) appetizers, entrees, [and](/post/and/) desserts."
+  - [Also](/post/also/) [used](/post/used/) [in](/post/in/) computing contexts [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [a](/post/a/) [list](/post/list/) [of](/post/of/) options [from](/post/from/) [which](/post/which/) [the](/post/the/) [user](/post/user/) [can](/post/can/) [choose](/post/choose/). [Example](/post/example/): "Click [on](/post/on/) '[File](/post/file/)' [in](/post/in/) [the](/post/the/) [top](/post/top/) [menu](/post/menu/) [to](/post/to/) [access](/post/access/) [the](/post/the/) [save](/post/save/) [function](/post/function/)."
   
-- **[Verb](/en/post/verb/)**: (informal) [To](/en/post/to/) [include](/en/post/include/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) options [or](/en/post/or/) choices. [Example](/en/post/example/): "[The](/en/post/the/) chef decided [to](/en/post/to/) [menu](/en/post/menu/) [some](/en/post/some/) [new](/en/post/new/) vegan dishes [this](/en/post/this/) [season](/en/post/season/)."
+- **[Verb](/post/verb/)**: (informal) [To](/post/to/) [include](/post/include/) [something](/post/something/) [in](/post/in/) [a](/post/a/) [list](/post/list/) [of](/post/of/) options [or](/post/or/) choices. [Example](/post/example/): "[The](/post/the/) chef decided [to](/post/to/) [menu](/post/menu/) [some](/post/some/) [new](/post/new/) vegan dishes [this](/post/this/) [season](/post/season/)."
 
 ## Phrases
-- "[Menu](/en/post/menu/) planning" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) selecting [and](/en/post/and/) organizing items [to](/en/post/to/) [be](/en/post/be/) served [in](/en/post/in/) [a](/en/post/a/) [restaurant](/en/post/restaurant/) [or](/en/post/or/) [at](/en/post/at/) an [event](/en/post/event/).
-- "[Main](/en/post/main/) [menu](/en/post/menu/)" [in](/en/post/in/) computing refers [to](/en/post/to/) [the](/en/post/the/) [primary](/en/post/primary/) [screen](/en/post/screen/) [that](/en/post/that/) provides [access](/en/post/access/) [to](/en/post/to/) [various](/en/post/various/) functions [or](/en/post/or/) sub-menus.
-- "Off-menu [item](/en/post/item/)" refers [to](/en/post/to/) [a](/en/post/a/) [dish](/en/post/dish/) [or](/en/post/or/) [drink](/en/post/drink/) [not](/en/post/not/) listed [on](/en/post/on/) [the](/en/post/the/) [regular](/en/post/regular/) [menu](/en/post/menu/) [but](/en/post/but/) [can](/en/post/can/) [still](/en/post/still/) [be](/en/post/be/) ordered [upon](/en/post/upon/) [request](/en/post/request/).
+- "[Menu](/post/menu/) planning" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) selecting [and](/post/and/) organizing items [to](/post/to/) [be](/post/be/) served [in](/post/in/) [a](/post/a/) [restaurant](/post/restaurant/) [or](/post/or/) [at](/post/at/) an [event](/post/event/).
+- "[Main](/post/main/) [menu](/post/menu/)" [in](/post/in/) computing refers [to](/post/to/) [the](/post/the/) [primary](/post/primary/) [screen](/post/screen/) [that](/post/that/) provides [access](/post/access/) [to](/post/to/) [various](/post/various/) functions [or](/post/or/) sub-menus.
+- "Off-menu [item](/post/item/)" refers [to](/post/to/) [a](/post/a/) [dish](/post/dish/) [or](/post/or/) [drink](/post/drink/) [not](/post/not/) listed [on](/post/on/) [the](/post/the/) [regular](/post/regular/) [menu](/post/menu/) [but](/post/but/) [can](/post/can/) [still](/post/still/) [be](/post/be/) ordered [upon](/post/upon/) [request](/post/request/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) studied [the](/en/post/the/) [menu](/en/post/menu/) carefully [before](/en/post/before/) placing [her](/en/post/her/) [order](/en/post/order/) [at](/en/post/at/) [the](/en/post/the/) café."
-- **[Verb](/en/post/verb/)**: "They're going [to](/en/post/to/) [menu](/en/post/menu/) [the](/en/post/the/) seasonal specials [today](/en/post/today/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) studied [the](/post/the/) [menu](/post/menu/) carefully [before](/post/before/) placing [her](/post/her/) [order](/post/order/) [at](/post/at/) [the](/post/the/) café."
+- **[Verb](/post/verb/)**: "They're going [to](/post/to/) [menu](/post/menu/) [the](/post/the/) seasonal specials [today](/post/today/)."
 
 ## Synonyms
-- [Bill](/en/post/bill/) [of](/en/post/of/) [fare](/en/post/fare/)
-- [List](/en/post/list/) [of](/en/post/of/) choices
-- [Selection](/en/post/selection/)
-- Catalogue ([in](/en/post/in/) [a](/en/post/a/) broader [sense](/en/post/sense/))
-- [In](/en/post/in/) computing: Options, Choices, Dropdown, [Navigation](/en/post/navigation/) [bar](/en/post/bar/)
+- [Bill](/post/bill/) [of](/post/of/) [fare](/post/fare/)
+- [List](/post/list/) [of](/post/of/) choices
+- [Selection](/post/selection/)
+- Catalogue ([in](/post/in/) [a](/post/a/) broader [sense](/post/sense/))
+- [In](/post/in/) computing: Options, Choices, Dropdown, [Navigation](/post/navigation/) [bar](/post/bar/)
 
-[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [it](/en/post/it/) doesn't [have](/en/post/have/) [direct](/en/post/direct/) synonyms [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) adding items [to](/en/post/to/) [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) choices, [but](/en/post/but/) [one](/en/post/one/) [could](/en/post/could/) [use](/en/post/use/) expressions [like](/en/post/like/) "[include](/en/post/include/) [on](/en/post/on/) [the](/en/post/the/) [menu](/en/post/menu/)" [or](/en/post/or/) "[offer](/en/post/offer/) [as](/en/post/as/) an [option](/en/post/option/)."
+[As](/post/as/) [a](/post/a/) [verb](/post/verb/), [it](/post/it/) doesn't [have](/post/have/) [direct](/post/direct/) synonyms [in](/post/in/) [the](/post/the/) context [of](/post/of/) adding items [to](/post/to/) [a](/post/a/) [list](/post/list/) [of](/post/of/) choices, [but](/post/but/) [one](/post/one/) [could](/post/could/) [use](/post/use/) expressions [like](/post/like/) "[include](/post/include/) [on](/post/on/) [the](/post/the/) [menu](/post/menu/)" [or](/post/or/) "[offer](/post/offer/) [as](/post/as/) an [option](/post/option/)."

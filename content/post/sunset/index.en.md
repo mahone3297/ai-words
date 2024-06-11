@@ -7,32 +7,32 @@ description = '[ˈsʌnset] n.日落(时分)'
 keywords = ['ai words', 'sunset']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈnɛt/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: ([noun](/en/post/noun/)) [The](/en/post/the/) [setting](/en/post/setting/) [of](/en/post/of/) [the](/en/post/the/) [sun](/en/post/sun/), typically producing [a](/en/post/a/) [beautiful](/en/post/beautiful/) [display](/en/post/display/) [of](/en/post/of/) colors [in](/en/post/in/) [the](/en/post/the/) [sky](/en/post/sky/) [during](/en/post/during/) [the](/en/post/the/) transition [from](/en/post/from/) [day](/en/post/day/) [to](/en/post/to/) [night](/en/post/night/). [1]
-- **[Verb](/en/post/verb/)**: ([verb](/en/post/verb/)) [To](/en/post/to/) [observe](/en/post/observe/) [or](/en/post/or/) [experience](/en/post/experience/) [the](/en/post/the/) [sunset](/en/post/sunset/). [2]
-- **[Adjective](/en/post/adjective/)**: ([adjective](/en/post/adjective/)) Relating [to](/en/post/to/) [or](/en/post/or/) describing [the](/en/post/the/) [appearance](/en/post/appearance/) [of](/en/post/of/) [the](/en/post/the/) [sky](/en/post/sky/) [during](/en/post/during/) [a](/en/post/a/) [sunset](/en/post/sunset/). [3]
+- **[Noun](/post/noun/)**: ([noun](/post/noun/)) [The](/post/the/) [setting](/post/setting/) [of](/post/of/) [the](/post/the/) [sun](/post/sun/), typically producing [a](/post/a/) [beautiful](/post/beautiful/) [display](/post/display/) [of](/post/of/) colors [in](/post/in/) [the](/post/the/) [sky](/post/sky/) [during](/post/during/) [the](/post/the/) transition [from](/post/from/) [day](/post/day/) [to](/post/to/) [night](/post/night/). [1]
+- **[Verb](/post/verb/)**: ([verb](/post/verb/)) [To](/post/to/) [observe](/post/observe/) [or](/post/or/) [experience](/post/experience/) [the](/post/the/) [sunset](/post/sunset/). [2]
+- **[Adjective](/post/adjective/)**: ([adjective](/post/adjective/)) Relating [to](/post/to/) [or](/post/or/) describing [the](/post/the/) [appearance](/post/appearance/) [of](/post/of/) [the](/post/the/) [sky](/post/sky/) [during](/post/during/) [a](/post/a/) [sunset](/post/sunset/). [3]
 
 ## Phrases
-- "[Watch](/en/post/watch/) [the](/en/post/the/) [sunset](/en/post/sunset/)" suggests欣赏日落景象。
-- "Enjoying [a](/en/post/a/) [peaceful](/en/post/peaceful/) [sunset](/en/post/sunset/)" implies relaxation [while](/en/post/while/) witnessing [the](/en/post/the/) [sunset](/en/post/sunset/).
-- "[A](/en/post/a/) breathtaking [sunset](/en/post/sunset/)" describes [a](/en/post/a/) stunning [visual](/en/post/visual/) [display](/en/post/display/).
+- "[Watch](/post/watch/) [the](/post/the/) [sunset](/post/sunset/)" suggests欣赏日落景象。
+- "Enjoying [a](/post/a/) [peaceful](/post/peaceful/) [sunset](/post/sunset/)" implies relaxation [while](/post/while/) witnessing [the](/post/the/) [sunset](/post/sunset/).
+- "[A](/post/a/) breathtaking [sunset](/post/sunset/)" describes [a](/post/a/) stunning [visual](/post/visual/) [display](/post/display/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) tourists gathered [on](/en/post/on/) [the](/en/post/the/) [beach](/en/post/beach/) [to](/en/post/to/) [watch](/en/post/watch/) [the](/en/post/the/) vibrant [sunset](/en/post/sunset/) [over](/en/post/over/) [the](/en/post/the/) [ocean](/en/post/ocean/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [they](/en/post/they/) stopped [by](/en/post/by/) [the](/en/post/the/) [lake](/en/post/lake/) [to](/en/post/to/) [enjoy](/en/post/enjoy/) [the](/en/post/the/) tranquil [sunset](/en/post/sunset/) [together](/en/post/together/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) hotel's rooftop [restaurant](/en/post/restaurant/) offered [a](/en/post/a/) panoramic [view](/en/post/view/) [of](/en/post/of/) [the](/en/post/the/) fiery [sunset](/en/post/sunset/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) tourists gathered [on](/post/on/) [the](/post/the/) [beach](/post/beach/) [to](/post/to/) [watch](/post/watch/) [the](/post/the/) vibrant [sunset](/post/sunset/) [over](/post/over/) [the](/post/the/) [ocean](/post/ocean/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [they](/post/they/) stopped [by](/post/by/) [the](/post/the/) [lake](/post/lake/) [to](/post/to/) [enjoy](/post/enjoy/) [the](/post/the/) tranquil [sunset](/post/sunset/) [together](/post/together/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) hotel's rooftop [restaurant](/post/restaurant/) offered [a](/post/a/) panoramic [view](/post/view/) [of](/post/of/) [the](/post/the/) fiery [sunset](/post/sunset/)."
 
 ## Synonyms
 - Twilight
-- [Dusk](/en/post/dusk/)
+- [Dusk](/post/dusk/)
 - Sundown
-- [Golden](/en/post/golden/) [hour](/en/post/hour/)
-- [Sun](/en/post/sun/) [dip](/en/post/dip/)
+- [Golden](/post/golden/) [hour](/post/hour/)
+- [Sun](/post/sun/) [dip](/post/dip/)
 
 ## References
-1. Merriam-Webster. (n.d.). [sunset](/en/post/sunset/). <https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[sunset](/en/post/sunset/)>
-2. Oxford Languages. (n.d.). [sunset](/en/post/sunset/). <https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[sunset](/en/post/sunset/)>
-3. Cambridge [Dictionary](/en/post/dictionary/). (n.d.). [sunset](/en/post/sunset/). <https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[sunset](/en/post/sunset/)>
+1. Merriam-Webster. (n.d.). [sunset](/post/sunset/). <https://www.merriam-webster.com/[dictionary](/post/dictionary/)/[sunset](/post/sunset/)>
+2. Oxford Languages. (n.d.). [sunset](/post/sunset/). <https://en.oxforddictionaries.com/[definition](/post/definition/)/[sunset](/post/sunset/)>
+3. Cambridge [Dictionary](/post/dictionary/). (n.d.). [sunset](/post/sunset/). <https://[dictionary](/post/dictionary/).cambridge.org/[dictionary](/post/dictionary/)/english/[sunset](/post/sunset/)>

@@ -11,21 +11,21 @@ keywords = ['ai words', 'outstanding']
 /ˈaʊtstændɪŋ/
 
 ## 释义
-- **形容词**: 杰出的，卓越的，显著的。例如: "[He](/post/he/) has shown [outstanding](/post/outstanding/) [performance](/post/performance/) [in](/post/in/) [his](/post/his/) [field](/post/field/)."
-- **动词**: 突出，显眼。例如: "[Her](/post/her/) [talent](/post/talent/) stood [out](/post/out/), making [her](/post/her/) [outstanding](/post/outstanding/) [among](/post/among/) [her](/post/her/) peers."
+- **形容词**: 杰出的，卓越的，显著的。例如: "[He](/zh/post/he/) has shown [outstanding](/zh/post/outstanding/) [performance](/zh/post/performance/) [in](/zh/post/in/) [his](/zh/post/his/) [field](/zh/post/field/)."
+- **动词**: 突出，显眼。例如: "[Her](/zh/post/her/) [talent](/zh/post/talent/) stood [out](/zh/post/out/), making [her](/zh/post/her/) [outstanding](/zh/post/outstanding/) [among](/zh/post/among/) [her](/zh/post/her/) peers."
 
 ## 短语
-- "[outstanding](/post/outstanding/) [achievement](/post/achievement/)" 意为杰出的成就。
-- "[outstanding](/post/outstanding/) [debt](/post/debt/)" 指未偿还的债务。
-- "an [outstanding](/post/outstanding/) [student](/post/student/)" 是指一个优秀的学生。
+- "[outstanding](/zh/post/outstanding/) [achievement](/zh/post/achievement/)" 意为杰出的成就。
+- "[outstanding](/zh/post/outstanding/) [debt](/zh/post/debt/)" 指未偿还的债务。
+- "an [outstanding](/zh/post/outstanding/) [student](/zh/post/student/)" 是指一个优秀的学生。
 
 ## 例句
-- 形容词: "[The](/post/the/) athlete's [outstanding](/post/outstanding/) [speed](/post/speed/) earned [him](/post/him/) [a](/post/a/) [gold](/post/gold/) [medal](/post/medal/)."
-- 动词: "[Her](/post/her/) [painting](/post/painting/) stood [out](/post/out/) [in](/post/in/) [the](/post/the/) [exhibition](/post/exhibition/), attracting [many](/post/many/) admirers."
+- 形容词: "[The](/zh/post/the/) athlete's [outstanding](/zh/post/outstanding/) [speed](/zh/post/speed/) earned [him](/zh/post/him/) [a](/zh/post/a/) [gold](/zh/post/gold/) [medal](/zh/post/medal/)."
+- 动词: "[Her](/zh/post/her/) [painting](/zh/post/painting/) stood [out](/zh/post/out/) [in](/zh/post/in/) [the](/zh/post/the/) [exhibition](/zh/post/exhibition/), attracting [many](/zh/post/many/) admirers."
 
 ## 同义词
 - Exceptional
-- [Excellent](/post/excellent/)
-- [Remarkable](/post/remarkable/)
-- [Impressive](/post/impressive/)
+- [Excellent](/zh/post/excellent/)
+- [Remarkable](/zh/post/remarkable/)
+- [Impressive](/zh/post/impressive/)
 - Superb

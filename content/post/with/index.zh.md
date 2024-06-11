@@ -11,21 +11,21 @@ keywords = ['ai words', 'with']
 /wɪð/
 
 ## 释义
-- **介词**: 表示伴随、使用或具有。例如: "[She](/post/she/) came [with](/post/with/) [her](/post/her/) friends."，"[He](/post/he/) ate [dinner](/post/dinner/) [with](/post/with/) [a](/post/a/) [fork](/post/fork/) [and](/post/and/) [knife](/post/knife/)."
-- **连词**: 用于连接并列的成分，表示“和”。例如: "I [like](/post/like/) [coffee](/post/coffee/) [and](/post/and/) [tea](/post/tea/), [with](/post/with/) [sugar](/post/sugar/) [in](/post/in/) [both](/post/both/)."
+- **介词**: 表示伴随、使用或具有。例如: "[She](/zh/post/she/) came [with](/zh/post/with/) [her](/zh/post/her/) friends."，"[He](/zh/post/he/) ate [dinner](/zh/post/dinner/) [with](/zh/post/with/) [a](/zh/post/a/) [fork](/zh/post/fork/) [and](/zh/post/and/) [knife](/zh/post/knife/)."
+- **连词**: 用于连接并列的成分，表示“和”。例如: "I [like](/zh/post/like/) [coffee](/zh/post/coffee/) [and](/zh/post/and/) [tea](/zh/post/tea/), [with](/zh/post/with/) [sugar](/zh/post/sugar/) [in](/zh/post/in/) [both](/zh/post/both/)."
 
 ## 短语
-- "[Along](/post/along/) [with](/post/with/)" 意为一起，伴随。例如: "[She](/post/she/) brought [her](/post/her/) [dog](/post/dog/) [along](/post/along/) [with](/post/with/) [her](/post/her/) [on](/post/on/) [the](/post/the/) [trip](/post/trip/)."
-- "[In](/post/in/) [addition](/post/addition/) [to](/post/to/)" 表示除了...之外还有。例如: "[In](/post/in/) [addition](/post/addition/) [to](/post/to/) [the](/post/the/) [book](/post/book/), [he](/post/he/) bought [a](/post/a/) [pen](/post/pen/)."
-- "[Without](/post/without/)" 与with相反，表示没有。例如: "I can't [live](/post/live/) [without](/post/without/) [music](/post/music/)."
+- "[Along](/zh/post/along/) [with](/zh/post/with/)" 意为一起，伴随。例如: "[She](/zh/post/she/) brought [her](/zh/post/her/) [dog](/zh/post/dog/) [along](/zh/post/along/) [with](/zh/post/with/) [her](/zh/post/her/) [on](/zh/post/on/) [the](/zh/post/the/) [trip](/zh/post/trip/)."
+- "[In](/zh/post/in/) [addition](/zh/post/addition/) [to](/zh/post/to/)" 表示除了...之外还有。例如: "[In](/zh/post/in/) [addition](/zh/post/addition/) [to](/zh/post/to/) [the](/zh/post/the/) [book](/zh/post/book/), [he](/zh/post/he/) bought [a](/zh/post/a/) [pen](/zh/post/pen/)."
+- "[Without](/zh/post/without/)" 与with相反，表示没有。例如: "I can't [live](/zh/post/live/) [without](/zh/post/without/) [music](/zh/post/music/)."
 
 ## 例句
-- 介词: "[The](/post/the/) [package](/post/package/) includes [a](/post/a/) [camera](/post/camera/) [with](/post/with/) [a](/post/a/) built-in [lens](/post/lens/)."
-- 连词: "[She](/post/she/) ordered pizza [with](/post/with/) mushrooms [and](/post/and/) [extra](/post/extra/) [cheese](/post/cheese/)."
+- 介词: "[The](/zh/post/the/) [package](/zh/post/package/) includes [a](/zh/post/a/) [camera](/zh/post/camera/) [with](/zh/post/with/) [a](/zh/post/a/) built-in [lens](/zh/post/lens/)."
+- 连词: "[She](/zh/post/she/) ordered pizza [with](/zh/post/with/) mushrooms [and](/zh/post/and/) [extra](/zh/post/extra/) [cheese](/zh/post/cheese/)."
 
 ## 同义词
-- Accompanied [by](/post/by/)
-- [Together](/post/together/) [with](/post/with/)
-- [In](/post/in/) [the](/post/the/) [company](/post/company/) [of](/post/of/)
-- [As](/post/as/) [well](/post/well/) [as](/post/as/)
+- Accompanied [by](/zh/post/by/)
+- [Together](/zh/post/together/) [with](/zh/post/with/)
+- [In](/zh/post/in/) [the](/zh/post/the/) [company](/zh/post/company/) [of](/zh/post/of/)
+- [As](/zh/post/as/) [well](/zh/post/well/) [as](/zh/post/as/)
 - Including

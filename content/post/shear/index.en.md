@@ -7,44 +7,44 @@ description = '[∫iə] vt.剪；剥夺 vi.剪'
 keywords = ['ai words', 'shear']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sheər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Shear](/en/post/shear/) [force](/en/post/force/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [stress](/en/post/stress/) applied [parallel](/en/post/parallel/) [to](/en/post/to/) [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [a](/en/post/a/) [material](/en/post/material/), causing [it](/en/post/it/) [to](/en/post/to/) [separate](/en/post/separate/) [along](/en/post/along/) [a](/en/post/a/) [plane](/en/post/plane/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [shear](/en/post/shear/) [force](/en/post/force/) [on](/en/post/on/) [the](/en/post/the/) [bridge](/en/post/bridge/) was [too](/en/post/too/) [great](/en/post/great/), causing [it](/en/post/it/) [to](/en/post/to/) [collapse](/en/post/collapse/)."
-2. **Shearing [stress](/en/post/stress/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [stress](/en/post/stress/) [that](/en/post/that/) acts tangentially [to](/en/post/to/) [a](/en/post/a/) [surface](/en/post/surface/), causing deformation.
-   - [Example](/en/post/example/): "Engineers [must](/en/post/must/) [calculate](/en/post/calculate/) [the](/en/post/the/) [shear](/en/post/shear/) [stress](/en/post/stress/) [in](/en/post/in/) materials [to](/en/post/to/) [ensure](/en/post/ensure/) [structural](/en/post/structural/) integrity."
-3. **[Shear](/en/post/shear/) ([in](/en/post/in/) [clothing](/en/post/clothing/))** ([noun](/en/post/noun/)): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) cutting [fabric](/en/post/fabric/) diagonally [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) slimmer [fit](/en/post/fit/) [or](/en/post/or/) [to](/en/post/to/) [add](/en/post/add/) [visual](/en/post/visual/) [interest](/en/post/interest/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) designer incorporated [shear](/en/post/shear/) [into](/en/post/into/) [her](/en/post/her/) latest [collection](/en/post/collection/)."
+### [Noun](/post/noun/)
+1. **[Shear](/post/shear/) [force](/post/force/)** ([noun](/post/noun/)): [The](/post/the/) [stress](/post/stress/) applied [parallel](/post/parallel/) [to](/post/to/) [the](/post/the/) [surface](/post/surface/) [of](/post/of/) [a](/post/a/) [material](/post/material/), causing [it](/post/it/) [to](/post/to/) [separate](/post/separate/) [along](/post/along/) [a](/post/a/) [plane](/post/plane/).
+   - [Example](/post/example/): "[The](/post/the/) [shear](/post/shear/) [force](/post/force/) [on](/post/on/) [the](/post/the/) [bridge](/post/bridge/) was [too](/post/too/) [great](/post/great/), causing [it](/post/it/) [to](/post/to/) [collapse](/post/collapse/)."
+2. **Shearing [stress](/post/stress/)** ([noun](/post/noun/)): [The](/post/the/) [stress](/post/stress/) [that](/post/that/) acts tangentially [to](/post/to/) [a](/post/a/) [surface](/post/surface/), causing deformation.
+   - [Example](/post/example/): "Engineers [must](/post/must/) [calculate](/post/calculate/) [the](/post/the/) [shear](/post/shear/) [stress](/post/stress/) [in](/post/in/) materials [to](/post/to/) [ensure](/post/ensure/) [structural](/post/structural/) integrity."
+3. **[Shear](/post/shear/) ([in](/post/in/) [clothing](/post/clothing/))** ([noun](/post/noun/)): [The](/post/the/) [act](/post/act/) [of](/post/of/) cutting [fabric](/post/fabric/) diagonally [to](/post/to/) [create](/post/create/) [a](/post/a/) slimmer [fit](/post/fit/) [or](/post/or/) [to](/post/to/) [add](/post/add/) [visual](/post/visual/) [interest](/post/interest/).
+   - [Example](/post/example/): "[The](/post/the/) designer incorporated [shear](/post/shear/) [into](/post/into/) [her](/post/her/) latest [collection](/post/collection/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [shear](/en/post/shear/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [cut](/en/post/cut/) [or](/en/post/or/) [separate](/en/post/separate/) fibers, [especially](/en/post/especially/) [wool](/en/post/wool/) [or](/en/post/or/) [hair](/en/post/hair/), [by](/en/post/by/) passing [through](/en/post/through/) [them](/en/post/them/) [with](/en/post/with/) [a](/en/post/a/) [tool](/en/post/tool/) [like](/en/post/like/) [a](/en/post/a/) [sheep](/en/post/sheep/) shearer [or](/en/post/or/) [a](/en/post/a/) [pair](/en/post/pair/) [of](/en/post/of/) [scissors](/en/post/scissors/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [farmer](/en/post/farmer/) was shearing [his](/en/post/his/) [sheep](/en/post/sheep/) [on](/en/post/on/) [a](/en/post/a/) [hot](/en/post/hot/) [summer](/en/post/summer/) [day](/en/post/day/)."
-2. **[To](/en/post/to/) [shear](/en/post/shear/) [off](/en/post/off/)** ([verb](/en/post/verb/)): [To](/en/post/to/) detach [or](/en/post/or/) [break](/en/post/break/) [something](/en/post/something/) [by](/en/post/by/) applying [force](/en/post/force/) [parallel](/en/post/parallel/) [to](/en/post/to/) [its](/en/post/its/) [surface](/en/post/surface/).
-   - [Example](/en/post/example/): "[The](/en/post/the/) [tree](/en/post/tree/) [branch](/en/post/branch/) sheared [off](/en/post/off/) [during](/en/post/during/) [the](/en/post/the/) [storm](/en/post/storm/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [shear](/post/shear/)** ([verb](/post/verb/)): [To](/post/to/) [cut](/post/cut/) [or](/post/or/) [separate](/post/separate/) fibers, [especially](/post/especially/) [wool](/post/wool/) [or](/post/or/) [hair](/post/hair/), [by](/post/by/) passing [through](/post/through/) [them](/post/them/) [with](/post/with/) [a](/post/a/) [tool](/post/tool/) [like](/post/like/) [a](/post/a/) [sheep](/post/sheep/) shearer [or](/post/or/) [a](/post/a/) [pair](/post/pair/) [of](/post/of/) [scissors](/post/scissors/).
+   - [Example](/post/example/): "[The](/post/the/) [farmer](/post/farmer/) was shearing [his](/post/his/) [sheep](/post/sheep/) [on](/post/on/) [a](/post/a/) [hot](/post/hot/) [summer](/post/summer/) [day](/post/day/)."
+2. **[To](/post/to/) [shear](/post/shear/) [off](/post/off/)** ([verb](/post/verb/)): [To](/post/to/) detach [or](/post/or/) [break](/post/break/) [something](/post/something/) [by](/post/by/) applying [force](/post/force/) [parallel](/post/parallel/) [to](/post/to/) [its](/post/its/) [surface](/post/surface/).
+   - [Example](/post/example/): "[The](/post/the/) [tree](/post/tree/) [branch](/post/branch/) sheared [off](/post/off/) [during](/post/during/) [the](/post/the/) [storm](/post/storm/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Shearing** ([adjective](/en/post/adjective/)): Relating [to](/en/post/to/) [the](/en/post/the/) [action](/en/post/action/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) shearing, [especially](/en/post/especially/) [when](/en/post/when/) applied [to](/en/post/to/) fabrics.
-   - [Example](/en/post/example/): "[The](/en/post/the/) shearing [pattern](/en/post/pattern/) [of](/en/post/of/) [the](/en/post/the/) [fabric](/en/post/fabric/) creates [a](/en/post/a/) [unique](/en/post/unique/) texture."
+### [Adjective](/post/adjective/)
+1. **Shearing** ([adjective](/post/adjective/)): Relating [to](/post/to/) [the](/post/the/) [action](/post/action/) [or](/post/or/) [process](/post/process/) [of](/post/of/) shearing, [especially](/post/especially/) [when](/post/when/) applied [to](/post/to/) fabrics.
+   - [Example](/post/example/): "[The](/post/the/) shearing [pattern](/post/pattern/) [of](/post/of/) [the](/post/the/) [fabric](/post/fabric/) creates [a](/post/a/) [unique](/post/unique/) texture."
 
-### [Adverb](/en/post/adverb/)
-- [Not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [in](/en/post/in/) [this](/en/post/this/) context.
+### [Adverb](/post/adverb/)
+- [Not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) an [adverb](/post/adverb/) [in](/post/in/) [this](/post/this/) context.
 
 ## Phrases
-- "[Subject](/en/post/subject/) [to](/en/post/to/) [shear](/en/post/shear/) forces"
-- "[Experience](/en/post/experience/) [shear](/en/post/shear/) [stress](/en/post/stress/)"
-- "[Shear](/en/post/shear/) [off](/en/post/off/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [metal](/en/post/metal/)"
+- "[Subject](/post/subject/) [to](/post/to/) [shear](/post/shear/) forces"
+- "[Experience](/post/experience/) [shear](/post/shear/) [stress](/post/stress/)"
+- "[Shear](/post/shear/) [off](/post/off/) [a](/post/a/) [piece](/post/piece/) [of](/post/of/) [metal](/post/metal/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [bolt](/en/post/bolt/) failed [under](/en/post/under/) [the](/en/post/the/) [high](/en/post/high/) [shear](/en/post/shear/) [force](/en/post/force/) exerted [by](/en/post/by/) [the](/en/post/the/) [engine](/en/post/engine/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [barber](/en/post/barber/) skillfully sheared [the](/en/post/the/) customer's [hair](/en/post/hair/) [into](/en/post/into/) [a](/en/post/a/) stylish [crop](/en/post/crop/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) shearing [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [dress](/en/post/dress/) made [it](/en/post/it/) flowy [and](/en/post/and/) elegant."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [bolt](/post/bolt/) failed [under](/post/under/) [the](/post/the/) [high](/post/high/) [shear](/post/shear/) [force](/post/force/) exerted [by](/post/by/) [the](/post/the/) [engine](/post/engine/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [barber](/post/barber/) skillfully sheared [the](/post/the/) customer's [hair](/post/hair/) [into](/post/into/) [a](/post/a/) stylish [crop](/post/crop/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) shearing [design](/post/design/) [of](/post/of/) [the](/post/the/) [dress](/post/dress/) made [it](/post/it/) flowy [and](/post/and/) elegant."
 
 ## Synonyms
-- [Trim](/en/post/trim/)
-- [Cut](/en/post/cut/)
+- [Trim](/post/trim/)
+- [Cut](/post/cut/)
 - Lop
-- [Crop](/en/post/crop/)
-- [Separate](/en/post/separate/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) fibers)
+- [Crop](/post/crop/)
+- [Separate](/post/separate/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) fibers)

@@ -7,38 +7,38 @@ description = '[ˈtaigə] n.虎'
 keywords = ['ai words', 'tiger']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /taɪˈgər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- [A](/en/post/a/) [large](/en/post/large/), carnivorous feline [with](/en/post/with/) distinctive [orange](/en/post/orange/) [fur](/en/post/fur/), [black](/en/post/black/) stripes, [and](/en/post/and/) [a](/en/post/a/) [powerful](/en/post/powerful/) [build](/en/post/build/). [It](/en/post/it/) is [often](/en/post/often/) considered [the](/en/post/the/) [king](/en/post/king/) [of](/en/post/of/) [the](/en/post/the/) [jungle](/en/post/jungle/). [Example](/en/post/example/): "[The](/en/post/the/) [tiger](/en/post/tiger/) prowled [through](/en/post/through/) [its](/en/post/its/) enclosure [at](/en/post/at/) [the](/en/post/the/) [zoo](/en/post/zoo/)."
-- [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) is [powerful](/en/post/powerful/), [fierce](/en/post/fierce/), [or](/en/post/or/) dominant, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/) [or](/en/post/or/) [area](/en/post/area/). [Example](/en/post/example/): "She's [a](/en/post/a/) [tiger](/en/post/tiger/) [on](/en/post/on/) [the](/en/post/the/) [dance](/en/post/dance/) [floor](/en/post/floor/)."
+### [Noun](/post/noun/)
+- [A](/post/a/) [large](/post/large/), carnivorous feline [with](/post/with/) distinctive [orange](/post/orange/) [fur](/post/fur/), [black](/post/black/) stripes, [and](/post/and/) [a](/post/a/) [powerful](/post/powerful/) [build](/post/build/). [It](/post/it/) is [often](/post/often/) considered [the](/post/the/) [king](/post/king/) [of](/post/of/) [the](/post/the/) [jungle](/post/jungle/). [Example](/post/example/): "[The](/post/the/) [tiger](/post/tiger/) prowled [through](/post/through/) [its](/post/its/) enclosure [at](/post/at/) [the](/post/the/) [zoo](/post/zoo/)."
+- [A](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/) [that](/post/that/) is [powerful](/post/powerful/), [fierce](/post/fierce/), [or](/post/or/) dominant, [often](/post/often/) [in](/post/in/) [a](/post/a/) [particular](/post/particular/) [field](/post/field/) [or](/post/or/) [area](/post/area/). [Example](/post/example/): "She's [a](/post/a/) [tiger](/post/tiger/) [on](/post/on/) [the](/post/the/) [dance](/post/dance/) [floor](/post/floor/)."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [attack](/en/post/attack/) [or](/en/post/or/) [display](/en/post/display/) dominance [over](/en/post/over/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [Example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) is known [for](/en/post/for/) tigering [their](/en/post/their/) opponents [in](/en/post/in/) [every](/en/post/every/) [match](/en/post/match/)."
-- [To](/en/post/to/) emulate [the](/en/post/the/) qualities [or](/en/post/or/) [performance](/en/post/performance/) [of](/en/post/of/) [a](/en/post/a/) [tiger](/en/post/tiger/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) competitive [setting](/en/post/setting/). [Example](/en/post/example/): "[He](/en/post/he/) tigers [his](/en/post/his/) studies [to](/en/post/to/) [maintain](/en/post/maintain/) [top](/en/post/top/) grades."
+### [Verb](/post/verb/)
+- [To](/post/to/) [attack](/post/attack/) [or](/post/or/) [display](/post/display/) dominance [over](/post/over/) [something](/post/something/) [or](/post/or/) [someone](/post/someone/). [Example](/post/example/): "[The](/post/the/) [team](/post/team/) is known [for](/post/for/) tigering [their](/post/their/) opponents [in](/post/in/) [every](/post/every/) [match](/post/match/)."
+- [To](/post/to/) emulate [the](/post/the/) qualities [or](/post/or/) [performance](/post/performance/) [of](/post/of/) [a](/post/a/) [tiger](/post/tiger/), [especially](/post/especially/) [in](/post/in/) [a](/post/a/) competitive [setting](/post/setting/). [Example](/post/example/): "[He](/post/he/) tigers [his](/post/his/) studies [to](/post/to/) [maintain](/post/maintain/) [top](/post/top/) grades."
 
 ## Phrases
-- "Tiger's [roar](/en/post/roar/)" symbolizes [power](/en/post/power/) [and](/en/post/and/) [authority](/en/post/authority/).
-- "[To](/en/post/to/) [let](/en/post/let/) [out](/en/post/out/) [a](/en/post/a/) [tiger](/en/post/tiger/) growl" [means](/en/post/means/) [to](/en/post/to/) [show](/en/post/show/) [strong](/en/post/strong/) [determination](/en/post/determination/) [or](/en/post/or/) [anger](/en/post/anger/).
-- "She's [a](/en/post/a/) [force](/en/post/force/) [to](/en/post/to/) [be](/en/post/be/) reckoned [with](/en/post/with/), [like](/en/post/like/) [a](/en/post/a/) [tiger](/en/post/tiger/) [on](/en/post/on/) [the](/en/post/the/) [hunt](/en/post/hunt/)."
+- "Tiger's [roar](/post/roar/)" symbolizes [power](/post/power/) [and](/post/and/) [authority](/post/authority/).
+- "[To](/post/to/) [let](/post/let/) [out](/post/out/) [a](/post/a/) [tiger](/post/tiger/) growl" [means](/post/means/) [to](/post/to/) [show](/post/show/) [strong](/post/strong/) [determination](/post/determination/) [or](/post/or/) [anger](/post/anger/).
+- "She's [a](/post/a/) [force](/post/force/) [to](/post/to/) [be](/post/be/) reckoned [with](/post/with/), [like](/post/like/) [a](/post/a/) [tiger](/post/tiger/) [on](/post/on/) [the](/post/the/) [hunt](/post/hunt/)."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [tiger](/en/post/tiger/) cautiously approached [the](/en/post/the/) water's [edge](/en/post/edge/), searching [for](/en/post/for/) prey."
-- **[Verb](/en/post/verb/)**: "[In](/en/post/in/) [business](/en/post/business/), [he](/en/post/he/) tigers [through](/en/post/through/) [every](/en/post/every/) [project](/en/post/project/), [never](/en/post/never/) leaving [anything](/en/post/anything/) undone."
-- **Interjection**: "Wow, [look](/en/post/look/) [at](/en/post/at/) [that](/en/post/that/) [tiger](/en/post/tiger/) roaring [at](/en/post/at/) [the](/en/post/the/) visitors!"
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [tiger](/post/tiger/) cautiously approached [the](/post/the/) water's [edge](/post/edge/), searching [for](/post/for/) prey."
+- **[Verb](/post/verb/)**: "[In](/post/in/) [business](/post/business/), [he](/post/he/) tigers [through](/post/through/) [every](/post/every/) [project](/post/project/), [never](/post/never/) leaving [anything](/post/anything/) undone."
+- **Interjection**: "Wow, [look](/post/look/) [at](/post/at/) [that](/post/that/) [tiger](/post/tiger/) roaring [at](/post/at/) [the](/post/the/) visitors!"
 
 ## Synonyms
-- [Lion](/en/post/lion/) (informal, [mainly](/en/post/mainly/) British)
+- [Lion](/post/lion/) (informal, [mainly](/post/mainly/) British)
 - Panther
-- [Beast](/en/post/beast/)
+- [Beast](/post/beast/)
 - Predator
-- Dominant [force](/en/post/force/)
+- Dominant [force](/post/force/)
 
 ## Antonyms
 - Fawn
-- [Sheep](/en/post/sheep/)
+- [Sheep](/post/sheep/)
 - Weakling
-- [Timid](/en/post/timid/)
+- [Timid](/post/timid/)
 - Submissive

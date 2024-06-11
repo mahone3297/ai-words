@@ -7,30 +7,30 @@ description = '[grɑːsp] vt.抓紧；掌握 n.抓'
 keywords = ['ai words', 'grasp']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɡræsp/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) seizing [and](/en/post/and/) holding [something](/en/post/something/) firmly [with](/en/post/with/) one's [hand](/en/post/hand/) [or](/en/post/or/) claws. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [strong](/en/post/strong/) [grasp](/en/post/grasp/) [on](/en/post/on/) [the](/en/post/the/) [handle](/en/post/handle/)."
-- **[Verb](/en/post/verb/)**: 
-  - **[To](/en/post/to/) [seize](/en/post/seize/) [and](/en/post/and/) [hold](/en/post/hold/)**: [To](/en/post/to/) [take](/en/post/take/) [hold](/en/post/hold/) [of](/en/post/of/) [something](/en/post/something/) firmly, typically using one's fingers [or](/en/post/or/) hands. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) grasped [the](/en/post/the/) [toy](/en/post/toy/) tightly."
-  - **[To](/en/post/to/) [understand](/en/post/understand/)**: [To](/en/post/to/) [gain](/en/post/gain/) [a](/en/post/a/) [thorough](/en/post/thorough/) [understanding](/en/post/understanding/) [or](/en/post/or/) mastery [of](/en/post/of/) [a](/en/post/a/) [concept](/en/post/concept/), [skill](/en/post/skill/), [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [finally](/en/post/finally/) grasped [the](/en/post/the/) [complex](/en/post/complex/) [mathematical](/en/post/mathematical/) theorem."
+- **[Noun](/post/noun/)**: [The](/post/the/) [act](/post/act/) [of](/post/of/) seizing [and](/post/and/) holding [something](/post/something/) firmly [with](/post/with/) one's [hand](/post/hand/) [or](/post/or/) claws. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [a](/post/a/) [strong](/post/strong/) [grasp](/post/grasp/) [on](/post/on/) [the](/post/the/) [handle](/post/handle/)."
+- **[Verb](/post/verb/)**: 
+  - **[To](/post/to/) [seize](/post/seize/) [and](/post/and/) [hold](/post/hold/)**: [To](/post/to/) [take](/post/take/) [hold](/post/hold/) [of](/post/of/) [something](/post/something/) firmly, typically using one's fingers [or](/post/or/) hands. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [child](/post/child/) grasped [the](/post/the/) [toy](/post/toy/) tightly."
+  - **[To](/post/to/) [understand](/post/understand/)**: [To](/post/to/) [gain](/post/gain/) [a](/post/a/) [thorough](/post/thorough/) [understanding](/post/understanding/) [or](/post/or/) mastery [of](/post/of/) [a](/post/a/) [concept](/post/concept/), [skill](/post/skill/), [or](/post/or/) [situation](/post/situation/). [For](/post/for/) [example](/post/example/): "[He](/post/he/) [finally](/post/finally/) grasped [the](/post/the/) [complex](/post/complex/) [mathematical](/post/mathematical/) theorem."
   
 ## Phrases
-- "[A](/en/post/a/) [good](/en/post/good/) [grasp](/en/post/grasp/)": [This](/en/post/this/) implies [a](/en/post/a/) [solid](/en/post/solid/) [understanding](/en/post/understanding/) [or](/en/post/or/) [command](/en/post/command/) [of](/en/post/of/) [a](/en/post/a/) [subject](/en/post/subject/) [matter](/en/post/matter/).
-- "[To](/en/post/to/) [be](/en/post/be/) [within](/en/post/within/) one's [grasp](/en/post/grasp/)": [This](/en/post/this/) [means](/en/post/means/) [something](/en/post/something/) is achievable [or](/en/post/or/) attainable.
-- "[Grasp](/en/post/grasp/) [the](/en/post/the/) nettle": [This](/en/post/this/) idiomatic [expression](/en/post/expression/) [means](/en/post/means/) [to](/en/post/to/) confront [a](/en/post/a/) [difficult](/en/post/difficult/) [issue](/en/post/issue/) [or](/en/post/or/) [problem](/en/post/problem/) courageously.
+- "[A](/post/a/) [good](/post/good/) [grasp](/post/grasp/)": [This](/post/this/) implies [a](/post/a/) [solid](/post/solid/) [understanding](/post/understanding/) [or](/post/or/) [command](/post/command/) [of](/post/of/) [a](/post/a/) [subject](/post/subject/) [matter](/post/matter/).
+- "[To](/post/to/) [be](/post/be/) [within](/post/within/) one's [grasp](/post/grasp/)": [This](/post/this/) [means](/post/means/) [something](/post/something/) is achievable [or](/post/or/) attainable.
+- "[Grasp](/post/grasp/) [the](/post/the/) nettle": [This](/post/this/) idiomatic [expression](/post/expression/) [means](/post/means/) [to](/post/to/) confront [a](/post/a/) [difficult](/post/difficult/) [issue](/post/issue/) [or](/post/or/) [problem](/post/problem/) courageously.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [firm](/en/post/firm/) [grasp](/en/post/grasp/) [on](/en/post/on/) [the](/en/post/the/) [rope](/en/post/rope/) helped [him](/en/post/him/) [climb](/en/post/climb/) [up](/en/post/up/) [the](/en/post/the/) [mountain](/en/post/mountain/)."
-- **[Verb](/en/post/verb/)**: 
-  - "[She](/en/post/she/) grasped [the](/en/post/the/) [opportunity](/en/post/opportunity/) [with](/en/post/with/) [both](/en/post/both/) hands."
-  - "[It](/en/post/it/) took [him](/en/post/him/) [some](/en/post/some/) [time](/en/post/time/), [but](/en/post/but/) [eventually](/en/post/eventually/), [he](/en/post/he/) grasped [the](/en/post/the/) intricacies [of](/en/post/of/) [the](/en/post/the/) [language](/en/post/language/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[His](/post/his/) [firm](/post/firm/) [grasp](/post/grasp/) [on](/post/on/) [the](/post/the/) [rope](/post/rope/) helped [him](/post/him/) [climb](/post/climb/) [up](/post/up/) [the](/post/the/) [mountain](/post/mountain/)."
+- **[Verb](/post/verb/)**: 
+  - "[She](/post/she/) grasped [the](/post/the/) [opportunity](/post/opportunity/) [with](/post/with/) [both](/post/both/) hands."
+  - "[It](/post/it/) took [him](/post/him/) [some](/post/some/) [time](/post/time/), [but](/post/but/) [eventually](/post/eventually/), [he](/post/he/) grasped [the](/post/the/) intricacies [of](/post/of/) [the](/post/the/) [language](/post/language/)."
 
 ## Synonyms
-- [Hold](/en/post/hold/) ([noun](/en/post/noun/))
-- [Comprehension](/en/post/comprehension/) ([noun](/en/post/noun/), [in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [understanding](/en/post/understanding/))
-- [Seize](/en/post/seize/) ([verb](/en/post/verb/))
-- [Understand](/en/post/understand/) ([verb](/en/post/verb/))
-- [Grasp](/en/post/grasp/) [at](/en/post/at/) ([idiom](/en/post/idiom/), [meaning](/en/post/meaning/) [to](/en/post/to/) [try](/en/post/try/) [to](/en/post/to/) [seize](/en/post/seize/) [or](/en/post/or/) [catch](/en/post/catch/) [something](/en/post/something/))
-- [Get](/en/post/get/) [a](/en/post/a/) [grip](/en/post/grip/) [on](/en/post/on/) ([idiom](/en/post/idiom/), [meaning](/en/post/meaning/) [to](/en/post/to/) [start](/en/post/start/) [to](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [control](/en/post/control/) [something](/en/post/something/))
+- [Hold](/post/hold/) ([noun](/post/noun/))
+- [Comprehension](/post/comprehension/) ([noun](/post/noun/), [in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) [understanding](/post/understanding/))
+- [Seize](/post/seize/) ([verb](/post/verb/))
+- [Understand](/post/understand/) ([verb](/post/verb/))
+- [Grasp](/post/grasp/) [at](/post/at/) ([idiom](/post/idiom/), [meaning](/post/meaning/) [to](/post/to/) [try](/post/try/) [to](/post/to/) [seize](/post/seize/) [or](/post/or/) [catch](/post/catch/) [something](/post/something/))
+- [Get](/post/get/) [a](/post/a/) [grip](/post/grip/) [on](/post/on/) ([idiom](/post/idiom/), [meaning](/post/meaning/) [to](/post/to/) [start](/post/start/) [to](/post/to/) [understand](/post/understand/) [or](/post/or/) [control](/post/control/) [something](/post/something/))

@@ -7,43 +7,43 @@ description = '[ˈsʌfə] vt.遭受；忍受；容许'
 keywords = ['ai words', 'suffer']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈfər/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- Suffering: [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) experiencing [pain](/en/post/pain/), [hardship](/en/post/hardship/), [or](/en/post/or/) [distress](/en/post/distress/). [Example](/en/post/example/): "[She](/en/post/she/) endured [a](/en/post/a/) [great](/en/post/great/) [deal](/en/post/deal/) [of](/en/post/of/) suffering [during](/en/post/during/) [her](/en/post/her/) [illness](/en/post/illness/)."
-- Endurance: [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [tolerate](/en/post/tolerate/) [or](/en/post/or/) [bear](/en/post/bear/) [pain](/en/post/pain/) [or](/en/post/or/) adversity. [Example](/en/post/example/): "[His](/en/post/his/) resilience [in](/en/post/in/) [the](/en/post/the/) [face](/en/post/face/) [of](/en/post/of/) suffering was [truly](/en/post/truly/) inspiring."
+### [Noun](/post/noun/)
+- Suffering: [The](/post/the/) [state](/post/state/) [of](/post/of/) experiencing [pain](/post/pain/), [hardship](/post/hardship/), [or](/post/or/) [distress](/post/distress/). [Example](/post/example/): "[She](/post/she/) endured [a](/post/a/) [great](/post/great/) [deal](/post/deal/) [of](/post/of/) suffering [during](/post/during/) [her](/post/her/) [illness](/post/illness/)."
+- Endurance: [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [tolerate](/post/tolerate/) [or](/post/or/) [bear](/post/bear/) [pain](/post/pain/) [or](/post/or/) adversity. [Example](/post/example/): "[His](/post/his/) resilience [in](/post/in/) [the](/post/the/) [face](/post/face/) [of](/post/of/) suffering was [truly](/post/truly/) inspiring."
 
-### [Verb](/en/post/verb/)
-- [To](/en/post/to/) [endure](/en/post/endure/) [or](/en/post/or/) [undergo](/en/post/undergo/) [pain](/en/post/pain/), [hardship](/en/post/hardship/), [or](/en/post/or/) misfortune. [Example](/en/post/example/): "[The](/en/post/the/) victims had [to](/en/post/to/) [suffer](/en/post/suffer/) [through](/en/post/through/) [a](/en/post/a/) [long](/en/post/long/) [and](/en/post/and/) [painful](/en/post/painful/) [recovery](/en/post/recovery/) [process](/en/post/process/)."
-- [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [experience](/en/post/experience/) [emotional](/en/post/emotional/) [distress](/en/post/distress/). [Example](/en/post/example/): "[She](/en/post/she/) suffered [from](/en/post/from/) [anxiety](/en/post/anxiety/) [after](/en/post/after/) [the](/en/post/the/) breakup."
+### [Verb](/post/verb/)
+- [To](/post/to/) [endure](/post/endure/) [or](/post/or/) [undergo](/post/undergo/) [pain](/post/pain/), [hardship](/post/hardship/), [or](/post/or/) misfortune. [Example](/post/example/): "[The](/post/the/) victims had [to](/post/to/) [suffer](/post/suffer/) [through](/post/through/) [a](/post/a/) [long](/post/long/) [and](/post/and/) [painful](/post/painful/) [recovery](/post/recovery/) [process](/post/process/)."
+- [To](/post/to/) [feel](/post/feel/) [or](/post/or/) [experience](/post/experience/) [emotional](/post/emotional/) [distress](/post/distress/). [Example](/post/example/): "[She](/post/she/) suffered [from](/post/from/) [anxiety](/post/anxiety/) [after](/post/after/) [the](/post/the/) breakup."
 
-### [Adjective](/en/post/adjective/)
-- [Painful](/en/post/painful/): Causing [physical](/en/post/physical/) [or](/en/post/or/) [emotional](/en/post/emotional/) discomfort. [Example](/en/post/example/): "[The](/en/post/the/) patient's wounds were terribly [painful](/en/post/painful/)."
-- [Difficult](/en/post/difficult/): Causing [hardship](/en/post/hardship/) [or](/en/post/or/) [struggle](/en/post/struggle/). [Example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) was [a](/en/post/a/) challenging [and](/en/post/and/) suffering ordeal [for](/en/post/for/) [the](/en/post/the/) [team](/en/post/team/)."
+### [Adjective](/post/adjective/)
+- [Painful](/post/painful/): Causing [physical](/post/physical/) [or](/post/or/) [emotional](/post/emotional/) discomfort. [Example](/post/example/): "[The](/post/the/) patient's wounds were terribly [painful](/post/painful/)."
+- [Difficult](/post/difficult/): Causing [hardship](/post/hardship/) [or](/post/or/) [struggle](/post/struggle/). [Example](/post/example/): "[The](/post/the/) [project](/post/project/) was [a](/post/a/) challenging [and](/post/and/) suffering ordeal [for](/post/for/) [the](/post/the/) [team](/post/team/)."
 
-### [Adverb](/en/post/adverb/)
-- Sufferingly: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) involves [much](/en/post/much/) suffering [or](/en/post/or/) [pain](/en/post/pain/). [Example](/en/post/example/): "[She](/en/post/she/) cried [out](/en/post/out/) sufferingly [as](/en/post/as/) [the](/en/post/the/) [treatment](/en/post/treatment/) began."
+### [Adverb](/post/adverb/)
+- Sufferingly: [In](/post/in/) [a](/post/a/) [manner](/post/manner/) [that](/post/that/) involves [much](/post/much/) suffering [or](/post/or/) [pain](/post/pain/). [Example](/post/example/): "[She](/post/she/) cried [out](/post/out/) sufferingly [as](/post/as/) [the](/post/the/) [treatment](/post/treatment/) began."
 
 ## Phrases
-- "[Suffer](/en/post/suffer/) [through](/en/post/through/)" [means](/en/post/means/) [to](/en/post/to/) [endure](/en/post/endure/) [something](/en/post/something/) [difficult](/en/post/difficult/) [or](/en/post/or/) [unpleasant](/en/post/unpleasant/).
-- "[Suffer](/en/post/suffer/) [from](/en/post/from/)" implies [a](/en/post/a/) chronic [condition](/en/post/condition/) [or](/en/post/or/) ongoing [issue](/en/post/issue/) causing [distress](/en/post/distress/).
-- "[No](/en/post/no/) [one](/en/post/one/) wants [to](/en/post/to/) [suffer](/en/post/suffer/) needlessly" expresses [the](/en/post/the/) [desire](/en/post/desire/) [for](/en/post/for/) [a](/en/post/a/) [life](/en/post/life/) [without](/en/post/without/) [unnecessary](/en/post/unnecessary/) hardships.
+- "[Suffer](/post/suffer/) [through](/post/through/)" [means](/post/means/) [to](/post/to/) [endure](/post/endure/) [something](/post/something/) [difficult](/post/difficult/) [or](/post/or/) [unpleasant](/post/unpleasant/).
+- "[Suffer](/post/suffer/) [from](/post/from/)" implies [a](/post/a/) chronic [condition](/post/condition/) [or](/post/or/) ongoing [issue](/post/issue/) causing [distress](/post/distress/).
+- "[No](/post/no/) [one](/post/one/) wants [to](/post/to/) [suffer](/post/suffer/) needlessly" expresses [the](/post/the/) [desire](/post/desire/) [for](/post/for/) [a](/post/a/) [life](/post/life/) [without](/post/without/) [unnecessary](/post/unnecessary/) hardships.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) refugees were forced [to](/en/post/to/) [suffer](/en/post/suffer/) [in](/en/post/in/) [harsh](/en/post/harsh/) conditions."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) had [to](/en/post/to/) [suffer](/en/post/suffer/) [through](/en/post/through/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) surgeries [to](/en/post/to/) [recover](/en/post/recover/) [from](/en/post/from/) [his](/en/post/his/) [injury](/en/post/injury/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) soldiers' suffering was etched [on](/en/post/on/) [their](/en/post/their/) faces."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) was suffering [through](/en/post/through/) [a](/en/post/a/) [particularly](/en/post/particularly/) [bad](/en/post/bad/) [cold](/en/post/cold/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) refugees were forced [to](/post/to/) [suffer](/post/suffer/) [in](/post/in/) [harsh](/post/harsh/) conditions."
+- **[Verb](/post/verb/)**: "[He](/post/he/) had [to](/post/to/) [suffer](/post/suffer/) [through](/post/through/) [a](/post/a/) [series](/post/series/) [of](/post/of/) surgeries [to](/post/to/) [recover](/post/recover/) [from](/post/from/) [his](/post/his/) [injury](/post/injury/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) soldiers' suffering was etched [on](/post/on/) [their](/post/their/) faces."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) was suffering [through](/post/through/) [a](/post/a/) [particularly](/post/particularly/) [bad](/post/bad/) [cold](/post/cold/)."
 
 ## Synonyms
-- [Endure](/en/post/endure/)
-- [Struggle](/en/post/struggle/)
-- [Go](/en/post/go/) [through](/en/post/through/)
-- [Experience](/en/post/experience/)
-- [Feel](/en/post/feel/)
+- [Endure](/post/endure/)
+- [Struggle](/post/struggle/)
+- [Go](/post/go/) [through](/post/through/)
+- [Experience](/post/experience/)
+- [Feel](/post/feel/)
 - Agonize
 - Torment
 - Misery
-- [Hardship](/en/post/hardship/)
+- [Hardship](/post/hardship/)

@@ -7,33 +7,33 @@ description = '[kɔin] n.硬币；铸造(硬币)'
 keywords = ['ai words', 'coin']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kɔɪn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - [A](/en/post/a/) monetary [unit](/en/post/unit/) [that](/en/post/that/) is officially recognized [and](/en/post/and/) issued [by](/en/post/by/) [a](/en/post/a/) [government](/en/post/government/), [often](/en/post/often/) featuring [a](/en/post/a/) [portrait](/en/post/portrait/) [of](/en/post/of/) [a](/en/post/a/) [historical](/en/post/historical/) [figure](/en/post/figure/) [or](/en/post/or/) [a](/en/post/a/) [symbol](/en/post/symbol/) representing [the](/en/post/the/) [country](/en/post/country/). [Example](/en/post/example/): "[The](/en/post/the/) [coin](/en/post/coin/) was minted [in](/en/post/in/) [the](/en/post/the/) 18th [century](/en/post/century/)."
-  - [A](/en/post/a/) [new](/en/post/new/) [term](/en/post/term/), [idea](/en/post/idea/), [or](/en/post/or/) [concept](/en/post/concept/) introduced [by](/en/post/by/) [someone](/en/post/someone/), typically [for](/en/post/for/) [the](/en/post/the/) [first](/en/post/first/) [time](/en/post/time/). [Example](/en/post/example/): "[He](/en/post/he/) coined [the](/en/post/the/) [phrase](/en/post/phrase/) 'thinking [outside](/en/post/outside/) [the](/en/post/the/) [box](/en/post/box/).'"
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [introduce](/en/post/introduce/) [or](/en/post/or/) [create](/en/post/create/) [a](/en/post/a/) [new](/en/post/new/) [term](/en/post/term/) [or](/en/post/or/) [expression](/en/post/expression/). [Example](/en/post/example/): "[She](/en/post/she/) coined [a](/en/post/a/) [new](/en/post/new/) [word](/en/post/word/) [to](/en/post/to/) [describe](/en/post/describe/) [her](/en/post/her/) [invention](/en/post/invention/)."
+- **[Noun](/post/noun/)**: 
+  - [A](/post/a/) monetary [unit](/post/unit/) [that](/post/that/) is officially recognized [and](/post/and/) issued [by](/post/by/) [a](/post/a/) [government](/post/government/), [often](/post/often/) featuring [a](/post/a/) [portrait](/post/portrait/) [of](/post/of/) [a](/post/a/) [historical](/post/historical/) [figure](/post/figure/) [or](/post/or/) [a](/post/a/) [symbol](/post/symbol/) representing [the](/post/the/) [country](/post/country/). [Example](/post/example/): "[The](/post/the/) [coin](/post/coin/) was minted [in](/post/in/) [the](/post/the/) 18th [century](/post/century/)."
+  - [A](/post/a/) [new](/post/new/) [term](/post/term/), [idea](/post/idea/), [or](/post/or/) [concept](/post/concept/) introduced [by](/post/by/) [someone](/post/someone/), typically [for](/post/for/) [the](/post/the/) [first](/post/first/) [time](/post/time/). [Example](/post/example/): "[He](/post/he/) coined [the](/post/the/) [phrase](/post/phrase/) 'thinking [outside](/post/outside/) [the](/post/the/) [box](/post/box/).'"
+- **[Verb](/post/verb/)**: [To](/post/to/) [introduce](/post/introduce/) [or](/post/or/) [create](/post/create/) [a](/post/a/) [new](/post/new/) [term](/post/term/) [or](/post/or/) [expression](/post/expression/). [Example](/post/example/): "[She](/post/she/) coined [a](/post/a/) [new](/post/new/) [word](/post/word/) [to](/post/to/) [describe](/post/describe/) [her](/post/her/) [invention](/post/invention/)."
 
 ## Phrases
-- "[To](/en/post/to/) [coin](/en/post/coin/) [a](/en/post/a/) [phrase](/en/post/phrase/)" [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) memorable [or](/en/post/or/) catchy [expression](/en/post/expression/).
-- "[Strike](/en/post/strike/) [a](/en/post/a/) [coin](/en/post/coin/)" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) minting [a](/en/post/a/) [new](/en/post/new/) [coin](/en/post/coin/).
-- "Coinage" is [the](/en/post/the/) [system](/en/post/system/) [of](/en/post/of/) issuing [and](/en/post/and/) naming coins.
+- "[To](/post/to/) [coin](/post/coin/) [a](/post/a/) [phrase](/post/phrase/)" [means](/post/means/) [to](/post/to/) [create](/post/create/) [a](/post/a/) memorable [or](/post/or/) catchy [expression](/post/expression/).
+- "[Strike](/post/strike/) [a](/post/a/) [coin](/post/coin/)" refers [to](/post/to/) [the](/post/the/) [process](/post/process/) [of](/post/of/) minting [a](/post/a/) [new](/post/new/) [coin](/post/coin/).
+- "Coinage" is [the](/post/the/) [system](/post/system/) [of](/post/of/) issuing [and](/post/and/) naming coins.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [coin](/en/post/coin/) was [a](/en/post/a/) [valuable](/en/post/valuable/) artifact [from](/en/post/from/) [a](/en/post/a/) long-lost [civilization](/en/post/civilization/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) coined [a](/en/post/a/) [new](/en/post/new/) [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [scientific](/en/post/scientific/) [concept](/en/post/concept/) [that](/en/post/that/) had [no](/en/post/no/) established [name](/en/post/name/)."
-- **[Usage](/en/post/usage/)**: "[Her](/en/post/her/) [book](/en/post/book/) introduced [several](/en/post/several/) [new](/en/post/new/) coinages [into](/en/post/into/) [the](/en/post/the/) [literary](/en/post/literary/) [world](/en/post/world/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ancient](/post/ancient/) [coin](/post/coin/) was [a](/post/a/) [valuable](/post/valuable/) artifact [from](/post/from/) [a](/post/a/) long-lost [civilization](/post/civilization/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) coined [a](/post/a/) [new](/post/new/) [term](/post/term/) [for](/post/for/) [a](/post/a/) [scientific](/post/scientific/) [concept](/post/concept/) [that](/post/that/) had [no](/post/no/) established [name](/post/name/)."
+- **[Usage](/post/usage/)**: "[Her](/post/her/) [book](/post/book/) introduced [several](/post/several/) [new](/post/new/) coinages [into](/post/into/) [the](/post/the/) [literary](/post/literary/) [world](/post/world/)."
 
 ## Synonyms
 - Mint
-- [Introduce](/en/post/introduce/)
-- [Invent](/en/post/invent/)
+- [Introduce](/post/introduce/)
+- [Invent](/post/invent/)
 - Coauthor
-- Concoct ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) creating [a](/en/post/a/) [new](/en/post/new/) [term](/en/post/term/))
+- Concoct ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) creating [a](/post/a/) [new](/post/new/) [term](/post/term/))
 
 ## Antonyms
-- [Revise](/en/post/revise/)
-- [Retire](/en/post/retire/)
-- [Abandon](/en/post/abandon/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) discarding [a](/en/post/a/) [term](/en/post/term/))
+- [Revise](/post/revise/)
+- [Retire](/post/retire/)
+- [Abandon](/post/abandon/) ([in](/post/in/) [the](/post/the/) [sense](/post/sense/) [of](/post/of/) discarding [a](/post/a/) [term](/post/term/))

@@ -7,41 +7,41 @@ description = '[ˈautwəd] a.外面的；向外的'
 keywords = ['ai words', 'outward']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈaʊtˌwərd/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Directed [outwards](/en/post/outwards/); [away](/en/post/away/) [from](/en/post/from/) [the](/en/post/the/) center [or](/en/post/or/) [interior](/en/post/interior/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [external](/en/post/external/) [or](/en/post/or/) [visible](/en/post/visible/). [Example](/en/post/example/): "[The](/en/post/the/) [outward](/en/post/outward/) [appearance](/en/post/appearance/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/) was [charming](/en/post/charming/)."
-  - "[She](/en/post/she/) displayed an [outward](/en/post/outward/) [show](/en/post/show/) [of](/en/post/of/) [confidence](/en/post/confidence/), [but](/en/post/but/) inwardly [she](/en/post/she/) was [nervous](/en/post/nervous/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [direction](/en/post/direction/) [away](/en/post/away/) [from](/en/post/from/) [the](/en/post/the/) [inside](/en/post/inside/) [or](/en/post/or/) center; towards [the](/en/post/the/) [outside](/en/post/outside/). [Example](/en/post/example/): "[The](/en/post/the/) [cat](/en/post/cat/) moved [outward](/en/post/outward/) [when](/en/post/when/) [we](/en/post/we/) opened [the](/en/post/the/) [door](/en/post/door/)."
-- **[Noun](/en/post/noun/) ([less](/en/post/less/) [common](/en/post/common/))**: [The](/en/post/the/) [external](/en/post/external/) [part](/en/post/part/) [or](/en/post/or/) [surface](/en/post/surface/); [something](/en/post/something/) [that](/en/post/that/) faces [outwards](/en/post/outwards/) [or](/en/post/or/) represents an [external](/en/post/external/) [aspect](/en/post/aspect/). [Example](/en/post/example/): "[The](/en/post/the/) renovation focused [on](/en/post/on/) improving [the](/en/post/the/) building's [outward](/en/post/outward/)."
+- **[Adjective](/post/adjective/)**: Directed [outwards](/post/outwards/); [away](/post/away/) [from](/post/from/) [the](/post/the/) center [or](/post/or/) [interior](/post/interior/). [It](/post/it/) [can](/post/can/) [also](/post/also/) [mean](/post/mean/) [external](/post/external/) [or](/post/or/) [visible](/post/visible/). [Example](/post/example/): "[The](/post/the/) [outward](/post/outward/) [appearance](/post/appearance/) [of](/post/of/) [the](/post/the/) [house](/post/house/) was [charming](/post/charming/)."
+  - "[She](/post/she/) displayed an [outward](/post/outward/) [show](/post/show/) [of](/post/of/) [confidence](/post/confidence/), [but](/post/but/) inwardly [she](/post/she/) was [nervous](/post/nervous/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [direction](/post/direction/) [away](/post/away/) [from](/post/from/) [the](/post/the/) [inside](/post/inside/) [or](/post/or/) center; towards [the](/post/the/) [outside](/post/outside/). [Example](/post/example/): "[The](/post/the/) [cat](/post/cat/) moved [outward](/post/outward/) [when](/post/when/) [we](/post/we/) opened [the](/post/the/) [door](/post/door/)."
+- **[Noun](/post/noun/) ([less](/post/less/) [common](/post/common/))**: [The](/post/the/) [external](/post/external/) [part](/post/part/) [or](/post/or/) [surface](/post/surface/); [something](/post/something/) [that](/post/that/) faces [outwards](/post/outwards/) [or](/post/or/) represents an [external](/post/external/) [aspect](/post/aspect/). [Example](/post/example/): "[The](/post/the/) renovation focused [on](/post/on/) improving [the](/post/the/) building's [outward](/post/outward/)."
 
 ## Phrases
-- "[Outward](/en/post/outward/) [appearance](/en/post/appearance/)": [The](/en/post/the/) [external](/en/post/external/) [look](/en/post/look/) [or](/en/post/or/) [impression](/en/post/impression/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "Don't [judge](/en/post/judge/) [a](/en/post/a/) [book](/en/post/book/) [by](/en/post/by/) [its](/en/post/its/) [outward](/en/post/outward/) [appearance](/en/post/appearance/)."
-- "[Outward](/en/post/outward/) [bound](/en/post/bound/)": [Heading](/en/post/heading/) [out](/en/post/out/) [to](/en/post/to/) [sea](/en/post/sea/) [or](/en/post/or/) leaving [a](/en/post/a/) [place](/en/post/place/). [Also](/en/post/also/) refers [to](/en/post/to/) [a](/en/post/a/) [program](/en/post/program/) [of](/en/post/of/) [outdoor](/en/post/outdoor/) activities designed [to](/en/post/to/) [challenge](/en/post/challenge/) participants physically [and](/en/post/and/) mentally.
-- "[Outward](/en/post/outward/) [expression](/en/post/expression/)": [A](/en/post/a/) demonstration [or](/en/post/or/) manifestation [of](/en/post/of/) [something](/en/post/something/) [through](/en/post/through/) [external](/en/post/external/) actions [or](/en/post/or/) words.
+- "[Outward](/post/outward/) [appearance](/post/appearance/)": [The](/post/the/) [external](/post/external/) [look](/post/look/) [or](/post/or/) [impression](/post/impression/) [of](/post/of/) [something](/post/something/). [Example](/post/example/): "Don't [judge](/post/judge/) [a](/post/a/) [book](/post/book/) [by](/post/by/) [its](/post/its/) [outward](/post/outward/) [appearance](/post/appearance/)."
+- "[Outward](/post/outward/) [bound](/post/bound/)": [Heading](/post/heading/) [out](/post/out/) [to](/post/to/) [sea](/post/sea/) [or](/post/or/) leaving [a](/post/a/) [place](/post/place/). [Also](/post/also/) refers [to](/post/to/) [a](/post/a/) [program](/post/program/) [of](/post/of/) [outdoor](/post/outdoor/) activities designed [to](/post/to/) [challenge](/post/challenge/) participants physically [and](/post/and/) mentally.
+- "[Outward](/post/outward/) [expression](/post/expression/)": [A](/post/a/) demonstration [or](/post/or/) manifestation [of](/post/of/) [something](/post/something/) [through](/post/through/) [external](/post/external/) actions [or](/post/or/) words.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [outward](/en/post/outward/) demeanor masked [her](/en/post/her/) [inner](/en/post/inner/) turmoil."
-- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [explosion](/en/post/explosion/) propelled debris [outward](/en/post/outward/) [in](/en/post/in/) [all](/en/post/all/) directions."
-- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [new](/en/post/new/) [job](/en/post/job/) required [him](/en/post/him/) [to](/en/post/to/) [travel](/en/post/travel/) [frequently](/en/post/frequently/) [on](/en/post/on/) [outward](/en/post/outward/) assignments."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) [outward](/post/outward/) demeanor masked [her](/post/her/) [inner](/post/inner/) turmoil."
+- **[Adverb](/post/adverb/)**: "[The](/post/the/) [explosion](/post/explosion/) propelled debris [outward](/post/outward/) [in](/post/in/) [all](/post/all/) directions."
+- **[Noun](/post/noun/)**: "[His](/post/his/) [new](/post/new/) [job](/post/job/) required [him](/post/him/) [to](/post/to/) [travel](/post/travel/) [frequently](/post/frequently/) [on](/post/on/) [outward](/post/outward/) assignments."
 
 ## Synonyms
-- [Exterior](/en/post/exterior/)
-- [External](/en/post/external/)
+- [Exterior](/post/exterior/)
+- [External](/post/external/)
 - Externe
-- [Outside](/en/post/outside/)
-- [Visible](/en/post/visible/)
+- [Outside](/post/outside/)
+- [Visible](/post/visible/)
 - Manifest
 - Surface-level
-- [Outer](/en/post/outer/)
+- [Outer](/post/outer/)
 
-[For](/en/post/for/) [the](/en/post/the/) adverbial [sense](/en/post/sense/):
-- [Outwards](/en/post/outwards/)
+[For](/post/for/) [the](/post/the/) adverbial [sense](/post/sense/):
+- [Outwards](/post/outwards/)
 - Externally
-- [On](/en/post/on/) [the](/en/post/the/) [outside](/en/post/outside/)
+- [On](/post/on/) [the](/post/the/) [outside](/post/outside/)
 
-[For](/en/post/for/) [the](/en/post/the/) [noun](/en/post/noun/) [sense](/en/post/sense/):
+[For](/post/for/) [the](/post/the/) [noun](/post/noun/) [sense](/post/sense/):
 - Exteriority
-- [Outside](/en/post/outside/) [aspect](/en/post/aspect/)
-- [Face](/en/post/face/)
+- [Outside](/post/outside/) [aspect](/post/aspect/)
+- [Face](/post/face/)

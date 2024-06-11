@@ -7,35 +7,35 @@ description = '[əˈdi∫ənl] a.附加的，追加的'
 keywords = ['ai words', 'additional']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /əˈdɪʃənl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: [Additional](/en/post/additional/) [or](/en/post/or/) supplementary, added [to](/en/post/to/) [what](/en/post/what/) [already](/en/post/already/) exists. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) additional工作任务 was [quite](/en/post/quite/) challenging."
-- **[Noun](/en/post/noun/)**: [Something](/en/post/something/) [extra](/en/post/extra/); an [addition](/en/post/addition/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [package](/en/post/package/) included [some](/en/post/some/) [additional](/en/post/additional/) items."
+- **[Adjective](/post/adjective/)**: [Additional](/post/additional/) [or](/post/or/) supplementary, added [to](/post/to/) [what](/post/what/) [already](/post/already/) exists. [For](/post/for/) [example](/post/example/): "[The](/post/the/) additional工作任务 was [quite](/post/quite/) challenging."
+- **[Noun](/post/noun/)**: [Something](/post/something/) [extra](/post/extra/); an [addition](/post/addition/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [package](/post/package/) included [some](/post/some/) [additional](/post/additional/) items."
 
 ## Phrases
-- "[Additional](/en/post/additional/) features" refers [to](/en/post/to/) [extra](/en/post/extra/) capabilities [or](/en/post/or/) functions.
-- "[In](/en/post/in/) [addition](/en/post/addition/) [to](/en/post/to/)" is [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [something](/en/post/something/) [that](/en/post/that/) is supplementary.
-- "[Additional](/en/post/additional/) [training](/en/post/training/)" [might](/en/post/might/) [be](/en/post/be/) required [for](/en/post/for/) [a](/en/post/a/) [new](/en/post/new/) [job](/en/post/job/).
+- "[Additional](/post/additional/) features" refers [to](/post/to/) [extra](/post/extra/) capabilities [or](/post/or/) functions.
+- "[In](/post/in/) [addition](/post/addition/) [to](/post/to/)" is [used](/post/used/) [to](/post/to/) [introduce](/post/introduce/) [something](/post/something/) [that](/post/that/) is supplementary.
+- "[Additional](/post/additional/) [training](/post/training/)" [might](/post/might/) [be](/post/be/) required [for](/post/for/) [a](/post/a/) [new](/post/new/) [job](/post/job/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [hotel](/en/post/hotel/) [provided](/en/post/provided/) [additional](/en/post/additional/) amenities [to](/en/post/to/) [make](/en/post/make/) guests [feel](/en/post/feel/) [comfortable](/en/post/comfortable/)."
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) had [to](/en/post/to/) [pay](/en/post/pay/) [for](/en/post/for/) an [additional](/en/post/additional/) [seat](/en/post/seat/) [on](/en/post/on/) [the](/en/post/the/) [flight](/en/post/flight/)."
-- "[There](/en/post/there/) are [additional](/en/post/additional/) fees [for](/en/post/for/) [late](/en/post/late/) payments."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [hotel](/post/hotel/) [provided](/post/provided/) [additional](/post/additional/) amenities [to](/post/to/) [make](/post/make/) guests [feel](/post/feel/) [comfortable](/post/comfortable/)."
+- **[Noun](/post/noun/)**: "[She](/post/she/) had [to](/post/to/) [pay](/post/pay/) [for](/post/for/) an [additional](/post/additional/) [seat](/post/seat/) [on](/post/on/) [the](/post/the/) [flight](/post/flight/)."
+- "[There](/post/there/) are [additional](/post/additional/) fees [for](/post/for/) [late](/post/late/) payments."
 
 ## Synonyms
-- [Extra](/en/post/extra/)
+- [Extra](/post/extra/)
 - Supplementary
-- [Further](/en/post/further/)
-- [More](/en/post/more/)
-- [Additional](/en/post/additional/) charges
-- [Excess](/en/post/excess/)
+- [Further](/post/further/)
+- [More](/post/more/)
+- [Additional](/post/additional/) charges
+- [Excess](/post/excess/)
 
 ## Antonyms
-- [Basic](/en/post/basic/)
-- [Essential](/en/post/essential/)
-- [Original](/en/post/original/)
-- [Core](/en/post/core/)
-- [Limited](/en/post/limited/)
-- [No](/en/post/no/) [additional](/en/post/additional/)
+- [Basic](/post/basic/)
+- [Essential](/post/essential/)
+- [Original](/post/original/)
+- [Core](/post/core/)
+- [Limited](/post/limited/)
+- [No](/post/no/) [additional](/post/additional/)

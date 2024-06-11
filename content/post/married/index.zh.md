@@ -11,16 +11,16 @@ keywords = ['ai words', 'married']
 /ˈmærɪd/
 
 ## 释义
-- **形容词**: 已婚的，有配偶的。例如: "[She](/post/she/) is [a](/post/a/) [married](/post/married/) [woman](/post/woman/) [with](/post/with/) [two](/post/two/) children."
-- **动词**: 结婚（过去式和过去分词）。例如: "[They](/post/they/) got [married](/post/married/) [last](/post/last/) [summer](/post/summer/) [in](/post/in/) [a](/post/a/) [beautiful](/post/beautiful/) [ceremony](/post/ceremony/)."
+- **形容词**: 已婚的，有配偶的。例如: "[She](/zh/post/she/) is [a](/zh/post/a/) [married](/zh/post/married/) [woman](/zh/post/woman/) [with](/zh/post/with/) [two](/zh/post/two/) children."
+- **动词**: 结婚（过去式和过去分词）。例如: "[They](/zh/post/they/) got [married](/zh/post/married/) [last](/zh/post/last/) [summer](/zh/post/summer/) [in](/zh/post/in/) [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [ceremony](/zh/post/ceremony/)."
 
 ## 短语
-- "[to](/post/to/) [get](/post/get/) [married](/post/married/)" 意为结婚，成为夫妻。
-- "[a](/post/a/) [married](/post/married/) [couple](/post/couple/)" 指已婚夫妇。
+- "[to](/zh/post/to/) [get](/zh/post/get/) [married](/zh/post/married/)" 意为结婚，成为夫妻。
+- "[a](/zh/post/a/) [married](/zh/post/married/) [couple](/zh/post/couple/)" 指已婚夫妇。
 
 ## 例句
-- 形容词: "John [and](/post/and/) Mary are [a](/post/a/) happily [married](/post/married/) [couple](/post/couple/)."
-- 动词: "[My](/post/my/) parents were [married](/post/married/) [in](/post/in/) [their](/post/their/) [early](/post/early/) twenties."
+- 形容词: "John [and](/zh/post/and/) Mary are [a](/zh/post/a/) happily [married](/zh/post/married/) [couple](/zh/post/couple/)."
+- 动词: "[My](/zh/post/my/) parents were [married](/zh/post/married/) [in](/zh/post/in/) [their](/zh/post/their/) [early](/zh/post/early/) twenties."
 
 ## 同义词
 - Wedded

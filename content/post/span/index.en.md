@@ -7,35 +7,35 @@ description = '[spæn] n.跨距；一段时间'
 keywords = ['ai words', 'span']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /spæn/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: 
-  - [The](/en/post/the/) [length](/en/post/length/) [or](/en/post/or/) [extent](/en/post/extent/) [of](/en/post/of/) [something](/en/post/something/) [from](/en/post/from/) [end](/en/post/end/) [to](/en/post/to/) [end](/en/post/end/); [a](/en/post/a/) [stretch](/en/post/stretch/) [or](/en/post/or/) [interval](/en/post/interval/): "[The](/en/post/the/) book's [span](/en/post/span/) is 500 pages." ([Measure](/en/post/measure/))
-  - [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [cover](/en/post/cover/) [a](/en/post/a/) [wide](/en/post/wide/) [range](/en/post/range/) [or](/en/post/or/) [variety](/en/post/variety/): "[Her](/en/post/her/) [musical](/en/post/musical/) talents [span](/en/post/span/) [multiple](/en/post/multiple/) genres." ([Ability](/en/post/ability/))
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [extend](/en/post/extend/) [or](/en/post/or/) [reach](/en/post/reach/) [over](/en/post/over/) [a](/en/post/a/) [certain](/en/post/certain/) [distance](/en/post/distance/) [or](/en/post/or/) [period](/en/post/period/): "[The](/en/post/the/) [bridge](/en/post/bridge/) spans [the](/en/post/the/) [river](/en/post/river/)." ([Action](/en/post/action/))
+- **[Noun](/post/noun/)**: 
+  - [The](/post/the/) [length](/post/length/) [or](/post/or/) [extent](/post/extent/) [of](/post/of/) [something](/post/something/) [from](/post/from/) [end](/post/end/) [to](/post/to/) [end](/post/end/); [a](/post/a/) [stretch](/post/stretch/) [or](/post/or/) [interval](/post/interval/): "[The](/post/the/) book's [span](/post/span/) is 500 pages." ([Measure](/post/measure/))
+  - [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [cover](/post/cover/) [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [or](/post/or/) [variety](/post/variety/): "[Her](/post/her/) [musical](/post/musical/) talents [span](/post/span/) [multiple](/post/multiple/) genres." ([Ability](/post/ability/))
+- **[Verb](/post/verb/)**: [To](/post/to/) [extend](/post/extend/) [or](/post/or/) [reach](/post/reach/) [over](/post/over/) [a](/post/a/) [certain](/post/certain/) [distance](/post/distance/) [or](/post/or/) [period](/post/period/): "[The](/post/the/) [bridge](/post/bridge/) spans [the](/post/the/) [river](/post/river/)." ([Action](/post/action/))
 
 ## Phrases
-- "[span](/en/post/span/) [of](/en/post/of/) [life](/en/post/life/)" refers [to](/en/post/to/) [the](/en/post/the/) [duration](/en/post/duration/) [of](/en/post/of/) [a](/en/post/a/) person's [existence](/en/post/existence/).
-- "[span](/en/post/span/) [of](/en/post/of/) [control](/en/post/control/)" [in](/en/post/in/) [management](/en/post/management/) refers [to](/en/post/to/) [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) [can](/en/post/can/) [be](/en/post/be/) [directly](/en/post/directly/) supervised [by](/en/post/by/) [one](/en/post/one/) [person](/en/post/person/).
-- "[time](/en/post/time/) [span](/en/post/span/)" denotes [a](/en/post/a/) [duration](/en/post/duration/) [or](/en/post/or/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/).
+- "[span](/post/span/) [of](/post/of/) [life](/post/life/)" refers [to](/post/to/) [the](/post/the/) [duration](/post/duration/) [of](/post/of/) [a](/post/a/) person's [existence](/post/existence/).
+- "[span](/post/span/) [of](/post/of/) [control](/post/control/)" [in](/post/in/) [management](/post/management/) refers [to](/post/to/) [the](/post/the/) [number](/post/number/) [of](/post/of/) [people](/post/people/) [who](/post/who/) [can](/post/can/) [be](/post/be/) [directly](/post/directly/) supervised [by](/post/by/) [one](/post/one/) [person](/post/person/).
+- "[time](/post/time/) [span](/post/span/)" denotes [a](/post/a/) [duration](/post/duration/) [or](/post/or/) [period](/post/period/) [of](/post/of/) [time](/post/time/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [artist](/en/post/artist/) carefully measured [the](/en/post/the/) wall's [span](/en/post/span/) [before](/en/post/before/) deciding [where](/en/post/where/) [to](/en/post/to/) [hang](/en/post/hang/) [the](/en/post/the/) [painting](/en/post/painting/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [old](/en/post/old/) [oak](/en/post/oak/) tree's roots spanned [the](/en/post/the/) [entire](/en/post/entire/) [yard](/en/post/yard/), anchoring [it](/en/post/it/) firmly [in](/en/post/in/) [place](/en/post/place/)."
-- "[Her](/en/post/her/) [career](/en/post/career/) has spanned [three](/en/post/three/) decades, [during](/en/post/during/) [which](/en/post/which/) she's won [multiple](/en/post/multiple/) awards."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [artist](/post/artist/) carefully measured [the](/post/the/) wall's [span](/post/span/) [before](/post/before/) deciding [where](/post/where/) [to](/post/to/) [hang](/post/hang/) [the](/post/the/) [painting](/post/painting/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [old](/post/old/) [oak](/post/oak/) tree's roots spanned [the](/post/the/) [entire](/post/entire/) [yard](/post/yard/), anchoring [it](/post/it/) firmly [in](/post/in/) [place](/post/place/)."
+- "[Her](/post/her/) [career](/post/career/) has spanned [three](/post/three/) decades, [during](/post/during/) [which](/post/which/) she's won [multiple](/post/multiple/) awards."
 
 ## Synonyms
-- [Reach](/en/post/reach/)
-- [Extend](/en/post/extend/)
-- [Cover](/en/post/cover/)
-- [Stretch](/en/post/stretch/)
-- [Breadth](/en/post/breadth/)
-- [Scope](/en/post/scope/)
+- [Reach](/post/reach/)
+- [Extend](/post/extend/)
+- [Cover](/post/cover/)
+- [Stretch](/post/stretch/)
+- [Breadth](/post/breadth/)
+- [Scope](/post/scope/)
 
 ## Antonyms
-- [Narrow](/en/post/narrow/)
+- [Narrow](/post/narrow/)
 - Restricted
-- [Limited](/en/post/limited/)
+- [Limited](/post/limited/)
 - Bounded

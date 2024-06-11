@@ -7,34 +7,34 @@ description = '[bau] n.弓；蝴蝶结；鞠躬'
 keywords = ['ai words', 'bow']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bəʊ/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [bow](/en/post/bow/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/):
-1. **[Formal](/en/post/formal/) [greeting](/en/post/greeting/)**: An [act](/en/post/act/) [of](/en/post/of/) bending one's [body](/en/post/body/), [especially](/en/post/especially/) [from](/en/post/from/) [the](/en/post/the/) [waist](/en/post/waist/), [as](/en/post/as/) [a](/en/post/a/) [sign](/en/post/sign/) [of](/en/post/of/) [respect](/en/post/respect/) [or](/en/post/or/) [greeting](/en/post/greeting/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [prince](/en/post/prince/) bowed deeply [to](/en/post/to/) [the](/en/post/the/) [queen](/en/post/queen/)."
-2. **[Weapon](/en/post/weapon/)**: [A](/en/post/a/) [long](/en/post/long/), [slender](/en/post/slender/), typically curved [piece](/en/post/piece/) [of](/en/post/of/) [wood](/en/post/wood/) [with](/en/post/with/) [a](/en/post/a/) [string](/en/post/string/), [used](/en/post/used/) [in](/en/post/in/) archery. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was an [expert](/en/post/expert/) [in](/en/post/in/) using [a](/en/post/a/) longbow."
-3. **[Fashion](/en/post/fashion/) [accessory](/en/post/accessory/)**: [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [clothing](/en/post/clothing/) [item](/en/post/item/), [often](/en/post/often/) worn [by](/en/post/by/) women, [that](/en/post/that/) involves curving [the](/en/post/the/) [back](/en/post/back/) [and](/en/post/and/) shoulders [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [graceful](/en/post/graceful/) [shape](/en/post/shape/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) wore [a](/en/post/a/) stunning [evening](/en/post/evening/) [gown](/en/post/gown/) [with](/en/post/with/) [a](/en/post/a/) [low](/en/post/low/) [back](/en/post/back/) [bow](/en/post/bow/)."
-4. **[Shape](/en/post/shape/) [or](/en/post/or/) [curve](/en/post/curve/)**: [A](/en/post/a/) curved [line](/en/post/line/) [or](/en/post/or/) [form](/en/post/form/), [often](/en/post/often/) symbolic. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) logo featured [a](/en/post/a/) bow-shaped [wave](/en/post/wave/)."
+### [Noun](/post/noun/)
+[A](/post/a/) [bow](/post/bow/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/):
+1. **[Formal](/post/formal/) [greeting](/post/greeting/)**: An [act](/post/act/) [of](/post/of/) bending one's [body](/post/body/), [especially](/post/especially/) [from](/post/from/) [the](/post/the/) [waist](/post/waist/), [as](/post/as/) [a](/post/a/) [sign](/post/sign/) [of](/post/of/) [respect](/post/respect/) [or](/post/or/) [greeting](/post/greeting/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [prince](/post/prince/) bowed deeply [to](/post/to/) [the](/post/the/) [queen](/post/queen/)."
+2. **[Weapon](/post/weapon/)**: [A](/post/a/) [long](/post/long/), [slender](/post/slender/), typically curved [piece](/post/piece/) [of](/post/of/) [wood](/post/wood/) [with](/post/with/) [a](/post/a/) [string](/post/string/), [used](/post/used/) [in](/post/in/) archery. [For](/post/for/) [example](/post/example/): "[He](/post/he/) was an [expert](/post/expert/) [in](/post/in/) using [a](/post/a/) longbow."
+3. **[Fashion](/post/fashion/) [accessory](/post/accessory/)**: [A](/post/a/) [type](/post/type/) [of](/post/of/) [clothing](/post/clothing/) [item](/post/item/), [often](/post/often/) worn [by](/post/by/) women, [that](/post/that/) involves curving [the](/post/the/) [back](/post/back/) [and](/post/and/) shoulders [to](/post/to/) [form](/post/form/) [a](/post/a/) [graceful](/post/graceful/) [shape](/post/shape/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) wore [a](/post/a/) stunning [evening](/post/evening/) [gown](/post/gown/) [with](/post/with/) [a](/post/a/) [low](/post/low/) [back](/post/back/) [bow](/post/bow/)."
+4. **[Shape](/post/shape/) [or](/post/or/) [curve](/post/curve/)**: [A](/post/a/) curved [line](/post/line/) [or](/post/or/) [form](/post/form/), [often](/post/often/) symbolic. [For](/post/for/) [example](/post/example/): "[The](/post/the/) logo featured [a](/post/a/) bow-shaped [wave](/post/wave/)."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [bow](/en/post/bow/)**: [To](/en/post/to/) [perform](/en/post/perform/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) bending one's [body](/en/post/body/) [in](/en/post/in/) [a](/en/post/a/) [show](/en/post/show/) [of](/en/post/of/) [respect](/en/post/respect/) [or](/en/post/or/) [greeting](/en/post/greeting/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [orchestra](/en/post/orchestra/) [conductor](/en/post/conductor/) bowed [to](/en/post/to/) [the](/en/post/the/) [audience](/en/post/audience/) [after](/en/post/after/) [the](/en/post/the/) [performance](/en/post/performance/)."
-2. **[To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [bow](/en/post/bow/)**: [To](/en/post/to/) [execute](/en/post/execute/) [a](/en/post/a/) [formal](/en/post/formal/) [gesture](/en/post/gesture/) [of](/en/post/of/) [respect](/en/post/respect/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) dancer made [a](/en/post/a/) [beautiful](/en/post/beautiful/) curtsy [and](/en/post/and/) [bow](/en/post/bow/) [during](/en/post/during/) [her](/en/post/her/) [performance](/en/post/performance/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [bow](/post/bow/)**: [To](/post/to/) [perform](/post/perform/) [the](/post/the/) [act](/post/act/) [of](/post/of/) bending one's [body](/post/body/) [in](/post/in/) [a](/post/a/) [show](/post/show/) [of](/post/of/) [respect](/post/respect/) [or](/post/or/) [greeting](/post/greeting/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [orchestra](/post/orchestra/) [conductor](/post/conductor/) bowed [to](/post/to/) [the](/post/the/) [audience](/post/audience/) [after](/post/after/) [the](/post/the/) [performance](/post/performance/)."
+2. **[To](/post/to/) [make](/post/make/) [a](/post/a/) [bow](/post/bow/)**: [To](/post/to/) [execute](/post/execute/) [a](/post/a/) [formal](/post/formal/) [gesture](/post/gesture/) [of](/post/of/) [respect](/post/respect/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) dancer made [a](/post/a/) [beautiful](/post/beautiful/) curtsy [and](/post/and/) [bow](/post/bow/) [during](/post/during/) [her](/post/her/) [performance](/post/performance/)."
 
-### [Noun](/en/post/noun/) (figurative)
-1. Submission [or](/en/post/or/) acknowledgment: [A](/en/post/a/) [sign](/en/post/sign/) [of](/en/post/of/) giving [in](/en/post/in/) [or](/en/post/or/) expressing [agreement](/en/post/agreement/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [much](/en/post/much/) [debate](/en/post/debate/), [he](/en/post/he/) [finally](/en/post/finally/) bowed [to](/en/post/to/) [her](/en/post/her/) [suggestion](/en/post/suggestion/)."
-2. Token [of](/en/post/of/) appreciation: [A](/en/post/a/) [gesture](/en/post/gesture/) [or](/en/post/or/) [act](/en/post/act/) [to](/en/post/to/) [show](/en/post/show/) [gratitude](/en/post/gratitude/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) fans cheered [as](/en/post/as/) [the](/en/post/the/) [player](/en/post/player/) took [a](/en/post/a/) [victory](/en/post/victory/) [bow](/en/post/bow/)."
+### [Noun](/post/noun/) (figurative)
+1. Submission [or](/post/or/) acknowledgment: [A](/post/a/) [sign](/post/sign/) [of](/post/of/) giving [in](/post/in/) [or](/post/or/) expressing [agreement](/post/agreement/). [For](/post/for/) [example](/post/example/): "[After](/post/after/) [much](/post/much/) [debate](/post/debate/), [he](/post/he/) [finally](/post/finally/) bowed [to](/post/to/) [her](/post/her/) [suggestion](/post/suggestion/)."
+2. Token [of](/post/of/) appreciation: [A](/post/a/) [gesture](/post/gesture/) [or](/post/or/) [act](/post/act/) [to](/post/to/) [show](/post/show/) [gratitude](/post/gratitude/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) fans cheered [as](/post/as/) [the](/post/the/) [player](/post/player/) took [a](/post/a/) [victory](/post/victory/) [bow](/post/bow/)."
 
 ## Phrases
-- "Bowing [to](/en/post/to/) [tradition](/en/post/tradition/)" [means](/en/post/means/) adhering [to](/en/post/to/) established customs [or](/en/post/or/) practices.
-- "[Take](/en/post/take/) [a](/en/post/a/) [bow](/en/post/bow/)" is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) applause [or](/en/post/or/) appreciation [for](/en/post/for/) someone's [performance](/en/post/performance/).
-- "[She](/en/post/she/) curtsied [and](/en/post/and/) bowed" [to](/en/post/to/) [emphasize](/en/post/emphasize/) [a](/en/post/a/) [formal](/en/post/formal/) [greeting](/en/post/greeting/).
+- "Bowing [to](/post/to/) [tradition](/post/tradition/)" [means](/post/means/) adhering [to](/post/to/) established customs [or](/post/or/) practices.
+- "[Take](/post/take/) [a](/post/a/) [bow](/post/bow/)" is [used](/post/used/) [to](/post/to/) [indicate](/post/indicate/) applause [or](/post/or/) appreciation [for](/post/for/) someone's [performance](/post/performance/).
+- "[She](/post/she/) curtsied [and](/post/and/) bowed" [to](/post/to/) [emphasize](/post/emphasize/) [a](/post/a/) [formal](/post/formal/) [greeting](/post/greeting/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children watched [in](/en/post/in/) awe [as](/en/post/as/) [the](/en/post/the/) [soldier](/en/post/soldier/) performed [a](/en/post/a/) [military](/en/post/military/) [salute](/en/post/salute/) [and](/en/post/and/) [a](/en/post/a/) [perfect](/en/post/perfect/) [bow](/en/post/bow/)."
-- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) winning [the](/en/post/the/) [gold](/en/post/gold/) [medal](/en/post/medal/), [the](/en/post/the/) gymnast took [a](/en/post/a/) [victory](/en/post/victory/) [bow](/en/post/bow/)."
-- **Interjection**: [Not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) an interjection, [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [phrase](/en/post/phrase/) [like](/en/post/like/) "[Goodbye](/en/post/goodbye/), [and](/en/post/and/) thanks [for](/en/post/for/) [all](/en/post/all/) [the](/en/post/the/) [fish](/en/post/fish/). [Farewell](/en/post/farewell/), [bow](/en/post/bow/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) children watched [in](/post/in/) awe [as](/post/as/) [the](/post/the/) [soldier](/post/soldier/) performed [a](/post/a/) [military](/post/military/) [salute](/post/salute/) [and](/post/and/) [a](/post/a/) [perfect](/post/perfect/) [bow](/post/bow/)."
+- **[Verb](/post/verb/)**: "[After](/post/after/) winning [the](/post/the/) [gold](/post/gold/) [medal](/post/medal/), [the](/post/the/) gymnast took [a](/post/a/) [victory](/post/victory/) [bow](/post/bow/)."
+- **Interjection**: [Not](/post/not/) [commonly](/post/commonly/) [used](/post/used/) [as](/post/as/) an interjection, [but](/post/but/) [can](/post/can/) [be](/post/be/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [phrase](/post/phrase/) [like](/post/like/) "[Goodbye](/post/goodbye/), [and](/post/and/) thanks [for](/post/for/) [all](/post/all/) [the](/post/the/) [fish](/post/fish/). [Farewell](/post/farewell/), [bow](/post/bow/)."
 
 ## Synonyms
 - salaam
@@ -42,5 +42,5 @@ keywords = ['ai words', 'bow']
 - genuflection
 - obeisance
 - prostration
-- [nod](/en/post/nod/)
+- [nod](/post/nod/)
 - inclination

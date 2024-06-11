@@ -7,35 +7,35 @@ description = '[ˌintəˈrʌpt] vt.打断，打扰；中止'
 keywords = ['ai words', 'interrupt']
 +++
 
-## [Word](/en/post/word/): [Interrupt](/en/post/interrupt/)
+## [Word](/post/word/): [Interrupt](/post/interrupt/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪnˈtɜːrpt/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: 
-  - (transitive) [To](/en/post/to/) [break](/en/post/break/) [into](/en/post/into/) [or](/en/post/or/) [disturb](/en/post/disturb/) [the](/en/post/the/) continuity [or](/en/post/or/) [progress](/en/post/progress/) [of](/en/post/of/) (an [action](/en/post/action/), [speech](/en/post/speech/), [thought](/en/post/thought/), etc.). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) ringing [phone](/en/post/phone/) interrupted [our](/en/post/our/) [conversation](/en/post/conversation/)."
-  - (intransitive) [To](/en/post/to/) [break](/en/post/break/) [off](/en/post/off/) [what](/en/post/what/) [one](/en/post/one/) is doing [by](/en/post/by/) [some](/en/post/some/) extraneous [act](/en/post/act/), [event](/en/post/event/), [or](/en/post/or/) [thought](/en/post/thought/). [For](/en/post/for/) [example](/en/post/example/): "I was interrupted [while](/en/post/while/) [reading](/en/post/reading/) [my](/en/post/my/) [book](/en/post/book/)."
-  - (computing) [To](/en/post/to/) [suspend](/en/post/suspend/) [the](/en/post/the/) [normal](/en/post/normal/) processing [of](/en/post/of/) [a](/en/post/a/) [program](/en/post/program/) temporarily, [usually](/en/post/usually/) [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) an [external](/en/post/external/) [signal](/en/post/signal/) [or](/en/post/or/) [event](/en/post/event/).
+- **[Verb](/post/verb/)**: 
+  - (transitive) [To](/post/to/) [break](/post/break/) [into](/post/into/) [or](/post/or/) [disturb](/post/disturb/) [the](/post/the/) continuity [or](/post/or/) [progress](/post/progress/) [of](/post/of/) (an [action](/post/action/), [speech](/post/speech/), [thought](/post/thought/), etc.). [For](/post/for/) [example](/post/example/): "[The](/post/the/) ringing [phone](/post/phone/) interrupted [our](/post/our/) [conversation](/post/conversation/)."
+  - (intransitive) [To](/post/to/) [break](/post/break/) [off](/post/off/) [what](/post/what/) [one](/post/one/) is doing [by](/post/by/) [some](/post/some/) extraneous [act](/post/act/), [event](/post/event/), [or](/post/or/) [thought](/post/thought/). [For](/post/for/) [example](/post/example/): "I was interrupted [while](/post/while/) [reading](/post/reading/) [my](/post/my/) [book](/post/book/)."
+  - (computing) [To](/post/to/) [suspend](/post/suspend/) [the](/post/the/) [normal](/post/normal/) processing [of](/post/of/) [a](/post/a/) [program](/post/program/) temporarily, [usually](/post/usually/) [in](/post/in/) [response](/post/response/) [to](/post/to/) an [external](/post/external/) [signal](/post/signal/) [or](/post/or/) [event](/post/event/).
 
 ## Phrases
-- "[Interrupt](/en/post/interrupt/) someone's [flow](/en/post/flow/)": [To](/en/post/to/) [break](/en/post/break/) [the](/en/post/the/) [concentration](/en/post/concentration/) [or](/en/post/or/) [train](/en/post/train/) [of](/en/post/of/) [thought](/en/post/thought/) [of](/en/post/of/) [someone](/en/post/someone/).
-- "[Interrupt](/en/post/interrupt/) [a](/en/post/a/) [process](/en/post/process/)": [In](/en/post/in/) computing, [to](/en/post/to/) [halt](/en/post/halt/) [the](/en/post/the/) [normal](/en/post/normal/) execution [of](/en/post/of/) [a](/en/post/a/) [program](/en/post/program/) [or](/en/post/or/) [task](/en/post/task/).
-- "[Interrupt](/en/post/interrupt/) politely": [To](/en/post/to/) [try](/en/post/try/) [to](/en/post/to/) [get](/en/post/get/) someone's [attention](/en/post/attention/) [without](/en/post/without/) [being](/en/post/being/) [rude](/en/post/rude/) [or](/en/post/or/) intrusive.
+- "[Interrupt](/post/interrupt/) someone's [flow](/post/flow/)": [To](/post/to/) [break](/post/break/) [the](/post/the/) [concentration](/post/concentration/) [or](/post/or/) [train](/post/train/) [of](/post/of/) [thought](/post/thought/) [of](/post/of/) [someone](/post/someone/).
+- "[Interrupt](/post/interrupt/) [a](/post/a/) [process](/post/process/)": [In](/post/in/) computing, [to](/post/to/) [halt](/post/halt/) [the](/post/the/) [normal](/post/normal/) execution [of](/post/of/) [a](/post/a/) [program](/post/program/) [or](/post/or/) [task](/post/task/).
+- "[Interrupt](/post/interrupt/) politely": [To](/post/to/) [try](/post/try/) [to](/post/to/) [get](/post/get/) someone's [attention](/post/attention/) [without](/post/without/) [being](/post/being/) [rude](/post/rude/) [or](/post/or/) intrusive.
 
-## [Example](/en/post/example/) Sentences
-- **[Verb](/en/post/verb/) (transitive)**: "[Please](/en/post/please/) don't [interrupt](/en/post/interrupt/) [when](/en/post/when/) I'm speaking; it's [quite](/en/post/quite/) [rude](/en/post/rude/)."
-- **[Verb](/en/post/verb/) (intransitive)**: "[She](/en/post/she/) was interrupted [from](/en/post/from/) [her](/en/post/her/) [work](/en/post/work/) [by](/en/post/by/) [a](/en/post/a/) [knock](/en/post/knock/) [on](/en/post/on/) [the](/en/post/the/) [door](/en/post/door/)."
-- **Computing**: "[The](/en/post/the/) [system](/en/post/system/) [can](/en/post/can/) automatically [interrupt](/en/post/interrupt/) [a](/en/post/a/) running [program](/en/post/program/) [if](/en/post/if/) [it](/en/post/it/) detects an [error](/en/post/error/)."
+## [Example](/post/example/) Sentences
+- **[Verb](/post/verb/) (transitive)**: "[Please](/post/please/) don't [interrupt](/post/interrupt/) [when](/post/when/) I'm speaking; it's [quite](/post/quite/) [rude](/post/rude/)."
+- **[Verb](/post/verb/) (intransitive)**: "[She](/post/she/) was interrupted [from](/post/from/) [her](/post/her/) [work](/post/work/) [by](/post/by/) [a](/post/a/) [knock](/post/knock/) [on](/post/on/) [the](/post/the/) [door](/post/door/)."
+- **Computing**: "[The](/post/the/) [system](/post/system/) [can](/post/can/) automatically [interrupt](/post/interrupt/) [a](/post/a/) running [program](/post/program/) [if](/post/if/) [it](/post/it/) detects an [error](/post/error/)."
 
 ## Synonyms
-- [Break](/en/post/break/) ([into](/en/post/into/))
-- [Cut](/en/post/cut/) [off](/en/post/off/)
-- [Halt](/en/post/halt/)
+- [Break](/post/break/) ([into](/post/into/))
+- [Cut](/post/cut/) [off](/post/off/)
+- [Halt](/post/halt/)
 - Disrupt
-- [Interfere](/en/post/interfere/) [with](/en/post/with/)
-- [Stop](/en/post/stop/) (temporarily)
-- Intrude [upon](/en/post/upon/)
-- [Check](/en/post/check/) (informal)  
-- Chime [in](/en/post/in/) ([casual](/en/post/casual/))  
-- Butt [in](/en/post/in/) (informal, [often](/en/post/often/) impolite)
+- [Interfere](/post/interfere/) [with](/post/with/)
+- [Stop](/post/stop/) (temporarily)
+- Intrude [upon](/post/upon/)
+- [Check](/post/check/) (informal)  
+- Chime [in](/post/in/) ([casual](/post/casual/))  
+- Butt [in](/post/in/) (informal, [often](/post/often/) impolite)

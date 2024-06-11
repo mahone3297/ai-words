@@ -11,19 +11,19 @@ keywords = ['ai words', 'advisable']
 /ədˈvaɪzəbl/
 
 ## 释义
-- **形容词**: 可取的；明智的；适当的。例如: "[It](/post/it/) is [advisable](/post/advisable/) [to](/post/to/) [have](/post/have/) [a](/post/a/) backup [plan](/post/plan/) [in](/post/in/) [case](/post/case/) [of](/post/of/) emergencies."
+- **形容词**: 可取的；明智的；适当的。例如: "[It](/zh/post/it/) is [advisable](/zh/post/advisable/) [to](/zh/post/to/) [have](/zh/post/have/) [a](/zh/post/a/) backup [plan](/zh/post/plan/) [in](/zh/post/in/) [case](/zh/post/case/) [of](/zh/post/of/) emergencies."
 
 ## 短语
-- "[advisable](/post/advisable/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" 意为做某事是明智的。
-- "[It](/post/it/) is [advisable](/post/advisable/) [for](/post/for/) [you](/post/you/) [to](/post/to/) [consult](/post/consult/) [a](/post/a/) [professional](/post/professional/)." 表示建议你咨询专业人士。
+- "[advisable](/zh/post/advisable/) [to](/zh/post/to/) [do](/zh/post/do/) [something](/zh/post/something/)" 意为做某事是明智的。
+- "[It](/zh/post/it/) is [advisable](/zh/post/advisable/) [for](/zh/post/for/) [you](/zh/post/you/) [to](/zh/post/to/) [consult](/zh/post/consult/) [a](/zh/post/a/) [professional](/zh/post/professional/)." 表示建议你咨询专业人士。
 
 ## 例句
-- "Given [the](/post/the/) [weather](/post/weather/) conditions, it's [advisable](/post/advisable/) [to](/post/to/) [delay](/post/delay/) [the](/post/the/) [trip](/post/trip/)."
-- "It's [advisable](/post/advisable/) [to](/post/to/) [review](/post/review/) [your](/post/your/) notes [before](/post/before/) [the](/post/the/) [exam](/post/exam/)."
+- "Given [the](/zh/post/the/) [weather](/zh/post/weather/) conditions, it's [advisable](/zh/post/advisable/) [to](/zh/post/to/) [delay](/zh/post/delay/) [the](/zh/post/the/) [trip](/zh/post/trip/)."
+- "It's [advisable](/zh/post/advisable/) [to](/zh/post/to/) [review](/zh/post/review/) [your](/zh/post/your/) notes [before](/zh/post/before/) [the](/zh/post/the/) [exam](/zh/post/exam/)."
 
 ## 同义词
-- [wise](/post/wise/)
-- [sensible](/post/sensible/)
+- [wise](/zh/post/wise/)
+- [sensible](/zh/post/sensible/)
 - judicious
 - prudent
 - recommended

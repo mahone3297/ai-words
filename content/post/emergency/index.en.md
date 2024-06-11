@@ -7,35 +7,35 @@ description = '[iˈməːdʒnsi] n.紧急情况，突然事件'
 keywords = ['ai words', 'emergency']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ɪˈmɜːdʒənsi/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: An unforeseen [combination](/en/post/combination/) [of](/en/post/of/) circumstances [or](/en/post/or/) an [unexpected](/en/post/unexpected/) [event](/en/post/event/) [that](/en/post/that/) requires [immediate](/en/post/immediate/) [action](/en/post/action/) [or](/en/post/or/) [attention](/en/post/attention/), [often](/en/post/often/) resulting [from](/en/post/from/) [a](/en/post/a/) [serious](/en/post/serious/) [situation](/en/post/situation/) [or](/en/post/or/) [a](/en/post/a/) [natural](/en/post/natural/) [disaster](/en/post/disaster/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [case](/en/post/case/) [of](/en/post/of/) an [emergency](/en/post/emergency/), [dial](/en/post/dial/) 911."
+- **[Noun](/post/noun/)**: An unforeseen [combination](/post/combination/) [of](/post/of/) circumstances [or](/post/or/) an [unexpected](/post/unexpected/) [event](/post/event/) [that](/post/that/) requires [immediate](/post/immediate/) [action](/post/action/) [or](/post/or/) [attention](/post/attention/), [often](/post/often/) resulting [from](/post/from/) [a](/post/a/) [serious](/post/serious/) [situation](/post/situation/) [or](/post/or/) [a](/post/a/) [natural](/post/natural/) [disaster](/post/disaster/). [For](/post/for/) [example](/post/example/): "[In](/post/in/) [case](/post/case/) [of](/post/of/) an [emergency](/post/emergency/), [dial](/post/dial/) 911."
 
-### [Noun](/en/post/noun/) Examples
-- "[The](/en/post/the/) [hospital](/en/post/hospital/) was [put](/en/post/put/) [on](/en/post/on/) [high](/en/post/high/) alert [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [sudden](/en/post/sudden/) influx [of](/en/post/of/) patients [from](/en/post/from/) [the](/en/post/the/) [traffic](/en/post/traffic/) [accident](/en/post/accident/) [emergency](/en/post/emergency/)."
-- "[A](/en/post/a/) [fire](/en/post/fire/) [drill](/en/post/drill/) is [a](/en/post/a/) [practice](/en/post/practice/) [for](/en/post/for/) responding [to](/en/post/to/) emergencies efficiently."
-- "Carrying [a](/en/post/a/) [first](/en/post/first/) [aid](/en/post/aid/) kit is [essential](/en/post/essential/) [for](/en/post/for/) dealing [with](/en/post/with/) [minor](/en/post/minor/) emergencies."
+### [Noun](/post/noun/) Examples
+- "[The](/post/the/) [hospital](/post/hospital/) was [put](/post/put/) [on](/post/on/) [high](/post/high/) alert [due](/post/due/) [to](/post/to/) [the](/post/the/) [sudden](/post/sudden/) influx [of](/post/of/) patients [from](/post/from/) [the](/post/the/) [traffic](/post/traffic/) [accident](/post/accident/) [emergency](/post/emergency/)."
+- "[A](/post/a/) [fire](/post/fire/) [drill](/post/drill/) is [a](/post/a/) [practice](/post/practice/) [for](/post/for/) responding [to](/post/to/) emergencies efficiently."
+- "Carrying [a](/post/a/) [first](/post/first/) [aid](/post/aid/) kit is [essential](/post/essential/) [for](/post/for/) dealing [with](/post/with/) [minor](/post/minor/) emergencies."
 
 ## Phrases
-- "[Emergency](/en/post/emergency/) services": [The](/en/post/the/) organizations [such](/en/post/such/) [as](/en/post/as/) [police](/en/post/police/), [ambulance](/en/post/ambulance/), [and](/en/post/and/) [fire](/en/post/fire/) [department](/en/post/department/) [that](/en/post/that/) [respond](/en/post/respond/) [to](/en/post/to/) emergencies.
-- "[State](/en/post/state/) [of](/en/post/of/) [emergency](/en/post/emergency/)": [A](/en/post/a/) [situation](/en/post/situation/) [in](/en/post/in/) [which](/en/post/which/) [a](/en/post/a/) [government](/en/post/government/) temporarily assumes [extraordinary](/en/post/extraordinary/) powers [to](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [a](/en/post/a/) [crisis](/en/post/crisis/).
-- "[Emergency](/en/post/emergency/) [exit](/en/post/exit/)": [A](/en/post/a/) [door](/en/post/door/) [or](/en/post/or/) [passage](/en/post/passage/) designated [for](/en/post/for/) [use](/en/post/use/) [in](/en/post/in/) cases [of](/en/post/of/) [emergency](/en/post/emergency/) [to](/en/post/to/) evacuate [a](/en/post/a/) [building](/en/post/building/) [quickly](/en/post/quickly/).
+- "[Emergency](/post/emergency/) services": [The](/post/the/) organizations [such](/post/such/) [as](/post/as/) [police](/post/police/), [ambulance](/post/ambulance/), [and](/post/and/) [fire](/post/fire/) [department](/post/department/) [that](/post/that/) [respond](/post/respond/) [to](/post/to/) emergencies.
+- "[State](/post/state/) [of](/post/of/) [emergency](/post/emergency/)": [A](/post/a/) [situation](/post/situation/) [in](/post/in/) [which](/post/which/) [a](/post/a/) [government](/post/government/) temporarily assumes [extraordinary](/post/extraordinary/) powers [to](/post/to/) [deal](/post/deal/) [with](/post/with/) [a](/post/a/) [crisis](/post/crisis/).
+- "[Emergency](/post/emergency/) [exit](/post/exit/)": [A](/post/a/) [door](/post/door/) [or](/post/or/) [passage](/post/passage/) designated [for](/post/for/) [use](/post/use/) [in](/post/in/) cases [of](/post/of/) [emergency](/post/emergency/) [to](/post/to/) evacuate [a](/post/a/) [building](/post/building/) [quickly](/post/quickly/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [fire](/en/post/fire/) broke [out](/en/post/out/) [during](/en/post/during/) [the](/en/post/the/) [night](/en/post/night/), prompting an [emergency](/en/post/emergency/) evacuation [of](/en/post/of/) [the](/en/post/the/) [entire](/en/post/entire/) neighborhood."
-- "Having an [emergency](/en/post/emergency/) [fund](/en/post/fund/) [can](/en/post/can/) [help](/en/post/help/) [you](/en/post/you/) [cope](/en/post/cope/) financially [with](/en/post/with/) [unexpected](/en/post/unexpected/) situations [like](/en/post/like/) [job](/en/post/job/) [loss](/en/post/loss/) [or](/en/post/or/) [medical](/en/post/medical/) crises."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [fire](/post/fire/) broke [out](/post/out/) [during](/post/during/) [the](/post/the/) [night](/post/night/), prompting an [emergency](/post/emergency/) evacuation [of](/post/of/) [the](/post/the/) [entire](/post/entire/) neighborhood."
+- "Having an [emergency](/post/emergency/) [fund](/post/fund/) [can](/post/can/) [help](/post/help/) [you](/post/you/) [cope](/post/cope/) financially [with](/post/with/) [unexpected](/post/unexpected/) situations [like](/post/like/) [job](/post/job/) [loss](/post/loss/) [or](/post/or/) [medical](/post/medical/) crises."
 
 ## Synonyms
-- [Crisis](/en/post/crisis/)
+- [Crisis](/post/crisis/)
 - Urgency
-- [Disaster](/en/post/disaster/)
+- [Disaster](/post/disaster/)
 - Calamity
 - Dilemma
 - Predicament
-- [Situation](/en/post/situation/)
+- [Situation](/post/situation/)
 - exigency
-- [Distress](/en/post/distress/)
+- [Distress](/post/distress/)
 - Alert
 - Breakdown

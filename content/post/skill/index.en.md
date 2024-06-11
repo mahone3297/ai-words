@@ -7,26 +7,26 @@ description = '[skil] n.技能，技巧；熟练'
 keywords = ['ai words', 'skill']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /sɪl/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [well](/en/post/well/) [or](/en/post/or/) competently, [often](/en/post/often/) [with](/en/post/with/) [ease](/en/post/ease/) [and](/en/post/and/) expertise. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [excellent](/en/post/excellent/) [painting](/en/post/painting/) skills."
-- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [possess](/en/post/possess/) [or](/en/post/or/) [display](/en/post/display/) [a](/en/post/a/) [particular](/en/post/particular/) [ability](/en/post/ability/) [or](/en/post/or/) proficiency. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) skillfully solved [the](/en/post/the/) [problem](/en/post/problem/)."
-- **[Adjective](/en/post/adjective/)**: (adj) Characterizing [or](/en/post/or/) showing [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) proficiency [or](/en/post/or/) aptitude. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [skillful](/en/post/skillful/) craftsmanship is admired."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [ability](/post/ability/) [to](/post/to/) [do](/post/do/) [something](/post/something/) [well](/post/well/) [or](/post/or/) competently, [often](/post/often/) [with](/post/with/) [ease](/post/ease/) [and](/post/and/) expertise. [For](/post/for/) [example](/post/example/): "[She](/post/she/) has [excellent](/post/excellent/) [painting](/post/painting/) skills."
+- **[Verb](/post/verb/)**: (v) [To](/post/to/) [possess](/post/possess/) [or](/post/or/) [display](/post/display/) [a](/post/a/) [particular](/post/particular/) [ability](/post/ability/) [or](/post/or/) proficiency. [For](/post/for/) [example](/post/example/): "[He](/post/he/) skillfully solved [the](/post/the/) [problem](/post/problem/)."
+- **[Adjective](/post/adjective/)**: (adj) Characterizing [or](/post/or/) showing [a](/post/a/) [high](/post/high/) [level](/post/level/) [of](/post/of/) proficiency [or](/post/or/) aptitude. [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [skillful](/post/skillful/) craftsmanship is admired."
 
 ## Phrases
-- "[Acquire](/en/post/acquire/) [a](/en/post/a/) [new](/en/post/new/) [skill](/en/post/skill/)" [means](/en/post/means/) [to](/en/post/to/) [learn](/en/post/learn/) [or](/en/post/or/) [develop](/en/post/develop/) [a](/en/post/a/) [new](/en/post/new/) [ability](/en/post/ability/).
-- "[Skillful](/en/post/skillful/) execution" refers [to](/en/post/to/) [the](/en/post/the/) [competent](/en/post/competent/) [and](/en/post/and/) [precise](/en/post/precise/) [performance](/en/post/performance/) [of](/en/post/of/) an [action](/en/post/action/).
-- "[Skill](/en/post/skill/) [training](/en/post/training/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) improving one's abilities [through](/en/post/through/) [practice](/en/post/practice/) [or](/en/post/or/) [instruction](/en/post/instruction/).
+- "[Acquire](/post/acquire/) [a](/post/a/) [new](/post/new/) [skill](/post/skill/)" [means](/post/means/) [to](/post/to/) [learn](/post/learn/) [or](/post/or/) [develop](/post/develop/) [a](/post/a/) [new](/post/new/) [ability](/post/ability/).
+- "[Skillful](/post/skillful/) execution" refers [to](/post/to/) [the](/post/the/) [competent](/post/competent/) [and](/post/and/) [precise](/post/precise/) [performance](/post/performance/) [of](/post/of/) an [action](/post/action/).
+- "[Skill](/post/skill/) [training](/post/training/)" is [the](/post/the/) [process](/post/process/) [of](/post/of/) improving one's abilities [through](/post/through/) [practice](/post/practice/) [or](/post/or/) [instruction](/post/instruction/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) honed [her](/en/post/her/) cooking skills [over](/en/post/over/) [the](/en/post/the/) years."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [athlete](/en/post/athlete/) improved [their](/en/post/their/) [skill](/en/post/skill/) [through](/en/post/through/) rigorous [practice](/en/post/practice/)."
-- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [skillful](/en/post/skillful/) handling [of](/en/post/of/) [the](/en/post/the/) [situation](/en/post/situation/) saved [the](/en/post/the/) [day](/en/post/day/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) honed [her](/post/her/) cooking skills [over](/post/over/) [the](/post/the/) years."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [athlete](/post/athlete/) improved [their](/post/their/) [skill](/post/skill/) [through](/post/through/) rigorous [practice](/post/practice/)."
+- **[Adjective](/post/adjective/)**: "[His](/post/his/) [skillful](/post/skillful/) handling [of](/post/of/) [the](/post/the/) [situation](/post/situation/) saved [the](/post/the/) [day](/post/day/)."
 
 ## Synonyms
-- [Ability](/en/post/ability/)
+- [Ability](/post/ability/)
 - Proficiency
 - Competence
 - Expertise
@@ -34,4 +34,4 @@ keywords = ['ai words', 'skill']
 - Aptitude
 - dexterity
 - proficiency
-- [facility](/en/post/facility/)
+- [facility](/post/facility/)

@@ -7,36 +7,36 @@ description = '[ˈkʌmfətəbl] a.舒适的，安慰的'
 keywords = ['ai words', 'comfortable']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈkʌmftəbl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [ease](/en/post/ease/), [comfort](/en/post/comfort/), [or](/en/post/or/) [a](/en/post/a/) [pleasant](/en/post/pleasant/) [state](/en/post/state/); [not](/en/post/not/) causing discomfort [or](/en/post/or/) [strain](/en/post/strain/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) sofa was [very](/en/post/very/) [comfortable](/en/post/comfortable/) [to](/en/post/to/) [sit](/en/post/sit/) [on](/en/post/on/)."
-- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [comfortable](/en/post/comfortable/) [manner](/en/post/manner/); [without](/en/post/without/) discomfort [or](/en/post/or/) [strain](/en/post/strain/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) slept comfortably [on](/en/post/on/) [the](/en/post/the/) [soft](/en/post/soft/) mattress."
+- **[Adjective](/post/adjective/)**: Characterized [by](/post/by/) [ease](/post/ease/), [comfort](/post/comfort/), [or](/post/or/) [a](/post/a/) [pleasant](/post/pleasant/) [state](/post/state/); [not](/post/not/) causing discomfort [or](/post/or/) [strain](/post/strain/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) sofa was [very](/post/very/) [comfortable](/post/comfortable/) [to](/post/to/) [sit](/post/sit/) [on](/post/on/)."
+- **[Adverb](/post/adverb/)**: [In](/post/in/) [a](/post/a/) [comfortable](/post/comfortable/) [manner](/post/manner/); [without](/post/without/) discomfort [or](/post/or/) [strain](/post/strain/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) slept comfortably [on](/post/on/) [the](/post/the/) [soft](/post/soft/) mattress."
 
 ## Phrases
-- "[Be](/en/post/be/) [comfortable](/en/post/comfortable/) [with](/en/post/with/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [feel](/en/post/feel/) [at](/en/post/at/) [ease](/en/post/ease/) [or](/en/post/or/) [confident](/en/post/confident/) [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/) [or](/en/post/or/) [task](/en/post/task/).
-- "[Feel](/en/post/feel/) [comfortable](/en/post/comfortable/)" expresses [a](/en/post/a/) subjective [sense](/en/post/sense/) [of](/en/post/of/) [physical](/en/post/physical/) [or](/en/post/or/) [emotional](/en/post/emotional/) [ease](/en/post/ease/).
-- "[Make](/en/post/make/) [oneself](/en/post/oneself/) [comfortable](/en/post/comfortable/)" is an [invitation](/en/post/invitation/) [to](/en/post/to/) [relax](/en/post/relax/) [or](/en/post/or/) [settle](/en/post/settle/) [in](/en/post/in/).
+- "[Be](/post/be/) [comfortable](/post/comfortable/) [with](/post/with/) [something](/post/something/)" [means](/post/means/) [to](/post/to/) [feel](/post/feel/) [at](/post/at/) [ease](/post/ease/) [or](/post/or/) [confident](/post/confident/) [with](/post/with/) [a](/post/a/) [particular](/post/particular/) [situation](/post/situation/) [or](/post/or/) [task](/post/task/).
+- "[Feel](/post/feel/) [comfortable](/post/comfortable/)" expresses [a](/post/a/) subjective [sense](/post/sense/) [of](/post/of/) [physical](/post/physical/) [or](/post/or/) [emotional](/post/emotional/) [ease](/post/ease/).
+- "[Make](/post/make/) [oneself](/post/oneself/) [comfortable](/post/comfortable/)" is an [invitation](/post/invitation/) [to](/post/to/) [relax](/post/relax/) [or](/post/or/) [settle](/post/settle/) [in](/post/in/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [hotel](/en/post/hotel/) [provided](/en/post/provided/) [a](/en/post/a/) [comfortable](/en/post/comfortable/) [room](/en/post/room/) [with](/en/post/with/) [a](/en/post/a/) cozy fireplace."
-- **[Adverb](/en/post/adverb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [she](/en/post/she/) enjoyed [a](/en/post/a/) [comfortable](/en/post/comfortable/) [silence](/en/post/silence/) [while](/en/post/while/) [reading](/en/post/reading/)."
-- "[Please](/en/post/please/) [make](/en/post/make/) [yourself](/en/post/yourself/) [comfortable](/en/post/comfortable/) [on](/en/post/on/) [the](/en/post/the/) couch."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [hotel](/post/hotel/) [provided](/post/provided/) [a](/post/a/) [comfortable](/post/comfortable/) [room](/post/room/) [with](/post/with/) [a](/post/a/) cozy fireplace."
+- **[Adverb](/post/adverb/)**: "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [she](/post/she/) enjoyed [a](/post/a/) [comfortable](/post/comfortable/) [silence](/post/silence/) [while](/post/while/) [reading](/post/reading/)."
+- "[Please](/post/please/) [make](/post/make/) [yourself](/post/yourself/) [comfortable](/post/comfortable/) [on](/post/on/) [the](/post/the/) couch."
 
 ## Synonyms
 - Comforting
 - Relaxing
-- [Easy](/en/post/easy/)
-- [At](/en/post/at/) [ease](/en/post/ease/)
+- [Easy](/post/easy/)
+- [At](/post/at/) [ease](/post/ease/)
 - Placid
 - Comfy
 - congenial
 
 ## Antonyms
-- [Uncomfortable](/en/post/uncomfortable/)
+- [Uncomfortable](/post/uncomfortable/)
 - Discomforting
-- [Tense](/en/post/tense/)
-- [Restless](/en/post/restless/)
-- [Uneasy](/en/post/uneasy/)
-- [Awkward](/en/post/awkward/)
+- [Tense](/post/tense/)
+- [Restless](/post/restless/)
+- [Uneasy](/post/uneasy/)
+- [Awkward](/post/awkward/)

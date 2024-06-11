@@ -7,37 +7,37 @@ description = '[ˈləːniŋ] n.学习；学问，知识'
 keywords = ['ai words', 'learning']
 +++
 
-## [Word](/en/post/word/): [Learning](/en/post/learning/)
+## [Word](/post/word/): [Learning](/post/learning/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈlɜːrnɪŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [The](/en/post/the/) acquisition [of](/en/post/of/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) skills [through](/en/post/through/) [experience](/en/post/experience/), [study](/en/post/study/), [or](/en/post/or/) [being](/en/post/being/) taught. [For](/en/post/for/) [example](/en/post/example/): "[Continuous](/en/post/continuous/) [learning](/en/post/learning/) is [essential](/en/post/essential/) [for](/en/post/for/) [personal](/en/post/personal/) [growth](/en/post/growth/)."
-  - "[Learning](/en/post/learning/) [process](/en/post/process/)": [The](/en/post/the/) steps taken [or](/en/post/or/) activities engaged [in](/en/post/in/) [to](/en/post/to/) [gain](/en/post/gain/) [new](/en/post/new/) [information](/en/post/information/) [or](/en/post/or/) abilities.
-  - "[Learning](/en/post/learning/) [curve](/en/post/curve/)": [The](/en/post/the/) [rate](/en/post/rate/) [at](/en/post/at/) [which](/en/post/which/) [someone](/en/post/someone/) learns [something](/en/post/something/) [new](/en/post/new/), [often](/en/post/often/) represented graphically [to](/en/post/to/) [show](/en/post/show/) [improvement](/en/post/improvement/) [over](/en/post/over/) [time](/en/post/time/).
+- **[Noun](/post/noun/)**: [The](/post/the/) acquisition [of](/post/of/) [knowledge](/post/knowledge/) [or](/post/or/) skills [through](/post/through/) [experience](/post/experience/), [study](/post/study/), [or](/post/or/) [being](/post/being/) taught. [For](/post/for/) [example](/post/example/): "[Continuous](/post/continuous/) [learning](/post/learning/) is [essential](/post/essential/) [for](/post/for/) [personal](/post/personal/) [growth](/post/growth/)."
+  - "[Learning](/post/learning/) [process](/post/process/)": [The](/post/the/) steps taken [or](/post/or/) activities engaged [in](/post/in/) [to](/post/to/) [gain](/post/gain/) [new](/post/new/) [information](/post/information/) [or](/post/or/) abilities.
+  - "[Learning](/post/learning/) [curve](/post/curve/)": [The](/post/the/) [rate](/post/rate/) [at](/post/at/) [which](/post/which/) [someone](/post/someone/) learns [something](/post/something/) [new](/post/new/), [often](/post/often/) represented graphically [to](/post/to/) [show](/post/show/) [improvement](/post/improvement/) [over](/post/over/) [time](/post/time/).
 
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): "[Throughout](/en/post/throughout/) [his](/en/post/his/) [life](/en/post/life/), [he](/en/post/he/) was dedicated [to](/en/post/to/) [the](/en/post/the/) lifelong [learning](/en/post/learning/) [journey](/en/post/journey/)."
+[Example](/post/example/) [Sentence](/post/sentence/): "[Throughout](/post/throughout/) [his](/post/his/) [life](/post/life/), [he](/post/he/) was dedicated [to](/post/to/) [the](/post/the/) lifelong [learning](/post/learning/) [journey](/post/journey/)."
 
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [acquire](/en/post/acquire/) [knowledge](/en/post/knowledge/) [or](/en/post/or/) [understanding](/en/post/understanding/) [of](/en/post/of/) [something](/en/post/something/); [to](/en/post/to/) [study](/en/post/study/) [or](/en/post/or/) [be](/en/post/be/) taught. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is [learning](/en/post/learning/) French [this](/en/post/this/) [semester](/en/post/semester/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [acquire](/post/acquire/) [knowledge](/post/knowledge/) [or](/post/or/) [understanding](/post/understanding/) [of](/post/of/) [something](/post/something/); [to](/post/to/) [study](/post/study/) [or](/post/or/) [be](/post/be/) taught. [For](/post/for/) [example](/post/example/): "[She](/post/she/) is [learning](/post/learning/) French [this](/post/this/) [semester](/post/semester/)."
   
-[Example](/en/post/example/) [Sentence](/en/post/sentence/): "Children [learn](/en/post/learn/) [best](/en/post/best/) [through](/en/post/through/) [play](/en/post/play/) [and](/en/post/and/) exploration."
+[Example](/post/example/) [Sentence](/post/sentence/): "Children [learn](/post/learn/) [best](/post/best/) [through](/post/through/) [play](/post/play/) [and](/post/and/) exploration."
 
 ## Phrases
-- "[Learning](/en/post/learning/) [experience](/en/post/experience/)": An [event](/en/post/event/) [or](/en/post/or/) [activity](/en/post/activity/) [that](/en/post/that/) provides [knowledge](/en/post/knowledge/) [or](/en/post/or/) [understanding](/en/post/understanding/), [often](/en/post/often/) [from](/en/post/from/) [direct](/en/post/direct/) involvement [or](/en/post/or/) [observation](/en/post/observation/).
-- "[Learning](/en/post/learning/) [by](/en/post/by/) doing": [A](/en/post/a/) hands-on [approach](/en/post/approach/) [to](/en/post/to/) [education](/en/post/education/) [where](/en/post/where/) [one](/en/post/one/) acquires skills [and](/en/post/and/) [knowledge](/en/post/knowledge/) [through](/en/post/through/) [practical](/en/post/practical/) [action](/en/post/action/) [rather](/en/post/rather/) [than](/en/post/than/) [theoretical](/en/post/theoretical/) [study](/en/post/study/).
-- "[Learning](/en/post/learning/) [from](/en/post/from/) mistakes": Acquiring [wisdom](/en/post/wisdom/) [or](/en/post/or/) insight [through](/en/post/through/) recognizing [and](/en/post/and/) correcting errors.
+- "[Learning](/post/learning/) [experience](/post/experience/)": An [event](/post/event/) [or](/post/or/) [activity](/post/activity/) [that](/post/that/) provides [knowledge](/post/knowledge/) [or](/post/or/) [understanding](/post/understanding/), [often](/post/often/) [from](/post/from/) [direct](/post/direct/) involvement [or](/post/or/) [observation](/post/observation/).
+- "[Learning](/post/learning/) [by](/post/by/) doing": [A](/post/a/) hands-on [approach](/post/approach/) [to](/post/to/) [education](/post/education/) [where](/post/where/) [one](/post/one/) acquires skills [and](/post/and/) [knowledge](/post/knowledge/) [through](/post/through/) [practical](/post/practical/) [action](/post/action/) [rather](/post/rather/) [than](/post/than/) [theoretical](/post/theoretical/) [study](/post/study/).
+- "[Learning](/post/learning/) [from](/post/from/) mistakes": Acquiring [wisdom](/post/wisdom/) [or](/post/or/) insight [through](/post/through/) recognizing [and](/post/and/) correcting errors.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Reading](/en/post/reading/) books has been [a](/en/post/a/) [significant](/en/post/significant/) [part](/en/post/part/) [of](/en/post/of/) [her](/en/post/her/) [learning](/en/post/learning/) [journey](/en/post/journey/)."
-- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) are [learning](/en/post/learning/) [how](/en/post/how/) [to](/en/post/to/) [code](/en/post/code/) [so](/en/post/so/) [they](/en/post/they/) [can](/en/post/can/) [develop](/en/post/develop/) [their](/en/post/their/) [own](/en/post/own/) apps."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Reading](/post/reading/) books has been [a](/post/a/) [significant](/post/significant/) [part](/post/part/) [of](/post/of/) [her](/post/her/) [learning](/post/learning/) [journey](/post/journey/)."
+- **[Verb](/post/verb/)**: "[They](/post/they/) are [learning](/post/learning/) [how](/post/how/) [to](/post/to/) [code](/post/code/) [so](/post/so/) [they](/post/they/) [can](/post/can/) [develop](/post/develop/) [their](/post/their/) [own](/post/own/) apps."
 
 ## Synonyms
-- [Education](/en/post/education/)
-- [Study](/en/post/study/)
-- [Instruction](/en/post/instruction/)
-- [Training](/en/post/training/)
-- Acquisition [of](/en/post/of/) [knowledge](/en/post/knowledge/)
+- [Education](/post/education/)
+- [Study](/post/study/)
+- [Instruction](/post/instruction/)
+- [Training](/post/training/)
+- Acquisition [of](/post/of/) [knowledge](/post/knowledge/)
 - Enlightenment
 - Familiarization
-- Mastery ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) gaining [skill](/en/post/skill/))
+- Mastery ([in](/post/in/) [the](/post/the/) context [of](/post/of/) gaining [skill](/post/skill/))

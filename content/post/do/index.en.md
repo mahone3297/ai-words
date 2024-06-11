@@ -7,43 +7,43 @@ description = '[duː] aux.v. vt.做，干，办'
 keywords = ['ai words', 'do']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /dəʊ/
 
 ## Definitions
-- **[Verb](/en/post/verb/)**: ([Present](/en/post/present/) [tense](/en/post/tense/)) [Perform](/en/post/perform/) an [action](/en/post/action/) [or](/en/post/or/) [activity](/en/post/activity/); [carry](/en/post/carry/) [out](/en/post/out/). [For](/en/post/for/) [example](/en/post/example/): "I [do](/en/post/do/) [my](/en/post/my/) homework [every](/en/post/every/) [day](/en/post/day/)."
-- **[Verb](/en/post/verb/)**: [Express](/en/post/express/) [agreement](/en/post/agreement/) [or](/en/post/or/) confirmation; affirm. [For](/en/post/for/) [example](/en/post/example/): "[Do](/en/post/do/) [you](/en/post/you/) [agree](/en/post/agree/) [with](/en/post/with/) [me](/en/post/me/)?"
-- **[Verb](/en/post/verb/)**: [Be](/en/post/be/) [responsible](/en/post/responsible/) [for](/en/post/for/); [have](/en/post/have/) [the](/en/post/the/) [duty](/en/post/duty/) [to](/en/post/to/). [For](/en/post/for/) [example](/en/post/example/): "[Who](/en/post/who/) [do](/en/post/do/) [you](/en/post/you/) [think](/en/post/think/) [will](/en/post/will/) [take](/en/post/take/) [care](/en/post/care/) [of](/en/post/of/) [the](/en/post/the/) children?"
-- **[Verb](/en/post/verb/)**: [Express](/en/post/express/) [a](/en/post/a/) [request](/en/post/request/) [or](/en/post/or/) [command](/en/post/command/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [do](/en/post/do/) [the](/en/post/the/) dishes [after](/en/post/after/) [dinner](/en/post/dinner/)."
-- **Modal [auxiliary](/en/post/auxiliary/)**: [Express](/en/post/express/) [ability](/en/post/ability/), [permission](/en/post/permission/), [or](/en/post/or/) [possibility](/en/post/possibility/). [For](/en/post/for/) [example](/en/post/example/): "I [can](/en/post/can/) [do](/en/post/do/) [this](/en/post/this/) [task](/en/post/task/) [easily](/en/post/easily/)."
+- **[Verb](/post/verb/)**: ([Present](/post/present/) [tense](/post/tense/)) [Perform](/post/perform/) an [action](/post/action/) [or](/post/or/) [activity](/post/activity/); [carry](/post/carry/) [out](/post/out/). [For](/post/for/) [example](/post/example/): "I [do](/post/do/) [my](/post/my/) homework [every](/post/every/) [day](/post/day/)."
+- **[Verb](/post/verb/)**: [Express](/post/express/) [agreement](/post/agreement/) [or](/post/or/) confirmation; affirm. [For](/post/for/) [example](/post/example/): "[Do](/post/do/) [you](/post/you/) [agree](/post/agree/) [with](/post/with/) [me](/post/me/)?"
+- **[Verb](/post/verb/)**: [Be](/post/be/) [responsible](/post/responsible/) [for](/post/for/); [have](/post/have/) [the](/post/the/) [duty](/post/duty/) [to](/post/to/). [For](/post/for/) [example](/post/example/): "[Who](/post/who/) [do](/post/do/) [you](/post/you/) [think](/post/think/) [will](/post/will/) [take](/post/take/) [care](/post/care/) [of](/post/of/) [the](/post/the/) children?"
+- **[Verb](/post/verb/)**: [Express](/post/express/) [a](/post/a/) [request](/post/request/) [or](/post/or/) [command](/post/command/). [For](/post/for/) [example](/post/example/): "[Please](/post/please/) [do](/post/do/) [the](/post/the/) dishes [after](/post/after/) [dinner](/post/dinner/)."
+- **Modal [auxiliary](/post/auxiliary/)**: [Express](/post/express/) [ability](/post/ability/), [permission](/post/permission/), [or](/post/or/) [possibility](/post/possibility/). [For](/post/for/) [example](/post/example/): "I [can](/post/can/) [do](/post/do/) [this](/post/this/) [task](/post/task/) [easily](/post/easily/)."
 
 ## Phrases
-- "[Do](/en/post/do/) [something](/en/post/something/)" is [a](/en/post/a/) [common](/en/post/common/) [way](/en/post/way/) [to](/en/post/to/) [indicate](/en/post/indicate/) an [action](/en/post/action/).
-- "I don't [understand](/en/post/understand/)" expresses [confusion](/en/post/confusion/) [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [comprehension](/en/post/comprehension/).
-- "[Can](/en/post/can/) [you](/en/post/you/) [do](/en/post/do/) [it](/en/post/it/)?" is [a](/en/post/a/) [question](/en/post/question/) asking [for](/en/post/for/) [help](/en/post/help/) [or](/en/post/or/) [if](/en/post/if/) [someone](/en/post/someone/) is [capable](/en/post/capable/).
+- "[Do](/post/do/) [something](/post/something/)" is [a](/post/a/) [common](/post/common/) [way](/post/way/) [to](/post/to/) [indicate](/post/indicate/) an [action](/post/action/).
+- "I don't [understand](/post/understand/)" expresses [confusion](/post/confusion/) [or](/post/or/) [lack](/post/lack/) [of](/post/of/) [comprehension](/post/comprehension/).
+- "[Can](/post/can/) [you](/post/you/) [do](/post/do/) [it](/post/it/)?" is [a](/post/a/) [question](/post/question/) asking [for](/post/for/) [help](/post/help/) [or](/post/or/) [if](/post/if/) [someone](/post/someone/) is [capable](/post/capable/).
 
-## [Example](/en/post/example/) Sentences
-- **[Action](/en/post/action/)**: "[She](/en/post/she/) does [her](/en/post/her/) exercises [every](/en/post/every/) [morning](/en/post/morning/) [to](/en/post/to/) [stay](/en/post/stay/) [fit](/en/post/fit/)."
-- **Confirmation**: "[Yes](/en/post/yes/), I [do](/en/post/do/) [remember](/en/post/remember/) [what](/en/post/what/) [we](/en/post/we/) discussed earlier."
-- **[Responsibility](/en/post/responsibility/)**: "[The](/en/post/the/) chef is [the](/en/post/the/) [one](/en/post/one/) [who](/en/post/who/) does [the](/en/post/the/) cooking [in](/en/post/in/) [this](/en/post/this/) [restaurant](/en/post/restaurant/)."
-- **[Request](/en/post/request/)**: "[Could](/en/post/could/) [you](/en/post/you/) [do](/en/post/do/) [me](/en/post/me/) [a](/en/post/a/) favor [and](/en/post/and/) [pick](/en/post/pick/) [up](/en/post/up/) [some](/en/post/some/) groceries [on](/en/post/on/) [your](/en/post/your/) [way](/en/post/way/) [home](/en/post/home/)?"
-- **[Ability](/en/post/ability/)**: "[He](/en/post/he/) does [speak](/en/post/speak/) [several](/en/post/several/) languages fluently."
+## [Example](/post/example/) Sentences
+- **[Action](/post/action/)**: "[She](/post/she/) does [her](/post/her/) exercises [every](/post/every/) [morning](/post/morning/) [to](/post/to/) [stay](/post/stay/) [fit](/post/fit/)."
+- **Confirmation**: "[Yes](/post/yes/), I [do](/post/do/) [remember](/post/remember/) [what](/post/what/) [we](/post/we/) discussed earlier."
+- **[Responsibility](/post/responsibility/)**: "[The](/post/the/) chef is [the](/post/the/) [one](/post/one/) [who](/post/who/) does [the](/post/the/) cooking [in](/post/in/) [this](/post/this/) [restaurant](/post/restaurant/)."
+- **[Request](/post/request/)**: "[Could](/post/could/) [you](/post/you/) [do](/post/do/) [me](/post/me/) [a](/post/a/) favor [and](/post/and/) [pick](/post/pick/) [up](/post/up/) [some](/post/some/) groceries [on](/post/on/) [your](/post/your/) [way](/post/way/) [home](/post/home/)?"
+- **[Ability](/post/ability/)**: "[He](/post/he/) does [speak](/post/speak/) [several](/post/several/) languages fluently."
 
 ## Synonyms
-- [Perform](/en/post/perform/)
-- [Accomplish](/en/post/accomplish/)
-- [Carry](/en/post/carry/) [out](/en/post/out/)
-- [Execute](/en/post/execute/)
-- [Undertake](/en/post/undertake/)
+- [Perform](/post/perform/)
+- [Accomplish](/post/accomplish/)
+- [Carry](/post/carry/) [out](/post/out/)
+- [Execute](/post/execute/)
+- [Undertake](/post/undertake/)
 - Affirm
-- [Agree](/en/post/agree/)
-- [Confirm](/en/post/confirm/)
-- [Possess](/en/post/possess/) [the](/en/post/the/) capability
-- [Have](/en/post/have/) [the](/en/post/the/) [means](/en/post/means/) [to](/en/post/to/)
+- [Agree](/post/agree/)
+- [Confirm](/post/confirm/)
+- [Possess](/post/possess/) [the](/post/the/) capability
+- [Have](/post/have/) [the](/post/the/) [means](/post/means/) [to](/post/to/)
 
 ## Antonyms
-- [Fail](/en/post/fail/)
-- [Refuse](/en/post/refuse/)
-- [Neglect](/en/post/neglect/)
+- [Fail](/post/fail/)
+- [Refuse](/post/refuse/)
+- [Neglect](/post/neglect/)
 - Inability
-- [Lack](/en/post/lack/) [the](/en/post/the/) [means](/en/post/means/)
+- [Lack](/post/lack/) [the](/post/the/) [means](/post/means/)

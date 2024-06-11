@@ -7,32 +7,32 @@ description = '[ˈəu∫ən] n.海洋；洋'
 keywords = ['ai words', 'ocean']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈoʊʃən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [vast](/en/post/vast/) [body](/en/post/body/) [of](/en/post/of/) [salt](/en/post/salt/) [water](/en/post/water/) [that](/en/post/that/) covers [most](/en/post/most/) [of](/en/post/of/) [the](/en/post/the/) earth's [surface](/en/post/surface/). It's interconnected [with](/en/post/with/) smaller bodies called seas [and](/en/post/and/) [often](/en/post/often/) contains [marine](/en/post/marine/) [life](/en/post/life/) [and](/en/post/and/) [natural](/en/post/natural/) resources. [Example](/en/post/example/): "[The](/en/post/the/) [deep](/en/post/deep/) [blue](/en/post/blue/) [ocean](/en/post/ocean/) stretches [out](/en/post/out/) [to](/en/post/to/) [the](/en/post/the/) [horizon](/en/post/horizon/)."
-  - _Oceanography_ ([noun](/en/post/noun/)): [The](/en/post/the/) [branch](/en/post/branch/) [of](/en/post/of/) [science](/en/post/science/) [that](/en/post/that/) deals [with](/en/post/with/) [the](/en/post/the/) [physical](/en/post/physical/), [chemical](/en/post/chemical/), [and](/en/post/and/) biological aspects [of](/en/post/of/) [the](/en/post/the/) [ocean](/en/post/ocean/).
-  - _Ocean liner_ ([noun](/en/post/noun/)): [A](/en/post/a/) [large](/en/post/large/) [passenger](/en/post/passenger/) [ship](/en/post/ship/) designed [for](/en/post/for/) long-distance [travel](/en/post/travel/) [across](/en/post/across/) oceans.
+- **[Noun](/post/noun/)**: [A](/post/a/) [vast](/post/vast/) [body](/post/body/) [of](/post/of/) [salt](/post/salt/) [water](/post/water/) [that](/post/that/) covers [most](/post/most/) [of](/post/of/) [the](/post/the/) earth's [surface](/post/surface/). It's interconnected [with](/post/with/) smaller bodies called seas [and](/post/and/) [often](/post/often/) contains [marine](/post/marine/) [life](/post/life/) [and](/post/and/) [natural](/post/natural/) resources. [Example](/post/example/): "[The](/post/the/) [deep](/post/deep/) [blue](/post/blue/) [ocean](/post/ocean/) stretches [out](/post/out/) [to](/post/to/) [the](/post/the/) [horizon](/post/horizon/)."
+  - _Oceanography_ ([noun](/post/noun/)): [The](/post/the/) [branch](/post/branch/) [of](/post/of/) [science](/post/science/) [that](/post/that/) deals [with](/post/with/) [the](/post/the/) [physical](/post/physical/), [chemical](/post/chemical/), [and](/post/and/) biological aspects [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/).
+  - _Ocean liner_ ([noun](/post/noun/)): [A](/post/a/) [large](/post/large/) [passenger](/post/passenger/) [ship](/post/ship/) designed [for](/post/for/) long-distance [travel](/post/travel/) [across](/post/across/) oceans.
   
-  [Example](/en/post/example/) sentences:
-  - _Noun_: "[The](/en/post/the/) Titanic was [a](/en/post/a/) luxurious [ocean](/en/post/ocean/) [liner](/en/post/liner/) [that](/en/post/that/) tragically sank [in](/en/post/in/) [the](/en/post/the/) [North](/en/post/north/) [Atlantic](/en/post/atlantic/) [Ocean](/en/post/ocean/)."
-  - _Derived [from](/en/post/from/) 'ocean'_ ([adjective](/en/post/adjective/)): "Oceanic currents [play](/en/post/play/) [a](/en/post/a/) [significant](/en/post/significant/) [role](/en/post/role/) [in](/en/post/in/) regulating global [climate](/en/post/climate/)."
+  [Example](/post/example/) sentences:
+  - _Noun_: "[The](/post/the/) Titanic was [a](/post/a/) luxurious [ocean](/post/ocean/) [liner](/post/liner/) [that](/post/that/) tragically sank [in](/post/in/) [the](/post/the/) [North](/post/north/) [Atlantic](/post/atlantic/) [Ocean](/post/ocean/)."
+  - _Derived [from](/post/from/) 'ocean'_ ([adjective](/post/adjective/)): "Oceanic currents [play](/post/play/) [a](/post/a/) [significant](/post/significant/) [role](/post/role/) [in](/post/in/) regulating global [climate](/post/climate/)."
 
 ## Phrases
-- "[Across](/en/post/across/) [the](/en/post/the/) [ocean](/en/post/ocean/)": Refers [to](/en/post/to/) traveling [a](/en/post/a/) [great](/en/post/great/) [distance](/en/post/distance/), [usually](/en/post/usually/) internationally. [Example](/en/post/example/): "[She](/en/post/she/) moved [across](/en/post/across/) [the](/en/post/the/) [ocean](/en/post/ocean/) [to](/en/post/to/) [start](/en/post/start/) [a](/en/post/a/) [new](/en/post/new/) [life](/en/post/life/) [in](/en/post/in/) [Australia](/en/post/australia/)."
-- "[To](/en/post/to/) [sail](/en/post/sail/) [the](/en/post/the/) [seven](/en/post/seven/) seas/oceans": [This](/en/post/this/) idiomatic [expression](/en/post/expression/) denotes [extensive](/en/post/extensive/) [travel](/en/post/travel/) [or](/en/post/or/) [adventure](/en/post/adventure/). [Example](/en/post/example/): "[As](/en/post/as/) [a](/en/post/a/) [young](/en/post/young/) [man](/en/post/man/), [he](/en/post/he/) dreamed [of](/en/post/of/) sailing [the](/en/post/the/) [seven](/en/post/seven/) oceans."
-- "[The](/en/post/the/) [ocean](/en/post/ocean/) [floor](/en/post/floor/)": Refers [to](/en/post/to/) [the](/en/post/the/) [bottom](/en/post/bottom/) [of](/en/post/of/) [the](/en/post/the/) [ocean](/en/post/ocean/), [where](/en/post/where/) [various](/en/post/various/) geological features [and](/en/post/and/) [living](/en/post/living/) organisms [exist](/en/post/exist/).
+- "[Across](/post/across/) [the](/post/the/) [ocean](/post/ocean/)": Refers [to](/post/to/) traveling [a](/post/a/) [great](/post/great/) [distance](/post/distance/), [usually](/post/usually/) internationally. [Example](/post/example/): "[She](/post/she/) moved [across](/post/across/) [the](/post/the/) [ocean](/post/ocean/) [to](/post/to/) [start](/post/start/) [a](/post/a/) [new](/post/new/) [life](/post/life/) [in](/post/in/) [Australia](/post/australia/)."
+- "[To](/post/to/) [sail](/post/sail/) [the](/post/the/) [seven](/post/seven/) seas/oceans": [This](/post/this/) idiomatic [expression](/post/expression/) denotes [extensive](/post/extensive/) [travel](/post/travel/) [or](/post/or/) [adventure](/post/adventure/). [Example](/post/example/): "[As](/post/as/) [a](/post/a/) [young](/post/young/) [man](/post/man/), [he](/post/he/) dreamed [of](/post/of/) sailing [the](/post/the/) [seven](/post/seven/) oceans."
+- "[The](/post/the/) [ocean](/post/ocean/) [floor](/post/floor/)": Refers [to](/post/to/) [the](/post/the/) [bottom](/post/bottom/) [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/), [where](/post/where/) [various](/post/various/) geological features [and](/post/and/) [living](/post/living/) organisms [exist](/post/exist/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[Marine](/en/post/marine/) biologists [explore](/en/post/explore/) [the](/en/post/the/) mysteries hidden [beneath](/en/post/beneath/) [the](/en/post/the/) ocean's [surface](/en/post/surface/)."
-- "[The](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) waves crashing [against](/en/post/against/) [the](/en/post/the/) [shore](/en/post/shore/) is soothing [music](/en/post/music/) [to](/en/post/to/) [my](/en/post/my/) ears."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[Marine](/post/marine/) biologists [explore](/post/explore/) [the](/post/the/) mysteries hidden [beneath](/post/beneath/) [the](/post/the/) ocean's [surface](/post/surface/)."
+- "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) waves crashing [against](/post/against/) [the](/post/the/) [shore](/post/shore/) is soothing [music](/post/music/) [to](/post/to/) [my](/post/my/) ears."
 
 ## Synonyms
-- [Sea](/en/post/sea/)
-- [Body](/en/post/body/) [of](/en/post/of/) [water](/en/post/water/)
-- [Deep](/en/post/deep/) [blue](/en/post/blue/) [sea](/en/post/sea/)
+- [Sea](/post/sea/)
+- [Body](/post/body/) [of](/post/of/) [water](/post/water/)
+- [Deep](/post/deep/) [blue](/post/blue/) [sea](/post/sea/)
 - Mainstream
 - Watery expanse
-- [Great](/en/post/great/) waters
-- Briny [deep](/en/post/deep/)
+- [Great](/post/great/) waters
+- Briny [deep](/post/deep/)

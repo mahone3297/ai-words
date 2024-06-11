@@ -7,36 +7,36 @@ description = '[θiəˈretikəl] a.理论(上)的'
 keywords = ['ai words', 'theoretical']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /theərəˈθetɪkəl/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) based [on](/en/post/on/) [theory](/en/post/theory/) [rather](/en/post/rather/) [than](/en/post/than/) [practical](/en/post/practical/) [application](/en/post/application/) [or](/en/post/or/) [observation](/en/post/observation/). [For](/en/post/for/) [example](/en/post/example/): "[Theoretical](/en/post/theoretical/) [physics](/en/post/physics/) explores concepts [beyond](/en/post/beyond/) [what](/en/post/what/) [can](/en/post/can/) [be](/en/post/be/) observed [directly](/en/post/directly/)."
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [theoretical](/en/post/theoretical/) [concept](/en/post/concept/) [or](/en/post/or/) [framework](/en/post/framework/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [course](/en/post/course/) focused [on](/en/post/on/) [theoretical](/en/post/theoretical/) economics."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) [or](/post/or/) based [on](/post/on/) [theory](/post/theory/) [rather](/post/rather/) [than](/post/than/) [practical](/post/practical/) [application](/post/application/) [or](/post/or/) [observation](/post/observation/). [For](/post/for/) [example](/post/example/): "[Theoretical](/post/theoretical/) [physics](/post/physics/) explores concepts [beyond](/post/beyond/) [what](/post/what/) [can](/post/can/) [be](/post/be/) observed [directly](/post/directly/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [theoretical](/post/theoretical/) [concept](/post/concept/) [or](/post/or/) [framework](/post/framework/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [course](/post/course/) focused [on](/post/on/) [theoretical](/post/theoretical/) economics."
 
 ## Phrases
-- "[Theoretical](/en/post/theoretical/) [explanation](/en/post/explanation/)" refers [to](/en/post/to/) [a](/en/post/a/) hypothesis [or](/en/post/or/) [understanding](/en/post/understanding/) [without](/en/post/without/) empirical [evidence](/en/post/evidence/).
-- "[A](/en/post/a/) [theoretical](/en/post/theoretical/) [approach](/en/post/approach/)" denotes [a](/en/post/a/) [method](/en/post/method/) [that](/en/post/that/) relies [on](/en/post/on/) principles [rather](/en/post/rather/) [than](/en/post/than/) [practical](/en/post/practical/) [experience](/en/post/experience/).
-- "[Theoretical](/en/post/theoretical/) [knowledge](/en/post/knowledge/)" is [the](/en/post/the/) [understanding](/en/post/understanding/) gained [through](/en/post/through/) [abstract](/en/post/abstract/) thinking [and](/en/post/and/) reasoning.
+- "[Theoretical](/post/theoretical/) [explanation](/post/explanation/)" refers [to](/post/to/) [a](/post/a/) hypothesis [or](/post/or/) [understanding](/post/understanding/) [without](/post/without/) empirical [evidence](/post/evidence/).
+- "[A](/post/a/) [theoretical](/post/theoretical/) [approach](/post/approach/)" denotes [a](/post/a/) [method](/post/method/) [that](/post/that/) relies [on](/post/on/) principles [rather](/post/rather/) [than](/post/than/) [practical](/post/practical/) [experience](/post/experience/).
+- "[Theoretical](/post/theoretical/) [knowledge](/post/knowledge/)" is [the](/post/the/) [understanding](/post/understanding/) gained [through](/post/through/) [abstract](/post/abstract/) thinking [and](/post/and/) reasoning.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[Theoretical](/en/post/theoretical/) models [help](/en/post/help/) scientists [predict](/en/post/predict/) [the](/en/post/the/) [behavior](/en/post/behavior/) [of](/en/post/of/) [complex](/en/post/complex/) systems."
-- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [research](/en/post/research/) was based [on](/en/post/on/) [a](/en/post/a/) [theoretical](/en/post/theoretical/) [foundation](/en/post/foundation/) [of](/en/post/of/) quantum [mechanics](/en/post/mechanics/)."
-- **[Adjective](/en/post/adjective/) ([used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/))**: "[The](/en/post/the/) seminar discussed [various](/en/post/various/) [theoretical](/en/post/theoretical/) frameworks [for](/en/post/for/) [understanding](/en/post/understanding/) [human](/en/post/human/) [behavior](/en/post/behavior/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[Theoretical](/post/theoretical/) models [help](/post/help/) scientists [predict](/post/predict/) [the](/post/the/) [behavior](/post/behavior/) [of](/post/of/) [complex](/post/complex/) systems."
+- **[Noun](/post/noun/)**: "[Her](/post/her/) [research](/post/research/) was based [on](/post/on/) [a](/post/a/) [theoretical](/post/theoretical/) [foundation](/post/foundation/) [of](/post/of/) quantum [mechanics](/post/mechanics/)."
+- **[Adjective](/post/adjective/) ([used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/))**: "[The](/post/the/) seminar discussed [various](/post/various/) [theoretical](/post/theoretical/) frameworks [for](/post/for/) [understanding](/post/understanding/) [human](/post/human/) [behavior](/post/behavior/)."
 
 ## Synonyms
-- [Abstract](/en/post/abstract/)
+- [Abstract](/post/abstract/)
 - Conceptual
 - Hypothetical
-- [Theoretical](/en/post/theoretical/) [framework](/en/post/framework/)
+- [Theoretical](/post/theoretical/) [framework](/post/framework/)
 - Ideological
-- [Pure](/en/post/pure/)
+- [Pure](/post/pure/)
 - Speculative
 
 ## Antonyms
-- [Practical](/en/post/practical/)
+- [Practical](/post/practical/)
 - Empirical
 - Applied
-- [Operational](/en/post/operational/)
-- [Experimental](/en/post/experimental/)
+- [Operational](/post/operational/)
+- [Experimental](/post/experimental/)
 - Realistic

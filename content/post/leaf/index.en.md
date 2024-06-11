@@ -7,33 +7,33 @@ description = '[liːf] n.叶，叶子'
 keywords = ['ai words', 'leaf']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /lēf/
 
 ## Definitions
-- **[Noun](/en/post/noun/) (n)**: [One](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [usually](/en/post/usually/) [green](/en/post/green/), [flat](/en/post/flat/), [and](/en/post/and/) [broad](/en/post/broad/) organs [that](/en/post/that/) [grow](/en/post/grow/) [from](/en/post/from/) [the](/en/post/the/) [stem](/en/post/stem/) [of](/en/post/of/) [a](/en/post/a/) [plant](/en/post/plant/), [often](/en/post/often/) [being](/en/post/being/) specialized [for](/en/post/for/) photosynthesis [and](/en/post/and/) [the](/en/post/the/) [storage](/en/post/storage/) [of](/en/post/of/) [food](/en/post/food/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [tree](/en/post/tree/) [shed](/en/post/shed/) [its](/en/post/its/) leaves [in](/en/post/in/) [autumn](/en/post/autumn/)."
-  - [Also](/en/post/also/) [used](/en/post/used/) metaphorically, [such](/en/post/such/) [as](/en/post/as/) "[the](/en/post/the/) [book](/en/post/book/) has 500 pages, [each](/en/post/each/) [page](/en/post/page/) [a](/en/post/a/) [new](/en/post/new/) [leaf](/en/post/leaf/) [to](/en/post/to/) [explore](/en/post/explore/)."
-- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [move](/en/post/move/) [through](/en/post/through/) [or](/en/post/or/) [over](/en/post/over/) [something](/en/post/something/) [by](/en/post/by/) [turning](/en/post/turning/) pages [or](/en/post/or/) layers. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) leafed [through](/en/post/through/) [the](/en/post/the/) [magazine](/en/post/magazine/) [quickly](/en/post/quickly/)."
-  - Alternatively, [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) plants shedding [or](/en/post/or/) growing leaves: "[The](/en/post/the/) [tree](/en/post/tree/) began [to](/en/post/to/) [leaf](/en/post/leaf/) [out](/en/post/out/) [in](/en/post/in/) [the](/en/post/the/) [spring](/en/post/spring/)."
+- **[Noun](/post/noun/) (n)**: [One](/post/one/) [of](/post/of/) [the](/post/the/) [usually](/post/usually/) [green](/post/green/), [flat](/post/flat/), [and](/post/and/) [broad](/post/broad/) organs [that](/post/that/) [grow](/post/grow/) [from](/post/from/) [the](/post/the/) [stem](/post/stem/) [of](/post/of/) [a](/post/a/) [plant](/post/plant/), [often](/post/often/) [being](/post/being/) specialized [for](/post/for/) photosynthesis [and](/post/and/) [the](/post/the/) [storage](/post/storage/) [of](/post/of/) [food](/post/food/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [tree](/post/tree/) [shed](/post/shed/) [its](/post/its/) leaves [in](/post/in/) [autumn](/post/autumn/)."
+  - [Also](/post/also/) [used](/post/used/) metaphorically, [such](/post/such/) [as](/post/as/) "[the](/post/the/) [book](/post/book/) has 500 pages, [each](/post/each/) [page](/post/page/) [a](/post/a/) [new](/post/new/) [leaf](/post/leaf/) [to](/post/to/) [explore](/post/explore/)."
+- **[Verb](/post/verb/) (v)**: [To](/post/to/) [move](/post/move/) [through](/post/through/) [or](/post/or/) [over](/post/over/) [something](/post/something/) [by](/post/by/) [turning](/post/turning/) pages [or](/post/or/) layers. [For](/post/for/) [example](/post/example/): "[He](/post/he/) leafed [through](/post/through/) [the](/post/the/) [magazine](/post/magazine/) [quickly](/post/quickly/)."
+  - Alternatively, [it](/post/it/) [can](/post/can/) [refer](/post/refer/) [to](/post/to/) plants shedding [or](/post/or/) growing leaves: "[The](/post/the/) [tree](/post/tree/) began [to](/post/to/) [leaf](/post/leaf/) [out](/post/out/) [in](/post/in/) [the](/post/the/) [spring](/post/spring/)."
 
 ## Phrases
-- "[Turn](/en/post/turn/) [over](/en/post/over/) [a](/en/post/a/) [new](/en/post/new/) [leaf](/en/post/leaf/)": [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [fresh](/en/post/fresh/) [start](/en/post/start/) [or](/en/post/or/) [change](/en/post/change/) one's [behavior](/en/post/behavior/) significantly [for](/en/post/for/) [the](/en/post/the/) [better](/en/post/better/).
-- "[Take](/en/post/take/) [a](/en/post/a/) [leaf](/en/post/leaf/) [out](/en/post/out/) [of](/en/post/of/) someone's [book](/en/post/book/)": [To](/en/post/to/) [imitate](/en/post/imitate/) [someone](/en/post/someone/) [because](/en/post/because/) [they](/en/post/they/) [have](/en/post/have/) [good](/en/post/good/) qualities [or](/en/post/or/) methods.
-- "[Leaf](/en/post/leaf/) [through](/en/post/through/) [something](/en/post/something/)": [To](/en/post/to/) [look](/en/post/look/) [through](/en/post/through/) [a](/en/post/a/) [book](/en/post/book/), [magazine](/en/post/magazine/), [or](/en/post/or/) [document](/en/post/document/) [quickly](/en/post/quickly/) [but](/en/post/but/) [not](/en/post/not/) thoroughly.
+- "[Turn](/post/turn/) [over](/post/over/) [a](/post/a/) [new](/post/new/) [leaf](/post/leaf/)": [To](/post/to/) [make](/post/make/) [a](/post/a/) [fresh](/post/fresh/) [start](/post/start/) [or](/post/or/) [change](/post/change/) one's [behavior](/post/behavior/) significantly [for](/post/for/) [the](/post/the/) [better](/post/better/).
+- "[Take](/post/take/) [a](/post/a/) [leaf](/post/leaf/) [out](/post/out/) [of](/post/of/) someone's [book](/post/book/)": [To](/post/to/) [imitate](/post/imitate/) [someone](/post/someone/) [because](/post/because/) [they](/post/they/) [have](/post/have/) [good](/post/good/) qualities [or](/post/or/) methods.
+- "[Leaf](/post/leaf/) [through](/post/through/) [something](/post/something/)": [To](/post/to/) [look](/post/look/) [through](/post/through/) [a](/post/a/) [book](/post/book/), [magazine](/post/magazine/), [or](/post/or/) [document](/post/document/) [quickly](/post/quickly/) [but](/post/but/) [not](/post/not/) thoroughly.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) collected [a](/en/post/a/) [handful](/en/post/handful/) [of](/en/post/of/) colorful [autumn](/en/post/autumn/) leaves."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) leafed [through](/en/post/through/) [the](/en/post/the/) [old](/en/post/old/) photo album, reminiscing [about](/en/post/about/) [his](/en/post/his/) [childhood](/en/post/childhood/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) collected [a](/post/a/) [handful](/post/handful/) [of](/post/of/) colorful [autumn](/post/autumn/) leaves."
+- **[Verb](/post/verb/)**: "[He](/post/he/) leafed [through](/post/through/) [the](/post/the/) [old](/post/old/) photo album, reminiscing [about](/post/about/) [his](/post/his/) [childhood](/post/childhood/)."
 
 ## Synonyms
-- [Noun](/en/post/noun/):
+- [Noun](/post/noun/):
   - foliage
   - frond
-  - petal ([for](/en/post/for/) [some](/en/post/some/) [specific](/en/post/specific/) types [of](/en/post/of/) leaves)
-  - [blade](/en/post/blade/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
+  - petal ([for](/post/for/) [some](/post/some/) [specific](/post/specific/) types [of](/post/of/) leaves)
+  - [blade](/post/blade/) ([in](/post/in/) [some](/post/some/) contexts)
 
-- [Verb](/en/post/verb/):
+- [Verb](/post/verb/):
   - browse
-  - flip [through](/en/post/through/)
-  - [skim](/en/post/skim/)
+  - flip [through](/post/through/)
+  - [skim](/post/skim/)
   - peruse

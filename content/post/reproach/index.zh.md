@@ -11,19 +11,19 @@ keywords = ['ai words', 'reproach']
 /riːˈprəʊtʃ/
 
 ## 释义
-- **名词**: 责备，谴责，指责。例如: "[He](/post/he/) faced [reproach](/post/reproach/) [from](/post/from/) [his](/post/his/) [boss](/post/boss/) [for](/post/for/) [being](/post/being/) [late](/post/late/)."
-- **动词**: 责备，谴责，指责。例如: "[She](/post/she/) reproached [him](/post/him/) [for](/post/for/) [not](/post/not/) helping [with](/post/with/) [the](/post/the/) chores."
+- **名词**: 责备，谴责，指责。例如: "[He](/zh/post/he/) faced [reproach](/zh/post/reproach/) [from](/zh/post/from/) [his](/zh/post/his/) [boss](/zh/post/boss/) [for](/zh/post/for/) [being](/zh/post/being/) [late](/zh/post/late/)."
+- **动词**: 责备，谴责，指责。例如: "[She](/zh/post/she/) reproached [him](/zh/post/him/) [for](/zh/post/for/) [not](/zh/post/not/) helping [with](/zh/post/with/) [the](/zh/post/the/) chores."
 
 ## 短语
-- "[to](/post/to/) [reproach](/post/reproach/) [someone](/post/someone/) [for](/post/for/) [something](/post/something/)" 意为因某事而责备某人。
-- "reproachful [look](/post/look/)" 是一种带有责备意味的眼神。
+- "[to](/zh/post/to/) [reproach](/zh/post/reproach/) [someone](/zh/post/someone/) [for](/zh/post/for/) [something](/zh/post/something/)" 意为因某事而责备某人。
+- "reproachful [look](/zh/post/look/)" 是一种带有责备意味的眼神。
 
 ## 例句
-- 名词: "[The](/post/the/) teacher's [reproach](/post/reproach/) made [him](/post/him/) [feel](/post/feel/) [ashamed](/post/ashamed/) [of](/post/of/) [his](/post/his/) [behavior](/post/behavior/)."
-- 动词: "[She](/post/she/) reproached [him](/post/him/) [with](/post/with/) [a](/post/a/) [stern](/post/stern/) [tone](/post/tone/) [after](/post/after/) [finding](/post/finding/) [out](/post/out/) [he](/post/he/) had lied."
+- 名词: "[The](/zh/post/the/) teacher's [reproach](/zh/post/reproach/) made [him](/zh/post/him/) [feel](/zh/post/feel/) [ashamed](/zh/post/ashamed/) [of](/zh/post/of/) [his](/zh/post/his/) [behavior](/zh/post/behavior/)."
+- 动词: "[She](/zh/post/she/) reproached [him](/zh/post/him/) [with](/zh/post/with/) [a](/zh/post/a/) [stern](/zh/post/stern/) [tone](/zh/post/tone/) [after](/zh/post/after/) [finding](/zh/post/finding/) [out](/zh/post/out/) [he](/zh/post/he/) had lied."
 
 ## 同义词
-- [Scold](/post/scold/)
+- [Scold](/zh/post/scold/)
 - Rebuke
 - Chide
 - Upbraid

@@ -11,21 +11,21 @@ keywords = ['ai words', 'creature']
 /ˈkriːtʃər/
 
 ## 释义
-- **名词**: 生物，动物，尤指非人类的生物。例如: "[There](/post/there/) are [many](/post/many/) [strange](/post/strange/) creatures [in](/post/in/) [the](/post/the/) [deep](/post/deep/) [sea](/post/sea/)."
-- **名词**: 创造物，尤指神话或科幻中的生物。例如: "[The](/post/the/) author's [imagination](/post/imagination/) brought [to](/post/to/) [life](/post/life/) [various](/post/various/) fantastical creatures."
+- **名词**: 生物，动物，尤指非人类的生物。例如: "[There](/zh/post/there/) are [many](/zh/post/many/) [strange](/zh/post/strange/) creatures [in](/zh/post/in/) [the](/zh/post/the/) [deep](/zh/post/deep/) [sea](/zh/post/sea/)."
+- **名词**: 创造物，尤指神话或科幻中的生物。例如: "[The](/zh/post/the/) author's [imagination](/zh/post/imagination/) brought [to](/zh/post/to/) [life](/zh/post/life/) [various](/zh/post/various/) fantastical creatures."
 
 ## 短语
-- "[Creature](/post/creature/) [of](/post/of/) [habit](/post/habit/)" 指习惯性强的人。
-- "[Sea](/post/sea/) [creature](/post/creature/)" 指海洋生物。
-- "Fantastic [creature](/post/creature/)" 指奇幻或虚构的生物。
+- "[Creature](/zh/post/creature/) [of](/zh/post/of/) [habit](/zh/post/habit/)" 指习惯性强的人。
+- "[Sea](/zh/post/sea/) [creature](/zh/post/creature/)" 指海洋生物。
+- "Fantastic [creature](/zh/post/creature/)" 指奇幻或虚构的生物。
 
 ## 例句
-- 名词: "[The](/post/the/) [creature](/post/creature/) had [large](/post/large/) wings [and](/post/and/) [could](/post/could/) [fly](/post/fly/) [through](/post/through/) [the](/post/the/) [air](/post/air/) effortlessly."
-- 名词: "[The](/post/the/) [scientist](/post/scientist/) was fascinated [by](/post/by/) [the](/post/the/) [newly](/post/newly/) discovered micro-creature."
+- 名词: "[The](/zh/post/the/) [creature](/zh/post/creature/) had [large](/zh/post/large/) wings [and](/zh/post/and/) [could](/zh/post/could/) [fly](/zh/post/fly/) [through](/zh/post/through/) [the](/zh/post/the/) [air](/zh/post/air/) effortlessly."
+- 名词: "[The](/zh/post/the/) [scientist](/zh/post/scientist/) was fascinated [by](/zh/post/by/) [the](/zh/post/the/) [newly](/zh/post/newly/) discovered micro-creature."
 
 ## 同义词
-- [Being](/post/being/)
-- [Organism](/post/organism/)
+- [Being](/zh/post/being/)
+- [Organism](/zh/post/organism/)
 - Monster
-- Fairy [tale](/post/tale/) [beast](/post/beast/)
-- Mythical [creature](/post/creature/)
+- Fairy [tale](/zh/post/tale/) [beast](/zh/post/beast/)
+- Mythical [creature](/zh/post/creature/)

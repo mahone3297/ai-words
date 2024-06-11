@@ -7,26 +7,26 @@ description = '[ˈneivi] n.海军'
 keywords = ['ai words', 'navy']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈneɪvi/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [naval](/en/post/naval/) forces [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/), consisting [of](/en/post/of/) warships, submarines, [aircraft](/en/post/aircraft/), [and](/en/post/and/) [personnel](/en/post/personnel/) trained [for](/en/post/for/) [service](/en/post/service/) [at](/en/post/at/) [sea](/en/post/sea/). [Example](/en/post/example/): "[The](/en/post/the/) United States [Navy](/en/post/navy/) is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) largest navies [in](/en/post/in/) [the](/en/post/the/) [world](/en/post/world/)."
-- **[Noun](/en/post/noun/)**: (adj) [A](/en/post/a/) [dark](/en/post/dark/) [blue](/en/post/blue/) [color](/en/post/color/), [often](/en/post/often/) associated [with](/en/post/with/) [the](/en/post/the/) uniforms [or](/en/post/or/) ships [of](/en/post/of/) [a](/en/post/a/) [navy](/en/post/navy/). [Example](/en/post/example/): "[She](/en/post/she/) wore [a](/en/post/a/) [navy](/en/post/navy/) [dress](/en/post/dress/) [for](/en/post/for/) [the](/en/post/the/) [formal](/en/post/formal/) [occasion](/en/post/occasion/)."
+- **[Noun](/post/noun/)**: (n) [The](/post/the/) [naval](/post/naval/) forces [of](/post/of/) [a](/post/a/) [country](/post/country/), consisting [of](/post/of/) warships, submarines, [aircraft](/post/aircraft/), [and](/post/and/) [personnel](/post/personnel/) trained [for](/post/for/) [service](/post/service/) [at](/post/at/) [sea](/post/sea/). [Example](/post/example/): "[The](/post/the/) United States [Navy](/post/navy/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) largest navies [in](/post/in/) [the](/post/the/) [world](/post/world/)."
+- **[Noun](/post/noun/)**: (adj) [A](/post/a/) [dark](/post/dark/) [blue](/post/blue/) [color](/post/color/), [often](/post/often/) associated [with](/post/with/) [the](/post/the/) uniforms [or](/post/or/) ships [of](/post/of/) [a](/post/a/) [navy](/post/navy/). [Example](/post/example/): "[She](/post/she/) wore [a](/post/a/) [navy](/post/navy/) [dress](/post/dress/) [for](/post/for/) [the](/post/the/) [formal](/post/formal/) [occasion](/post/occasion/)."
 
 ## Phrases
-- "[Join](/en/post/join/) [the](/en/post/the/) [navy](/en/post/navy/)": [To](/en/post/to/) enlist [in](/en/post/in/) [or](/en/post/or/) [become](/en/post/become/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [a](/en/post/a/) country's [naval](/en/post/naval/) forces.
-- "[In](/en/post/in/) [the](/en/post/the/) [navy](/en/post/navy/)": Refers [to](/en/post/to/) [being](/en/post/being/) [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [or](/en/post/or/) serving [in](/en/post/in/) [a](/en/post/a/) [navy](/en/post/navy/).
-- "[Naval](/en/post/naval/) operations": [Military](/en/post/military/) activities carried [out](/en/post/out/) [by](/en/post/by/) [a](/en/post/a/) [navy](/en/post/navy/), [such](/en/post/such/) [as](/en/post/as/) patrols, defense, [and](/en/post/and/) strategic missions.
+- "[Join](/post/join/) [the](/post/the/) [navy](/post/navy/)": [To](/post/to/) enlist [in](/post/in/) [or](/post/or/) [become](/post/become/) [a](/post/a/) [member](/post/member/) [of](/post/of/) [a](/post/a/) country's [naval](/post/naval/) forces.
+- "[In](/post/in/) [the](/post/the/) [navy](/post/navy/)": Refers [to](/post/to/) [being](/post/being/) [a](/post/a/) [part](/post/part/) [of](/post/of/) [or](/post/or/) serving [in](/post/in/) [a](/post/a/) [navy](/post/navy/).
+- "[Naval](/post/naval/) operations": [Military](/post/military/) activities carried [out](/post/out/) [by](/post/by/) [a](/post/a/) [navy](/post/navy/), [such](/post/such/) [as](/post/as/) patrols, defense, [and](/post/and/) strategic missions.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/) ([naval](/en/post/naval/) forces)**: "[After](/en/post/after/) graduating [from](/en/post/from/) [college](/en/post/college/), [he](/en/post/he/) decided [to](/en/post/to/) [serve](/en/post/serve/) [his](/en/post/his/) [country](/en/post/country/) [by](/en/post/by/) joining [the](/en/post/the/) [navy](/en/post/navy/)."
-- **Adj ([color](/en/post/color/))**: "[The](/en/post/the/) school's [official](/en/post/official/) [uniform](/en/post/uniform/) [policy](/en/post/policy/) requires students [to](/en/post/to/) [wear](/en/post/wear/) [a](/en/post/a/) [navy](/en/post/navy/) blazer [with](/en/post/with/) [their](/en/post/their/) [white](/en/post/white/) [shirt](/en/post/shirt/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/) ([naval](/post/naval/) forces)**: "[After](/post/after/) graduating [from](/post/from/) [college](/post/college/), [he](/post/he/) decided [to](/post/to/) [serve](/post/serve/) [his](/post/his/) [country](/post/country/) [by](/post/by/) joining [the](/post/the/) [navy](/post/navy/)."
+- **Adj ([color](/post/color/))**: "[The](/post/the/) school's [official](/post/official/) [uniform](/post/uniform/) [policy](/post/policy/) requires students [to](/post/to/) [wear](/post/wear/) [a](/post/a/) [navy](/post/navy/) blazer [with](/post/with/) [their](/post/their/) [white](/post/white/) [shirt](/post/shirt/)."
 
 ## Synonyms
-- [Naval](/en/post/naval/) [force](/en/post/force/)
-- [Fleet](/en/post/fleet/)
+- [Naval](/post/naval/) [force](/post/force/)
+- [Fleet](/post/fleet/)
 - Maritime forces
-- [War](/en/post/war/) [fleet](/en/post/fleet/)
-- [Blue](/en/post/blue/) ([in](/en/post/in/) [reference](/en/post/reference/) [to](/en/post/to/) [the](/en/post/the/) [color](/en/post/color/))
-- [Dark](/en/post/dark/) [blue](/en/post/blue/)
+- [War](/post/war/) [fleet](/post/fleet/)
+- [Blue](/post/blue/) ([in](/post/in/) [reference](/post/reference/) [to](/post/to/) [the](/post/the/) [color](/post/color/))
+- [Dark](/post/dark/) [blue](/post/blue/)

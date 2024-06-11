@@ -7,31 +7,31 @@ description = '[(h)wai] ad.为什么'
 keywords = ['ai words', 'why']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /waɪ/
 
 ## Definitions
-- **[Adverb](/en/post/adverb/)**: Expressing [the](/en/post/the/) [reason](/en/post/reason/) [or](/en/post/or/) [cause](/en/post/cause/) [for](/en/post/for/) [something](/en/post/something/); serving [as](/en/post/as/) an [explanation](/en/post/explanation/) [or](/en/post/or/) justification. [For](/en/post/for/) [example](/en/post/example/): "I'm staying [late](/en/post/late/) [because](/en/post/because/) I [have](/en/post/have/) [to](/en/post/to/) [finish](/en/post/finish/) [this](/en/post/this/) [report](/en/post/report/)."
-- **Interrogative [pronoun](/en/post/pronoun/)**: [Used](/en/post/used/) [to](/en/post/to/) [ask](/en/post/ask/) [the](/en/post/the/) [reason](/en/post/reason/) [or](/en/post/or/) [cause](/en/post/cause/) [for](/en/post/for/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Why](/en/post/why/) are [you](/en/post/you/) leaving [early](/en/post/early/)?"
-- **[Preposition](/en/post/preposition/)**: [In](/en/post/in/) [some](/en/post/some/) cases, [used](/en/post/used/) [with](/en/post/with/) "[because](/en/post/because/)" [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) [reason](/en/post/reason/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [study](/en/post/study/) [because](/en/post/because/) [she](/en/post/she/) wanted [to](/en/post/to/) [improve](/en/post/improve/) [her](/en/post/her/) grades."
+- **[Adverb](/post/adverb/)**: Expressing [the](/post/the/) [reason](/post/reason/) [or](/post/or/) [cause](/post/cause/) [for](/post/for/) [something](/post/something/); serving [as](/post/as/) an [explanation](/post/explanation/) [or](/post/or/) justification. [For](/post/for/) [example](/post/example/): "I'm staying [late](/post/late/) [because](/post/because/) I [have](/post/have/) [to](/post/to/) [finish](/post/finish/) [this](/post/this/) [report](/post/report/)."
+- **Interrogative [pronoun](/post/pronoun/)**: [Used](/post/used/) [to](/post/to/) [ask](/post/ask/) [the](/post/the/) [reason](/post/reason/) [or](/post/or/) [cause](/post/cause/) [for](/post/for/) [something](/post/something/). [For](/post/for/) [example](/post/example/): "[Why](/post/why/) are [you](/post/you/) leaving [early](/post/early/)?"
+- **[Preposition](/post/preposition/)**: [In](/post/in/) [some](/post/some/) cases, [used](/post/used/) [with](/post/with/) "[because](/post/because/)" [to](/post/to/) [introduce](/post/introduce/) [a](/post/a/) [reason](/post/reason/). [For](/post/for/) [example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [study](/post/study/) [because](/post/because/) [she](/post/she/) wanted [to](/post/to/) [improve](/post/improve/) [her](/post/her/) grades."
 
 ## Phrases
-- "[Why](/en/post/why/) [not](/en/post/not/)?" suggests [permission](/en/post/permission/) [or](/en/post/or/) encouragement [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [action](/en/post/action/).
-- "[Why](/en/post/why/) [bother](/en/post/bother/)?" implies [that](/en/post/that/) [the](/en/post/the/) [effort](/en/post/effort/) is [unnecessary](/en/post/unnecessary/).
-- "[Why](/en/post/why/) don't [you](/en/post/you/)...?" is [a](/en/post/a/) [suggestion](/en/post/suggestion/) [or](/en/post/or/) [invitation](/en/post/invitation/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/).
+- "[Why](/post/why/) [not](/post/not/)?" suggests [permission](/post/permission/) [or](/post/or/) encouragement [for](/post/for/) [a](/post/a/) [particular](/post/particular/) [action](/post/action/).
+- "[Why](/post/why/) [bother](/post/bother/)?" implies [that](/post/that/) [the](/post/the/) [effort](/post/effort/) is [unnecessary](/post/unnecessary/).
+- "[Why](/post/why/) don't [you](/post/you/)...?" is [a](/post/a/) [suggestion](/post/suggestion/) [or](/post/or/) [invitation](/post/invitation/) [to](/post/to/) [do](/post/do/) [something](/post/something/).
 
-## [Example](/en/post/example/) Sentences
-- **[Adverb](/en/post/adverb/)**: "I asked [him](/en/post/him/) [why](/en/post/why/) [he](/en/post/he/) was [absent](/en/post/absent/) [from](/en/post/from/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
-- **Interrogative [pronoun](/en/post/pronoun/)**: "[She](/en/post/she/) wondered [why](/en/post/why/) [they](/en/post/they/) hadn't received [a](/en/post/a/) [response](/en/post/response/) [yet](/en/post/yet/)."
-- **Prepositional [phrase](/en/post/phrase/)**: "[He](/en/post/he/) explained [the](/en/post/the/) [reason](/en/post/reason/) [why](/en/post/why/) [he](/en/post/he/) was [so](/en/post/so/) stressed."
+## [Example](/post/example/) Sentences
+- **[Adverb](/post/adverb/)**: "I asked [him](/post/him/) [why](/post/why/) [he](/post/he/) was [absent](/post/absent/) [from](/post/from/) [the](/post/the/) [meeting](/post/meeting/)."
+- **Interrogative [pronoun](/post/pronoun/)**: "[She](/post/she/) wondered [why](/post/why/) [they](/post/they/) hadn't received [a](/post/a/) [response](/post/response/) [yet](/post/yet/)."
+- **Prepositional [phrase](/post/phrase/)**: "[He](/post/he/) explained [the](/post/the/) [reason](/post/reason/) [why](/post/why/) [he](/post/he/) was [so](/post/so/) stressed."
 
 ## Synonyms
-- [Because](/en/post/because/)
-- [As](/en/post/as/)
-- [For](/en/post/for/)
-- Inasmuch [as](/en/post/as/)
-- [The](/en/post/the/) [reason](/en/post/reason/) [being](/en/post/being/)
+- [Because](/post/because/)
+- [As](/post/as/)
+- [For](/post/for/)
+- Inasmuch [as](/post/as/)
+- [The](/post/the/) [reason](/post/reason/) [being](/post/being/)
 
 ## Antonyms
-- [Why](/en/post/why/) [not](/en/post/not/)? ([Contrast](/en/post/contrast/): [But](/en/post/but/) [why](/en/post/why/)?)
-- [Without](/en/post/without/) [reason](/en/post/reason/) ([Contrast](/en/post/contrast/): [With](/en/post/with/) [no](/en/post/no/) [explanation](/en/post/explanation/))
+- [Why](/post/why/) [not](/post/not/)? ([Contrast](/post/contrast/): [But](/post/but/) [why](/post/why/)?)
+- [Without](/post/without/) [reason](/post/reason/) ([Contrast](/post/contrast/): [With](/post/with/) [no](/post/no/) [explanation](/post/explanation/))

@@ -11,20 +11,20 @@ keywords = ['ai words', 'accustomed']
 /əkˈstəmənd/
 
 ## 释义
-- **形容词**: 习惯的，适应的；通常的，常见的。例如: "[She](/post/she/) was [accustomed](/post/accustomed/) [to](/post/to/) waking [up](/post/up/) [early](/post/early/) [for](/post/for/) [work](/post/work/)."
-- **动词**:（使）习惯于，（使）适应于。例如: "[He](/post/he/) has [accustomed](/post/accustomed/) [himself](/post/himself/) [to](/post/to/) [living](/post/living/) [in](/post/in/) [a](/post/a/) [noisy](/post/noisy/) [city](/post/city/)."
+- **形容词**: 习惯的，适应的；通常的，常见的。例如: "[She](/zh/post/she/) was [accustomed](/zh/post/accustomed/) [to](/zh/post/to/) waking [up](/zh/post/up/) [early](/zh/post/early/) [for](/zh/post/for/) [work](/zh/post/work/)."
+- **动词**:（使）习惯于，（使）适应于。例如: "[He](/zh/post/he/) has [accustomed](/zh/post/accustomed/) [himself](/zh/post/himself/) [to](/zh/post/to/) [living](/zh/post/living/) [in](/zh/post/in/) [a](/zh/post/a/) [noisy](/zh/post/noisy/) [city](/zh/post/city/)."
 
 ## 短语
-- "[become](/post/become/) [accustomed](/post/accustomed/) [to](/post/to/) [something](/post/something/)" 意味着逐渐习惯或适应某事。
-- "[be](/post/be/) [accustomed](/post/accustomed/) [to](/post/to/) doing [something](/post/something/)" 表示经常做某事以至于已经习惯了。
+- "[become](/zh/post/become/) [accustomed](/zh/post/accustomed/) [to](/zh/post/to/) [something](/zh/post/something/)" 意味着逐渐习惯或适应某事。
+- "[be](/zh/post/be/) [accustomed](/zh/post/accustomed/) [to](/zh/post/to/) doing [something](/zh/post/something/)" 表示经常做某事以至于已经习惯了。
 
 ## 例句
-- 形容词: "[The](/post/the/) [child](/post/child/) was [accustomed](/post/accustomed/) [to](/post/to/) having [a](/post/a/) bedtime [story](/post/story/) [every](/post/every/) [night](/post/night/)."
-- 动词: "[After](/post/after/) [a](/post/a/) [few](/post/few/) days, [he](/post/he/) had [accustomed](/post/accustomed/) [himself](/post/himself/) [to](/post/to/) [the](/post/the/) [new](/post/new/) [time](/post/time/) [zone](/post/zone/)."
+- 形容词: "[The](/zh/post/the/) [child](/zh/post/child/) was [accustomed](/zh/post/accustomed/) [to](/zh/post/to/) having [a](/zh/post/a/) bedtime [story](/zh/post/story/) [every](/zh/post/every/) [night](/zh/post/night/)."
+- 动词: "[After](/zh/post/after/) [a](/zh/post/a/) [few](/zh/post/few/) days, [he](/zh/post/he/) had [accustomed](/zh/post/accustomed/) [himself](/zh/post/himself/) [to](/zh/post/to/) [the](/zh/post/the/) [new](/zh/post/new/) [time](/zh/post/time/) [zone](/zh/post/zone/)."
 
 ## 同义词
-- [used](/post/used/) [to](/post/to/)
-- [familiar](/post/familiar/) [with](/post/with/)
-- habituated [to](/post/to/)
-- adapted [to](/post/to/)
-- inured [to](/post/to/)
+- [used](/zh/post/used/) [to](/zh/post/to/)
+- [familiar](/zh/post/familiar/) [with](/zh/post/with/)
+- habituated [to](/zh/post/to/)
+- adapted [to](/zh/post/to/)
+- inured [to](/zh/post/to/)

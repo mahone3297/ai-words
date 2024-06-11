@@ -7,38 +7,38 @@ description = '[beə] a.赤裸的；仅仅的'
 keywords = ['ai words', 'bare']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /bɛə(r)/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [Bare](/en/post/bare/): **adj** Uncovered; [without](/en/post/without/) covering [or](/en/post/or/) adornment. [Example](/en/post/example/): "[The](/en/post/the/) [room](/en/post/room/) was [left](/en/post/left/) [bare](/en/post/bare/) [after](/en/post/after/) [the](/en/post/the/) [furniture](/en/post/furniture/) was removed."
-2. [Bare](/en/post/bare/) essentials: **[noun](/en/post/noun/)** [The](/en/post/the/) [most](/en/post/most/) [basic](/en/post/basic/) [or](/en/post/or/) [necessary](/en/post/necessary/) items. [Example](/en/post/example/): "[They](/en/post/they/) survived [on](/en/post/on/) [only](/en/post/only/) [the](/en/post/the/) [bare](/en/post/bare/) essentials [during](/en/post/during/) [their](/en/post/their/) wilderness [trip](/en/post/trip/)."
-3. Barefoot: **adj** [Without](/en/post/without/) shoes [or](/en/post/or/) socks. [Example](/en/post/example/): "[She](/en/post/she/) likes [to](/en/post/to/) [walk](/en/post/walk/) barefoot [along](/en/post/along/) [the](/en/post/the/) [beach](/en/post/beach/)."
+### [Noun](/post/noun/)
+1. [Bare](/post/bare/): **adj** Uncovered; [without](/post/without/) covering [or](/post/or/) adornment. [Example](/post/example/): "[The](/post/the/) [room](/post/room/) was [left](/post/left/) [bare](/post/bare/) [after](/post/after/) [the](/post/the/) [furniture](/post/furniture/) was removed."
+2. [Bare](/post/bare/) essentials: **[noun](/post/noun/)** [The](/post/the/) [most](/post/most/) [basic](/post/basic/) [or](/post/or/) [necessary](/post/necessary/) items. [Example](/post/example/): "[They](/post/they/) survived [on](/post/on/) [only](/post/only/) [the](/post/the/) [bare](/post/bare/) essentials [during](/post/during/) [their](/post/their/) wilderness [trip](/post/trip/)."
+3. Barefoot: **adj** [Without](/post/without/) shoes [or](/post/or/) socks. [Example](/post/example/): "[She](/post/she/) likes [to](/post/to/) [walk](/post/walk/) barefoot [along](/post/along/) [the](/post/the/) [beach](/post/beach/)."
 
-### [Verb](/en/post/verb/)
-1. [Bare](/en/post/bare/) (v): [To](/en/post/to/) [expose](/en/post/expose/) [or](/en/post/or/) [uncover](/en/post/uncover/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [gardener](/en/post/gardener/) bared [the](/en/post/the/) [soil](/en/post/soil/) [to](/en/post/to/) [prepare](/en/post/prepare/) [it](/en/post/it/) [for](/en/post/for/) planting."
-2. [Bare](/en/post/bare/) [oneself](/en/post/oneself/): **[phrase](/en/post/phrase/)** [To](/en/post/to/) [reveal](/en/post/reveal/) one's thoughts [or](/en/post/or/) feelings openly. [Example](/en/post/example/): "[After](/en/post/after/) years [of](/en/post/of/) secrecy, [he](/en/post/he/) [finally](/en/post/finally/) bared [his](/en/post/his/) [soul](/en/post/soul/) [to](/en/post/to/) [his](/en/post/his/) therapist."
+### [Verb](/post/verb/)
+1. [Bare](/post/bare/) (v): [To](/post/to/) [expose](/post/expose/) [or](/post/or/) [uncover](/post/uncover/) [something](/post/something/). [Example](/post/example/): "[The](/post/the/) [gardener](/post/gardener/) bared [the](/post/the/) [soil](/post/soil/) [to](/post/to/) [prepare](/post/prepare/) [it](/post/it/) [for](/post/for/) planting."
+2. [Bare](/post/bare/) [oneself](/post/oneself/): **[phrase](/post/phrase/)** [To](/post/to/) [reveal](/post/reveal/) one's thoughts [or](/post/or/) feelings openly. [Example](/post/example/): "[After](/post/after/) years [of](/post/of/) secrecy, [he](/post/he/) [finally](/post/finally/) bared [his](/post/his/) [soul](/post/soul/) [to](/post/to/) [his](/post/his/) therapist."
 
-### [Adverb](/en/post/adverb/)
-1. Barely: **adv** [Just](/en/post/just/) [enough](/en/post/enough/), barely [enough](/en/post/enough/); [almost](/en/post/almost/) [not](/en/post/not/). [Example](/en/post/example/): "[She](/en/post/she/) barely managed [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) marathon."
+### [Adverb](/post/adverb/)
+1. Barely: **adv** [Just](/post/just/) [enough](/post/enough/), barely [enough](/post/enough/); [almost](/post/almost/) [not](/post/not/). [Example](/post/example/): "[She](/post/she/) barely managed [to](/post/to/) [finish](/post/finish/) [the](/post/the/) marathon."
 
 ## Phrases
-- "Barely [visible](/en/post/visible/)" [means](/en/post/means/) [very](/en/post/very/) [difficult](/en/post/difficult/) [to](/en/post/to/) [see](/en/post/see/).
-- "Barely surviving" refers [to](/en/post/to/) struggling [to](/en/post/to/) [stay](/en/post/stay/) [alive](/en/post/alive/).
-- "[Bare](/en/post/bare/) hands" signifies using [no](/en/post/no/) tools [or](/en/post/or/) weapons.
+- "Barely [visible](/post/visible/)" [means](/post/means/) [very](/post/very/) [difficult](/post/difficult/) [to](/post/to/) [see](/post/see/).
+- "Barely surviving" refers [to](/post/to/) struggling [to](/post/to/) [stay](/post/stay/) [alive](/post/alive/).
+- "[Bare](/post/bare/) hands" signifies using [no](/post/no/) tools [or](/post/or/) weapons.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) walls were adorned [with](/en/post/with/) [nothing](/en/post/nothing/) [but](/en/post/but/) [a](/en/post/a/) [few](/en/post/few/) [bare](/en/post/bare/) frames."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) archaeologist carefully bared [the](/en/post/the/) [ancient](/en/post/ancient/) artifacts [from](/en/post/from/) [the](/en/post/the/) excavation [site](/en/post/site/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) barely had [time](/en/post/time/) [to](/en/post/to/) [pack](/en/post/pack/) [before](/en/post/before/) leaving [for](/en/post/for/) [the](/en/post/the/) [trip](/en/post/trip/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) walls were adorned [with](/post/with/) [nothing](/post/nothing/) [but](/post/but/) [a](/post/a/) [few](/post/few/) [bare](/post/bare/) frames."
+- **[Verb](/post/verb/)**: "[The](/post/the/) archaeologist carefully bared [the](/post/the/) [ancient](/post/ancient/) artifacts [from](/post/from/) [the](/post/the/) excavation [site](/post/site/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) barely had [time](/post/time/) [to](/post/to/) [pack](/post/pack/) [before](/post/before/) leaving [for](/post/for/) [the](/post/the/) [trip](/post/trip/)."
 
 ## Synonyms
 - Uncovered
 - Unadorned
 - Unclad
 - Exposed
-- [Naked](/en/post/naked/) ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- [Naked](/post/naked/) ([in](/post/in/) [some](/post/some/) contexts)
 - Bare-handed
 - Bare-minimum
 - Skin-deep (informal)

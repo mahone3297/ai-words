@@ -11,21 +11,21 @@ keywords = ['ai words', 'talent']
 /tælənt/
 
 ## 释义
-- **名词**: 才能，天赋。指个人在某方面的特殊能力或技能。例如: "[She](/post/she/) has [a](/post/a/) [great](/post/great/) [talent](/post/talent/) [for](/post/for/) [painting](/post/painting/)."
-- **名词**: 人才，有才能的人。例如: "[The](/post/the/) [company](/post/company/) is [always](/post/always/) [on](/post/on/) [the](/post/the/) lookout [for](/post/for/) [new](/post/new/) [talent](/post/talent/)."
-- **动词**: 把...视为有才能的人。例如: "[The](/post/the/) [director](/post/director/) talents [him](/post/him/) [as](/post/as/) [a](/post/a/) [leading](/post/leading/) [actor](/post/actor/)."
+- **名词**: 才能，天赋。指个人在某方面的特殊能力或技能。例如: "[She](/zh/post/she/) has [a](/zh/post/a/) [great](/zh/post/great/) [talent](/zh/post/talent/) [for](/zh/post/for/) [painting](/zh/post/painting/)."
+- **名词**: 人才，有才能的人。例如: "[The](/zh/post/the/) [company](/zh/post/company/) is [always](/zh/post/always/) [on](/zh/post/on/) [the](/zh/post/the/) lookout [for](/zh/post/for/) [new](/zh/post/new/) [talent](/zh/post/talent/)."
+- **动词**: 把...视为有才能的人。例如: "[The](/zh/post/the/) [director](/zh/post/director/) talents [him](/zh/post/him/) [as](/zh/post/as/) [a](/zh/post/a/) [leading](/zh/post/leading/) [actor](/zh/post/actor/)."
 
 ## 短语
-- "[talent](/post/talent/) [show](/post/show/)" 才艺展示，一种展示个人才能的比赛或表演。
-- "talented [in](/post/in/) [something](/post/something/)" 在某方面有天赋。例如: "She's incredibly talented [in](/post/in/) [music](/post/music/)."
+- "[talent](/zh/post/talent/) [show](/zh/post/show/)" 才艺展示，一种展示个人才能的比赛或表演。
+- "talented [in](/zh/post/in/) [something](/zh/post/something/)" 在某方面有天赋。例如: "She's incredibly talented [in](/zh/post/in/) [music](/zh/post/music/)."
 
 ## 例句
-- 名词: "[His](/post/his/) [talent](/post/talent/) [for](/post/for/) solving [complex](/post/complex/) problems earned [him](/post/him/) [a](/post/a/) promotion."
-- 动词: "[The](/post/the/) [scout](/post/scout/) talents [young](/post/young/) athletes [with](/post/with/) [potential](/post/potential/) [for](/post/for/) [professional](/post/professional/) sports."
+- 名词: "[His](/zh/post/his/) [talent](/zh/post/talent/) [for](/zh/post/for/) solving [complex](/zh/post/complex/) problems earned [him](/zh/post/him/) [a](/zh/post/a/) promotion."
+- 动词: "[The](/zh/post/the/) [scout](/zh/post/scout/) talents [young](/zh/post/young/) athletes [with](/zh/post/with/) [potential](/zh/post/potential/) [for](/zh/post/for/) [professional](/zh/post/professional/) sports."
 
 ## 同义词
-- [Gift](/post/gift/)
-- [Ability](/post/ability/)
-- [Skill](/post/skill/)
+- [Gift](/zh/post/gift/)
+- [Ability](/zh/post/ability/)
+- [Skill](/zh/post/skill/)
 - Endowment
 - Proficiency

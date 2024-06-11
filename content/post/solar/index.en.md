@@ -7,38 +7,38 @@ description = '[ˈsəulə] a.太阳的，日光的'
 keywords = ['ai words', 'solar']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /səˈlɔːr/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Solar](/en/post/solar/)** (countable): Referring [to](/en/post/to/) [the](/en/post/the/) [sun](/en/post/sun/) [or](/en/post/or/) [its](/en/post/its/) [energy](/en/post/energy/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [solar](/en/post/solar/) panels [convert](/en/post/convert/) [sunlight](/en/post/sunlight/) [into](/en/post/into/) [electricity](/en/post/electricity/)."
-- **[Solar](/en/post/solar/)** (uncountable): [The](/en/post/the/) [heat](/en/post/heat/) [or](/en/post/or/) [light](/en/post/light/) produced [by](/en/post/by/) [the](/en/post/the/) [sun](/en/post/sun/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [solar](/en/post/solar/) [system](/en/post/system/) revolves [around](/en/post/around/) [the](/en/post/the/) [sun](/en/post/sun/)."
+### [Noun](/post/noun/)
+- **[Solar](/post/solar/)** (countable): Referring [to](/post/to/) [the](/post/the/) [sun](/post/sun/) [or](/post/or/) [its](/post/its/) [energy](/post/energy/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [solar](/post/solar/) panels [convert](/post/convert/) [sunlight](/post/sunlight/) [into](/post/into/) [electricity](/post/electricity/)."
+- **[Solar](/post/solar/)** (uncountable): [The](/post/the/) [heat](/post/heat/) [or](/post/or/) [light](/post/light/) produced [by](/post/by/) [the](/post/the/) [sun](/post/sun/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [solar](/post/solar/) [system](/post/system/) revolves [around](/post/around/) [the](/post/the/) [sun](/post/sun/)."
 
-### [Verb](/en/post/verb/)
-- [Not](/en/post/not/) [a](/en/post/a/) [common](/en/post/common/) [verb](/en/post/verb/) [in](/en/post/in/) [its](/en/post/its/) [basic](/en/post/basic/) [form](/en/post/form/), [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) powered [by](/en/post/by/) [the](/en/post/the/) [sun](/en/post/sun/) [or](/en/post/or/) influenced [by](/en/post/by/) [solar](/en/post/solar/) [energy](/en/post/energy/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [car](/en/post/car/) runs [on](/en/post/on/) [solar](/en/post/solar/) [power](/en/post/power/)."
+### [Verb](/post/verb/)
+- [Not](/post/not/) [a](/post/a/) [common](/post/common/) [verb](/post/verb/) [in](/post/in/) [its](/post/its/) [basic](/post/basic/) [form](/post/form/), [but](/post/but/) [can](/post/can/) [be](/post/be/) [used](/post/used/) metaphorically [to](/post/to/) [describe](/post/describe/) [something](/post/something/) powered [by](/post/by/) [the](/post/the/) [sun](/post/sun/) [or](/post/or/) influenced [by](/post/by/) [solar](/post/solar/) [energy](/post/energy/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [new](/post/new/) [car](/post/car/) runs [on](/post/on/) [solar](/post/solar/) [power](/post/power/)."
 
-### [Adjective](/en/post/adjective/)
-- Describing [something](/en/post/something/) related [to](/en/post/to/) [the](/en/post/the/) [sun](/en/post/sun/) [or](/en/post/or/) derived [from](/en/post/from/) [its](/en/post/its/) [energy](/en/post/energy/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [solar](/en/post/solar/) [panel](/en/post/panel/) [system](/en/post/system/) is an eco-friendly [solution](/en/post/solution/)."
+### [Adjective](/post/adjective/)
+- Describing [something](/post/something/) related [to](/post/to/) [the](/post/the/) [sun](/post/sun/) [or](/post/or/) derived [from](/post/from/) [its](/post/its/) [energy](/post/energy/). [For](/post/for/) [example](/post/example/): "[A](/post/a/) [solar](/post/solar/) [panel](/post/panel/) [system](/post/system/) is an eco-friendly [solution](/post/solution/)."
 
-### [Adverb](/en/post/adverb/)
-- [Not](/en/post/not/) [a](/en/post/a/) recognized [adverb](/en/post/adverb/) [form](/en/post/form/) [for](/en/post/for/) "[solar](/en/post/solar/)."
+### [Adverb](/post/adverb/)
+- [Not](/post/not/) [a](/post/a/) recognized [adverb](/post/adverb/) [form](/post/form/) [for](/post/for/) "[solar](/post/solar/)."
 
 ## Phrases
-- "[Harness](/en/post/harness/) [solar](/en/post/solar/) [energy](/en/post/energy/)" [means](/en/post/means/) [to](/en/post/to/) [capture](/en/post/capture/) [and](/en/post/and/) [utilize](/en/post/utilize/) [the](/en/post/the/) sun's [power](/en/post/power/).
-- "[Solar](/en/post/solar/) [radiation](/en/post/radiation/)" refers [to](/en/post/to/) [the](/en/post/the/) sun's [energy](/en/post/energy/) emitted [in](/en/post/in/) [the](/en/post/the/) [form](/en/post/form/) [of](/en/post/of/) [light](/en/post/light/) [and](/en/post/and/) [heat](/en/post/heat/).
-- "Going [solar](/en/post/solar/)" is [a](/en/post/a/) [popular](/en/post/popular/) [phrase](/en/post/phrase/) [for](/en/post/for/) installing [solar](/en/post/solar/) panels [to](/en/post/to/) [generate](/en/post/generate/) [electricity](/en/post/electricity/).
+- "[Harness](/post/harness/) [solar](/post/solar/) [energy](/post/energy/)" [means](/post/means/) [to](/post/to/) [capture](/post/capture/) [and](/post/and/) [utilize](/post/utilize/) [the](/post/the/) sun's [power](/post/power/).
+- "[Solar](/post/solar/) [radiation](/post/radiation/)" refers [to](/post/to/) [the](/post/the/) sun's [energy](/post/energy/) emitted [in](/post/in/) [the](/post/the/) [form](/post/form/) [of](/post/of/) [light](/post/light/) [and](/post/and/) [heat](/post/heat/).
+- "Going [solar](/post/solar/)" is [a](/post/a/) [popular](/post/popular/) [phrase](/post/phrase/) [for](/post/for/) installing [solar](/post/solar/) panels [to](/post/to/) [generate](/post/generate/) [electricity](/post/electricity/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) solar-powered [car](/en/post/car/) was [a](/en/post/a/) [sight](/en/post/sight/) [to](/en/post/to/) behold [at](/en/post/at/) [the](/en/post/the/) [auto](/en/post/auto/) [show](/en/post/show/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [garden](/en/post/garden/) was designed [with](/en/post/with/) drought-tolerant plants [that](/en/post/that/) [thrive](/en/post/thrive/) [in](/en/post/in/) [full](/en/post/full/) [solar](/en/post/solar/) [exposure](/en/post/exposure/)."
-- **Metaphorical [Verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) aims [to](/en/post/to/) [go](/en/post/go/) [solar](/en/post/solar/) [to](/en/post/to/) [reduce](/en/post/reduce/) [their](/en/post/their/) [carbon](/en/post/carbon/) footprint."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) solar-powered [car](/post/car/) was [a](/post/a/) [sight](/post/sight/) [to](/post/to/) behold [at](/post/at/) [the](/post/the/) [auto](/post/auto/) [show](/post/show/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [garden](/post/garden/) was designed [with](/post/with/) drought-tolerant plants [that](/post/that/) [thrive](/post/thrive/) [in](/post/in/) [full](/post/full/) [solar](/post/solar/) [exposure](/post/exposure/)."
+- **Metaphorical [Verb](/post/verb/)**: "[The](/post/the/) [company](/post/company/) aims [to](/post/to/) [go](/post/go/) [solar](/post/solar/) [to](/post/to/) [reduce](/post/reduce/) [their](/post/their/) [carbon](/post/carbon/) footprint."
 
 ## Synonyms
-- [Sunlight](/en/post/sunlight/)
+- [Sunlight](/post/sunlight/)
 - Solar-powered
 - Photovoltaic
 - Heliospheric
 - Radiant
 
-[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [usage](/en/post/usage/) [for](/en/post/for/) "[solar](/en/post/solar/)" is [not](/en/post/not/) [common](/en/post/common/) [in](/en/post/in/) [standard](/en/post/standard/) English, [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [as](/en/post/as/) mentioned [above](/en/post/above/).
+[Note](/post/note/): [The](/post/the/) [verb](/post/verb/) [usage](/post/usage/) [for](/post/for/) "[solar](/post/solar/)" is [not](/post/not/) [common](/post/common/) [in](/post/in/) [standard](/post/standard/) English, [but](/post/but/) [it](/post/it/) [can](/post/can/) [be](/post/be/) [used](/post/used/) metaphorically [as](/post/as/) mentioned [above](/post/above/).

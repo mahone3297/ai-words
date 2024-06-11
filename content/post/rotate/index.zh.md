@@ -12,20 +12,20 @@ keywords = ['ai words', 'rotate']
 
 ## 释义
 - **动词**:
-1. 旋转；转动。例如: "[The](/post/the/) [Earth](/post/earth/) rotates [around](/post/around/) [its](/post/its/) [axis](/post/axis/) [once](/post/once/) [every](/post/every/) 24 hours."
-2. 轮流；替换。例如: "Employees [rotate](/post/rotate/) [through](/post/through/) [different](/post/different/) departments [to](/post/to/) [gain](/post/gain/) [more](/post/more/) [experience](/post/experience/)."
+1. 旋转；转动。例如: "[The](/zh/post/the/) [Earth](/zh/post/earth/) rotates [around](/zh/post/around/) [its](/zh/post/its/) [axis](/zh/post/axis/) [once](/zh/post/once/) [every](/zh/post/every/) 24 hours."
+2. 轮流；替换。例如: "Employees [rotate](/zh/post/rotate/) [through](/zh/post/through/) [different](/zh/post/different/) departments [to](/zh/post/to/) [gain](/zh/post/gain/) [more](/zh/post/more/) [experience](/zh/post/experience/)."
 
 ## 短语
-- "[Rotate](/post/rotate/) [around](/post/around/)" 表示围绕...旋转。例如: "[The](/post/the/) planets [rotate](/post/rotate/) [around](/post/around/) [the](/post/the/) [sun](/post/sun/)."
-- "[Rotate](/post/rotate/) shifts" 指工作班次的轮换。例如: "[The](/post/the/) nurses [rotate](/post/rotate/) shifts [every](/post/every/) [three](/post/three/) days."
+- "[Rotate](/zh/post/rotate/) [around](/zh/post/around/)" 表示围绕...旋转。例如: "[The](/zh/post/the/) planets [rotate](/zh/post/rotate/) [around](/zh/post/around/) [the](/zh/post/the/) [sun](/zh/post/sun/)."
+- "[Rotate](/zh/post/rotate/) shifts" 指工作班次的轮换。例如: "[The](/zh/post/the/) nurses [rotate](/zh/post/rotate/) shifts [every](/zh/post/every/) [three](/zh/post/three/) days."
 
 ## 例句
-- 旋转: "[The](/post/the/) windmill blades [rotate](/post/rotate/) [slowly](/post/slowly/) [in](/post/in/) [the](/post/the/) [breeze](/post/breeze/)."
-- 轮流: "[The](/post/the/) [team](/post/team/) members [rotate](/post/rotate/) responsibilities [during](/post/during/) [the](/post/the/) [project](/post/project/)."
+- 旋转: "[The](/zh/post/the/) windmill blades [rotate](/zh/post/rotate/) [slowly](/zh/post/slowly/) [in](/zh/post/in/) [the](/zh/post/the/) [breeze](/zh/post/breeze/)."
+- 轮流: "[The](/zh/post/the/) [team](/zh/post/team/) members [rotate](/zh/post/rotate/) responsibilities [during](/zh/post/during/) [the](/zh/post/the/) [project](/zh/post/project/)."
 
 ## 同义词
 - Revolve
-- [Turn](/post/turn/)
-- [Spin](/post/spin/)
+- [Turn](/zh/post/turn/)
+- [Spin](/zh/post/spin/)
 - Pivot
-- [Circulate](/post/circulate/)
+- [Circulate](/zh/post/circulate/)

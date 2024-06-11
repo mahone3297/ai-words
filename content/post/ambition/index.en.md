@@ -7,33 +7,33 @@ description = '[æmˈbi∫ən] n.雄心，抱负，野心'
 keywords = ['ai words', 'ambition']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /æmˈbɪʃ(ə)n/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[Aim](/en/post/aim/) [or](/en/post/or/) aspiration:** [A](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [to](/en/post/to/) [achieve](/en/post/achieve/) [something](/en/post/something/), [often](/en/post/often/) involving [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [drive](/en/post/drive/) [and](/en/post/and/) [determination](/en/post/determination/). "[Her](/en/post/her/) [ambition](/en/post/ambition/) was [to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) [successful](/en/post/successful/) entrepreneur."
-2. **[Object](/en/post/object/) [of](/en/post/of/) [desire](/en/post/desire/):** [A](/en/post/a/) [goal](/en/post/goal/) [or](/en/post/or/) [target](/en/post/target/) [one](/en/post/one/) strives [to](/en/post/to/) [attain](/en/post/attain/). "[His](/en/post/his/) [main](/en/post/main/) [ambition](/en/post/ambition/) was [to](/en/post/to/) [win](/en/post/win/) [the](/en/post/the/) [gold](/en/post/gold/) [medal](/en/post/medal/) [in](/en/post/in/) [the](/en/post/the/) Olympics."
+### [Noun](/post/noun/)
+1. **[Aim](/post/aim/) [or](/post/or/) aspiration:** [A](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [to](/post/to/) [achieve](/post/achieve/) [something](/post/something/), [often](/post/often/) involving [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [drive](/post/drive/) [and](/post/and/) [determination](/post/determination/). "[Her](/post/her/) [ambition](/post/ambition/) was [to](/post/to/) [become](/post/become/) [a](/post/a/) [successful](/post/successful/) entrepreneur."
+2. **[Object](/post/object/) [of](/post/of/) [desire](/post/desire/):** [A](/post/a/) [goal](/post/goal/) [or](/post/or/) [target](/post/target/) [one](/post/one/) strives [to](/post/to/) [attain](/post/attain/). "[His](/post/his/) [main](/post/main/) [ambition](/post/ambition/) was [to](/post/to/) [win](/post/win/) [the](/post/the/) [gold](/post/gold/) [medal](/post/medal/) [in](/post/in/) [the](/post/the/) Olympics."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [or](/en/post/or/) [intention](/en/post/intention/):** [She](/en/post/she/) has [a](/en/post/a/) [great](/en/post/great/) [ambition](/en/post/ambition/) [to](/en/post/to/) [learn](/en/post/learn/) [a](/en/post/a/) [new](/en/post/new/) [language](/en/post/language/).
-2. **[To](/en/post/to/) [set](/en/post/set/) one's sights [on](/en/post/on/):** [He](/en/post/he/) [will](/en/post/will/) [be](/en/post/be/) ambitious [in](/en/post/in/) [his](/en/post/his/) [pursuit](/en/post/pursuit/) [of](/en/post/of/) [a](/en/post/a/) [better](/en/post/better/) [job](/en/post/job/).
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [have](/post/have/) [a](/post/a/) [strong](/post/strong/) [desire](/post/desire/) [or](/post/or/) [intention](/post/intention/):** [She](/post/she/) has [a](/post/a/) [great](/post/great/) [ambition](/post/ambition/) [to](/post/to/) [learn](/post/learn/) [a](/post/a/) [new](/post/new/) [language](/post/language/).
+2. **[To](/post/to/) [set](/post/set/) one's sights [on](/post/on/):** [He](/post/he/) [will](/post/will/) [be](/post/be/) ambitious [in](/post/in/) [his](/post/his/) [pursuit](/post/pursuit/) [of](/post/of/) [a](/post/a/) [better](/post/better/) [job](/post/job/).
 
 ## Phrases
-- "[Ambition](/en/post/ambition/) is [the](/en/post/the/) [fuel](/en/post/fuel/) [in](/en/post/in/) [the](/en/post/the/) [engine](/en/post/engine/) [of](/en/post/of/) [success](/en/post/success/)."
-- "[She](/en/post/she/) nurtured [her](/en/post/her/) [ambition](/en/post/ambition/) [from](/en/post/from/) [a](/en/post/a/) [young](/en/post/young/) [age](/en/post/age/)."
-- "An ambitious [project](/en/post/project/) [that](/en/post/that/) spans [multiple](/en/post/multiple/) industries."
+- "[Ambition](/post/ambition/) is [the](/post/the/) [fuel](/post/fuel/) [in](/post/in/) [the](/post/the/) [engine](/post/engine/) [of](/post/of/) [success](/post/success/)."
+- "[She](/post/she/) nurtured [her](/post/her/) [ambition](/post/ambition/) [from](/post/from/) [a](/post/a/) [young](/post/young/) [age](/post/age/)."
+- "An ambitious [project](/post/project/) [that](/post/that/) spans [multiple](/post/multiple/) industries."
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) had [a](/en/post/a/) burning [ambition](/en/post/ambition/) [to](/en/post/to/) [climb](/en/post/climb/) [Mount](/en/post/mount/) Everest."
-- **[Verb](/en/post/verb/)**: "[Her](/en/post/her/) [ambition](/en/post/ambition/) was [to](/en/post/to/) [break](/en/post/break/) records [in](/en/post/in/) [her](/en/post/her/) [field](/en/post/field/)."
-- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[After](/en/post/after/) graduating, [he](/en/post/he/) embarked [on](/en/post/on/) an ambitious [career](/en/post/career/) [path](/en/post/path/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[He](/post/he/) had [a](/post/a/) burning [ambition](/post/ambition/) [to](/post/to/) [climb](/post/climb/) [Mount](/post/mount/) Everest."
+- **[Verb](/post/verb/)**: "[Her](/post/her/) [ambition](/post/ambition/) was [to](/post/to/) [break](/post/break/) records [in](/post/in/) [her](/post/her/) [field](/post/field/)."
+- **[As](/post/as/) [a](/post/a/) [verb](/post/verb/)**: "[After](/post/after/) graduating, [he](/post/he/) embarked [on](/post/on/) an ambitious [career](/post/career/) [path](/post/path/)."
 
 ## Synonyms
 - Aspiration
-- [Goal](/en/post/goal/)
-- [Desire](/en/post/desire/)
-- [Aim](/en/post/aim/)
+- [Goal](/post/goal/)
+- [Desire](/post/desire/)
+- [Aim](/post/aim/)
 - Resilience
 - Motivation
 -志向
@@ -42,6 +42,6 @@ keywords = ['ai words', 'ambition']
 
 ## Antonyms
 - Indifference
-- [Lack](/en/post/lack/) [of](/en/post/of/) [interest](/en/post/interest/)
+- [Lack](/post/lack/) [of](/post/of/) [interest](/post/interest/)
 - Complacency
 - Unambitiousness

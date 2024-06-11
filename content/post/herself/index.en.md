@@ -7,26 +7,26 @@ description = '[həːˈself] pron.她自己；她亲自'
 keywords = ['ai words', 'herself']
 +++
 
-## [Word](/en/post/word/): [Herself](/en/post/herself/)
+## [Word](/post/word/): [Herself](/post/herself/)
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈhɜːrsɛlf/
 
 ## Definitions
-- **[Pronoun](/en/post/pronoun/) (reflexive)**: [Used](/en/post/used/) [as](/en/post/as/) [the](/en/post/the/) [object](/en/post/object/) [form](/en/post/form/) [of](/en/post/of/) [a](/en/post/a/) reflexive [pronoun](/en/post/pronoun/) [when](/en/post/when/) [the](/en/post/the/) [subject](/en/post/subject/) [of](/en/post/of/) [the](/en/post/the/) [sentence](/en/post/sentence/) is [female](/en/post/female/) [or](/en/post/or/) feminine, referring [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) [same](/en/post/same/) [person](/en/post/person/). [It](/en/post/it/) emphasizes [that](/en/post/that/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) [the](/en/post/the/) [verb](/en/post/verb/) is performed [by](/en/post/by/) [the](/en/post/the/) [subject](/en/post/subject/) [on](/en/post/on/) [herself](/en/post/herself/). [Example](/en/post/example/): "[She](/en/post/she/) dressed [herself](/en/post/herself/) [for](/en/post/for/) [the](/en/post/the/) [party](/en/post/party/)."
-- **[Pronoun](/en/post/pronoun/) (emphatic)**: [Used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [that](/en/post/that/) [a](/en/post/a/) [particular](/en/post/particular/) [woman](/en/post/woman/) is performing [the](/en/post/the/) [action](/en/post/action/), [especially](/en/post/especially/) [when](/en/post/when/) it's [unexpected](/en/post/unexpected/) [or](/en/post/or/) contrasts [with](/en/post/with/) [another](/en/post/another/) [person](/en/post/person/). [Example](/en/post/example/): "[She](/en/post/she/) did [it](/en/post/it/) [herself](/en/post/herself/), [without](/en/post/without/) [any](/en/post/any/) [help](/en/post/help/)."
+- **[Pronoun](/post/pronoun/) (reflexive)**: [Used](/post/used/) [as](/post/as/) [the](/post/the/) [object](/post/object/) [form](/post/form/) [of](/post/of/) [a](/post/a/) reflexive [pronoun](/post/pronoun/) [when](/post/when/) [the](/post/the/) [subject](/post/subject/) [of](/post/of/) [the](/post/the/) [sentence](/post/sentence/) is [female](/post/female/) [or](/post/or/) feminine, referring [back](/post/back/) [to](/post/to/) [the](/post/the/) [same](/post/same/) [person](/post/person/). [It](/post/it/) emphasizes [that](/post/that/) [the](/post/the/) [action](/post/action/) [of](/post/of/) [the](/post/the/) [verb](/post/verb/) is performed [by](/post/by/) [the](/post/the/) [subject](/post/subject/) [on](/post/on/) [herself](/post/herself/). [Example](/post/example/): "[She](/post/she/) dressed [herself](/post/herself/) [for](/post/for/) [the](/post/the/) [party](/post/party/)."
+- **[Pronoun](/post/pronoun/) (emphatic)**: [Used](/post/used/) [to](/post/to/) [emphasize](/post/emphasize/) [that](/post/that/) [a](/post/a/) [particular](/post/particular/) [woman](/post/woman/) is performing [the](/post/the/) [action](/post/action/), [especially](/post/especially/) [when](/post/when/) it's [unexpected](/post/unexpected/) [or](/post/or/) contrasts [with](/post/with/) [another](/post/another/) [person](/post/person/). [Example](/post/example/): "[She](/post/she/) did [it](/post/it/) [herself](/post/herself/), [without](/post/without/) [any](/post/any/) [help](/post/help/)."
 
 ## Phrases
-- "[By](/en/post/by/) [herself](/en/post/herself/)": Indicates [that](/en/post/that/) [someone](/en/post/someone/) is [alone](/en/post/alone/) [or](/en/post/or/) doing [something](/en/post/something/) unaccompanied. [Example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [travel](/en/post/travel/) [by](/en/post/by/) [herself](/en/post/herself/) [this](/en/post/this/) [time](/en/post/time/)."
-- "[To](/en/post/to/) [hurt](/en/post/hurt/) [oneself](/en/post/oneself/)": [To](/en/post/to/) [cause](/en/post/cause/) [injury](/en/post/injury/) [to](/en/post/to/) one's [own](/en/post/own/) [body](/en/post/body/). [Example](/en/post/example/): "[She](/en/post/she/) accidentally [cut](/en/post/cut/) [herself](/en/post/herself/) [while](/en/post/while/) cooking [dinner](/en/post/dinner/)."
-- "[To](/en/post/to/) [please](/en/post/please/) [oneself](/en/post/oneself/)": [To](/en/post/to/) [do](/en/post/do/) [what](/en/post/what/) [one](/en/post/one/) wants [or](/en/post/or/) prefers, [regardless](/en/post/regardless/) [of](/en/post/of/) others' opinions. [Example](/en/post/example/): "[She](/en/post/she/) spends [her](/en/post/her/) weekends [exactly](/en/post/exactly/) [as](/en/post/as/) [she](/en/post/she/) pleases [herself](/en/post/herself/)."
+- "[By](/post/by/) [herself](/post/herself/)": Indicates [that](/post/that/) [someone](/post/someone/) is [alone](/post/alone/) [or](/post/or/) doing [something](/post/something/) unaccompanied. [Example](/post/example/): "[She](/post/she/) decided [to](/post/to/) [travel](/post/travel/) [by](/post/by/) [herself](/post/herself/) [this](/post/this/) [time](/post/time/)."
+- "[To](/post/to/) [hurt](/post/hurt/) [oneself](/post/oneself/)": [To](/post/to/) [cause](/post/cause/) [injury](/post/injury/) [to](/post/to/) one's [own](/post/own/) [body](/post/body/). [Example](/post/example/): "[She](/post/she/) accidentally [cut](/post/cut/) [herself](/post/herself/) [while](/post/while/) cooking [dinner](/post/dinner/)."
+- "[To](/post/to/) [please](/post/please/) [oneself](/post/oneself/)": [To](/post/to/) [do](/post/do/) [what](/post/what/) [one](/post/one/) wants [or](/post/or/) prefers, [regardless](/post/regardless/) [of](/post/of/) others' opinions. [Example](/post/example/): "[She](/post/she/) spends [her](/post/her/) weekends [exactly](/post/exactly/) [as](/post/as/) [she](/post/she/) pleases [herself](/post/herself/)."
 
-## [Example](/en/post/example/) Sentences
-- **Reflexive**: "[She](/en/post/she/) looked [at](/en/post/at/) [herself](/en/post/herself/) [in](/en/post/in/) [the](/en/post/the/) [mirror](/en/post/mirror/) [to](/en/post/to/) [check](/en/post/check/) [her](/en/post/her/) [appearance](/en/post/appearance/) [before](/en/post/before/) leaving [home](/en/post/home/)."
-- **Emphatic**: "[Despite](/en/post/despite/) [being](/en/post/being/) [new](/en/post/new/) [to](/en/post/to/) [the](/en/post/the/) [sport](/en/post/sport/), [she](/en/post/she/) won [the](/en/post/the/) [race](/en/post/race/) [herself](/en/post/herself/), [surprising](/en/post/surprising/) [everyone](/en/post/everyone/)."
+## [Example](/post/example/) Sentences
+- **Reflexive**: "[She](/post/she/) looked [at](/post/at/) [herself](/post/herself/) [in](/post/in/) [the](/post/the/) [mirror](/post/mirror/) [to](/post/to/) [check](/post/check/) [her](/post/her/) [appearance](/post/appearance/) [before](/post/before/) leaving [home](/post/home/)."
+- **Emphatic**: "[Despite](/post/despite/) [being](/post/being/) [new](/post/new/) [to](/post/to/) [the](/post/the/) [sport](/post/sport/), [she](/post/she/) won [the](/post/the/) [race](/post/race/) [herself](/post/herself/), [surprising](/post/surprising/) [everyone](/post/everyone/)."
 
 ## Synonyms
-- [Her](/en/post/her/) [own](/en/post/own/) [self](/en/post/self/)
+- [Her](/post/her/) [own](/post/own/) [self](/post/self/)
 - Personally
-- [Alone](/en/post/alone/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [being](/en/post/being/) [by](/en/post/by/) [oneself](/en/post/oneself/))
-- Independently ([when](/en/post/when/) emphasizing [personal](/en/post/personal/) [agency](/en/post/agency/))
+- [Alone](/post/alone/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [being](/post/being/) [by](/post/by/) [oneself](/post/oneself/))
+- Independently ([when](/post/when/) emphasizing [personal](/post/personal/) [agency](/post/agency/))

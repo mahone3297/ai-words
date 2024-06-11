@@ -11,20 +11,20 @@ keywords = ['ai words', 'delight']
 /dɪˈlʌɪt/
 
 ## 释义
-- **名词**: 极大的快乐，愉快；令人高兴的事。例如: "[She](/post/she/) felt [a](/post/a/) [deep](/post/deep/) [delight](/post/delight/) [at](/post/at/) [the](/post/the/) [news](/post/news/)."
-- **动词**: 使非常快乐，使愉快。例如: "[His](/post/his/) [music](/post/music/) delights audiences [around](/post/around/) [the](/post/the/) [world](/post/world/)."
+- **名词**: 极大的快乐，愉快；令人高兴的事。例如: "[She](/zh/post/she/) felt [a](/zh/post/a/) [deep](/zh/post/deep/) [delight](/zh/post/delight/) [at](/zh/post/at/) [the](/zh/post/the/) [news](/zh/post/news/)."
+- **动词**: 使非常快乐，使愉快。例如: "[His](/zh/post/his/) [music](/zh/post/music/) delights audiences [around](/zh/post/around/) [the](/zh/post/the/) [world](/zh/post/world/)."
 
 ## 短语
-- "[delight](/post/delight/) [in](/post/in/) [something](/post/something/)" 意味着对某事感到极大的喜悦或满足。例如: "[She](/post/she/) delights [in](/post/in/) [reading](/post/reading/) books [by](/post/by/) [the](/post/the/) fireplace."
-- "[a](/post/a/) [delight](/post/delight/) [to](/post/to/) behold" 用来形容令人赏心悦目的景象或人。例如: "[The](/post/the/) [garden](/post/garden/) was [a](/post/a/) [delight](/post/delight/) [to](/post/to/) behold [with](/post/with/) [its](/post/its/) colorful flowers."
+- "[delight](/zh/post/delight/) [in](/zh/post/in/) [something](/zh/post/something/)" 意味着对某事感到极大的喜悦或满足。例如: "[She](/zh/post/she/) delights [in](/zh/post/in/) [reading](/zh/post/reading/) books [by](/zh/post/by/) [the](/zh/post/the/) fireplace."
+- "[a](/zh/post/a/) [delight](/zh/post/delight/) [to](/zh/post/to/) behold" 用来形容令人赏心悦目的景象或人。例如: "[The](/zh/post/the/) [garden](/zh/post/garden/) was [a](/zh/post/a/) [delight](/zh/post/delight/) [to](/zh/post/to/) behold [with](/zh/post/with/) [its](/zh/post/its/) colorful flowers."
 
 ## 例句
-- 名词: "[The](/post/the/) [sight](/post/sight/) [of](/post/of/) [her](/post/her/) children playing [together](/post/together/) brought [her](/post/her/) [great](/post/great/) [delight](/post/delight/)."
-- 动词: "[The](/post/the/) puppy's playful antics delighted [everyone](/post/everyone/) [who](/post/who/) [saw](/post/saw/) [them](/post/them/)."
+- 名词: "[The](/zh/post/the/) [sight](/zh/post/sight/) [of](/zh/post/of/) [her](/zh/post/her/) children playing [together](/zh/post/together/) brought [her](/zh/post/her/) [great](/zh/post/great/) [delight](/zh/post/delight/)."
+- 动词: "[The](/zh/post/the/) puppy's playful antics delighted [everyone](/zh/post/everyone/) [who](/zh/post/who/) [saw](/zh/post/saw/) [them](/zh/post/them/)."
 
 ## 同义词
-- [Joy](/post/joy/)
-- [Pleasure](/post/pleasure/)
-- [Satisfaction](/post/satisfaction/)
+- [Joy](/zh/post/joy/)
+- [Pleasure](/zh/post/pleasure/)
+- [Satisfaction](/zh/post/satisfaction/)
 - Delightfulness
 - Ecstasy

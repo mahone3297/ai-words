@@ -14,17 +14,17 @@ keywords = ['ai words', 'occasionally']
 - **副词**: 偶尔，有时候，不时地。表示动作或情况不是经常发生，而是间歇性的。
 
 ## 短语
-- "[occasionally](/post/occasionally/) [do](/post/do/) [something](/post/something/)" 意为偶尔做某事。
-- "[something](/post/something/) occurs [occasionally](/post/occasionally/)" 意为某事偶尔发生。
+- "[occasionally](/zh/post/occasionally/) [do](/zh/post/do/) [something](/zh/post/something/)" 意为偶尔做某事。
+- "[something](/zh/post/something/) occurs [occasionally](/zh/post/occasionally/)" 意为某事偶尔发生。
 
 ## 例句
-- "I [occasionally](/post/occasionally/) [visit](/post/visit/) [my](/post/my/) grandparents [during](/post/during/) weekends."
-- "[The](/post/the/) [weather](/post/weather/) is [occasionally](/post/occasionally/) [sunny](/post/sunny/) [in](/post/in/) [this](/post/this/) [region](/post/region/), [despite](/post/despite/) [its](/post/its/) [reputation](/post/reputation/) [for](/post/for/) [rain](/post/rain/)."
-- "[She](/post/she/) [occasionally](/post/occasionally/) works [from](/post/from/) [home](/post/home/) [when](/post/when/) [she](/post/she/) needs [to](/post/to/) [take](/post/take/) [care](/post/care/) [of](/post/of/) [her](/post/her/) [child](/post/child/)."
+- "I [occasionally](/zh/post/occasionally/) [visit](/zh/post/visit/) [my](/zh/post/my/) grandparents [during](/zh/post/during/) weekends."
+- "[The](/zh/post/the/) [weather](/zh/post/weather/) is [occasionally](/zh/post/occasionally/) [sunny](/zh/post/sunny/) [in](/zh/post/in/) [this](/zh/post/this/) [region](/zh/post/region/), [despite](/zh/post/despite/) [its](/zh/post/its/) [reputation](/zh/post/reputation/) [for](/zh/post/for/) [rain](/zh/post/rain/)."
+- "[She](/zh/post/she/) [occasionally](/zh/post/occasionally/) works [from](/zh/post/from/) [home](/zh/post/home/) [when](/zh/post/when/) [she](/zh/post/she/) needs [to](/zh/post/to/) [take](/zh/post/take/) [care](/zh/post/care/) [of](/zh/post/of/) [her](/zh/post/her/) [child](/zh/post/child/)."
 
 ## 同义词
-- [Sometimes](/post/sometimes/)
-- [Now](/post/now/) [and](/post/and/) [then](/post/then/)
-- [From](/post/from/) [time](/post/time/) [to](/post/to/) [time](/post/time/)
-- [Occasionally](/post/occasionally/)
-- [On](/post/on/) [occasion](/post/occasion/)
+- [Sometimes](/zh/post/sometimes/)
+- [Now](/zh/post/now/) [and](/zh/post/and/) [then](/zh/post/then/)
+- [From](/zh/post/from/) [time](/zh/post/time/) [to](/zh/post/to/) [time](/zh/post/time/)
+- [Occasionally](/zh/post/occasionally/)
+- [On](/zh/post/on/) [occasion](/zh/post/occasion/)

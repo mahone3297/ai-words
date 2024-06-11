@@ -11,23 +11,23 @@ keywords = ['ai words', 'outside']
 /ˌaʊtˈsaɪd/
 
 ## 释义
-- **形容词**: 在外面的；外部的。例如: "There's [a](/post/a/) [beautiful](/post/beautiful/) [garden](/post/garden/) [outside](/post/outside/) [the](/post/the/) [house](/post/house/)."
-- **副词**: 在外面；在外部。例如: "[She](/post/she/) likes [to](/post/to/) [sit](/post/sit/) [outside](/post/outside/) [on](/post/on/) [sunny](/post/sunny/) days."
-- **名词**: 外部；外表。例如: "[The](/post/the/) [outside](/post/outside/) [of](/post/of/) [the](/post/the/) [building](/post/building/) is [very](/post/very/) [modern](/post/modern/)."
-- **介词**: 表示在…之外。例如: "[Put](/post/put/) [the](/post/the/) trash [outside](/post/outside/) [the](/post/the/) [door](/post/door/)."
+- **形容词**: 在外面的；外部的。例如: "There's [a](/zh/post/a/) [beautiful](/zh/post/beautiful/) [garden](/zh/post/garden/) [outside](/zh/post/outside/) [the](/zh/post/the/) [house](/zh/post/house/)."
+- **副词**: 在外面；在外部。例如: "[She](/zh/post/she/) likes [to](/zh/post/to/) [sit](/zh/post/sit/) [outside](/zh/post/outside/) [on](/zh/post/on/) [sunny](/zh/post/sunny/) days."
+- **名词**: 外部；外表。例如: "[The](/zh/post/the/) [outside](/zh/post/outside/) [of](/zh/post/of/) [the](/zh/post/the/) [building](/zh/post/building/) is [very](/zh/post/very/) [modern](/zh/post/modern/)."
+- **介词**: 表示在…之外。例如: "[Put](/zh/post/put/) [the](/zh/post/the/) trash [outside](/zh/post/outside/) [the](/zh/post/the/) [door](/zh/post/door/)."
 
 ## 短语
-- "[on](/post/on/) [the](/post/the/) [outside](/post/outside/)" 意味着表面上或外部。例如: "[She](/post/she/) looked [calm](/post/calm/) [on](/post/on/) [the](/post/the/) [outside](/post/outside/) [but](/post/but/) was [nervous](/post/nervous/) [inside](/post/inside/)."
-- "[outside](/post/outside/) [chance](/post/chance/)" 指可能性很小的机会。例如: "There's [only](/post/only/) an [outside](/post/outside/) [chance](/post/chance/) [that](/post/that/) we'll [win](/post/win/) [the](/post/the/) lottery."
+- "[on](/zh/post/on/) [the](/zh/post/the/) [outside](/zh/post/outside/)" 意味着表面上或外部。例如: "[She](/zh/post/she/) looked [calm](/zh/post/calm/) [on](/zh/post/on/) [the](/zh/post/the/) [outside](/zh/post/outside/) [but](/zh/post/but/) was [nervous](/zh/post/nervous/) [inside](/zh/post/inside/)."
+- "[outside](/zh/post/outside/) [chance](/zh/post/chance/)" 指可能性很小的机会。例如: "There's [only](/zh/post/only/) an [outside](/zh/post/outside/) [chance](/zh/post/chance/) [that](/zh/post/that/) we'll [win](/zh/post/win/) [the](/zh/post/the/) lottery."
 
 ## 例句
-- 形容词: "[The](/post/the/) [temperature](/post/temperature/) drops significantly [when](/post/when/) [you](/post/you/) [go](/post/go/) [outside](/post/outside/) [during](/post/during/) [winter](/post/winter/)."
-- 副词: "[The](/post/the/) children were playing [outside](/post/outside/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
-- 名词: "[He](/post/he/) painted [a](/post/a/) [lovely](/post/lovely/) [scene](/post/scene/) [of](/post/of/) [the](/post/the/) [outside](/post/outside/) [world](/post/world/) [on](/post/on/) [the](/post/the/) [canvas](/post/canvas/)."
+- 形容词: "[The](/zh/post/the/) [temperature](/zh/post/temperature/) drops significantly [when](/zh/post/when/) [you](/zh/post/you/) [go](/zh/post/go/) [outside](/zh/post/outside/) [during](/zh/post/during/) [winter](/zh/post/winter/)."
+- 副词: "[The](/zh/post/the/) children were playing [outside](/zh/post/outside/) [in](/zh/post/in/) [the](/zh/post/the/) [park](/zh/post/park/)."
+- 名词: "[He](/zh/post/he/) painted [a](/zh/post/a/) [lovely](/zh/post/lovely/) [scene](/zh/post/scene/) [of](/zh/post/of/) [the](/zh/post/the/) [outside](/zh/post/outside/) [world](/zh/post/world/) [on](/zh/post/on/) [the](/zh/post/the/) [canvas](/zh/post/canvas/)."
 
 ## 同义词
-- [Exterior](/post/exterior/)
-- [Beyond](/post/beyond/)
-- [Outdoors](/post/outdoors/)
+- [Exterior](/zh/post/exterior/)
+- [Beyond](/zh/post/beyond/)
+- [Outdoors](/zh/post/outdoors/)
 - Exteriorly
-- [On](/post/on/) [the](/post/the/) [exterior](/post/exterior/)
+- [On](/zh/post/on/) [the](/zh/post/the/) [exterior](/zh/post/exterior/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'contempt']
 /ˈkɑːm.tɛnt/
 
 ## 释义
-- **名词 n**: 轻视；蔑视；鄙视。例如: "[He](/post/he/) showed [great](/post/great/) [contempt](/post/contempt/) [for](/post/for/) [their](/post/their/) opinions."
-- **动词 v**: 对…表示轻蔑或鄙视。例如: "[She](/post/she/) contemptuously dismissed [his](/post/his/) suggestions."
+- **名词 n**: 轻视；蔑视；鄙视。例如: "[He](/zh/post/he/) showed [great](/zh/post/great/) [contempt](/zh/post/contempt/) [for](/zh/post/for/) [their](/zh/post/their/) opinions."
+- **动词 v**: 对…表示轻蔑或鄙视。例如: "[She](/zh/post/she/) contemptuously dismissed [his](/zh/post/his/) suggestions."
 
 ## 短语
-- "[hold](/post/hold/) [in](/post/in/) [contempt](/post/contempt/)" 意为看不起或鄙视某人。
-- "[act](/post/act/) [with](/post/with/) [contempt](/post/contempt/)" 指以蔑视的态度行事。
+- "[hold](/zh/post/hold/) [in](/zh/post/in/) [contempt](/zh/post/contempt/)" 意为看不起或鄙视某人。
+- "[act](/zh/post/act/) [with](/zh/post/with/) [contempt](/zh/post/contempt/)" 指以蔑视的态度行事。
 
 ## 例句
-- 名词: "[Their](/post/their/) arrogance displayed [a](/post/a/) [deep](/post/deep/) [contempt](/post/contempt/) [for](/post/for/) [the](/post/the/) [law](/post/law/)."
-- 动词: "[The](/post/the/) [judge](/post/judge/) held [the](/post/the/) defendant [in](/post/in/) [high](/post/high/) [contempt](/post/contempt/) [for](/post/for/) [his](/post/his/) [behavior](/post/behavior/)."
+- 名词: "[Their](/zh/post/their/) arrogance displayed [a](/zh/post/a/) [deep](/zh/post/deep/) [contempt](/zh/post/contempt/) [for](/zh/post/for/) [the](/zh/post/the/) [law](/zh/post/law/)."
+- 动词: "[The](/zh/post/the/) [judge](/zh/post/judge/) held [the](/zh/post/the/) defendant [in](/zh/post/in/) [high](/zh/post/high/) [contempt](/zh/post/contempt/) [for](/zh/post/for/) [his](/zh/post/his/) [behavior](/zh/post/behavior/)."
 
 ## 同义词
 - Disregard
-- [Scorn](/post/scorn/)
+- [Scorn](/zh/post/scorn/)
 - Contumely
 - Derision
 - Disdain

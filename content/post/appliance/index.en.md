@@ -7,31 +7,31 @@ description = '[əˈplaiəns] n.用具，器具，器械'
 keywords = ['ai words', 'appliance']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /apəˈplaiən/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [tool](/en/post/tool/) designed [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/), typically [for](/en/post/for/) [use](/en/post/use/) [in](/en/post/in/) [a](/en/post/a/) [household](/en/post/household/) [or](/en/post/or/) [office](/en/post/office/), [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [refrigerator](/en/post/refrigerator/), washing [machine](/en/post/machine/), [or](/en/post/or/) microwave [oven](/en/post/oven/).
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [install](/en/post/install/), [set](/en/post/set/) [up](/en/post/up/), [or](/en/post/or/) [use](/en/post/use/) an [appliance](/en/post/appliance/). [For](/en/post/for/) [example](/en/post/example/): "I'm going [to](/en/post/to/) [appliance](/en/post/appliance/) [the](/en/post/the/) [new](/en/post/new/) dishwasher [this](/en/post/this/) [weekend](/en/post/weekend/)."
-- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) an [appliance](/en/post/appliance/) [or](/en/post/or/) [a](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) serves [a](/en/post/a/) [practical](/en/post/practical/) [function](/en/post/function/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [modern](/en/post/modern/) [kitchen](/en/post/kitchen/) is equipped [with](/en/post/with/) energy-efficient appliances."
+- **[Noun](/post/noun/)**: [A](/post/a/) [device](/post/device/) [or](/post/or/) [tool](/post/tool/) designed [for](/post/for/) [a](/post/a/) [specific](/post/specific/) [purpose](/post/purpose/), typically [for](/post/for/) [use](/post/use/) [in](/post/in/) [a](/post/a/) [household](/post/household/) [or](/post/or/) [office](/post/office/), [such](/post/such/) [as](/post/as/) [a](/post/a/) [refrigerator](/post/refrigerator/), washing [machine](/post/machine/), [or](/post/or/) microwave [oven](/post/oven/).
+- **[Verb](/post/verb/)**: [To](/post/to/) [install](/post/install/), [set](/post/set/) [up](/post/up/), [or](/post/or/) [use](/post/use/) an [appliance](/post/appliance/). [For](/post/for/) [example](/post/example/): "I'm going [to](/post/to/) [appliance](/post/appliance/) [the](/post/the/) [new](/post/new/) dishwasher [this](/post/this/) [weekend](/post/weekend/)."
+- **[Adjective](/post/adjective/)**: Relating [to](/post/to/) an [appliance](/post/appliance/) [or](/post/or/) [a](/post/a/) [device](/post/device/) [that](/post/that/) serves [a](/post/a/) [practical](/post/practical/) [function](/post/function/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [modern](/post/modern/) [kitchen](/post/kitchen/) is equipped [with](/post/with/) energy-efficient appliances."
 
 ## Phrases
-- "[Use](/en/post/use/) an [appliance](/en/post/appliance/)" [means](/en/post/means/) [to](/en/post/to/) [operate](/en/post/operate/) [or](/en/post/or/) [employ](/en/post/employ/) [a](/en/post/a/) [device](/en/post/device/) [for](/en/post/for/) [its](/en/post/its/) intended [function](/en/post/function/).
-- "[Appliance](/en/post/appliance/) [repair](/en/post/repair/)" refers [to](/en/post/to/) [the](/en/post/the/) fixing [of](/en/post/of/) malfunctioning devices.
-- "Energy-efficient appliances" are [those](/en/post/those/) designed [to](/en/post/to/) [consume](/en/post/consume/) [less](/en/post/less/) [power](/en/post/power/).
+- "[Use](/post/use/) an [appliance](/post/appliance/)" [means](/post/means/) [to](/post/to/) [operate](/post/operate/) [or](/post/or/) [employ](/post/employ/) [a](/post/a/) [device](/post/device/) [for](/post/for/) [its](/post/its/) intended [function](/post/function/).
+- "[Appliance](/post/appliance/) [repair](/post/repair/)" refers [to](/post/to/) [the](/post/the/) fixing [of](/post/of/) malfunctioning devices.
+- "Energy-efficient appliances" are [those](/post/those/) designed [to](/post/to/) [consume](/post/consume/) [less](/post/less/) [power](/post/power/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) replaced [her](/en/post/her/) [old](/en/post/old/) [fridge](/en/post/fridge/) [with](/en/post/with/) [a](/en/post/a/) sleek [new](/en/post/new/) [appliance](/en/post/appliance/)."
-- **[Verb](/en/post/verb/)**: "[My](/en/post/my/) mom called [a](/en/post/a/) repairman [to](/en/post/to/) [appliance](/en/post/appliance/) [the](/en/post/the/) [broken](/en/post/broken/) [oven](/en/post/oven/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [house](/en/post/house/) was fully renovated [with](/en/post/with/) state-of-the-art [kitchen](/en/post/kitchen/) appliances."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[She](/post/she/) replaced [her](/post/her/) [old](/post/old/) [fridge](/post/fridge/) [with](/post/with/) [a](/post/a/) sleek [new](/post/new/) [appliance](/post/appliance/)."
+- **[Verb](/post/verb/)**: "[My](/post/my/) mom called [a](/post/a/) repairman [to](/post/to/) [appliance](/post/appliance/) [the](/post/the/) [broken](/post/broken/) [oven](/post/oven/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [house](/post/house/) was fully renovated [with](/post/with/) state-of-the-art [kitchen](/post/kitchen/) appliances."
 
 ## Synonyms
-- [Equipment](/en/post/equipment/)
+- [Equipment](/post/equipment/)
 - Fixtures
 - Tools
 - Machines
 - Devices
 
 ## Antonyms
-- [Manual](/en/post/manual/) (referring [to](/en/post/to/) tasks done [without](/en/post/without/) machinery)
-- Handcrafted (referring [to](/en/post/to/) items made [by](/en/post/by/) [hand](/en/post/hand/), [not](/en/post/not/) mass-produced)
+- [Manual](/post/manual/) (referring [to](/post/to/) tasks done [without](/post/without/) machinery)
+- Handcrafted (referring [to](/post/to/) items made [by](/post/by/) [hand](/post/hand/), [not](/post/not/) mass-produced)

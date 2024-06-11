@@ -7,36 +7,36 @@ description = '[væn] n.大篷车，运货车'
 keywords = ['ai words', 'van']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /væn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. **[A](/en/post/a/) [vehicle](/en/post/vehicle/) [with](/en/post/with/) [a](/en/post/a/) boxlike [body](/en/post/body/), typically [one](/en/post/one/) [with](/en/post/with/) [large](/en/post/large/) [rear](/en/post/rear/) doors, [used](/en/post/used/) [for](/en/post/for/) carrying [goods](/en/post/goods/) [or](/en/post/or/) passengers.** [Example](/en/post/example/): "[The](/en/post/the/) [delivery](/en/post/delivery/) [van](/en/post/van/) arrived [at](/en/post/at/) [the](/en/post/the/) [store](/en/post/store/) [this](/en/post/this/) [morning](/en/post/morning/)."
-2. **[A](/en/post/a/) [small](/en/post/small/) enclosed [vehicle](/en/post/vehicle/), [often](/en/post/often/) [used](/en/post/used/) [by](/en/post/by/) artists [or](/en/post/or/) photographers, [with](/en/post/with/) [a](/en/post/a/) removable [top](/en/post/top/).** [Example](/en/post/example/): "[She](/en/post/she/) drove [her](/en/post/her/) converted [van](/en/post/van/) [to](/en/post/to/) [the](/en/post/the/) [countryside](/en/post/countryside/) [for](/en/post/for/) [a](/en/post/a/) photoshoot."
-3. **[A](/en/post/a/) [small](/en/post/small/), compact [car](/en/post/car/), [especially](/en/post/especially/) [one](/en/post/one/) [with](/en/post/with/) sliding doors.** [Example](/en/post/example/): "[The](/en/post/the/) [family](/en/post/family/) chose [a](/en/post/a/) compact [van](/en/post/van/) [to](/en/post/to/) [fit](/en/post/fit/) [their](/en/post/their/) growing needs."
+### [Noun](/post/noun/)
+1. **[A](/post/a/) [vehicle](/post/vehicle/) [with](/post/with/) [a](/post/a/) boxlike [body](/post/body/), typically [one](/post/one/) [with](/post/with/) [large](/post/large/) [rear](/post/rear/) doors, [used](/post/used/) [for](/post/for/) carrying [goods](/post/goods/) [or](/post/or/) passengers.** [Example](/post/example/): "[The](/post/the/) [delivery](/post/delivery/) [van](/post/van/) arrived [at](/post/at/) [the](/post/the/) [store](/post/store/) [this](/post/this/) [morning](/post/morning/)."
+2. **[A](/post/a/) [small](/post/small/) enclosed [vehicle](/post/vehicle/), [often](/post/often/) [used](/post/used/) [by](/post/by/) artists [or](/post/or/) photographers, [with](/post/with/) [a](/post/a/) removable [top](/post/top/).** [Example](/post/example/): "[She](/post/she/) drove [her](/post/her/) converted [van](/post/van/) [to](/post/to/) [the](/post/the/) [countryside](/post/countryside/) [for](/post/for/) [a](/post/a/) photoshoot."
+3. **[A](/post/a/) [small](/post/small/), compact [car](/post/car/), [especially](/post/especially/) [one](/post/one/) [with](/post/with/) sliding doors.** [Example](/post/example/): "[The](/post/the/) [family](/post/family/) chose [a](/post/a/) compact [van](/post/van/) [to](/post/to/) [fit](/post/fit/) [their](/post/their/) growing needs."
 
-### [Verb](/en/post/verb/)
-1. **[To](/en/post/to/) [transport](/en/post/transport/) [people](/en/post/people/) [or](/en/post/or/) [goods](/en/post/goods/) [in](/en/post/in/) [a](/en/post/a/) [van](/en/post/van/).** [Example](/en/post/example/): "[The](/en/post/the/) [construction](/en/post/construction/) workers loaded [the](/en/post/the/) [van](/en/post/van/) [with](/en/post/with/) tools [and](/en/post/and/) materials."
-2. **[To](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [van](/en/post/van/) [for](/en/post/for/) [personal](/en/post/personal/) [or](/en/post/or/) [commercial](/en/post/commercial/) purposes.** [Example](/en/post/example/): "[She](/en/post/she/) uses [her](/en/post/her/) [van](/en/post/van/) [as](/en/post/as/) [a](/en/post/a/) [mobile](/en/post/mobile/) [office](/en/post/office/) [for](/en/post/for/) [her](/en/post/her/) [business](/en/post/business/)."
+### [Verb](/post/verb/)
+1. **[To](/post/to/) [transport](/post/transport/) [people](/post/people/) [or](/post/or/) [goods](/post/goods/) [in](/post/in/) [a](/post/a/) [van](/post/van/).** [Example](/post/example/): "[The](/post/the/) [construction](/post/construction/) workers loaded [the](/post/the/) [van](/post/van/) [with](/post/with/) tools [and](/post/and/) materials."
+2. **[To](/post/to/) [use](/post/use/) [a](/post/a/) [van](/post/van/) [for](/post/for/) [personal](/post/personal/) [or](/post/or/) [commercial](/post/commercial/) purposes.** [Example](/post/example/): "[She](/post/she/) uses [her](/post/her/) [van](/post/van/) [as](/post/as/) [a](/post/a/) [mobile](/post/mobile/) [office](/post/office/) [for](/post/for/) [her](/post/her/) [business](/post/business/)."
 
-### [Adjective](/en/post/adjective/)
-1. **Relating [to](/en/post/to/) [or](/en/post/or/) characterized [by](/en/post/by/) [a](/en/post/a/) [van](/en/post/van/) [or](/en/post/or/) vans.** [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) specializes [in](/en/post/in/) van-based [delivery](/en/post/delivery/) services."
+### [Adjective](/post/adjective/)
+1. **Relating [to](/post/to/) [or](/post/or/) characterized [by](/post/by/) [a](/post/a/) [van](/post/van/) [or](/post/or/) vans.** [Example](/post/example/): "[The](/post/the/) [company](/post/company/) specializes [in](/post/in/) van-based [delivery](/post/delivery/) services."
 
 ## Phrases
-- "[Hire](/en/post/hire/) [a](/en/post/a/) [van](/en/post/van/)" [means](/en/post/means/) [to](/en/post/to/) [rent](/en/post/rent/) [a](/en/post/a/) [van](/en/post/van/) [for](/en/post/for/) [transportation](/en/post/transportation/) purposes.
-- "[Van](/en/post/van/) [life](/en/post/life/)" refers [to](/en/post/to/) [the](/en/post/the/) lifestyle [of](/en/post/of/) [living](/en/post/living/) [in](/en/post/in/) [a](/en/post/a/) [van](/en/post/van/), [often](/en/post/often/) [as](/en/post/as/) [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [travel](/en/post/travel/) [or](/en/post/or/) minimalism.
-- "[Drive](/en/post/drive/) [a](/en/post/a/) [van](/en/post/van/)" is [a](/en/post/a/) [common](/en/post/common/) [action](/en/post/action/) [when](/en/post/when/) operating [such](/en/post/such/) [a](/en/post/a/) [vehicle](/en/post/vehicle/).
+- "[Hire](/post/hire/) [a](/post/a/) [van](/post/van/)" [means](/post/means/) [to](/post/to/) [rent](/post/rent/) [a](/post/a/) [van](/post/van/) [for](/post/for/) [transportation](/post/transportation/) purposes.
+- "[Van](/post/van/) [life](/post/life/)" refers [to](/post/to/) [the](/post/the/) lifestyle [of](/post/of/) [living](/post/living/) [in](/post/in/) [a](/post/a/) [van](/post/van/), [often](/post/often/) [as](/post/as/) [a](/post/a/) [form](/post/form/) [of](/post/of/) [travel](/post/travel/) [or](/post/or/) minimalism.
+- "[Drive](/post/drive/) [a](/post/a/) [van](/post/van/)" is [a](/post/a/) [common](/post/common/) [action](/post/action/) [when](/post/when/) operating [such](/post/such/) [a](/post/a/) [vehicle](/post/vehicle/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) moving [van](/en/post/van/) was packed [with](/en/post/with/) [all](/en/post/all/) [their](/en/post/their/) [furniture](/en/post/furniture/)."
-- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [drive](/en/post/drive/) [the](/en/post/the/) [van](/en/post/van/) [across](/en/post/across/) [the](/en/post/the/) [country](/en/post/country/) [on](/en/post/on/) [his](/en/post/his/) [vacation](/en/post/vacation/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [van](/en/post/van/) dealership had [a](/en/post/a/) [wide](/en/post/wide/) [range](/en/post/range/) [of](/en/post/of/) models [to](/en/post/to/) [choose](/en/post/choose/) [from](/en/post/from/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) moving [van](/post/van/) was packed [with](/post/with/) [all](/post/all/) [their](/post/their/) [furniture](/post/furniture/)."
+- **[Verb](/post/verb/)**: "[He](/post/he/) decided [to](/post/to/) [drive](/post/drive/) [the](/post/the/) [van](/post/van/) [across](/post/across/) [the](/post/the/) [country](/post/country/) [on](/post/on/) [his](/post/his/) [vacation](/post/vacation/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [van](/post/van/) dealership had [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) models [to](/post/to/) [choose](/post/choose/) [from](/post/from/)."
 
 ## Synonyms
-- [Panel](/en/post/panel/) [van](/en/post/van/)
-- [Cargo](/en/post/cargo/) [van](/en/post/van/)
+- [Panel](/post/panel/) [van](/post/van/)
+- [Cargo](/post/cargo/) [van](/post/van/)
 - Minivan
 - Transporter
-- [Lorry](/en/post/lorry/) (informal, UK)
+- [Lorry](/post/lorry/) (informal, UK)
 -厢式车 (Chinese, xíáng shì chē)

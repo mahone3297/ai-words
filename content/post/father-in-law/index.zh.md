@@ -12,14 +12,14 @@ keywords = ['ai words', 'father-in-law']
 
 ## 释义
 - **名词**:
-   - 父亲的岳父或母亲的公公。例如: "[My](/post/my/) husband's [father](/post/father/) is [my](/post/my/) [father-in-law](/post/father-in-law/)."
+   - 父亲的岳父或母亲的公公。例如: "[My](/zh/post/my/) husband's [father](/zh/post/father/) is [my](/zh/post/my/) [father-in-law](/zh/post/father-in-law/)."
 
 ## 短语
-- "[have](/post/have/) [a](/post/a/) [good](/post/good/) [relationship](/post/relationship/) [with](/post/with/) one's [father-in-law](/post/father-in-law/)" 表示与岳父或公公关系良好。
+- "[have](/zh/post/have/) [a](/zh/post/a/) [good](/zh/post/good/) [relationship](/zh/post/relationship/) [with](/zh/post/with/) one's [father-in-law](/zh/post/father-in-law/)" 表示与岳父或公公关系良好。
 
 ## 例句
-- "I'm [meeting](/post/meeting/) [my](/post/my/) [father-in-law](/post/father-in-law/) [for](/post/for/) [lunch](/post/lunch/) [today](/post/today/)."
-- "She's [always](/post/always/) [nervous](/post/nervous/) [around](/post/around/) [her](/post/her/) [father-in-law](/post/father-in-law/)."
+- "I'm [meeting](/zh/post/meeting/) [my](/zh/post/my/) [father-in-law](/zh/post/father-in-law/) [for](/zh/post/for/) [lunch](/zh/post/lunch/) [today](/zh/post/today/)."
+- "She's [always](/zh/post/always/) [nervous](/zh/post/nervous/) [around](/zh/post/around/) [her](/zh/post/her/) [father-in-law](/zh/post/father-in-law/)."
 
 ## 同义词
 - 岳父

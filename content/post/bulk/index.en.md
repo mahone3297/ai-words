@@ -7,39 +7,39 @@ description = '[bʌlk] n.物体，容积，大批'
 keywords = ['ai words', 'bulk']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈbʌlk/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-1. [The](/en/post/the/) [large](/en/post/large/) [quantity](/en/post/quantity/) [or](/en/post/or/) [amount](/en/post/amount/) [of](/en/post/of/) [something](/en/post/something/), typically [solid](/en/post/solid/) [or](/en/post/or/) unbroken [matter](/en/post/matter/), [when](/en/post/when/) considered [as](/en/post/as/) [a](/en/post/a/) [whole](/en/post/whole/): *[The](/en/post/the/) [ship](/en/post/ship/) was loaded [with](/en/post/with/) [a](/en/post/a/) [huge](/en/post/huge/) [bulk](/en/post/bulk/) [of](/en/post/of/) [cargo](/en/post/cargo/).*
-2. (pl.) [A](/en/post/a/) [characteristic](/en/post/characteristic/) [quality](/en/post/quality/) [or](/en/post/or/) [feature](/en/post/feature/) [of](/en/post/of/) [a](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/), [often](/en/post/often/) implying [size](/en/post/size/) [or](/en/post/or/) [volume](/en/post/volume/): *[Her](/en/post/her/) [bulk](/en/post/bulk/) [and](/en/post/and/) [strength](/en/post/strength/) made [her](/en/post/her/) [stand](/en/post/stand/) [out](/en/post/out/) [on](/en/post/on/) [the](/en/post/the/) [basketball](/en/post/basketball/) [court](/en/post/court/).*
-3. [In](/en/post/in/) [finance](/en/post/finance/), [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) asset traded [in](/en/post/in/) [large](/en/post/large/) quantities, [such](/en/post/such/) [as](/en/post/as/) commodities [or](/en/post/or/) currencies: *Banks [buy](/en/post/buy/) [and](/en/post/and/) [sell](/en/post/sell/) [bulk](/en/post/bulk/) [foreign](/en/post/foreign/) [exchange](/en/post/exchange/) [to](/en/post/to/) [manage](/en/post/manage/) [their](/en/post/their/) portfolios.*
+### [Noun](/post/noun/)
+1. [The](/post/the/) [large](/post/large/) [quantity](/post/quantity/) [or](/post/or/) [amount](/post/amount/) [of](/post/of/) [something](/post/something/), typically [solid](/post/solid/) [or](/post/or/) unbroken [matter](/post/matter/), [when](/post/when/) considered [as](/post/as/) [a](/post/a/) [whole](/post/whole/): *[The](/post/the/) [ship](/post/ship/) was loaded [with](/post/with/) [a](/post/a/) [huge](/post/huge/) [bulk](/post/bulk/) [of](/post/of/) [cargo](/post/cargo/).*
+2. (pl.) [A](/post/a/) [characteristic](/post/characteristic/) [quality](/post/quality/) [or](/post/or/) [feature](/post/feature/) [of](/post/of/) [a](/post/a/) [person](/post/person/) [or](/post/or/) [thing](/post/thing/), [often](/post/often/) implying [size](/post/size/) [or](/post/or/) [volume](/post/volume/): *[Her](/post/her/) [bulk](/post/bulk/) [and](/post/and/) [strength](/post/strength/) made [her](/post/her/) [stand](/post/stand/) [out](/post/out/) [on](/post/on/) [the](/post/the/) [basketball](/post/basketball/) [court](/post/court/).*
+3. [In](/post/in/) [finance](/post/finance/), [a](/post/a/) [type](/post/type/) [of](/post/of/) asset traded [in](/post/in/) [large](/post/large/) quantities, [such](/post/such/) [as](/post/as/) commodities [or](/post/or/) currencies: *Banks [buy](/post/buy/) [and](/post/and/) [sell](/post/sell/) [bulk](/post/bulk/) [foreign](/post/foreign/) [exchange](/post/exchange/) [to](/post/to/) [manage](/post/manage/) [their](/post/their/) portfolios.*
 
-### [Verb](/en/post/verb/)
-1. [To](/en/post/to/) [purchase](/en/post/purchase/) [or](/en/post/or/) [transport](/en/post/transport/) [in](/en/post/in/) [large](/en/post/large/) quantities: *[The](/en/post/the/) [company](/en/post/company/) buys [its](/en/post/its/) [raw](/en/post/raw/) materials [in](/en/post/in/) [bulk](/en/post/bulk/).*
-2. [To](/en/post/to/) [fill](/en/post/fill/) [or](/en/post/or/) [occupy](/en/post/occupy/) [a](/en/post/a/) [large](/en/post/large/) [space](/en/post/space/) [or](/en/post/or/) [volume](/en/post/volume/): *[The](/en/post/the/) [furniture](/en/post/furniture/) bulked [up](/en/post/up/) [the](/en/post/the/) [small](/en/post/small/) [apartment](/en/post/apartment/).*
+### [Verb](/post/verb/)
+1. [To](/post/to/) [purchase](/post/purchase/) [or](/post/or/) [transport](/post/transport/) [in](/post/in/) [large](/post/large/) quantities: *[The](/post/the/) [company](/post/company/) buys [its](/post/its/) [raw](/post/raw/) materials [in](/post/in/) [bulk](/post/bulk/).*
+2. [To](/post/to/) [fill](/post/fill/) [or](/post/or/) [occupy](/post/occupy/) [a](/post/a/) [large](/post/large/) [space](/post/space/) [or](/post/or/) [volume](/post/volume/): *[The](/post/the/) [furniture](/post/furniture/) bulked [up](/post/up/) [the](/post/the/) [small](/post/small/) [apartment](/post/apartment/).*
 
-### [Adjective](/en/post/adjective/)
-1. [Large](/en/post/large/) [in](/en/post/in/) [size](/en/post/size/), [volume](/en/post/volume/), [or](/en/post/or/) [quantity](/en/post/quantity/): *[The](/en/post/the/) [container](/en/post/container/) had [a](/en/post/a/) massive [bulk](/en/post/bulk/).*
-2. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [being](/en/post/being/) [substantial](/en/post/substantial/) [or](/en/post/or/) [substantial](/en/post/substantial/) [in](/en/post/in/) [amount](/en/post/amount/): *[A](/en/post/a/) [bulk](/en/post/bulk/) discount is offered [for](/en/post/for/) purchases [over](/en/post/over/) [a](/en/post/a/) [certain](/en/post/certain/) [amount](/en/post/amount/).*
+### [Adjective](/post/adjective/)
+1. [Large](/post/large/) [in](/post/in/) [size](/post/size/), [volume](/post/volume/), [or](/post/or/) [quantity](/post/quantity/): *[The](/post/the/) [container](/post/container/) had [a](/post/a/) massive [bulk](/post/bulk/).*
+2. [Characteristic](/post/characteristic/) [of](/post/of/) [being](/post/being/) [substantial](/post/substantial/) [or](/post/or/) [substantial](/post/substantial/) [in](/post/in/) [amount](/post/amount/): *[A](/post/a/) [bulk](/post/bulk/) discount is offered [for](/post/for/) purchases [over](/post/over/) [a](/post/a/) [certain](/post/certain/) [amount](/post/amount/).*
 
 ## Phrases
-- "[In](/en/post/in/) [bulk](/en/post/bulk/)" refers [to](/en/post/to/) items sold [without](/en/post/without/) [individual](/en/post/individual/) packaging.
-- "[Bulk](/en/post/bulk/) [cargo](/en/post/cargo/)" denotes [goods](/en/post/goods/) transported [in](/en/post/in/) [large](/en/post/large/) quantities, [usually](/en/post/usually/) unpackaged.
-- "[Bulk](/en/post/bulk/) [carrier](/en/post/carrier/)" is [a](/en/post/a/) [ship](/en/post/ship/) [or](/en/post/or/) [vehicle](/en/post/vehicle/) designed [to](/en/post/to/) [transport](/en/post/transport/) [large](/en/post/large/) amounts [of](/en/post/of/) [dry](/en/post/dry/) [goods](/en/post/goods/).
+- "[In](/post/in/) [bulk](/post/bulk/)" refers [to](/post/to/) items sold [without](/post/without/) [individual](/post/individual/) packaging.
+- "[Bulk](/post/bulk/) [cargo](/post/cargo/)" denotes [goods](/post/goods/) transported [in](/post/in/) [large](/post/large/) quantities, [usually](/post/usually/) unpackaged.
+- "[Bulk](/post/bulk/) [carrier](/post/carrier/)" is [a](/post/a/) [ship](/post/ship/) [or](/post/or/) [vehicle](/post/vehicle/) designed [to](/post/to/) [transport](/post/transport/) [large](/post/large/) amounts [of](/post/of/) [dry](/post/dry/) [goods](/post/goods/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) warehouse stored [a](/en/post/a/) [vast](/en/post/vast/) [bulk](/en/post/bulk/) [of](/en/post/of/) [wheat](/en/post/wheat/) [for](/en/post/for/) [the](/en/post/the/) [winter](/en/post/winter/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [factory](/en/post/factory/) buys [steel](/en/post/steel/) [in](/en/post/in/) [bulk](/en/post/bulk/) [and](/en/post/and/) refines [it](/en/post/it/) [for](/en/post/for/) resale."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [furniture](/en/post/furniture/) was [so](/en/post/so/) bulky [that](/en/post/that/) [it](/en/post/it/) took [several](/en/post/several/) hours [to](/en/post/to/) [move](/en/post/move/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) warehouse stored [a](/post/a/) [vast](/post/vast/) [bulk](/post/bulk/) [of](/post/of/) [wheat](/post/wheat/) [for](/post/for/) [the](/post/the/) [winter](/post/winter/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) [factory](/post/factory/) buys [steel](/post/steel/) [in](/post/in/) [bulk](/post/bulk/) [and](/post/and/) refines [it](/post/it/) [for](/post/for/) resale."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [furniture](/post/furniture/) was [so](/post/so/) bulky [that](/post/that/) [it](/post/it/) took [several](/post/several/) hours [to](/post/to/) [move](/post/move/)."
 
 ## Synonyms
-- [Quantity](/en/post/quantity/)
-- [Amount](/en/post/amount/)
-- [Volume](/en/post/volume/)
-- [Mass](/en/post/mass/)
-- [Size](/en/post/size/)
-- [Excess](/en/post/excess/)
+- [Quantity](/post/quantity/)
+- [Amount](/post/amount/)
+- [Volume](/post/volume/)
+- [Mass](/post/mass/)
+- [Size](/post/size/)
+- [Excess](/post/excess/)
 - Heft
-- Bulkiness ([adjective](/en/post/adjective/))
+- Bulkiness ([adjective](/post/adjective/))

@@ -7,37 +7,37 @@ description = '[ˈvəːtik(ə)l] a.垂直的，竖式的'
 keywords = ['ai words', 'vertical']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈvɜːrtɪkl/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) [vertical](/en/post/vertical/) refers [to](/en/post/to/):
-1. [The](/en/post/the/) [direction](/en/post/direction/) [or](/en/post/or/) [position](/en/post/position/) [straight](/en/post/straight/) [up](/en/post/up/) [from](/en/post/from/) [the](/en/post/the/) [ground](/en/post/ground/) [or](/en/post/or/) [base](/en/post/base/), perpendicular [to](/en/post/to/) [the](/en/post/the/) [horizon](/en/post/horizon/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) building's [exterior](/en/post/exterior/) is covered [in](/en/post/in/) [vertical](/en/post/vertical/) lines."
-2. [The](/en/post/the/) [dimension](/en/post/dimension/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [upright](/en/post/upright/) [or](/en/post/or/) aligned [with](/en/post/with/) [gravity](/en/post/gravity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) plant's [stem](/en/post/stem/) grew vertically towards [the](/en/post/the/) [light](/en/post/light/)."
-3. (Computing) [The](/en/post/the/) [arrangement](/en/post/arrangement/) [of](/en/post/of/) [data](/en/post/data/) [or](/en/post/or/) elements [in](/en/post/in/) columns [rather](/en/post/rather/) [than](/en/post/than/) rows. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [vertical](/en/post/vertical/) spreadsheet organizes [data](/en/post/data/) vertically."
+### [Noun](/post/noun/)
+[A](/post/a/) [vertical](/post/vertical/) refers [to](/post/to/):
+1. [The](/post/the/) [direction](/post/direction/) [or](/post/or/) [position](/post/position/) [straight](/post/straight/) [up](/post/up/) [from](/post/from/) [the](/post/the/) [ground](/post/ground/) [or](/post/or/) [base](/post/base/), perpendicular [to](/post/to/) [the](/post/the/) [horizon](/post/horizon/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) building's [exterior](/post/exterior/) is covered [in](/post/in/) [vertical](/post/vertical/) lines."
+2. [The](/post/the/) [dimension](/post/dimension/) [or](/post/or/) [quality](/post/quality/) [of](/post/of/) [being](/post/being/) [upright](/post/upright/) [or](/post/or/) aligned [with](/post/with/) [gravity](/post/gravity/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) plant's [stem](/post/stem/) grew vertically towards [the](/post/the/) [light](/post/light/)."
+3. (Computing) [The](/post/the/) [arrangement](/post/arrangement/) [of](/post/of/) [data](/post/data/) [or](/post/or/) elements [in](/post/in/) columns [rather](/post/rather/) [than](/post/than/) rows. [For](/post/for/) [example](/post/example/): "[A](/post/a/) [vertical](/post/vertical/) spreadsheet organizes [data](/post/data/) vertically."
 
-### [Adjective](/en/post/adjective/)
-1. Relating [to](/en/post/to/) [or](/en/post/or/) situated [on](/en/post/on/) [a](/en/post/a/) [vertical](/en/post/vertical/) [plane](/en/post/plane/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [vertical](/en/post/vertical/) [wall](/en/post/wall/) supports [the](/en/post/the/) climbing [rope](/en/post/rope/)."
-2. Measured [or](/en/post/or/) expressed [in](/en/post/in/) terms [of](/en/post/of/) [height](/en/post/height/) [or](/en/post/or/) elevation. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [vertical](/en/post/vertical/) [distance](/en/post/distance/) [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) floors."
+### [Adjective](/post/adjective/)
+1. Relating [to](/post/to/) [or](/post/or/) situated [on](/post/on/) [a](/post/a/) [vertical](/post/vertical/) [plane](/post/plane/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [vertical](/post/vertical/) [wall](/post/wall/) supports [the](/post/the/) climbing [rope](/post/rope/)."
+2. Measured [or](/post/or/) expressed [in](/post/in/) terms [of](/post/of/) [height](/post/height/) [or](/post/or/) elevation. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [vertical](/post/vertical/) [distance](/post/distance/) [between](/post/between/) [the](/post/the/) [two](/post/two/) floors."
 
-### [Adverb](/en/post/adverb/)
-[In](/en/post/in/) [a](/en/post/a/) [vertical](/en/post/vertical/) [manner](/en/post/manner/) [or](/en/post/or/) [direction](/en/post/direction/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [bird](/en/post/bird/) took [off](/en/post/off/) vertically [into](/en/post/into/) [the](/en/post/the/) [sky](/en/post/sky/)."
+### [Adverb](/post/adverb/)
+[In](/post/in/) [a](/post/a/) [vertical](/post/vertical/) [manner](/post/manner/) [or](/post/or/) [direction](/post/direction/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [bird](/post/bird/) took [off](/post/off/) vertically [into](/post/into/) [the](/post/the/) [sky](/post/sky/)."
 
 ## Phrases
-- "[Stand](/en/post/stand/) vertically" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [upright](/en/post/upright/) [or](/en/post/or/) aligned [with](/en/post/with/) [gravity](/en/post/gravity/).
-- "[A](/en/post/a/) [vertical](/en/post/vertical/) [garden](/en/post/garden/)" is [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) greenery [arrangement](/en/post/arrangement/) [that](/en/post/that/) grows [upwards](/en/post/upwards/).
-- "[Vertical](/en/post/vertical/) integration" describes [business](/en/post/business/) strategies [where](/en/post/where/) companies [control](/en/post/control/) [multiple](/en/post/multiple/) levels [of](/en/post/of/) [production](/en/post/production/) [or](/en/post/or/) [distribution](/en/post/distribution/).
+- "[Stand](/post/stand/) vertically" [means](/post/means/) [to](/post/to/) [be](/post/be/) [upright](/post/upright/) [or](/post/or/) aligned [with](/post/with/) [gravity](/post/gravity/).
+- "[A](/post/a/) [vertical](/post/vertical/) [garden](/post/garden/)" is [a](/post/a/) [type](/post/type/) [of](/post/of/) greenery [arrangement](/post/arrangement/) [that](/post/that/) grows [upwards](/post/upwards/).
+- "[Vertical](/post/vertical/) integration" describes [business](/post/business/) strategies [where](/post/where/) companies [control](/post/control/) [multiple](/post/multiple/) levels [of](/post/of/) [production](/post/production/) [or](/post/or/) [distribution](/post/distribution/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ladder](/en/post/ladder/) leaned [against](/en/post/against/) [the](/en/post/the/) [vertical](/en/post/vertical/) [brick](/en/post/brick/) [wall](/en/post/wall/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [vertical](/en/post/vertical/) [growth](/en/post/growth/) [of](/en/post/of/) bamboo is [impressive](/en/post/impressive/)."
-- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) climbed [the](/en/post/the/) [vertical](/en/post/vertical/) [cliff](/en/post/cliff/) [with](/en/post/with/) [remarkable](/en/post/remarkable/) agility."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [ladder](/post/ladder/) leaned [against](/post/against/) [the](/post/the/) [vertical](/post/vertical/) [brick](/post/brick/) [wall](/post/wall/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [vertical](/post/vertical/) [growth](/post/growth/) [of](/post/of/) bamboo is [impressive](/post/impressive/)."
+- **[Adverb](/post/adverb/)**: "[She](/post/she/) climbed [the](/post/the/) [vertical](/post/vertical/) [cliff](/post/cliff/) [with](/post/with/) [remarkable](/post/remarkable/) agility."
 
 ## Synonyms
-- [Upward](/en/post/upward/)
+- [Upward](/post/upward/)
 - Perpendicular
-- [Upright](/en/post/upright/)
+- [Upright](/post/upright/)
 - Orthogonal
-- [Parallel](/en/post/parallel/) [to](/en/post/to/) [the](/en/post/the/) [ground](/en/post/ground/)
-- [Straight](/en/post/straight/) [up](/en/post/up/)
+- [Parallel](/post/parallel/) [to](/post/to/) [the](/post/the/) [ground](/post/ground/)
+- [Straight](/post/straight/) [up](/post/up/)

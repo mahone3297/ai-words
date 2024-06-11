@@ -11,23 +11,23 @@ keywords = ['ai words', 'around']
 /əˈraʊnd/
 
 ## 释义
-- **介词**: 表示在周围，环绕。例如: "[The](/post/the/) children played [around](/post/around/) [the](/post/the/) [tree](/post/tree/)."
-- **副词**: 表示大约，周边。例如: "[The](/post/the/) [restaurant](/post/restaurant/) is located [around](/post/around/) [the](/post/the/) [corner](/post/corner/)."
-- **动词**: 围绕，环绕。例如: "[She](/post/she/) danced [around](/post/around/) [the](/post/the/) [fire](/post/fire/)."
+- **介词**: 表示在周围，环绕。例如: "[The](/zh/post/the/) children played [around](/zh/post/around/) [the](/zh/post/the/) [tree](/zh/post/tree/)."
+- **副词**: 表示大约，周边。例如: "[The](/zh/post/the/) [restaurant](/zh/post/restaurant/) is located [around](/zh/post/around/) [the](/zh/post/the/) [corner](/zh/post/corner/)."
+- **动词**: 围绕，环绕。例如: "[She](/zh/post/she/) danced [around](/zh/post/around/) [the](/zh/post/the/) [fire](/zh/post/fire/)."
 
 ## 短语
-- "[around](/post/around/) [the](/post/the/) [clock](/post/clock/)" 意为全天候，不间断。例如: "[They](/post/they/) worked [around](/post/around/) [the](/post/the/) [clock](/post/clock/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [project](/post/project/)."
-- "[around](/post/around/) [here](/post/here/)" 指的是附近，这个区域。例如: "Is [there](/post/there/) [a](/post/a/) [good](/post/good/) bakery [around](/post/around/) [here](/post/here/)?"
-- "[get](/post/get/) [around](/post/around/)" 意为避开，或者四处走动。例如: "[She](/post/she/) managed [to](/post/to/) [get](/post/get/) [around](/post/around/) [despite](/post/despite/) [her](/post/her/) [injury](/post/injury/)."
+- "[around](/zh/post/around/) [the](/zh/post/the/) [clock](/zh/post/clock/)" 意为全天候，不间断。例如: "[They](/zh/post/they/) worked [around](/zh/post/around/) [the](/zh/post/the/) [clock](/zh/post/clock/) [to](/zh/post/to/) [finish](/zh/post/finish/) [the](/zh/post/the/) [project](/zh/post/project/)."
+- "[around](/zh/post/around/) [here](/zh/post/here/)" 指的是附近，这个区域。例如: "Is [there](/zh/post/there/) [a](/zh/post/a/) [good](/zh/post/good/) bakery [around](/zh/post/around/) [here](/zh/post/here/)?"
+- "[get](/zh/post/get/) [around](/zh/post/around/)" 意为避开，或者四处走动。例如: "[She](/zh/post/she/) managed [to](/zh/post/to/) [get](/zh/post/get/) [around](/zh/post/around/) [despite](/zh/post/despite/) [her](/zh/post/her/) [injury](/zh/post/injury/)."
 
 ## 例句
-- 介词: "[There](/post/there/) were flowers planted [around](/post/around/) [the](/post/the/) [fountain](/post/fountain/)."
-- 副词: "[The](/post/the/) [meeting](/post/meeting/) [should](/post/should/) [start](/post/start/) [around](/post/around/) [noon](/post/noon/)."
-- 动词: "[The](/post/the/) [cat](/post/cat/) circled [around](/post/around/) [the](/post/the/) [bird](/post/bird/), [ready](/post/ready/) [to](/post/to/) pounce."
+- 介词: "[There](/zh/post/there/) were flowers planted [around](/zh/post/around/) [the](/zh/post/the/) [fountain](/zh/post/fountain/)."
+- 副词: "[The](/zh/post/the/) [meeting](/zh/post/meeting/) [should](/zh/post/should/) [start](/zh/post/start/) [around](/zh/post/around/) [noon](/zh/post/noon/)."
+- 动词: "[The](/zh/post/the/) [cat](/zh/post/cat/) circled [around](/zh/post/around/) [the](/zh/post/the/) [bird](/zh/post/bird/), [ready](/zh/post/ready/) [to](/zh/post/to/) pounce."
 
 ## 同义词
-- [about](/post/about/)
+- [about](/zh/post/about/)
 - circa
-- [approximately](/post/approximately/)
-- [near](/post/near/)
+- [approximately](/zh/post/approximately/)
+- [near](/zh/post/near/)
 - surrounding

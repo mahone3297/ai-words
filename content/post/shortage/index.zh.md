@@ -11,20 +11,20 @@ keywords = ['ai words', 'shortage']
 /ˈʃɔːrtɪdʒ/
 
 ## 释义
-- **名词**: 缺乏，不足；短缺。例如: "[There](/post/there/) is [a](/post/a/) [shortage](/post/shortage/) [of](/post/of/) [skilled](/post/skilled/) workers [in](/post/in/) [this](/post/this/) [industry](/post/industry/)."
-- **形容词**: 不足的，短缺的。例如: "[The](/post/the/) [company](/post/company/) is experiencing [shortage](/post/shortage/) [of](/post/of/) [raw](/post/raw/) materials."
+- **名词**: 缺乏，不足；短缺。例如: "[There](/zh/post/there/) is [a](/zh/post/a/) [shortage](/zh/post/shortage/) [of](/zh/post/of/) [skilled](/zh/post/skilled/) workers [in](/zh/post/in/) [this](/zh/post/this/) [industry](/zh/post/industry/)."
+- **形容词**: 不足的，短缺的。例如: "[The](/zh/post/the/) [company](/zh/post/company/) is experiencing [shortage](/zh/post/shortage/) [of](/zh/post/of/) [raw](/zh/post/raw/) materials."
 
 ## 短语
-- "[shortage](/post/shortage/) [of](/post/of/)" 表示某种东西的缺乏或不足。例如: "There's [a](/post/a/) [shortage](/post/shortage/) [of](/post/of/) [food](/post/food/) [in](/post/in/) [the](/post/the/) disaster-stricken [area](/post/area/)."
-- "[make](/post/make/) [up](/post/up/) [for](/post/for/) [a](/post/a/) [shortage](/post/shortage/)" 意味着弥补不足。例如: "They're working [overtime](/post/overtime/) [to](/post/to/) [make](/post/make/) [up](/post/up/) [for](/post/for/) [the](/post/the/) [shortage](/post/shortage/)."
+- "[shortage](/zh/post/shortage/) [of](/zh/post/of/)" 表示某种东西的缺乏或不足。例如: "There's [a](/zh/post/a/) [shortage](/zh/post/shortage/) [of](/zh/post/of/) [food](/zh/post/food/) [in](/zh/post/in/) [the](/zh/post/the/) disaster-stricken [area](/zh/post/area/)."
+- "[make](/zh/post/make/) [up](/zh/post/up/) [for](/zh/post/for/) [a](/zh/post/a/) [shortage](/zh/post/shortage/)" 意味着弥补不足。例如: "They're working [overtime](/zh/post/overtime/) [to](/zh/post/to/) [make](/zh/post/make/) [up](/zh/post/up/) [for](/zh/post/for/) [the](/zh/post/the/) [shortage](/zh/post/shortage/)."
 
 ## 例句
-- 名词: "[The](/post/the/) [drought](/post/drought/) has caused [a](/post/a/) [severe](/post/severe/) [water](/post/water/) [shortage](/post/shortage/) [in](/post/in/) [the](/post/the/) [region](/post/region/)."
-- 形容词: "[The](/post/the/) [store](/post/store/) had [a](/post/a/) [shortage](/post/shortage/) [of](/post/of/) [toilet](/post/toilet/) [paper](/post/paper/) [during](/post/during/) [the](/post/the/) pandemic."
+- 名词: "[The](/zh/post/the/) [drought](/zh/post/drought/) has caused [a](/zh/post/a/) [severe](/zh/post/severe/) [water](/zh/post/water/) [shortage](/zh/post/shortage/) [in](/zh/post/in/) [the](/zh/post/the/) [region](/zh/post/region/)."
+- 形容词: "[The](/zh/post/the/) [store](/zh/post/store/) had [a](/zh/post/a/) [shortage](/zh/post/shortage/) [of](/zh/post/of/) [toilet](/zh/post/toilet/) [paper](/zh/post/paper/) [during](/zh/post/during/) [the](/zh/post/the/) pandemic."
 
 ## 同义词
-- [Lack](/post/lack/)
+- [Lack](/zh/post/lack/)
 - Deficiency
 - Scarcity
-- [Short](/post/short/) [supply](/post/supply/)
+- [Short](/zh/post/short/) [supply](/zh/post/supply/)
 - Inadequacy

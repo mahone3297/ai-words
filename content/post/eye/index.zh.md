@@ -12,27 +12,27 @@ keywords = ['ai words', 'eye']
 
 ## 释义
 - **名词**:
-   - 人或动物的视觉器官。例如: "[She](/post/she/) has [beautiful](/post/beautiful/) [blue](/post/blue/) eyes."
-   - 视线，视角。例如: "[Keep](/post/keep/) an [eye](/post/eye/) [on](/post/on/) [the](/post/the/) [baby](/post/baby/) [while](/post/while/) I'm cooking."
-   - 意见，观点。例如: "[In](/post/in/) [my](/post/my/) [eye](/post/eye/), he's [the](/post/the/) [best](/post/best/) [candidate](/post/candidate/) [for](/post/for/) [the](/post/the/) [job](/post/job/)."
+   - 人或动物的视觉器官。例如: "[She](/zh/post/she/) has [beautiful](/zh/post/beautiful/) [blue](/zh/post/blue/) eyes."
+   - 视线，视角。例如: "[Keep](/zh/post/keep/) an [eye](/zh/post/eye/) [on](/zh/post/on/) [the](/zh/post/the/) [baby](/zh/post/baby/) [while](/zh/post/while/) I'm cooking."
+   - 意见，观点。例如: "[In](/zh/post/in/) [my](/zh/post/my/) [eye](/zh/post/eye/), he's [the](/zh/post/the/) [best](/zh/post/best/) [candidate](/zh/post/candidate/) [for](/zh/post/for/) [the](/zh/post/the/) [job](/zh/post/job/)."
 
 - **动词**:
-   - 注意，注视。例如: "[The](/post/the/) [teacher](/post/teacher/) eyed [the](/post/the/) students suspiciously."
-   - 观察，审视。例如: "[He](/post/he/) eyed [the](/post/the/) [painting](/post/painting/) carefully [before](/post/before/) buying [it](/post/it/)."
+   - 注意，注视。例如: "[The](/zh/post/the/) [teacher](/zh/post/teacher/) eyed [the](/zh/post/the/) students suspiciously."
+   - 观察，审视。例如: "[He](/zh/post/he/) eyed [the](/zh/post/the/) [painting](/zh/post/painting/) carefully [before](/zh/post/before/) buying [it](/zh/post/it/)."
 
 ## 短语
-- "[Eye](/post/eye/) [contact](/post/contact/)" 目光接触，眼神交流。
-- "[All](/post/all/) eyes [on](/post/on/) [something](/post/something/)/[someone](/post/someone/)" 所有注意力集中在某物或某人身上。
-- "[Under](/post/under/) [the](/post/the/) watchful [eye](/post/eye/) [of](/post/of/) [someone](/post/someone/)" 在某人的密切监视下。
+- "[Eye](/zh/post/eye/) [contact](/zh/post/contact/)" 目光接触，眼神交流。
+- "[All](/zh/post/all/) eyes [on](/zh/post/on/) [something](/zh/post/something/)/[someone](/zh/post/someone/)" 所有注意力集中在某物或某人身上。
+- "[Under](/zh/post/under/) [the](/zh/post/the/) watchful [eye](/zh/post/eye/) [of](/zh/post/of/) [someone](/zh/post/someone/)" 在某人的密切监视下。
 
 ## 例句
-- 名词: "[She](/post/she/) caught [him](/post/him/) staring [into](/post/into/) [her](/post/her/) eyes."
-- 动词: "[The](/post/the/) [security](/post/security/) [guard](/post/guard/) eyed [the](/post/the/) [new](/post/new/) comer cautiously."
-- 感叹词（非正式用法）: "[Eye](/post/eye/), [oh](/post/oh/) [eye](/post/eye/), [what](/post/what/) [a](/post/a/) [sight](/post/sight/)!"
+- 名词: "[She](/zh/post/she/) caught [him](/zh/post/him/) staring [into](/zh/post/into/) [her](/zh/post/her/) eyes."
+- 动词: "[The](/zh/post/the/) [security](/zh/post/security/) [guard](/zh/post/guard/) eyed [the](/zh/post/the/) [new](/zh/post/new/) comer cautiously."
+- 感叹词（非正式用法）: "[Eye](/zh/post/eye/), [oh](/zh/post/oh/) [eye](/zh/post/eye/), [what](/zh/post/what/) [a](/zh/post/a/) [sight](/zh/post/sight/)!"
 
 ## 同义词
-- [Sight](/post/sight/)
-- [Vision](/post/vision/)
-- [Gaze](/post/gaze/)
-- [Look](/post/look/)
-- [Peep](/post/peep/)
+- [Sight](/zh/post/sight/)
+- [Vision](/zh/post/vision/)
+- [Gaze](/zh/post/gaze/)
+- [Look](/zh/post/look/)
+- [Peep](/zh/post/peep/)

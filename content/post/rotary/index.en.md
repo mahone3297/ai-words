@@ -7,40 +7,40 @@ description = '[ˈrəutəri] a.旋转的，转动的'
 keywords = ['ai words', 'rotary']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈrɒtəri/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-[A](/en/post/a/) **[rotary](/en/post/rotary/)** refers [to](/en/post/to/):
-1. An [engine](/en/post/engine/) [or](/en/post/or/) [machine](/en/post/machine/) [with](/en/post/with/) [a](/en/post/a/) rotating mechanism, [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) converts [mechanical](/en/post/mechanical/) [energy](/en/post/energy/) [into](/en/post/into/) [work](/en/post/work/) [through](/en/post/through/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [a](/en/post/a/) crankshaft [or](/en/post/or/) gears.
-2. [A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [system](/en/post/system/) using rotating elements, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) printing [press](/en/post/press/) [or](/en/post/or/) [a](/en/post/a/) [telephone](/en/post/telephone/) [exchange](/en/post/exchange/).
-3. [A](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [club](/en/post/club/) [meeting](/en/post/meeting/) [in](/en/post/in/) [rotation](/en/post/rotation/), [where](/en/post/where/) members [take](/en/post/take/) turns hosting events [or](/en/post/or/) participating.
-4. (Informal) [A](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) [dance](/en/post/dance/), [particularly](/en/post/particularly/) [a](/en/post/a/) ballroom [dance](/en/post/dance/) characterized [by](/en/post/by/) [turning](/en/post/turning/) movements.
+### [Noun](/post/noun/)
+[A](/post/a/) **[rotary](/post/rotary/)** refers [to](/post/to/):
+1. An [engine](/post/engine/) [or](/post/or/) [machine](/post/machine/) [with](/post/with/) [a](/post/a/) rotating mechanism, [especially](/post/especially/) [one](/post/one/) [that](/post/that/) converts [mechanical](/post/mechanical/) [energy](/post/energy/) [into](/post/into/) [work](/post/work/) [through](/post/through/) [the](/post/the/) [use](/post/use/) [of](/post/of/) [a](/post/a/) crankshaft [or](/post/or/) gears.
+2. [A](/post/a/) [device](/post/device/) [or](/post/or/) [system](/post/system/) using rotating elements, [such](/post/such/) [as](/post/as/) [a](/post/a/) printing [press](/post/press/) [or](/post/or/) [a](/post/a/) [telephone](/post/telephone/) [exchange](/post/exchange/).
+3. [A](/post/a/) [group](/post/group/) [or](/post/or/) [club](/post/club/) [meeting](/post/meeting/) [in](/post/in/) [rotation](/post/rotation/), [where](/post/where/) members [take](/post/take/) turns hosting events [or](/post/or/) participating.
+4. (Informal) [A](/post/a/) [type](/post/type/) [of](/post/of/) [dance](/post/dance/), [particularly](/post/particularly/) [a](/post/a/) ballroom [dance](/post/dance/) characterized [by](/post/by/) [turning](/post/turning/) movements.
 
-### [Verb](/en/post/verb/)
-[To](/en/post/to/) **[rotate](/en/post/rotate/)** [something](/en/post/something/) is [to](/en/post/to/) [cause](/en/post/cause/) [it](/en/post/it/) [to](/en/post/to/) [turn](/en/post/turn/) [around](/en/post/around/) [a](/en/post/a/) [central](/en/post/central/) [axis](/en/post/axis/), [often](/en/post/often/) [repeatedly](/en/post/repeatedly/).
+### [Verb](/post/verb/)
+[To](/post/to/) **[rotate](/post/rotate/)** [something](/post/something/) is [to](/post/to/) [cause](/post/cause/) [it](/post/it/) [to](/post/to/) [turn](/post/turn/) [around](/post/around/) [a](/post/a/) [central](/post/central/) [axis](/post/axis/), [often](/post/often/) [repeatedly](/post/repeatedly/).
 
-### [Adjective](/en/post/adjective/)
-- Describing [something](/en/post/something/) [that](/en/post/that/) moves [in](/en/post/in/) [a](/en/post/a/) [circular](/en/post/circular/) [or](/en/post/or/) revolving [motion](/en/post/motion/).
-- Referring [to](/en/post/to/) [a](/en/post/a/) [system](/en/post/system/) [or](/en/post/or/) [group](/en/post/group/) [that](/en/post/that/) operates [on](/en/post/on/) [a](/en/post/a/) rotating [basis](/en/post/basis/).
+### [Adjective](/post/adjective/)
+- Describing [something](/post/something/) [that](/post/that/) moves [in](/post/in/) [a](/post/a/) [circular](/post/circular/) [or](/post/or/) revolving [motion](/post/motion/).
+- Referring [to](/post/to/) [a](/post/a/) [system](/post/system/) [or](/post/or/) [group](/post/group/) [that](/post/that/) operates [on](/post/on/) [a](/post/a/) rotating [basis](/post/basis/).
 
 ## Phrases
-- "[Rotate](/en/post/rotate/) machinery" [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [machine](/en/post/machine/) [turn](/en/post/turn/).
-- "[Rotary](/en/post/rotary/) [engine](/en/post/engine/)" designates [a](/en/post/a/) [specific](/en/post/specific/) [type](/en/post/type/) [of](/en/post/of/) [internal](/en/post/internal/) combustion [engine](/en/post/engine/).
-- "[Participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [rotary](/en/post/rotary/) [club](/en/post/club/)" implies involvement [in](/en/post/in/) [a](/en/post/a/) [community](/en/post/community/) [service](/en/post/service/) [organization](/en/post/organization/).
+- "[Rotate](/post/rotate/) machinery" [means](/post/means/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [machine](/post/machine/) [turn](/post/turn/).
+- "[Rotary](/post/rotary/) [engine](/post/engine/)" designates [a](/post/a/) [specific](/post/specific/) [type](/post/type/) [of](/post/of/) [internal](/post/internal/) combustion [engine](/post/engine/).
+- "[Participate](/post/participate/) [in](/post/in/) [a](/post/a/) [rotary](/post/rotary/) [club](/post/club/)" implies involvement [in](/post/in/) [a](/post/a/) [community](/post/community/) [service](/post/service/) [organization](/post/organization/).
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [rotary](/en/post/rotary/) [phone](/en/post/phone/) had [a](/en/post/a/) distinctive [dial](/en/post/dial/) [tone](/en/post/tone/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) workers were tasked [with](/en/post/with/) rotating [the](/en/post/the/) [heavy](/en/post/heavy/) machinery."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [building](/en/post/building/) has [a](/en/post/a/) [modern](/en/post/modern/), [rotary](/en/post/rotary/) [staircase](/en/post/staircase/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [old](/post/old/) [rotary](/post/rotary/) [phone](/post/phone/) had [a](/post/a/) distinctive [dial](/post/dial/) [tone](/post/tone/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) workers were tasked [with](/post/with/) rotating [the](/post/the/) [heavy](/post/heavy/) machinery."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [new](/post/new/) [building](/post/building/) has [a](/post/a/) [modern](/post/modern/), [rotary](/post/rotary/) [staircase](/post/staircase/)."
 
 ## Synonyms
 - Revolving
 - Rotating
 - Oscillatory
 - Cyclical
-- Sequential ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) meetings [or](/en/post/or/) tasks)
+- Sequential ([in](/post/in/) [the](/post/the/) context [of](/post/of/) meetings [or](/post/or/) tasks)
 
 ## Antonyms
 - Stationary

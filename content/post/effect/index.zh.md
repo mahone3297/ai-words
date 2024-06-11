@@ -11,20 +11,20 @@ keywords = ['ai words', 'effect']
 /ɪˈfekt/
 
 ## 释义
-- **名词**: 结果，影响。例如: "[The](/post/the/) [medicine](/post/medicine/) had [a](/post/a/) [positive](/post/positive/) [effect](/post/effect/) [on](/post/on/) [his](/post/his/) [condition](/post/condition/)."
-- **动词**: 实施，实现。例如: "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) was designed [to](/post/to/) [effect](/post/effect/) [change](/post/change/) [in](/post/in/) [the](/post/the/) [organization](/post/organization/)."
+- **名词**: 结果，影响。例如: "[The](/zh/post/the/) [medicine](/zh/post/medicine/) had [a](/zh/post/a/) [positive](/zh/post/positive/) [effect](/zh/post/effect/) [on](/zh/post/on/) [his](/zh/post/his/) [condition](/zh/post/condition/)."
+- **动词**: 实施，实现。例如: "[The](/zh/post/the/) [new](/zh/post/new/) [policy](/zh/post/policy/) was designed [to](/zh/post/to/) [effect](/zh/post/effect/) [change](/zh/post/change/) [in](/zh/post/in/) [the](/zh/post/the/) [organization](/zh/post/organization/)."
 
 ## 短语
-- "[have](/post/have/) an [effect](/post/effect/) [on](/post/on/) [something](/post/something/)" 意味着对某物产生影响。
-- "[bring](/post/bring/) [about](/post/about/) an [effect](/post/effect/)" 意为促成或导致某种结果。
+- "[have](/zh/post/have/) an [effect](/zh/post/effect/) [on](/zh/post/on/) [something](/zh/post/something/)" 意味着对某物产生影响。
+- "[bring](/zh/post/bring/) [about](/zh/post/about/) an [effect](/zh/post/effect/)" 意为促成或导致某种结果。
 
 ## 例句
-- 名词: "[The](/post/the/) project's [success](/post/success/) [will](/post/will/) [depend](/post/depend/) [on](/post/on/) [its](/post/its/) [effect](/post/effect/) [on](/post/on/) [the](/post/the/) [local](/post/local/) [economy](/post/economy/)."
-- 动词: "[The](/post/the/) [government](/post/government/) aims [to](/post/to/) [effect](/post/effect/) reforms [in](/post/in/) [the](/post/the/) [education](/post/education/) sector."
+- 名词: "[The](/zh/post/the/) project's [success](/zh/post/success/) [will](/zh/post/will/) [depend](/zh/post/depend/) [on](/zh/post/on/) [its](/zh/post/its/) [effect](/zh/post/effect/) [on](/zh/post/on/) [the](/zh/post/the/) [local](/zh/post/local/) [economy](/zh/post/economy/)."
+- 动词: "[The](/zh/post/the/) [government](/zh/post/government/) aims [to](/zh/post/to/) [effect](/zh/post/effect/) reforms [in](/zh/post/in/) [the](/zh/post/the/) [education](/zh/post/education/) sector."
 
 ## 同义词
-- [Result](/post/result/)
-- [Impact](/post/impact/)
-- [Consequence](/post/consequence/)
-- [Outcome](/post/outcome/)
-- [Achievement](/post/achievement/) (当作为动词时)
+- [Result](/zh/post/result/)
+- [Impact](/zh/post/impact/)
+- [Consequence](/zh/post/consequence/)
+- [Outcome](/zh/post/outcome/)
+- [Achievement](/zh/post/achievement/) (当作为动词时)

@@ -12,21 +12,21 @@ keywords = ['ai words', 'participate']
 
 ## 释义
 - **动词**:
-1. 参加；参与。例如: "[She](/post/she/) participates [in](/post/in/) [various](/post/various/) sports activities [after](/post/after/) [school](/post/school/)."
-2. 共享；分担。例如: "[They](/post/they/) [participate](/post/participate/) equally [in](/post/in/) [the](/post/the/) profits [of](/post/of/) [the](/post/the/) [company](/post/company/)."
+1. 参加；参与。例如: "[She](/zh/post/she/) participates [in](/zh/post/in/) [various](/zh/post/various/) sports activities [after](/zh/post/after/) [school](/zh/post/school/)."
+2. 共享；分担。例如: "[They](/zh/post/they/) [participate](/zh/post/participate/) equally [in](/zh/post/in/) [the](/zh/post/the/) profits [of](/zh/post/of/) [the](/zh/post/the/) [company](/zh/post/company/)."
 
 ## 短语
-- "[Participate](/post/participate/) [in](/post/in/) [something](/post/something/)" 意味着加入或成为某活动的一部分。例如: "I [will](/post/will/) [participate](/post/participate/) [in](/post/in/) [the](/post/the/) [annual](/post/annual/) [charity](/post/charity/) [run](/post/run/)."
-- "[Participate](/post/participate/) actively" 表示积极参与。例如: "[All](/post/all/) students are encouraged [to](/post/to/) [participate](/post/participate/) actively [in](/post/in/) [class](/post/class/) discussions."
+- "[Participate](/zh/post/participate/) [in](/zh/post/in/) [something](/zh/post/something/)" 意味着加入或成为某活动的一部分。例如: "I [will](/zh/post/will/) [participate](/zh/post/participate/) [in](/zh/post/in/) [the](/zh/post/the/) [annual](/zh/post/annual/) [charity](/zh/post/charity/) [run](/zh/post/run/)."
+- "[Participate](/zh/post/participate/) actively" 表示积极参与。例如: "[All](/zh/post/all/) students are encouraged [to](/zh/post/to/) [participate](/zh/post/participate/) actively [in](/zh/post/in/) [class](/zh/post/class/) discussions."
 
 ## 例句
-- "[He](/post/he/) participates [in](/post/in/) [weekly](/post/weekly/) [chess](/post/chess/) tournaments [to](/post/to/) [improve](/post/improve/) [his](/post/his/) skills."
-- "[Everyone](/post/everyone/) is [welcome](/post/welcome/) [to](/post/to/) [participate](/post/participate/) [in](/post/in/) [the](/post/the/) [community](/post/community/) [service](/post/service/) [project](/post/project/)."
-- "[To](/post/to/) [learn](/post/learn/), [you](/post/you/) [must](/post/must/) [participate](/post/participate/) [and](/post/and/) [engage](/post/engage/) [with](/post/with/) [the](/post/the/) [material](/post/material/)."
+- "[He](/zh/post/he/) participates [in](/zh/post/in/) [weekly](/zh/post/weekly/) [chess](/zh/post/chess/) tournaments [to](/zh/post/to/) [improve](/zh/post/improve/) [his](/zh/post/his/) skills."
+- "[Everyone](/zh/post/everyone/) is [welcome](/zh/post/welcome/) [to](/zh/post/to/) [participate](/zh/post/participate/) [in](/zh/post/in/) [the](/zh/post/the/) [community](/zh/post/community/) [service](/zh/post/service/) [project](/zh/post/project/)."
+- "[To](/zh/post/to/) [learn](/zh/post/learn/), [you](/zh/post/you/) [must](/zh/post/must/) [participate](/zh/post/participate/) [and](/zh/post/and/) [engage](/zh/post/engage/) [with](/zh/post/with/) [the](/zh/post/the/) [material](/zh/post/material/)."
 
 ## 同义词
-- [Join](/post/join/)
-- [Engage](/post/engage/)
-- [Take](/post/take/) [part](/post/part/)
-- [Enter](/post/enter/)
-- [Contribute](/post/contribute/)
+- [Join](/zh/post/join/)
+- [Engage](/zh/post/engage/)
+- [Take](/zh/post/take/) [part](/zh/post/part/)
+- [Enter](/zh/post/enter/)
+- [Contribute](/zh/post/contribute/)

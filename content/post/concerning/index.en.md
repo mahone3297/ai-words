@@ -7,32 +7,32 @@ description = '[kənˈsəːniŋ] prep.关于'
 keywords = ['ai words', 'concerning']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /kənˈkɜːrnɪŋ/
 
 ## Definitions
-- **[Adjective](/en/post/adjective/)**: Showing [or](/en/post/or/) relating [to](/en/post/to/) [concern](/en/post/concern/) [or](/en/post/or/) [interest](/en/post/interest/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [letter](/en/post/letter/) expressed [deep](/en/post/deep/) [concern](/en/post/concern/) [for](/en/post/for/) [the](/en/post/the/) [environment](/en/post/environment/)."
-- **[Preposition](/en/post/preposition/)**: [About](/en/post/about/) [or](/en/post/or/) [with](/en/post/with/) [regard](/en/post/regard/) [to](/en/post/to/). [For](/en/post/for/) [example](/en/post/example/): "I'm concerned [about](/en/post/about/) [the](/en/post/the/) upcoming [exam](/en/post/exam/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [or](/en/post/or/) [show](/en/post/show/) [worry](/en/post/worry/) [or](/en/post/or/) [interest](/en/post/interest/) [in](/en/post/in/) ([a](/en/post/a/) [particular](/en/post/particular/) [issue](/en/post/issue/)). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was deeply concerned [about](/en/post/about/) [her](/en/post/her/) child's [health](/en/post/health/)."
+- **[Adjective](/post/adjective/)**: Showing [or](/post/or/) relating [to](/post/to/) [concern](/post/concern/) [or](/post/or/) [interest](/post/interest/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [letter](/post/letter/) expressed [deep](/post/deep/) [concern](/post/concern/) [for](/post/for/) [the](/post/the/) [environment](/post/environment/)."
+- **[Preposition](/post/preposition/)**: [About](/post/about/) [or](/post/or/) [with](/post/with/) [regard](/post/regard/) [to](/post/to/). [For](/post/for/) [example](/post/example/): "I'm concerned [about](/post/about/) [the](/post/the/) upcoming [exam](/post/exam/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [be](/post/be/) [or](/post/or/) [show](/post/show/) [worry](/post/worry/) [or](/post/or/) [interest](/post/interest/) [in](/post/in/) ([a](/post/a/) [particular](/post/particular/) [issue](/post/issue/)). [For](/post/for/) [example](/post/example/): "[She](/post/she/) was deeply concerned [about](/post/about/) [her](/post/her/) child's [health](/post/health/)."
 
 ## Phrases
-- "[Be](/en/post/be/) concerned [with](/en/post/with/)" indicates [focus](/en/post/focus/) [on](/en/post/on/) [or](/en/post/or/) [interest](/en/post/interest/) [in](/en/post/in/) [something](/en/post/something/).
-- "[Concerning](/en/post/concerning/) matters" refers [to](/en/post/to/) topics [or](/en/post/or/) issues [that](/en/post/that/) are [relevant](/en/post/relevant/) [or](/en/post/or/) [worthy](/en/post/worthy/) [of](/en/post/of/) [attention](/en/post/attention/).
-- "[Show](/en/post/show/) [concern](/en/post/concern/) [for](/en/post/for/)" implies caring [or](/en/post/or/) worrying [about](/en/post/about/) [someone](/en/post/someone/) else's well-being.
+- "[Be](/post/be/) concerned [with](/post/with/)" indicates [focus](/post/focus/) [on](/post/on/) [or](/post/or/) [interest](/post/interest/) [in](/post/in/) [something](/post/something/).
+- "[Concerning](/post/concerning/) matters" refers [to](/post/to/) topics [or](/post/or/) issues [that](/post/that/) are [relevant](/post/relevant/) [or](/post/or/) [worthy](/post/worthy/) [of](/post/of/) [attention](/post/attention/).
+- "[Show](/post/show/) [concern](/post/concern/) [for](/post/for/)" implies caring [or](/post/or/) worrying [about](/post/about/) [someone](/post/someone/) else's well-being.
 
-## [Example](/en/post/example/) Sentences
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) boss's email was filled [with](/en/post/with/) concerns [regarding](/en/post/regarding/) [the](/en/post/the/) [project](/en/post/project/) deadline."
-- **[Preposition](/en/post/preposition/)**: "[We](/en/post/we/) discussed [several](/en/post/several/) issues [concerning](/en/post/concerning/) [the](/en/post/the/) company's [future](/en/post/future/)."
-- **[Verb](/en/post/verb/)**: "Parents [should](/en/post/should/) [always](/en/post/always/) [show](/en/post/show/) [concern](/en/post/concern/) [for](/en/post/for/) [their](/en/post/their/) children's [education](/en/post/education/)."
+## [Example](/post/example/) Sentences
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) boss's email was filled [with](/post/with/) concerns [regarding](/post/regarding/) [the](/post/the/) [project](/post/project/) deadline."
+- **[Preposition](/post/preposition/)**: "[We](/post/we/) discussed [several](/post/several/) issues [concerning](/post/concerning/) [the](/post/the/) company's [future](/post/future/)."
+- **[Verb](/post/verb/)**: "Parents [should](/post/should/) [always](/post/always/) [show](/post/show/) [concern](/post/concern/) [for](/post/for/) [their](/post/their/) children's [education](/post/education/)."
 
 ## Synonyms
 - Worried
 - Interested
--[Careful](/en/post/careful/)
-- [Thoughtful](/en/post/thoughtful/)
+-[Careful](/post/careful/)
+- [Thoughtful](/post/thoughtful/)
 - Mindful
 
 ## Antonyms
 - Unconcerned
 - Disinterested
-- [Indifferent](/en/post/indifferent/)
+- [Indifferent](/post/indifferent/)

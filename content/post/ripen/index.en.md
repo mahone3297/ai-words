@@ -7,36 +7,36 @@ description = '[ˈraipən] vt.使熟 vi.成熟'
 keywords = ['ai words', 'ripen']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /rɪˈpɛn/
 
 ## Definitions
-### [Noun](/en/post/noun/)
-- **[Ripe](/en/post/ripe/) [fruit](/en/post/fruit/)**: [A](/en/post/a/) [fruit](/en/post/fruit/) [that](/en/post/that/) has fully matured [and](/en/post/and/) is [ready](/en/post/ready/) [to](/en/post/to/) [be](/en/post/be/) picked [or](/en/post/or/) eaten. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was filled [with](/en/post/with/) [ripe](/en/post/ripe/) tomatoes."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [become](/en/post/become/) fully developed [or](/en/post/or/) [mature](/en/post/mature/), [especially](/en/post/especially/) [in](/en/post/in/) [regard](/en/post/regard/) [to](/en/post/to/) [a](/en/post/a/) [fruit](/en/post/fruit/) [or](/en/post/or/) [vegetable](/en/post/vegetable/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) apples [on](/en/post/on/) [the](/en/post/the/) [tree](/en/post/tree/) are starting [to](/en/post/to/) [ripen](/en/post/ripen/)."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) has reached [its](/en/post/its/) [peak](/en/post/peak/) [in](/en/post/in/) maturity [or](/en/post/or/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [writing](/en/post/writing/) has ripened [over](/en/post/over/) [the](/en/post/the/) years."
+### [Noun](/post/noun/)
+- **[Ripe](/post/ripe/) [fruit](/post/fruit/)**: [A](/post/a/) [fruit](/post/fruit/) [that](/post/that/) has fully matured [and](/post/and/) is [ready](/post/ready/) [to](/post/to/) [be](/post/be/) picked [or](/post/or/) eaten. [For](/post/for/) [example](/post/example/): "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) [ripe](/post/ripe/) tomatoes."
+- **[Verb](/post/verb/)**: [To](/post/to/) [become](/post/become/) fully developed [or](/post/or/) [mature](/post/mature/), [especially](/post/especially/) [in](/post/in/) [regard](/post/regard/) [to](/post/to/) [a](/post/a/) [fruit](/post/fruit/) [or](/post/or/) [vegetable](/post/vegetable/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) apples [on](/post/on/) [the](/post/the/) [tree](/post/tree/) are starting [to](/post/to/) [ripen](/post/ripen/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [something](/post/something/) [that](/post/that/) has reached [its](/post/its/) [peak](/post/peak/) [in](/post/in/) maturity [or](/post/or/) [quality](/post/quality/). [For](/post/for/) [example](/post/example/): "[Her](/post/her/) [writing](/post/writing/) has ripened [over](/post/over/) [the](/post/the/) years."
 
 ## Phrases
-- "[Fruit](/en/post/fruit/) ripens [in](/en/post/in/) [the](/en/post/the/) [sun](/en/post/sun/)."
-- "Ripening [process](/en/post/process/)"
-- "[Ripe](/en/post/ripe/) [for](/en/post/for/) [harvest](/en/post/harvest/)"
+- "[Fruit](/post/fruit/) ripens [in](/post/in/) [the](/post/the/) [sun](/post/sun/)."
+- "Ripening [process](/post/process/)"
+- "[Ripe](/post/ripe/) [for](/post/for/) [harvest](/post/harvest/)"
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [farmer](/en/post/farmer/) harvested [the](/en/post/the/) [perfectly](/en/post/perfectly/) [ripe](/en/post/ripe/) [corn](/en/post/corn/) [from](/en/post/from/) [the](/en/post/the/) [field](/en/post/field/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) berries [need](/en/post/need/) [a](/en/post/a/) [few](/en/post/few/) [more](/en/post/more/) days [to](/en/post/to/) [ripen](/en/post/ripen/) [before](/en/post/before/) [we](/en/post/we/) [can](/en/post/can/) [pick](/en/post/pick/) [them](/en/post/them/)."
-- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) ideas [have](/en/post/have/) ripened [after](/en/post/after/) years [of](/en/post/of/) [experience](/en/post/experience/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [farmer](/post/farmer/) harvested [the](/post/the/) [perfectly](/post/perfectly/) [ripe](/post/ripe/) [corn](/post/corn/) [from](/post/from/) [the](/post/the/) [field](/post/field/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) berries [need](/post/need/) [a](/post/a/) [few](/post/few/) [more](/post/more/) days [to](/post/to/) [ripen](/post/ripen/) [before](/post/before/) [we](/post/we/) [can](/post/can/) [pick](/post/pick/) [them](/post/them/)."
+- **[Adjective](/post/adjective/)**: "[Her](/post/her/) ideas [have](/post/have/) ripened [after](/post/after/) years [of](/post/of/) [experience](/post/experience/)."
 
 ## Synonyms
-- [Mature](/en/post/mature/)
+- [Mature](/post/mature/)
 - Fully grown
-- [Ready](/en/post/ready/)
-- [Advanced](/en/post/advanced/)
+- [Ready](/post/ready/)
+- [Advanced](/post/advanced/)
 - Developed
 -臻于成熟
 
 ## Antonyms
 - Unripe
 - Immature
-- [Green](/en/post/green/)
-- Unripe ([as](/en/post/as/) [in](/en/post/in/) [fruit](/en/post/fruit/))
+- [Green](/post/green/)
+- Unripe ([as](/post/as/) [in](/post/in/) [fruit](/post/fruit/))
 - Undeveloped

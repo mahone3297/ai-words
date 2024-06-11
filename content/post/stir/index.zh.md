@@ -12,21 +12,21 @@ keywords = ['ai words', 'stir']
 
 ## 释义
 - **动词**:
-  - 搅拌，搅动：使（液体）混合或移动。例如: "[Stir](/post/stir/) [the](/post/the/) [soup](/post/soup/) [gently](/post/gently/) [to](/post/to/) [prevent](/post/prevent/) [it](/post/it/) [from](/post/from/) burning."
-  - 激发，引起：引发（感情、兴趣或反应）。例如: "[The](/post/the/) [speech](/post/speech/) stirred emotions [in](/post/in/) [the](/post/the/) [audience](/post/audience/)."
-  - 唤醒：使从睡眠状态中醒来。例如: "[The](/post/the/) [noise](/post/noise/) [outside](/post/outside/) stirred [her](/post/her/) [from](/post/from/) [her](/post/her/) [sleep](/post/sleep/)."
+  - 搅拌，搅动：使（液体）混合或移动。例如: "[Stir](/zh/post/stir/) [the](/zh/post/the/) [soup](/zh/post/soup/) [gently](/zh/post/gently/) [to](/zh/post/to/) [prevent](/zh/post/prevent/) [it](/zh/post/it/) [from](/zh/post/from/) burning."
+  - 激发，引起：引发（感情、兴趣或反应）。例如: "[The](/zh/post/the/) [speech](/zh/post/speech/) stirred emotions [in](/zh/post/in/) [the](/zh/post/the/) [audience](/zh/post/audience/)."
+  - 唤醒：使从睡眠状态中醒来。例如: "[The](/zh/post/the/) [noise](/zh/post/noise/) [outside](/zh/post/outside/) stirred [her](/zh/post/her/) [from](/zh/post/from/) [her](/zh/post/her/) [sleep](/zh/post/sleep/)."
 
 ## 短语
-- "[Stir](/post/stir/) [up](/post/up/)" 意味着激起或煽动。例如: "[Their](/post/their/) actions stirred [up](/post/up/) controversy."
-- "[Stir](/post/stir/) [something](/post/something/) [in](/post/in/)" 表示将某个成分加入并混合。例如: "[Stir](/post/stir/) [the](/post/the/) [sugar](/post/sugar/) [into](/post/into/) [the](/post/the/) [coffee](/post/coffee/)."
+- "[Stir](/zh/post/stir/) [up](/zh/post/up/)" 意味着激起或煽动。例如: "[Their](/zh/post/their/) actions stirred [up](/zh/post/up/) controversy."
+- "[Stir](/zh/post/stir/) [something](/zh/post/something/) [in](/zh/post/in/)" 表示将某个成分加入并混合。例如: "[Stir](/zh/post/stir/) [the](/zh/post/the/) [sugar](/zh/post/sugar/) [into](/zh/post/into/) [the](/zh/post/the/) [coffee](/zh/post/coffee/)."
 
 ## 例句
-- 动词: "[She](/post/she/) stirred [the](/post/the/) batter [until](/post/until/) [it](/post/it/) was [well](/post/well/) combined."
-- 激发： "[His](/post/his/) words stirred [a](/post/a/) [desire](/post/desire/) [for](/post/for/) [change](/post/change/) [in](/post/in/) [many](/post/many/) [people](/post/people/)."
+- 动词: "[She](/zh/post/she/) stirred [the](/zh/post/the/) batter [until](/zh/post/until/) [it](/zh/post/it/) was [well](/zh/post/well/) combined."
+- 激发： "[His](/zh/post/his/) words stirred [a](/zh/post/a/) [desire](/zh/post/desire/) [for](/zh/post/for/) [change](/zh/post/change/) [in](/zh/post/in/) [many](/zh/post/many/) [people](/zh/post/people/)."
 
 ## 同义词
-- [Mix](/post/mix/)
+- [Mix](/zh/post/mix/)
 - Agitate
-- [Blend](/post/blend/)
+- [Blend](/zh/post/blend/)
 - Whisk
-- Shuffle ([when](/post/when/) referring [to](/post/to/) emotions [or](/post/or/) [interest](/post/interest/))
+- Shuffle ([when](/zh/post/when/) referring [to](/zh/post/to/) emotions [or](/zh/post/or/) [interest](/zh/post/interest/))

@@ -12,22 +12,22 @@ keywords = ['ai words', 'refuse']
 
 ## 释义
 - **动词**:
-  - 拒绝接受或采纳。例如: "[She](/post/she/) refused [his](/post/his/) [offer](/post/offer/) [to](/post/to/) [help](/post/help/)."
-  - 不愿意做或不同意。例如: "I [refuse](/post/refuse/) [to](/post/to/) [believe](/post/believe/) that's [true](/post/true/)."
-  - 回绝邀请或提议。例如: "[They](/post/they/) politely refused [the](/post/the/) [invitation](/post/invitation/) [to](/post/to/) [the](/post/the/) [dinner](/post/dinner/)."
+  - 拒绝接受或采纳。例如: "[She](/zh/post/she/) refused [his](/zh/post/his/) [offer](/zh/post/offer/) [to](/zh/post/to/) [help](/zh/post/help/)."
+  - 不愿意做或不同意。例如: "I [refuse](/zh/post/refuse/) [to](/zh/post/to/) [believe](/zh/post/believe/) that's [true](/zh/post/true/)."
+  - 回绝邀请或提议。例如: "[They](/zh/post/they/) politely refused [the](/zh/post/the/) [invitation](/zh/post/invitation/) [to](/zh/post/to/) [the](/zh/post/the/) [dinner](/zh/post/dinner/)."
 
 ## 短语
-- "[refuse](/post/refuse/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" 意为决定不做某事。
-- "[refusal](/post/refusal/)" 是 "[refuse](/post/refuse/)" 的名词形式，表示拒绝或不接受的行为。
+- "[refuse](/zh/post/refuse/) [to](/zh/post/to/) [do](/zh/post/do/) [something](/zh/post/something/)" 意为决定不做某事。
+- "[refusal](/zh/post/refusal/)" 是 "[refuse](/zh/post/refuse/)" 的名词形式，表示拒绝或不接受的行为。
 
 ## 例句
-- "[He](/post/he/) refused [to](/post/to/) [answer](/post/answer/) [any](/post/any/) [more](/post/more/) questions [from](/post/from/) [the](/post/the/) reporters."
-- "[She](/post/she/) felt [hurt](/post/hurt/) [when](/post/when/) [her](/post/her/) [friend](/post/friend/) refused [her](/post/her/) [invitation](/post/invitation/) [to](/post/to/) [the](/post/the/) [wedding](/post/wedding/)."
-- "[Their](/post/their/) [refusal](/post/refusal/) [to](/post/to/) [compromise](/post/compromise/) led [to](/post/to/) [the](/post/the/) breakdown [of](/post/of/) [the](/post/the/) negotiations."
+- "[He](/zh/post/he/) refused [to](/zh/post/to/) [answer](/zh/post/answer/) [any](/zh/post/any/) [more](/zh/post/more/) questions [from](/zh/post/from/) [the](/zh/post/the/) reporters."
+- "[She](/zh/post/she/) felt [hurt](/zh/post/hurt/) [when](/zh/post/when/) [her](/zh/post/her/) [friend](/zh/post/friend/) refused [her](/zh/post/her/) [invitation](/zh/post/invitation/) [to](/zh/post/to/) [the](/zh/post/the/) [wedding](/zh/post/wedding/)."
+- "[Their](/zh/post/their/) [refusal](/zh/post/refusal/) [to](/zh/post/to/) [compromise](/zh/post/compromise/) led [to](/zh/post/to/) [the](/zh/post/the/) breakdown [of](/zh/post/of/) [the](/zh/post/the/) negotiations."
 
 ## 同义词
 - decline
-- [reject](/post/reject/)
-- [turn](/post/turn/) [down](/post/down/)
-- decline [to](/post/to/) [accept](/post/accept/)
-- decline an [offer](/post/offer/)
+- [reject](/zh/post/reject/)
+- [turn](/zh/post/turn/) [down](/zh/post/down/)
+- decline [to](/zh/post/to/) [accept](/zh/post/accept/)
+- decline an [offer](/zh/post/offer/)

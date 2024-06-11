@@ -7,27 +7,27 @@ description = '[ˈ∫iliŋ] n.先令'
 keywords = ['ai words', 'shilling']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /ˈʃɪlɪŋ/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [In](/en/post/in/) British [and](/en/post/and/) [historical](/en/post/historical/) [American](/en/post/american/) English, [a](/en/post/a/) [former](/en/post/former/) [unit](/en/post/unit/) [of](/en/post/of/) currency, [equal](/en/post/equal/) [to](/en/post/to/) 1/20 [of](/en/post/of/) [a](/en/post/a/) [pound](/en/post/pound/) ([or](/en/post/or/) 12 [old](/en/post/old/) pence). [Now](/en/post/now/) [largely](/en/post/largely/) replaced [by](/en/post/by/) [the](/en/post/the/) [pound](/en/post/pound/), [but](/en/post/but/) [still](/en/post/still/) [used](/en/post/used/) informally [or](/en/post/or/) [in](/en/post/in/) [certain](/en/post/certain/) contexts. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) antique [shop](/en/post/shop/) had [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) vintage shillings."
-- **[Adjective](/en/post/adjective/)**: Referring [to](/en/post/to/) [something](/en/post/something/) priced [in](/en/post/in/) shillings, [especially](/en/post/especially/) [in](/en/post/in/) [the](/en/post/the/) [past](/en/post/past/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [shilling](/en/post/shilling/) [coin](/en/post/coin/) was intricately designed."
+- **[Noun](/post/noun/)**: [In](/post/in/) British [and](/post/and/) [historical](/post/historical/) [American](/post/american/) English, [a](/post/a/) [former](/post/former/) [unit](/post/unit/) [of](/post/of/) currency, [equal](/post/equal/) [to](/post/to/) 1/20 [of](/post/of/) [a](/post/a/) [pound](/post/pound/) ([or](/post/or/) 12 [old](/post/old/) pence). [Now](/post/now/) [largely](/post/largely/) replaced [by](/post/by/) [the](/post/the/) [pound](/post/pound/), [but](/post/but/) [still](/post/still/) [used](/post/used/) informally [or](/post/or/) [in](/post/in/) [certain](/post/certain/) contexts. [For](/post/for/) [example](/post/example/): "[The](/post/the/) antique [shop](/post/shop/) had [a](/post/a/) [collection](/post/collection/) [of](/post/of/) vintage shillings."
+- **[Adjective](/post/adjective/)**: Referring [to](/post/to/) [something](/post/something/) priced [in](/post/in/) shillings, [especially](/post/especially/) [in](/post/in/) [the](/post/the/) [past](/post/past/). [For](/post/for/) [example](/post/example/): "[The](/post/the/) [old](/post/old/) [shilling](/post/shilling/) [coin](/post/coin/) was intricately designed."
 
 ## Phrases
-- "Costing [a](/en/post/a/) [few](/en/post/few/) shillings" indicates [a](/en/post/a/) [relatively](/en/post/relatively/) [low](/en/post/low/) [price](/en/post/price/).
-- "[A](/en/post/a/) [shilling](/en/post/shilling/) [note](/en/post/note/)" referred [to](/en/post/to/) [a](/en/post/a/) banknote [worth](/en/post/worth/) [a](/en/post/a/) [shilling](/en/post/shilling/).
-- "[Shilling](/en/post/shilling/) [change](/en/post/change/)" meant [small](/en/post/small/) coins [or](/en/post/or/) currency.
+- "Costing [a](/post/a/) [few](/post/few/) shillings" indicates [a](/post/a/) [relatively](/post/relatively/) [low](/post/low/) [price](/post/price/).
+- "[A](/post/a/) [shilling](/post/shilling/) [note](/post/note/)" referred [to](/post/to/) [a](/post/a/) banknote [worth](/post/worth/) [a](/post/a/) [shilling](/post/shilling/).
+- "[Shilling](/post/shilling/) [change](/post/change/)" meant [small](/post/small/) coins [or](/post/or/) currency.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) collector had [a](/en/post/a/) [rare](/en/post/rare/) [shilling](/en/post/shilling/) [from](/en/post/from/) [the](/en/post/the/) Victorian [era](/en/post/era/)."
-- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [book](/en/post/book/) was [still](/en/post/still/) [available](/en/post/available/) [for](/en/post/for/) [a](/en/post/a/) [shilling](/en/post/shilling/) [at](/en/post/at/) [the](/en/post/the/) [charity](/en/post/charity/) [sale](/en/post/sale/)."
-- "I [found](/en/post/found/) [some](/en/post/some/) [shilling](/en/post/shilling/) coins [in](/en/post/in/) [my](/en/post/my/) grandmother's attic."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) collector had [a](/post/a/) [rare](/post/rare/) [shilling](/post/shilling/) [from](/post/from/) [the](/post/the/) Victorian [era](/post/era/)."
+- **[Adjective](/post/adjective/)**: "[The](/post/the/) [old](/post/old/) [book](/post/book/) was [still](/post/still/) [available](/post/available/) [for](/post/for/) [a](/post/a/) [shilling](/post/shilling/) [at](/post/at/) [the](/post/the/) [charity](/post/charity/) [sale](/post/sale/)."
+- "I [found](/post/found/) [some](/post/some/) [shilling](/post/shilling/) coins [in](/post/in/) [my](/post/my/) grandmother's attic."
 
 ## Synonyms
-- [Penny](/en/post/penny/) (informal, UK)
-- Halfpenny ([historical](/en/post/historical/), UK)
-- Farthing ([historical](/en/post/historical/), UK)
-- [Old](/en/post/old/) [penny](/en/post/penny/) (informal, [US](/en/post/us/))
+- [Penny](/post/penny/) (informal, UK)
+- Halfpenny ([historical](/post/historical/), UK)
+- Farthing ([historical](/post/historical/), UK)
+- [Old](/post/old/) [penny](/post/penny/) (informal, [US](/post/us/))
 
-[Note](/en/post/note/): [The](/en/post/the/) [usage](/en/post/usage/) [of](/en/post/of/) "[shilling](/en/post/shilling/)" [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) has [largely](/en/post/largely/) [become](/en/post/become/) obsolete, [and](/en/post/and/) [its](/en/post/its/) adjectival [use](/en/post/use/) is [now](/en/post/now/) [mostly](/en/post/mostly/) [historical](/en/post/historical/) [or](/en/post/or/) [in](/en/post/in/) [specific](/en/post/specific/) contexts. [In](/en/post/in/) [modern](/en/post/modern/) times, [it](/en/post/it/) [would](/en/post/would/) [be](/en/post/be/) [more](/en/post/more/) [common](/en/post/common/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [these](/en/post/these/) values [in](/en/post/in/) terms [of](/en/post/of/) pounds [or](/en/post/or/) pence.
+[Note](/post/note/): [The](/post/the/) [usage](/post/usage/) [of](/post/of/) "[shilling](/post/shilling/)" [as](/post/as/) [a](/post/a/) [noun](/post/noun/) has [largely](/post/largely/) [become](/post/become/) obsolete, [and](/post/and/) [its](/post/its/) adjectival [use](/post/use/) is [now](/post/now/) [mostly](/post/mostly/) [historical](/post/historical/) [or](/post/or/) [in](/post/in/) [specific](/post/specific/) contexts. [In](/post/in/) [modern](/post/modern/) times, [it](/post/it/) [would](/post/would/) [be](/post/be/) [more](/post/more/) [common](/post/common/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [these](/post/these/) values [in](/post/in/) terms [of](/post/of/) pounds [or](/post/or/) pence.

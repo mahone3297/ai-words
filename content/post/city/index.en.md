@@ -7,35 +7,35 @@ description = '[ˈsiti] n.城市，都市'
 keywords = ['ai words', 'city']
 +++
 
-## [Pronunciation](/en/post/pronunciation/)
+## [Pronunciation](/post/pronunciation/)
 /cɪˈti/
 
 ## Definitions
-- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/) [and](/en/post/and/) [usually](/en/post/usually/) densely populated urban [area](/en/post/area/) [with](/en/post/with/) infrastructure, [government](/en/post/government/), [and](/en/post/and/) [economic](/en/post/economic/) activities. [Example](/en/post/example/): "[New](/en/post/new/) York [City](/en/post/city/) is [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) largest cities [in](/en/post/in/) [the](/en/post/the/) [world](/en/post/world/)."
-- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [found](/en/post/found/) [or](/en/post/or/) [establish](/en/post/establish/) [a](/en/post/a/) [city](/en/post/city/). [Example](/en/post/example/): "[They](/en/post/they/) planned [to](/en/post/to/) [city](/en/post/city/) [a](/en/post/a/) [new](/en/post/new/) [community](/en/post/community/) [in](/en/post/in/) [the](/en/post/the/) [countryside](/en/post/countryside/)."
-- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [city](/en/post/city/), urban, [or](/en/post/or/) having [a](/en/post/a/) [city](/en/post/city/) lifestyle. [Example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) [life](/en/post/life/) [can](/en/post/can/) [be](/en/post/be/) fast-paced [and](/en/post/and/) [exciting](/en/post/exciting/)."
+- **[Noun](/post/noun/)**: [A](/post/a/) [large](/post/large/) [and](/post/and/) [usually](/post/usually/) densely populated urban [area](/post/area/) [with](/post/with/) infrastructure, [government](/post/government/), [and](/post/and/) [economic](/post/economic/) activities. [Example](/post/example/): "[New](/post/new/) York [City](/post/city/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) largest cities [in](/post/in/) [the](/post/the/) [world](/post/world/)."
+- **[Verb](/post/verb/)**: [To](/post/to/) [found](/post/found/) [or](/post/or/) [establish](/post/establish/) [a](/post/a/) [city](/post/city/). [Example](/post/example/): "[They](/post/they/) planned [to](/post/to/) [city](/post/city/) [a](/post/a/) [new](/post/new/) [community](/post/community/) [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/)."
+- **[Adjective](/post/adjective/)**: [Characteristic](/post/characteristic/) [of](/post/of/) [a](/post/a/) [city](/post/city/), urban, [or](/post/or/) having [a](/post/a/) [city](/post/city/) lifestyle. [Example](/post/example/): "[The](/post/the/) [city](/post/city/) [life](/post/life/) [can](/post/can/) [be](/post/be/) fast-paced [and](/post/and/) [exciting](/post/exciting/)."
 
 ## Phrases
-- "Metropolitan [area](/en/post/area/)" refers [to](/en/post/to/) [a](/en/post/a/) [region](/en/post/region/) surrounding [a](/en/post/a/) [major](/en/post/major/) [city](/en/post/city/).
-- "[City](/en/post/city/) center" is [the](/en/post/the/) [central](/en/post/central/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [city](/en/post/city/), typically [with](/en/post/with/) [commercial](/en/post/commercial/) [and](/en/post/and/) cultural landmarks.
-- "Urban sprawl" describes [the](/en/post/the/) uncontrolled [expansion](/en/post/expansion/) [of](/en/post/of/) [a](/en/post/a/) [city](/en/post/city/) [into](/en/post/into/) surrounding areas.
+- "Metropolitan [area](/post/area/)" refers [to](/post/to/) [a](/post/a/) [region](/post/region/) surrounding [a](/post/a/) [major](/post/major/) [city](/post/city/).
+- "[City](/post/city/) center" is [the](/post/the/) [central](/post/central/) [part](/post/part/) [of](/post/of/) [a](/post/a/) [city](/post/city/), typically [with](/post/with/) [commercial](/post/commercial/) [and](/post/and/) cultural landmarks.
+- "Urban sprawl" describes [the](/post/the/) uncontrolled [expansion](/post/expansion/) [of](/post/of/) [a](/post/a/) [city](/post/city/) [into](/post/into/) surrounding areas.
 
-## [Example](/en/post/example/) Sentences
-- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [city](/en/post/city/) skyline was lit [up](/en/post/up/) [with](/en/post/with/) colorful lights [at](/en/post/at/) [night](/en/post/night/)."
-- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) founding [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/) dates [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) 17th [century](/en/post/century/)."
-- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) loves [the](/en/post/the/) city's vibrant [art](/en/post/art/) [scene](/en/post/scene/)."
+## [Example](/post/example/) Sentences
+- **[Noun](/post/noun/)**: "[The](/post/the/) [city](/post/city/) skyline was lit [up](/post/up/) [with](/post/with/) colorful lights [at](/post/at/) [night](/post/night/)."
+- **[Verb](/post/verb/)**: "[The](/post/the/) founding [of](/post/of/) [the](/post/the/) [city](/post/city/) dates [back](/post/back/) [to](/post/to/) [the](/post/the/) 17th [century](/post/century/)."
+- **[Adjective](/post/adjective/)**: "[She](/post/she/) loves [the](/post/the/) city's vibrant [art](/post/art/) [scene](/post/scene/)."
 
 ## Synonyms
-- [Town](/en/post/town/)
+- [Town](/post/town/)
 - Borough
 - Municipality
 - Urban center
-- Megalopolis ([large](/en/post/large/) [continuous](/en/post/continuous/) urban [area](/en/post/area/))
+- Megalopolis ([large](/post/large/) [continuous](/post/continuous/) urban [area](/post/area/))
 - Metropolis
 
 ## Antonyms
-- [Rural](/en/post/rural/)
-- [Countryside](/en/post/countryside/)
-- [Suburb](/en/post/suburb/)
-- [Village](/en/post/village/)
+- [Rural](/post/rural/)
+- [Countryside](/post/countryside/)
+- [Suburb](/post/suburb/)
+- [Village](/post/village/)
 - Hamlet
