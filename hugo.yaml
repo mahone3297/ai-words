@@ -22,15 +22,15 @@ theme: 'hugo-theme-stack'
 paginate: 20
 
 menus:
-  social:
+  # social:
     # - name: twitter
     #   url: https://twitter.com/mahone3297/
     #   params:
     #       icon: brand-twitter
-    - name: github
-      url: https://github.com/mahone3297/ai-words/
-      params:
-          icon: brand-github
+    # - name: github
+    #   url: https://github.com/mahone3297/ai-words/
+    #   params:
+    #       icon: brand-github
   main:
     - name: About
       url: /about/
