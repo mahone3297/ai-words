@@ -8,14 +8,14 @@ languages:
     # languageCode: ""
     # languageDirection: ""
     languageName: "中文"
-    title: "AI 单词 - 从零开始学AI"
+    title: "AI 单词 - 用AI帮助你学习单词"
     weight: 1
   en:
     disabled: false
     # languageCode: ""
     # languageDirection: ""
     languageName: "English"
-    title: "AI words - Learn AI from scratch"
+    title: "AI words - help you learn words with AI"
     weight: 2
 # theme: "dictionary"
 theme: 'hugo-theme-stack'
@@ -56,7 +56,7 @@ params:
   sidebar:
       compact: true
       # emoji: 🍥
-      subtitle: Follow me, AI with you.
+      # subtitle: AI words - help you learn words with AI
       avatar:
           enabled: true
           local: true
@@ -66,19 +66,19 @@ params:
     toc: true
     readingTime: false
   widgets:
-    homepage:
-      - type: search
+    # homepage:
+      # - type: search
       # - type: archives
       #   params:
       #     limit: 5
-      - type: categories
-        params:
-          limit: 20
-      - type: tag-cloud
-        params:
-          limit: 20
+      # - type: categories
+      #   params:
+      #     limit: 20
+      # - type: tag-cloud
+      #   params:
+      #     limit: 20
     page:
-      - type: search
+      # - type: search
       - type: toc
 
 markup:
