@@ -11,6 +11,7 @@ keywords = ['AI', 'ai words', 'ai dictionary']
 ## 待办
 
 - [ ] 搜索框
+- [ ] 单词加AI图片
 - [ ] 鼠标移到单词上时弹出卡片
 - [ ] 单词发音
 
