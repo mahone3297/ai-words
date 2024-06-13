@@ -1,6 +1,6 @@
 {
     "framework": "hugo",
     "installCommand": "git submodule update --init --recursive",
-    "buildCommand": "hugo --buildDrafts --gc",
+    "buildCommand": "hugo --buildDrafts --gc --templateMetrics --templateMetricsHints",
     "outputDirectory": "public"
 }
