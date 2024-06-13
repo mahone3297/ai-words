@@ -67,7 +67,7 @@ params:
     readingTime: false
   widgets:
     homepage:
-      # - type: search
+      - type: search
       # - type: archives
       #   params:
       #     limit: 5
@@ -78,6 +78,7 @@ params:
         params:
           limit: 20
     page:
+      - type: search
       - type: toc
 
 markup:
