@@ -1,0 +1,37 @@
+<div class="flex justify-center mt-4">
+    <form action="" method="get" class="w-full max-w-lg" onsubmit="return search(event)">
+      <div class="flex items-center border-b border-teal-500 py-2">
+        <input id="search-input" class="appearance-none bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none" type="text" placeholder="Search..." aria-label="Search">
+        <button class="flex-shrink-0 bg-teal-500 hover:bg-teal-700 border-teal-500 hover:border-teal-700 text-sm border-4 text-white py-1 px-2 rounded" type="submit">
+          Search
+        </button>
+      </div>
+    </form>
+  </div>
+  <!-- <script src="https://cdn.tailwindcss.com"></script> -->
+  <script>
+    var baseURL = "{{ .Site.BaseURL }}";
+    var currentLang = "{{ .Lang }}";
+  
+    function search(event) {
+      event.preventDefault();
+      var query = document.getElementById('search-input').value;
+      
+      // 根据当前语言设置搜索 URL
+      var url;
+      if (query.trim() === "") {
+        alert("Please enter a search query.");
+        return false;
+      }
+      
+      if (currentLang === 'zh') {
+        url = baseURL + '/zh/post/' + encodeURIComponent(query) + '/';
+      } else {
+        url = baseURL + '/post/' + encodeURIComponent(query) + '/';
+      }
+      
+      window.open(url, '_blank');
+      return false;
+    }
+  </script>
+  
