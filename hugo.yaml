@@ -28,7 +28,7 @@ menus:
     #   params:
     #       icon: brand-twitter
     # - name: github
-    #   url: https://github.com/mahone3297/ai-words/
+    #   url: https://github.com/mahone3297/
     #   params:
     #       icon: brand-github
   main:
@@ -80,6 +80,9 @@ params:
     page:
       # - type: search
       - type: toc
+  footer:
+      since: 2024
+      customText:
 
 markup:
     goldmark:
