@@ -1,4 +1,4 @@
 rm -r public/
 echo "public folder removed"
 
-hugo server
+hugo server --templateMetrics --templateMetricsHints
